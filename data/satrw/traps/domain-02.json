@@ -1,0 +1,4226 @@
+[
+  {
+    "id": "satrw-d2-t2.1-trap-0001",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Officials hoped the seawall would mitigate flooding during spring tides, though they admitted it would not eliminate risk.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"mitigate\" most nearly means",
+    "options": {
+      "A": "reduce the severity of",
+      "B": "worsen deliberately",
+      "C": "celebrate publicly in practice",
+      "D": "translate literally"
+    },
+    "correct": "A",
+    "explanation": "Context supports \"reduce the severity of\". The tempting distractor (\"worsen deliberately\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "science",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_polarity",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"worsen deliberately\" can feel related to \"mitigate\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scientific_method",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0002",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The final chart seemed to underscore the report's warning: hospitalizations rose even as testing fell.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"underscore\" most nearly means",
+    "options": {
+      "A": "ignore entirely",
+      "B": "emphasize",
+      "C": "sing softly",
+      "D": "conceal carefully"
+    },
+    "correct": "B",
+    "explanation": "Context supports \"emphasize\". The tempting distractor (\"conceal carefully\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_register",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "\"conceal carefully\" can feel related to \"underscore\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0003",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Their alliance was tenuous, held together by a single shared vote rather than a common program.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"tenuous\" most nearly means",
+    "options": {
+      "A": "legally required",
+      "B": "rock-solid",
+      "C": "weak or slight",
+      "D": "brightly colored"
+    },
+    "correct": "C",
+    "explanation": "Context supports \"weak or slight\". The tempting distractor (\"rock-solid\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "history",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"rock-solid\" can feel related to \"tenuous\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikisource.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0004",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "New footnotes bolster the biography's claim by citing letters the first edition missed.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"bolster\" most nearly means",
+    "options": {
+      "A": "weaken secretly",
+      "B": "translate poorly",
+      "C": "paint over as presented here",
+      "D": "strengthen or support"
+    },
+    "correct": "D",
+    "explanation": "Context supports \"strengthen or support\". The tempting distractor (\"weaken secretly\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "humanities",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "\"weaken secretly\" can feel related to \"bolster\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Rhetoric",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rhetoric",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0005",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The contract's fee schedule was opaque, burying costs in footnotes few clients read.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"opaque\" most nearly means",
+    "options": {
+      "A": "hard to understand or see through",
+      "B": "perfectly clear in practice",
+      "C": "musically bright for readers",
+      "D": "edible under the circumstances"
+    },
+    "correct": "A",
+    "explanation": "Context supports \"hard to understand or see through\". The tempting distractor (\"perfectly clear\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"perfectly clear\" can feel related to \"opaque\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0006",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Street murals here are ephemeral; rain and new paint replace them within months.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"ephemeral\" most nearly means",
+    "options": {
+      "A": "metallic in practice",
+      "B": "lasting a very short time",
+      "C": "underground in this case",
+      "D": "permanent for readers"
+    },
+    "correct": "B",
+    "explanation": "Context supports \"lasting a very short time\". The tempting distractor (\"permanent\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "humanities",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_polarity",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "\"permanent\" can feel related to \"ephemeral\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Rhetoric",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rhetoric",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0007",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "A second lab was asked to corroborate the finding before the journal would accept the paper.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"corroborate\" most nearly means",
+    "options": {
+      "A": "tax heavily in this case",
+      "B": "contradict outright as presented here",
+      "C": "confirm with supporting evidence",
+      "D": "sing about for readers"
+    },
+    "correct": "C",
+    "explanation": "Context supports \"confirm with supporting evidence\". The tempting distractor (\"contradict outright\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "science",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_register",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"contradict outright\" can feel related to \"corroborate\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scientific_method",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0008",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "She felt ambivalent about leaving: relieved to go, guilty about the team remaining.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"ambivalent\" most nearly means",
+    "options": {
+      "A": "entirely certain",
+      "B": "asleep in this case",
+      "C": "fluorescent as presented here",
+      "D": "having mixed feelings"
+    },
+    "correct": "D",
+    "explanation": "Context supports \"having mixed feelings\". The tempting distractor (\"entirely certain\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "literature",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "\"entirely certain\" can feel related to \"ambivalent\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikipedia.org/wiki/Narration"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0009",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Once the API was public, third-party tools began to proliferate across developer forums.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"proliferate\" most nearly means",
+    "options": {
+      "A": "increase rapidly in number",
+      "B": "vanish suddenly",
+      "C": "stay constant by law",
+      "D": "freeze solid as presented here"
+    },
+    "correct": "A",
+    "explanation": "Context supports \"increase rapidly in number\". The tempting distractor (\"vanish suddenly\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "science",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_polarity",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"vanish suddenly\" can feel related to \"proliferate\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scientific_method",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0010",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The chapel's interior is austere: white walls, clear glass, and no gilding.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"austere\" most nearly means",
+    "options": {
+      "A": "sweet-tasting",
+      "B": "severely simple",
+      "C": "illegal",
+      "D": "ornately decorated"
+    },
+    "correct": "B",
+    "explanation": "Context supports \"severely simple\". The tempting distractor (\"ornately decorated\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "humanities",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_register",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "\"ornately decorated\" can feel related to \"austere\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Rhetoric",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rhetoric",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0011",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The recovered emails seemed to vindicate the whistleblower, matching her timeline exactly.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"vindicate\" most nearly means",
+    "options": {
+      "A": "paint blue in practice",
+      "B": "accuse publicly in this case",
+      "C": "clear from blame or justify",
+      "D": "ignore quietly for readers"
+    },
+    "correct": "C",
+    "explanation": "Context supports \"clear from blame or justify\". The tempting distractor (\"accuse publicly\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "history",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"accuse publicly\" can feel related to \"vindicate\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikisource.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0012",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "His explanation was circuitous, circling through anecdotes before reaching the point.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"circuitous\" most nearly means",
+    "options": {
+      "A": "perfectly direct as presented here",
+      "B": "silent for readers",
+      "C": "edible in this case",
+      "D": "indirect and longer than necessary"
+    },
+    "correct": "D",
+    "explanation": "Context supports \"indirect and longer than necessary\". The tempting distractor (\"perfectly direct\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "literature",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "\"perfectly direct\" can feel related to \"circuitous\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikipedia.org/wiki/Narration"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0013",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Among many objections, one was salient: the plan ignored winter maintenance costs.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"salient\" most nearly means",
+    "options": {
+      "A": "most noticeable or important",
+      "B": "irrelevant as presented here",
+      "C": "inaudible in this case",
+      "D": "underground"
+    },
+    "correct": "A",
+    "explanation": "Context supports \"most noticeable or important\". The tempting distractor (\"irrelevant\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"irrelevant\" can feel related to \"salient\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0014",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Neon is largely inert, which is why it can fill tubes without corroding electrodes.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"inert\" most nearly means",
+    "options": {
+      "A": "musical as presented here",
+      "B": "not chemically reactive / inactive",
+      "C": "transparent only",
+      "D": "highly reactive under the circumstances"
+    },
+    "correct": "B",
+    "explanation": "Context supports \"not chemically reactive / inactive\". The tempting distractor (\"highly reactive\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "science",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_polarity",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "\"highly reactive\" can feel related to \"inert\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scientific_method",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0015",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The memoir is reticent about childhood, offering scenes without commentary.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"reticent\" most nearly means",
+    "options": {
+      "A": "airborne under the circumstances",
+      "B": "openly confessional for readers",
+      "C": "not revealing one's thoughts readily",
+      "D": "fluorescent in practice"
+    },
+    "correct": "C",
+    "explanation": "Context supports \"not revealing one's thoughts readily\". The tempting distractor (\"openly confessional\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "literature",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_register",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"openly confessional\" can feel related to \"reticent\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikipedia.org/wiki/Narration"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0016",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The path made a precipitous descent to the creek, forcing hikers to sidestep loose gravel.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"precipitous\" most nearly means",
+    "options": {
+      "A": "gradual and gentle in this case",
+      "B": "purple in practice",
+      "C": "notarized for readers",
+      "D": "dangerously steep or sudden"
+    },
+    "correct": "D",
+    "explanation": "Context supports \"dangerously steep or sudden\". The tempting distractor (\"gradual and gentle\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "science",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "\"gradual and gentle\" can feel related to \"precipitous\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scientific_method",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0017",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "By mid-decade the logo was ubiquitous on campus, appearing on bottles, banners, and apps.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"ubiquitous\" most nearly means",
+    "options": {
+      "A": "found everywhere",
+      "B": "extremely rare",
+      "C": "edible only",
+      "D": "classified secret"
+    },
+    "correct": "A",
+    "explanation": "Context supports \"found everywhere\". The tempting distractor (\"extremely rare\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_polarity",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"extremely rare\" can feel related to \"ubiquitous\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0018",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "The zoning vote was contentious, splitting the board along neighborhood lines.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"contentious\" most nearly means",
+    "options": {
+      "A": "invisible",
+      "B": "causing disagreement",
+      "C": "sweet",
+      "D": "universally soothing"
+    },
+    "correct": "B",
+    "explanation": "Context supports \"causing disagreement\". The tempting distractor (\"universally soothing\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "history",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_register",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "\"universally soothing\" can feel related to \"contentious\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikisource.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0019",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Her meticulous annotations marked every variant spelling in the manuscript.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"meticulous\" most nearly means",
+    "options": {
+      "A": "illegal under the circumstances",
+      "B": "carelessly sloppy",
+      "C": "extremely careful about details",
+      "D": "loud as presented here"
+    },
+    "correct": "C",
+    "explanation": "Context supports \"extremely careful about details\". The tempting distractor (\"carelessly sloppy\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "humanities",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"carelessly sloppy\" can feel related to \"meticulous\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Rhetoric",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rhetoric",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0020",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The alibi sounded plausible until investigators noticed the timestamp on the receipt.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"plausible\" most nearly means",
+    "options": {
+      "A": "obviously impossible",
+      "B": "fluorescent",
+      "C": "edible",
+      "D": "seemingly reasonable"
+    },
+    "correct": "D",
+    "explanation": "Context supports \"seemingly reasonable\". The tempting distractor (\"obviously impossible\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "literature",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "\"obviously impossible\" can feel related to \"plausible\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikipedia.org/wiki/Narration"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0021",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The speaker's tone grew curt as the hearing continued, each answer shorter than the last.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"curt\" most nearly means",
+    "options": {
+      "A": "rudely brief",
+      "B": "warmly expansive",
+      "C": "musically ornate",
+      "D": "legally binding"
+    },
+    "correct": "A",
+    "explanation": "Context supports \"rudely brief\". The tempting distractor (\"warmly expansive\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "\"warmly expansive\" can feel related to \"curt\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.1-trap-0022",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.1",
+    "topic_title": "Words in Context",
+    "learning_objective": "Determine the meaning of words/phrases in context.",
+    "skill": "Words in Context",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "What seemed like chaos in the market was actually patterned: vendors occupied the same spots each week.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "As used in the text, \"patterned\" most nearly means",
+    "options": {
+      "A": "newly illegal in this case",
+      "B": "organized according to a repeating order",
+      "C": "painted blue for readers",
+      "D": "entirely random as presented here"
+    },
+    "correct": "B",
+    "explanation": "Context supports \"organized according to a repeating order\". The tempting distractor (\"entirely random\") is a common trap when students ignore polarity/register.",
+    "distractor_notes": {
+      "A": "Trap or mismatch.",
+      "B": "Trap or mismatch.",
+      "C": "Trap or mismatch.",
+      "D": "Trap or mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.1",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "wrong_polarity",
+      "trap_description": "Students pick a familiar synonym that ignores contextual polarity or register.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "\"entirely random\" can feel related to \"patterned\" in isolation, but surrounding clues point another way.",
+      "how_to_avoid": "Substitute each option into the sentence and check tone and logic clues nearby."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0001",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Researchers studying urban sparrows compared birds nesting near highways with those in quiet parks. Highway nests fledged fewer chicks, but adults returned to the same ledges year after year. The team concluded that familiarity with a site can outweigh short-term reproductive costs when alternative sites are scarce.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To compare two settings, report a counterintuitive pattern, then offer an explanation.",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To provide a complete legal verdict in a criminal case as presented here",
+      "D": "To teach long division with worked examples in this case under the circumstances"
+    },
+    "correct": "A",
+    "explanation": "The passage's organizing aim is: Compare two settings, report a counterintuitive pattern, then offer an explanation.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "science",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scientific_method",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0002",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "A lab tested whether brief cold exposure improves focus. Participants solved puzzles before and after three minutes in a chilled room. Scores rose slightly, but so did scores in a control group that simply waited in a normal room. The authors caution that expectation effects may explain the gains.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To provide a complete legal verdict in a criminal case under the circumstances",
+      "B": "To describe an experiment, report mixed results, and qualify the interpretation.",
+      "C": "To teach long division with worked examples as presented here in practice",
+      "D": "To entertain with a fictional story that has no informational purpose"
+    },
+    "correct": "B",
+    "explanation": "The passage's organizing aim is: Describe an experiment, report mixed results, and qualify the interpretation.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "science",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scientific_method",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0003",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Coral bleaching events once seemed rare. Satellite records now show that severe bleaching has become more frequent across multiple ocean basins within a single decade. Scientists argue that recovery windows between events are shrinking faster than many reef species can adapt.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To teach long division with worked examples",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To contrast past assumptions with new data and state an implication.",
+      "D": "To provide a complete legal verdict in a criminal case"
+    },
+    "correct": "C",
+    "explanation": "The passage's organizing aim is: Contrast past assumptions with new data and state an implication.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "science",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scientific_method",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0004",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The moss sample looked ordinary until technicians examined its spores under magnification. Unusual wall patterns matched a species thought extinct in the region for a century. Field teams returned to the collection site and found a small living colony on a shaded cliff.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To entertain with a fictional story that has no informational purpose",
+      "B": "To provide a complete legal verdict in a criminal case",
+      "C": "To teach long division with worked examples",
+      "D": "To move from discovery in the lab to confirmation in the field."
+    },
+    "correct": "D",
+    "explanation": "The passage's organizing aim is: Move from discovery in the lab to confirmation in the field.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "science",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scientific_method",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0005",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Engineers modeled flood risk for a coastal town using three sea-level scenarios. Under the moderate scenario, the historic district floods yearly by 2050; under the high scenario, evacuation routes are underwater during storms within two decades. Planners used the mid-range map for zoning hearings.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To present modeled scenarios and note which one decision-makers used.",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To provide a complete legal verdict in a criminal case",
+      "D": "To teach long division with worked examples"
+    },
+    "correct": "A",
+    "explanation": "The passage's organizing aim is: Present modeled scenarios and note which one decision-makers used.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "science",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scientific_method",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0006",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "In 1848, petitions flooded the legislature demanding shorter factory hours. Manufacturers answered with pamphlets claiming that reduced hours would close mills and idle whole towns. The resulting law was a compromise: a ten-hour day on paper, with exceptions that left enforcement uneven.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To provide a complete legal verdict in a criminal case",
+      "B": "To present a demand, a counterargument, and a compromise outcome.",
+      "C": "To teach long division with worked examples",
+      "D": "To entertain with a fictional story that has no informational purpose"
+    },
+    "correct": "B",
+    "explanation": "The passage's organizing aim is: Present a demand, a counterargument, and a compromise outcome.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "history",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikisource.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0007",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Travelers' accounts from the early 1800s praised the river town's markets. Tax rolls from the same years tell a quieter story: repeated defaults, abandoned lots, and a shrinking taxable base. Historians now treat the glowing letters as advertising as much as description.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To teach long division with worked examples as presented here",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To juxtapose colorful sources with drier records to revise a portrait.",
+      "D": "To provide a complete legal verdict in a criminal case under the circumstances"
+    },
+    "correct": "C",
+    "explanation": "The passage's organizing aim is: Juxtapose colorful sources with drier records to revise a portrait.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "history",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikisource.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0008",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The treaty's public articles promised free navigation. A secret annex, discovered decades later, reserved docking rights for one navy. Contemporary newspapers celebrated peace; modern scholars emphasize the annex when explaining later conflicts.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To entertain with a fictional story that has no informational purpose",
+      "B": "To provide a complete legal verdict in a criminal case in practice for readers",
+      "C": "To teach long division with worked examples under the circumstances",
+      "D": "To contrast public text with later-revealed terms and shifting interpretations."
+    },
+    "correct": "D",
+    "explanation": "The passage's organizing aim is: Contrast public text with later-revealed terms and shifting interpretations.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "history",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikisource.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0009",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "When the rail line finally reached the plateau, local grain prices fell within a season. Merchants who had controlled wagon freight protested, while farmers expanded acreage. The railroad company printed maps showing the town as a future hub—maps that outpaced actual sidings for years.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To trace economic effects and note promotional exaggeration.",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To provide a complete legal verdict in a criminal case",
+      "D": "To teach long division with worked examples"
+    },
+    "correct": "A",
+    "explanation": "The passage's organizing aim is: Trace economic effects and note promotional exaggeration.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "history",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikisource.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0010",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Oral histories collected in the 1930s remembered the strike as unified. Company payrolls show that skilled workers returned weeks before laborers did. The gap does not erase solidarity; it complicates any simple narrative of a single walkout.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To provide a complete legal verdict in a criminal case",
+      "B": "To use conflicting evidence to complicate a remembered narrative.",
+      "C": "To teach long division with worked examples",
+      "D": "To entertain with a fictional story that has no informational purpose"
+    },
+    "correct": "B",
+    "explanation": "The passage's organizing aim is: Use conflicting evidence to complicate a remembered narrative.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "history",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikisource.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0011",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The narrator insists she remembers every detail of the train platform, then admits she may be inventing the color of the suitcase. That admission does not weaken the scene; it teaches the reader how memory works in the novel—confident, then suddenly unsure.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To teach long division with worked examples in this case",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To show a narrator's self-correction and explain its artistic function.",
+      "D": "To provide a complete legal verdict in a criminal case as presented here"
+    },
+    "correct": "C",
+    "explanation": "The passage's organizing aim is: Show a narrator's self-correction and explain its artistic function.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "literature",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikipedia.org/wiki/Narration"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0012",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "In the opening chapter, guests praise the host's generosity while the servants exchange glances the guests never see. The novel's tension begins not with an argument but with that split between spoken courtesy and silent knowledge.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To entertain with a fictional story that has no informational purpose",
+      "B": "To provide a complete legal verdict in a criminal case",
+      "C": "To teach long division with worked examples",
+      "D": "To establish dramatic irony through contrasting social layers."
+    },
+    "correct": "D",
+    "explanation": "The passage's organizing aim is: Establish dramatic irony through contrasting social layers.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "literature",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikipedia.org/wiki/Narration"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0013",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The poem lists household objects—a kettle, a frayed towel, a chipped mug—before naming grief directly. By delaying the abstract noun, the speaker makes loss feel concrete rather than ceremonial.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To describe a structural delay that intensifies emotion.",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To provide a complete legal verdict in a criminal case",
+      "D": "To teach long division with worked examples"
+    },
+    "correct": "A",
+    "explanation": "The passage's organizing aim is: Describe a structural delay that intensifies emotion.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "literature",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikipedia.org/wiki/Narration"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0014",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Chapter five retells the picnic from the child's view, repeating facts the adult narrator already gave but noticing the ants and the sticky cup. The repetition is not redundancy; it measures how perspective changes what counts as important.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To provide a complete legal verdict in a criminal case",
+      "B": "To justify a retelling as a shift in focalization.",
+      "C": "To teach long division with worked examples",
+      "D": "To entertain with a fictional story that has no informational purpose"
+    },
+    "correct": "B",
+    "explanation": "The passage's organizing aim is: Justify a retelling as a shift in focalization.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "literature",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikipedia.org/wiki/Narration"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0015",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Dialogue in the play often trails into silence. Characters begin accusations and then look away. The unfinished sentences become the drama's true conflict: what cannot be said in that household.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To teach long division with worked examples",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To link a stylistic pattern (interrupted speech) to theme.",
+      "D": "To provide a complete legal verdict in a criminal case"
+    },
+    "correct": "C",
+    "explanation": "The passage's organizing aim is: Link a stylistic pattern (interrupted speech) to theme.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "literature",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://www.gutenberg.org",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://www.gutenberg.org",
+        "https://en.wikipedia.org/wiki/Narration"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0016",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The exhibition pairs seventeenth-century still lifes with contemporary photographs of grocery aisles. Wall text asks whether abundance looks different when it is painted for patrons or lit for advertisements. Visitors are not told which answer to prefer.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To entertain with a fictional story that has no informational purpose",
+      "B": "To provide a complete legal verdict in a criminal case",
+      "C": "To teach long division with worked examples",
+      "D": "To set up a comparative frame and leave judgment open."
+    },
+    "correct": "D",
+    "explanation": "The passage's organizing aim is: Set up a comparative frame and leave judgment open.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "humanities",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Rhetoric",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rhetoric",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0017",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Early reviewers called the symphony formless because it refused a heroic finale. Later critics heard the quiet ending as a structural argument against triumph-as-resolution. The score did not change; the listening culture did.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To show how critical frameworks reinterpret the same work.",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To provide a complete legal verdict in a criminal case",
+      "D": "To teach long division with worked examples"
+    },
+    "correct": "A",
+    "explanation": "The passage's organizing aim is: Show how critical frameworks reinterpret the same work.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "humanities",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Rhetoric",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rhetoric",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0018",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The essay opens with a cooking metaphor, then abandons it for legal history, then returns to the kitchen in the final paragraph. The return is not decoration; it tests whether the metaphor still holds after the historical digression.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To provide a complete legal verdict in a criminal case",
+      "B": "To track a metaphor across sections as a structural device.",
+      "C": "To teach long division with worked examples",
+      "D": "To entertain with a fictional story that has no informational purpose"
+    },
+    "correct": "B",
+    "explanation": "The passage's organizing aim is: Track a metaphor across sections as a structural device.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "humanities",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Rhetoric",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rhetoric",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0019",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Documentary filmmakers often face a choice: explain with voice-over or trust images and ambient sound. This film chooses sparse titles and long takes of waiting rooms. The structure argues that bureaucracy is experienced as delay.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To teach long division with worked examples",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To connect formal choices to an implied argument.",
+      "D": "To provide a complete legal verdict in a criminal case"
+    },
+    "correct": "C",
+    "explanation": "The passage's organizing aim is: Connect formal choices to an implied argument.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "humanities",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Rhetoric",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rhetoric",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0020",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "A design manifesto from the 1920s demanded that ornament be stripped away. The buildings that followed sometimes looked severe to residents who wanted warmth. The manifesto's clarity of purpose did not guarantee comfort in practice.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To entertain with a fictional story that has no informational purpose",
+      "B": "To provide a complete legal verdict in a criminal case",
+      "C": "To teach long division with worked examples",
+      "D": "To state an aesthetic program and note lived consequences."
+    },
+    "correct": "D",
+    "explanation": "The passage's organizing aim is: State an aesthetic program and note lived consequences.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "humanities",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Rhetoric",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rhetoric",
+        "https://libretexts.org"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0021",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "City officials promised that a new bus lane would cut commute times. After six months, GPS data showed modest gains on weekdays but worse congestion when lane markers confused turning cars. The transportation board kept the lane and redesigned the signs.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To state a promise, report mixed results, and describe an adjustment.",
+      "B": "To entertain with a fictional story that has no informational purpose",
+      "C": "To provide a complete legal verdict in a criminal case",
+      "D": "To teach long division with worked examples"
+    },
+    "correct": "A",
+    "explanation": "The passage's organizing aim is: State a promise, report mixed results, and describe an adjustment.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.2-trap-0022",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.2",
+    "topic_title": "Text Structure and Purpose",
+    "learning_objective": "Analyze why an author structures a text or includes a portion.",
+    "skill": "Text Structure and Purpose",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "A nonprofit measured library visits before and after evening hours expanded. Visits rose, especially among high-school students. Skeptics noted that a nearby cafe closed during the same period, offering an alternate explanation the study could not fully rule out.",
+      "citation": "Original passage (Tier B)",
+      "asset_path": null
+    },
+    "question": "Which choice best describes the primary purpose of the text?",
+    "options": {
+      "A": "To provide a complete legal verdict in a criminal case",
+      "B": "To present positive findings and a competing explanation.",
+      "C": "To teach long division with worked examples",
+      "D": "To entertain with a fictional story that has no informational purpose"
+    },
+    "correct": "B",
+    "explanation": "The passage's organizing aim is: Present positive findings and a competing explanation.. Labeling it pure entertainment ignores its informational/argumentative work.",
+    "distractor_notes": {
+      "A": "Mismatch.",
+      "B": "Mismatch.",
+      "C": "Mismatch.",
+      "D": "Mismatch."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.2",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse any engaging prose with 'fiction for entertainment only.'",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "If the passage is vivid, entertainment feels like a safe purpose label.",
+      "how_to_avoid": "Ask what intellectual job the passage performs (qualify, contrast, caution), not only whether it is interesting."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0001",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Expanding bike lanes, argues a transportation analyst, redistributes scarce street space toward a mode that produces no tailpipe emissions and requires less parking. Even modest shifts from short car trips can reduce congestion for remaining drivers.\n\nPassage 2: A small-business owner contends that removing curb parking for bike lanes cuts spontaneous visits that keep neighborhood shops alive. Environmental gains matter, she writes, but so does the survival of stores that define walkable streets.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether bike lanes help or harm local commerce",
+      "B": "Street design involves tradeoffs under the circumstances",
+      "C": "Whether ink can be used to print books",
+      "D": "Whether humans need oxygen to survive"
+    },
+    "correct": "A",
+    "explanation": "They clash over: disagree about whether bike lanes help or harm local commerce. They are closer together on: agree that street design involves tradeoffs—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0002",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Standardized tests, a psychometrician notes, allow comparison across schools that assign grades differently. Without some common measure, inequities can hide behind inflated marks.\n\nPassage 2: A classroom teacher argues that high-stakes tests narrow curriculum toward what is easily scored, sidelining projects that teach collaboration. Comparability, she says, is a poor prize if learning becomes shallower.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether ink can be used to print books in this case",
+      "B": "Whether standardized tests' benefits outweigh costs",
+      "C": "Whether humans need oxygen to survive for readers",
+      "D": "Assessment shapes schooling in practice"
+    },
+    "correct": "B",
+    "explanation": "They clash over: disagree about whether standardized tests' benefits outweigh costs. They are closer together on: agree that assessment shapes schooling—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0003",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Restoring a predator to a park, ecologists report, can cascade through food webs: fewer mid-sized predators, more ground-nesting birds. Reintroduction is framed as repairing a missing link.\n\nPassage 2: Ranchers near the park boundary emphasize livestock losses and delayed compensation. They do not deny ecological complexity; they ask who pays for it when calves disappear.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether humans need oxygen to survive",
+      "B": "Predator return has real effects on the landscape",
+      "C": "How costs and benefits should be distributed",
+      "D": "Whether ink can be used to print books"
+    },
+    "correct": "C",
+    "explanation": "They clash over: disagree about how costs and benefits should be distributed. They are closer together on: agree that predator return has real effects on the landscape—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0004",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Digitizing archives, a librarian argues, democratizes access for researchers who cannot travel. High-resolution scans also protect fragile paper from repeated handling.\n\nPassage 2: A materials conservator warns that rush digitization can damage bindings and that low-quality scans create a false sense that the object has been 'saved.' Access without care, she writes, is a short-term victory.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Digitization affects both access and preservation",
+      "B": "Whether ink can be used to print books as presented here",
+      "C": "Whether humans need oxygen to survive in this case",
+      "D": "Whether current digitization practices are net helpful"
+    },
+    "correct": "D",
+    "explanation": "They clash over: disagree about whether current digitization practices are net helpful. They are closer together on: agree that digitization affects both access and preservation—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0005",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: A historian of science claims that priority disputes—who discovered what first—reveal how credit, not only curiosity, organizes research communities.\n\nPassage 2: A working physicist replies that obsessing over priority narratives distracts from replication and error-checking, which actually make results reliable.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether priority contests are analytically central",
+      "B": "Scientific work is social as well as intellectual",
+      "C": "Whether ink can be used to print books",
+      "D": "Whether humans need oxygen to survive as presented here"
+    },
+    "correct": "A",
+    "explanation": "They clash over: disagree about whether priority contests are analytically central. They are closer together on: agree that scientific work is social as well as intellectual—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0006",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: An advocate writes that remote work increases productivity for deep-focus tasks. The claim is supported with recent case studies and is offered as a reason to expand the policy.\n\nPassage 2: A critic replies that remote work erodes mentorship for junior staff. Without addressing that drawback, the critic argues, expansion will create new harms even if some benefits are real.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether ink can be used to print books in practice for readers",
+      "B": "Whether benefits to productivity outweigh concerns about training",
+      "C": "Whether humans need oxygen to survive under the circumstances",
+      "D": "The policy or practice has significant effects worth debating"
+    },
+    "correct": "B",
+    "explanation": "They clash over: disagree about whether benefits to productivity outweigh concerns about training. They are closer together on: agree that the policy or practice has significant effects worth debating—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0007",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: An advocate writes that urban trees cool neighborhoods measurably. The claim is supported with recent case studies and is offered as a reason to expand the policy.\n\nPassage 2: A critic replies that tree-planting budgets divert funds from housing repairs. Without addressing that drawback, the critic argues, expansion will create new harms even if some benefits are real.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether humans need oxygen to survive in practice in this case",
+      "B": "The policy or practice has significant effects worth debating",
+      "C": "Whether benefits to heat mitigation outweigh concerns about housing maintenance",
+      "D": "Whether ink can be used to print books for readers"
+    },
+    "correct": "C",
+    "explanation": "They clash over: disagree about whether benefits to heat mitigation outweigh concerns about housing maintenance. They are closer together on: agree that the policy or practice has significant effects worth debating—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0008",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: An advocate writes that open-source software accelerates innovation. The claim is supported with recent case studies and is offered as a reason to expand the policy.\n\nPassage 2: A critic replies that open-source projects can leave security patching unpaid and uneven. Without addressing that drawback, the critic argues, expansion will create new harms even if some benefits are real.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "The policy or practice has significant effects worth debating",
+      "B": "Whether ink can be used to print books in this case",
+      "C": "Whether humans need oxygen to survive for readers as presented here",
+      "D": "Whether benefits to innovation speed outweigh concerns about maintenance labor"
+    },
+    "correct": "D",
+    "explanation": "They clash over: disagree about whether benefits to innovation speed outweigh concerns about maintenance labor. They are closer together on: agree that the policy or practice has significant effects worth debating—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0009",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: An advocate writes that museum audio guides deepen visitor learning. The claim is supported with recent case studies and is offered as a reason to expand the policy.\n\nPassage 2: A critic replies that audio guides make visitors look at screens instead of objects. Without addressing that drawback, the critic argues, expansion will create new harms even if some benefits are real.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether benefits to learning outweigh concerns about attention to objects",
+      "B": "The policy or practice has significant effects worth debating",
+      "C": "Whether ink can be used to print books as presented here",
+      "D": "Whether humans need oxygen to survive in this case under the circumstances"
+    },
+    "correct": "A",
+    "explanation": "They clash over: disagree about whether benefits to learning outweigh concerns about attention to objects. They are closer together on: agree that the policy or practice has significant effects worth debating—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0010",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: An advocate writes that community solar programs cut bills for renters. The claim is supported with recent case studies and is offered as a reason to expand the policy.\n\nPassage 2: A critic replies that community solar subscriptions confuse customers with opaque fees. Without addressing that drawback, the critic argues, expansion will create new harms even if some benefits are real.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether ink can be used to print books under the circumstances",
+      "B": "Whether benefits to affordability outweigh concerns about consumer clarity",
+      "C": "Whether humans need oxygen to survive as presented here in practice",
+      "D": "The policy or practice has significant effects worth debating"
+    },
+    "correct": "B",
+    "explanation": "They clash over: disagree about whether benefits to affordability outweigh concerns about consumer clarity. They are closer together on: agree that the policy or practice has significant effects worth debating—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0011",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: An advocate writes that longer school days help working parents. The claim is supported with recent case studies and is offered as a reason to expand the policy.\n\nPassage 2: A critic replies that longer school days exhaust children without improving learning. Without addressing that drawback, the critic argues, expansion will create new harms even if some benefits are real.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether humans need oxygen to survive under the circumstances",
+      "B": "The policy or practice has significant effects worth debating",
+      "C": "Whether benefits to childcare alignment outweigh concerns about student well-being",
+      "D": "Whether ink can be used to print books in practice for readers"
+    },
+    "correct": "C",
+    "explanation": "They clash over: disagree about whether benefits to childcare alignment outweigh concerns about student well-being. They are closer together on: agree that the policy or practice has significant effects worth debating—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0012",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: An advocate writes that cash transfers reduce poverty efficiently. The claim is supported with recent case studies and is offered as a reason to expand the policy.\n\nPassage 2: A critic replies that cash transfers without services leave health barriers untouched. Without addressing that drawback, the critic argues, expansion will create new harms even if some benefits are real.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "The policy or practice has significant effects worth debating",
+      "B": "Whether ink can be used to print books for readers",
+      "C": "Whether humans need oxygen to survive in practice in this case",
+      "D": "Whether benefits to income support outweigh concerns about service access"
+    },
+    "correct": "D",
+    "explanation": "They clash over: disagree about whether benefits to income support outweigh concerns about service access. They are closer together on: agree that the policy or practice has significant effects worth debating—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0013",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: An advocate writes that AI drafting tools speed routine writing. The claim is supported with recent case studies and is offered as a reason to expand the policy.\n\nPassage 2: A critic replies that AI drafting tools flatten distinctive student voice. Without addressing that drawback, the critic argues, expansion will create new harms even if some benefits are real.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether benefits to efficiency outweigh concerns about individual style",
+      "B": "The policy or practice has significant effects worth debating",
+      "C": "Whether ink can be used to print books in this case",
+      "D": "Whether humans need oxygen to survive for readers as presented here"
+    },
+    "correct": "A",
+    "explanation": "They clash over: disagree about whether benefits to efficiency outweigh concerns about individual style. They are closer together on: agree that the policy or practice has significant effects worth debating—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0014",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: An advocate writes that congestion pricing cuts downtown traffic. The claim is supported with recent case studies and is offered as a reason to expand the policy.\n\nPassage 2: A critic replies that congestion pricing burdens workers with inflexible shifts. Without addressing that drawback, the critic argues, expansion will create new harms even if some benefits are real.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether ink can be used to print books as presented here",
+      "B": "Whether benefits to traffic reduction outweigh concerns about equity for shift workers",
+      "C": "Whether humans need oxygen to survive in this case under the circumstances",
+      "D": "The policy or practice has significant effects worth debating"
+    },
+    "correct": "B",
+    "explanation": "They clash over: disagree about whether benefits to traffic reduction outweigh concerns about equity for shift workers. They are closer together on: agree that the policy or practice has significant effects worth debating—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0015",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: An advocate writes that public data dashboards increase government accountability. The claim is supported with recent case studies and is offered as a reason to expand the policy.\n\nPassage 2: A critic replies that dashboards can mislead when metrics are gamed. Without addressing that drawback, the critic argues, expansion will create new harms even if some benefits are real.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether humans need oxygen to survive as presented here in practice",
+      "B": "The policy or practice has significant effects worth debating",
+      "C": "Whether benefits to transparency outweigh concerns about metric gaming",
+      "D": "Whether ink can be used to print books under the circumstances"
+    },
+    "correct": "C",
+    "explanation": "They clash over: disagree about whether benefits to transparency outweigh concerns about metric gaming. They are closer together on: agree that the policy or practice has significant effects worth debating—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0016",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Classical education emphasizes shared texts, according to a policy brief that cites pilot programs and urges wider adoption.\n\nPassage 2: Classical lists can exclude voices students need to see themselves in, a reviewer warns, urging caution before scaling beyond pilots.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Agree the practice is consequential enough to evaluate carefully",
+      "B": "Whether ink can be used to print books in practice for readers",
+      "C": "Whether humans need oxygen to survive under the circumstances",
+      "D": "The balance between shared cultural reference and inclusive representation"
+    },
+    "correct": "D",
+    "explanation": "They clash over: disagree on the balance between shared cultural reference and inclusive representation. They are closer together on: agree the practice is consequential enough to evaluate carefully—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0017",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Telemedicine expands rural access to specialists, according to a policy brief that cites pilot programs and urges wider adoption.\n\nPassage 2: Telemedicine misses diagnostic cues available only in person, a reviewer warns, urging caution before scaling beyond pilots.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "The balance between access and diagnostic completeness",
+      "B": "Agree the practice is consequential enough to evaluate carefully",
+      "C": "Whether ink can be used to print books",
+      "D": "Whether humans need oxygen to survive"
+    },
+    "correct": "A",
+    "explanation": "They clash over: disagree on the balance between access and diagnostic completeness. They are closer together on: agree the practice is consequential enough to evaluate carefully—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0018",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Plastic bag bans reduce litter, according to a policy brief that cites pilot programs and urges wider adoption.\n\nPassage 2: Bag bans push shoppers toward thicker bags used fewer times, a reviewer warns, urging caution before scaling beyond pilots.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether ink can be used to print books",
+      "B": "The balance between litter reduction and lifecycle emissions",
+      "C": "Whether humans need oxygen to survive",
+      "D": "Agree the practice is consequential enough to evaluate carefully"
+    },
+    "correct": "B",
+    "explanation": "They clash over: disagree on the balance between litter reduction and lifecycle emissions. They are closer together on: agree the practice is consequential enough to evaluate carefully—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0019",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Internship stipends widen who can afford career entry, according to a policy brief that cites pilot programs and urges wider adoption.\n\nPassage 2: Stipends still leave housing costs untouched in expensive cities, a reviewer warns, urging caution before scaling beyond pilots.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether humans need oxygen to survive",
+      "B": "Agree the practice is consequential enough to evaluate carefully",
+      "C": "The balance between access to experience and cost of living",
+      "D": "Whether ink can be used to print books"
+    },
+    "correct": "C",
+    "explanation": "They clash over: disagree on the balance between access to experience and cost of living. They are closer together on: agree the practice is consequential enough to evaluate carefully—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0020",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Citizen science multiplies data collection, according to a policy brief that cites pilot programs and urges wider adoption.\n\nPassage 2: Untrained observers can introduce systematic identification errors, a reviewer warns, urging caution before scaling beyond pilots.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Agree the practice is consequential enough to evaluate carefully",
+      "B": "Whether ink can be used to print books",
+      "C": "Whether humans need oxygen to survive",
+      "D": "The balance between data volume and data quality"
+    },
+    "correct": "D",
+    "explanation": "They clash over: disagree on the balance between data volume and data quality. They are closer together on: agree the practice is consequential enough to evaluate carefully—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0021",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Historic preservation stabilizes neighborhoods, according to a policy brief that cites pilot programs and urges wider adoption.\n\nPassage 2: Strict preservation rules can block needed density near transit, a reviewer warns, urging caution before scaling beyond pilots.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "The balance between character and housing supply",
+      "B": "Agree the practice is consequential enough to evaluate carefully",
+      "C": "Whether ink can be used to print books",
+      "D": "Whether humans need oxygen to survive"
+    },
+    "correct": "A",
+    "explanation": "They clash over: disagree on the balance between character and housing supply. They are closer together on: agree the practice is consequential enough to evaluate carefully—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  },
+  {
+    "id": "satrw-d2-t2.3-trap-0022",
+    "subject": "satrw",
+    "unit": 2,
+    "unit_title": "Craft and Structure",
+    "topic": "2.3",
+    "topic_title": "Cross-Text Connections",
+    "learning_objective": "Compare/contrast ideas across two short related texts.",
+    "skill": "Cross-Text Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "paired_passages",
+      "content": "Passage 1: Podcasts democratize expertise, according to a policy brief that cites pilot programs and urges wider adoption.\n\nPassage 2: Podcasts reward charisma over careful sourcing, a reviewer warns, urging caution before scaling beyond pilots.",
+      "citation": "Original paired passages (Tier B)",
+      "asset_path": null
+    },
+    "question": "Based on the passages, the authors disagree most clearly about",
+    "options": {
+      "A": "Whether ink can be used to print books",
+      "B": "The balance between access to ideas and epistemic standards",
+      "C": "Whether humans need oxygen to survive",
+      "D": "Agree the practice is consequential enough to evaluate carefully"
+    },
+    "correct": "B",
+    "explanation": "They clash over: disagree on the balance between access to ideas and epistemic standards. They are closer together on: agree the practice is consequential enough to evaluate carefully—so that option is a partial-truth trap.",
+    "distractor_notes": {
+      "A": "Trap or irrelevant.",
+      "B": "Trap or irrelevant.",
+      "C": "Trap or irrelevant.",
+      "D": "Trap or irrelevant."
+    },
+    "tags": [
+      "satrw",
+      "domain-2",
+      "topic-2.3",
+      "social",
+      "trap"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students confuse a shared premise with the point of disagreement.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Both passages mention related ideas, so a shared assumption feels like the clash.",
+      "how_to_avoid": "Separate what both grant from what each prioritizes or concludes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A rhetorical/public-domain practices",
+      "url": "https://en.wikipedia.org/wiki/Public_policy",
+      "license": "Original item; no College Board/Khan Official SAT item text used",
+      "attribution": "Written for sat-rw Domain 2 practice bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_logic_check_plus_schema_audit",
+      "confidence": 0.84,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Public_policy",
+        "https://owl.purdue.edu"
+      ]
+    },
+    "created_at": "2026-10-08T16:00:00Z"
+  }
+]

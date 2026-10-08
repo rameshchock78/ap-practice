@@ -231,6 +231,10 @@ h2 {
   gap: 1rem;
 }
 
+.course-grid.three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .course-card {
   display: grid;
   grid-template-columns: auto 1fr;
@@ -779,6 +783,12 @@ h2 {
   justify-content: center;
   gap: 0.65rem;
   margin-top: 1.35rem;
+}
+
+@media (max-width: 960px) {
+  .course-grid.three {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media (max-width: 800px) {

@@ -1,12 +1,11 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getBlueprint } from "@/lib/data";
-import { SUBJECTS, isSubjectId } from "@/lib/subjects";
+import { SUBJECT_IDS, SUBJECTS, isSubjectId } from "@/lib/subjects";
 
 export async function generateStaticParams() {
-  const subjects = ["apush", "apchem"] as const;
   const params: { subject: string; unit: string }[] = [];
-  for (const subject of subjects) {
+  for (const subject of SUBJECT_IDS) {
     const bp = await getBlueprint(subject);
     for (const unit of bp.units) {
       params.push({ subject, unit: String(unit.unit) });
@@ -21,10 +20,16 @@ export default async function UnitPage({
   params: { subject: string; unit: string };
 }) {
   if (!isSubjectId(params.subject)) notFound();
-  const unitNum = Number(params.unit);
-  if (!Number.isInteger(unitNum) || unitNum < 1 || unitNum > 9) notFound();
-
   const subject = SUBJECTS[params.subject];
+  const unitNum = Number(params.unit);
+  if (
+    !Number.isInteger(unitNum) ||
+    unitNum < 1 ||
+    unitNum > subject.maxParts
+  ) {
+    notFound();
+  }
+
   const blueprint = await getBlueprint(params.subject);
   const unit = blueprint.units.find((u) => u.unit === unitNum);
   if (!unit) notFound();
@@ -36,10 +41,14 @@ export default async function UnitPage({
         <span className="sep">/</span>
         <Link href={`/${params.subject}`}>{subject.short}</Link>
         <span className="sep">/</span>
-        <span>Unit {unit.unit}</span>
+        <span>
+          {subject.partLabel} {unit.unit}
+        </span>
       </nav>
 
-      <p className="kicker">Unit {unit.unit}</p>
+      <p className="kicker">
+        {subject.partLabel} {unit.unit}
+      </p>
       <h1>{unit.title}</h1>
       <p className="lede">
         Start with standard practice to build coverage, then use trap mode to
@@ -54,8 +63,8 @@ export default async function UnitPage({
           <div className="icon-circle">P</div>
           <h2>Practice</h2>
           <p>
-            Full unit bank with explanations after every answer. Filter by topic
-            and difficulty.
+            Full {subject.partLabel.toLowerCase()} bank with explanations after
+            every answer. Filter by topic and difficulty.
           </p>
           <span className="chip accent">
             {unit.standard_count || 0} questions

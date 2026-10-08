@@ -2,14 +2,13 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Quiz } from "@/components/Quiz";
 import { getBlueprint, loadUnitQuestions } from "@/lib/data";
-import { SUBJECTS, isSubjectId } from "@/lib/subjects";
+import { SUBJECT_IDS, SUBJECTS, isSubjectId } from "@/lib/subjects";
 import type { Section } from "@/lib/types";
 
 export async function generateStaticParams() {
-  const subjects = ["apush", "apchem"] as const;
   const modes = ["standard", "traps"] as const;
   const params: { subject: string; unit: string; mode: string }[] = [];
-  for (const subject of subjects) {
+  for (const subject of SUBJECT_IDS) {
     const bp = await getBlueprint(subject);
     for (const unit of bp.units) {
       for (const mode of modes) {
@@ -28,11 +27,17 @@ export default async function PracticePage({
   if (!isSubjectId(params.subject)) notFound();
   if (params.mode !== "standard" && params.mode !== "traps") notFound();
 
+  const subject = SUBJECTS[params.subject];
   const unitNum = Number(params.unit);
-  if (!Number.isInteger(unitNum) || unitNum < 1 || unitNum > 9) notFound();
+  if (
+    !Number.isInteger(unitNum) ||
+    unitNum < 1 ||
+    unitNum > subject.maxParts
+  ) {
+    notFound();
+  }
 
   const section: Section = params.mode === "traps" ? "trap" : "standard";
-  const subject = SUBJECTS[params.subject];
   const blueprint = await getBlueprint(params.subject);
   const unit = blueprint.units.find((u) => u.unit === unitNum);
   if (!unit) notFound();
@@ -47,7 +52,9 @@ export default async function PracticePage({
         <span className="sep">/</span>
         <Link href={`/${params.subject}`}>{subject.short}</Link>
         <span className="sep">/</span>
-        <Link href={`/${params.subject}/${unit.unit}`}>Unit {unit.unit}</Link>
+        <Link href={`/${params.subject}/${unit.unit}`}>
+          {subject.partLabel} {unit.unit}
+        </Link>
         <span className="sep">/</span>
         <span>{modeLabel}</span>
       </nav>

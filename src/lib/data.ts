@@ -1,5 +1,6 @@
 import { promises as fs } from "fs";
 import path from "path";
+import { SUBJECTS } from "./subjects";
 import type { Blueprint, Question, Section, SubjectId } from "./types";
 
 const dataRoot = path.join(process.cwd(), "data");
@@ -34,11 +35,12 @@ export async function loadUnitQuestions(
   section: Section,
 ): Promise<Question[]> {
   const folder = section === "standard" ? "questions" : "traps";
+  const prefix = SUBJECTS[subject].filePrefix;
   const file = path.join(
     dataRoot,
     subject,
     folder,
-    `unit-${String(unit).padStart(2, "0")}.json`,
+    `${prefix}-${String(unit).padStart(2, "0")}.json`,
   );
   const raw = await fs.readFile(file, "utf8");
   return JSON.parse(raw) as Question[];

@@ -1,0 +1,3946 @@
+[
+  {
+    "id": "satrw-d4-t4.1-trap-0001",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The assay failed twice[, ]the protocol was revised.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "; ",
+      "B": ", which ",
+      "C": ": ",
+      "D": ", "
+    },
+    "correct": "A",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "B": "Incorrect: “, which ”.",
+      "C": "Incorrect: “: ”.",
+      "D": "Incorrect: “, ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "conventions_comma_splice",
+      "trap_description": "Comma appears to link related ideas but is insufficient.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0002",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "fragment_dependent",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "[Before the ink dried.] Staff followed the safety checklist.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Before the ink dried: staff followed the safety checklist.",
+      "B": "Before the ink dried, staff followed the safety checklist.",
+      "C": "Before the ink dried. Staff followed the safety checklist.",
+      "D": "Before the ink dried; staff followed the safety checklist."
+    },
+    "correct": "B",
+    "explanation": "Attach the dependent clause to the main clause with a comma. Correct: “Before the ink dried, staff followed the safety checklist.”.",
+    "distractor_notes": {
+      "A": "Incorrect: “Before the ink dried: staff followed the safety checklist.”.",
+      "C": "Incorrect: “Before the ink dried. Staff followed the safety checklist.”.",
+      "D": "Incorrect: “Before the ink dried; staff followed the safety checklist.”."
+    },
+    "tags": [
+      "fragment_dependent",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Fragment looks like a sentence because it is long.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Length and capitalization mimic completeness.",
+      "how_to_avoid": "Spot subordinators: because/when/if/since/while/although/after/before."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0003",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Fog delayed takeoff[, ]passengers remained gated.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ": ",
+      "B": ", which ",
+      "C": "; ",
+      "D": ", "
+    },
+    "correct": "C",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “: ”.",
+      "B": "Incorrect: “, which ”.",
+      "D": "Incorrect: “, ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students treat a comma as always acceptable between related clauses.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0004",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Crowds filled the plaza[, ]vendors sold out of water.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ": ",
+      "B": ", ",
+      "C": ", which ",
+      "D": "; "
+    },
+    "correct": "D",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “: ”.",
+      "B": "Incorrect: “, ”.",
+      "C": "Incorrect: “, which ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students treat a comma as always acceptable between related clauses.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0005",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Sensors flagged a spike[, ]technicians investigated.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "; ",
+      "B": ": ",
+      "C": ", which ",
+      "D": ", "
+    },
+    "correct": "A",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "B": "Incorrect: “: ”.",
+      "C": "Incorrect: “, which ”.",
+      "D": "Incorrect: “, ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students treat a comma as always acceptable between related clauses.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0006",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "colon_introduce",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The sign warned travelers[, ]road closed ahead.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ", ",
+      "B": ": ",
+      "C": "; ",
+      "D": " — , "
+    },
+    "correct": "B",
+    "explanation": "A colon introduces an explanation or list after a complete clause. Correct: “: ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “, ”.",
+      "C": "Incorrect: “; ”.",
+      "D": "Incorrect: “ — , ”."
+    },
+    "tags": [
+      "colon_introduce",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Comma or semicolon used where a colon is required.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students under-punctuate before an elaboration.",
+      "how_to_avoid": "If the first clause is complete and introduces what follows, prefer a colon."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0007",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "colon_introduce",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "They needed two ingredients[, ]yeast and flour.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ", ",
+      "B": "; ",
+      "C": ": ",
+      "D": " — , "
+    },
+    "correct": "C",
+    "explanation": "A colon introduces an explanation or list after a complete clause. Correct: “: ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “, ”.",
+      "B": "Incorrect: “; ”.",
+      "D": "Incorrect: “ — , ”."
+    },
+    "tags": [
+      "colon_introduce",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Comma or semicolon used where a colon is required.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students under-punctuate before an elaboration.",
+      "how_to_avoid": "If the first clause is complete and introduces what follows, prefer a colon."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0008",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "conjunctive_adverb",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The speaker was clear[; however,] the slides were cluttered.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ": however,",
+      "B": ", however,",
+      "C": "; however",
+      "D": "; however,"
+    },
+    "correct": "D",
+    "explanation": "Semicolon before and comma after “however” when linking ICs. Correct: “; however,”.",
+    "distractor_notes": {
+      "A": "Incorrect: “: however,”.",
+      "B": "Incorrect: “, however,”.",
+      "C": "Incorrect: “; however”."
+    },
+    "tags": [
+      "conjunctive_adverb",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Comma before however creates a splice; missing comma after however is incomplete.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students remember “comma + however” from mid-sentence interrupters.",
+      "how_to_avoid": "If “however” joins two sentences, use semicolon + comma."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0009",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "fragment_dependent",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "[If the password expires.] Staff followed the safety checklist.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "If the password expires, staff followed the safety checklist.",
+      "B": "If the password expires: staff followed the safety checklist.",
+      "C": "If the password expires; staff followed the safety checklist.",
+      "D": "If the password expires. Staff followed the safety checklist."
+    },
+    "correct": "A",
+    "explanation": "Attach the dependent clause to the main clause with a comma. Correct: “If the password expires, staff followed the safety checklist.”.",
+    "distractor_notes": {
+      "B": "Incorrect: “If the password expires: staff followed the safety checklist.”.",
+      "C": "Incorrect: “If the password expires; staff followed the safety checklist.”.",
+      "D": "Incorrect: “If the password expires. Staff followed the safety checklist.”."
+    },
+    "tags": [
+      "fragment_dependent",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Fragment looks like a sentence because it is long.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Length and capitalization mimic completeness.",
+      "how_to_avoid": "Spot subordinators: because/when/if/since/while/although/after/before."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0010",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "fragment_dependent",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "[When the lights flickered.] Staff followed the safety checklist.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "When the lights flickered; staff followed the safety checklist.",
+      "B": "When the lights flickered, staff followed the safety checklist.",
+      "C": "When the lights flickered. Staff followed the safety checklist.",
+      "D": "When the lights flickered: staff followed the safety checklist."
+    },
+    "correct": "B",
+    "explanation": "Attach the dependent clause to the main clause with a comma. Correct: “When the lights flickered, staff followed the safety checklist.”.",
+    "distractor_notes": {
+      "A": "Incorrect: “When the lights flickered; staff followed the safety checklist.”.",
+      "C": "Incorrect: “When the lights flickered. Staff followed the safety checklist.”.",
+      "D": "Incorrect: “When the lights flickered: staff followed the safety checklist.”."
+    },
+    "tags": [
+      "fragment_dependent",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Fragment looks like a sentence because it is long.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Length and capitalization mimic completeness.",
+      "how_to_avoid": "Spot subordinators: because/when/if/since/while/although/after/before."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0011",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "dash_interrupter",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The treaty[, ratified in March, ]reshaped trade.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ": ratified in March: ",
+      "B": ", ratified in March; ",
+      "C": " — ratified in March — ",
+      "D": "; ratified in March, "
+    },
+    "correct": "C",
+    "explanation": "Paired dashes can set off a nonrestrictive interrupter consistently. Correct: “ — ratified in March — ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “: ratified in March: ”.",
+      "B": "Incorrect: “, ratified in March; ”.",
+      "D": "Incorrect: “; ratified in March, ”."
+    },
+    "tags": [
+      "dash_interrupter",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Mixed punctuation around interrupters.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students combine comma and semicolon habits.",
+      "how_to_avoid": "Use a matched pair (commas or dashes), not a mix."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0012",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_coordinating",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The hikers were exhausted[, they stopped at the shelter].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "; , they stopped at the shelter",
+      "B": ": they stopped at the shelter",
+      "C": ", they stopped at the shelter",
+      "D": ", so they stopped at the shelter"
+    },
+    "correct": "D",
+    "explanation": "Add a coordinating conjunction after the comma, or use a semicolon/period. Correct: “, so they stopped at the shelter”.",
+    "distractor_notes": {
+      "A": "Incorrect: “; , they stopped at the shelter”.",
+      "B": "Incorrect: “: they stopped at the shelter”.",
+      "C": "Incorrect: “, they stopped at the shelter”."
+    },
+    "tags": [
+      "comma_coordinating",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "conventions_comma_splice",
+      "trap_description": "Comma splice without conjunction.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Feels like a natural pause.",
+      "how_to_avoid": "Comma needs FANBOYS to join independent clauses."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0013",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The results were surprising[, researchers repeated the trial].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "; researchers repeated the trial",
+      "B": ", and, researchers repeated the trial",
+      "C": ", researchers repeated the trial",
+      "D": ": researchers repeated the trial"
+    },
+    "correct": "A",
+    "explanation": "A semicolon (or period / comma+FANBOYS) must join the independent clauses; a comma alone is a splice. Correct: “; researchers repeated the trial”.",
+    "distractor_notes": {
+      "B": "Incorrect: “, and, researchers repeated the trial”.",
+      "C": "Incorrect: “, researchers repeated the trial”.",
+      "D": "Incorrect: “: researchers repeated the trial”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "conventions_comma_splice",
+      "trap_description": "Tempting comma looks like a pause but creates a comma splice.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students treat a comma as a flexible pause between complete sentences.",
+      "how_to_avoid": "Check whether each side can stand alone; if yes, don’t join with only a comma."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0014",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "restrictive_no_comma",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Drivers [who text], increase their risk.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": " — who text — ",
+      "B": " who text ",
+      "C": ", who text, ",
+      "D": "; who text; "
+    },
+    "correct": "B",
+    "explanation": "Restrictive “who text” is essential—no commas. Correct: “ who text ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “ — who text — ”.",
+      "C": "Incorrect: “, who text, ”.",
+      "D": "Incorrect: “; who text; ”."
+    },
+    "tags": [
+      "restrictive_no_comma",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students set off every who-clause with commas.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Nonrestrictive comma rule overgeneralized.",
+      "how_to_avoid": "Ask: does the clause identify which drivers? If yes, no commas."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0015",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "colon_introduce",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The kit contained three parts[, ]a base, a lens, and a case.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": " — , ",
+      "B": "; ",
+      "C": ": ",
+      "D": ", "
+    },
+    "correct": "C",
+    "explanation": "A colon introduces an explanation or list after a complete clause. Correct: “: ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “ — , ”.",
+      "B": "Incorrect: “; ”.",
+      "D": "Incorrect: “, ”."
+    },
+    "tags": [
+      "colon_introduce",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Comma or semicolon used where a colon is required.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students under-punctuate before an elaboration.",
+      "how_to_avoid": "If the first clause is complete and introduces what follows, prefer a colon."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0016",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The satellite corrected course[, ]images sharpened.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ": ",
+      "B": ", ",
+      "C": ", which ",
+      "D": "; "
+    },
+    "correct": "D",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “: ”.",
+      "B": "Incorrect: “, ”.",
+      "C": "Incorrect: “, which ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "conventions_comma_splice",
+      "trap_description": "Comma appears to link related ideas but is insufficient.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0017",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "colon_introduce",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "She packed carefully[: a map, water, and snacks].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ": a map, water, and snacks",
+      "B": ", a map, water, and snacks",
+      "C": "; a map, water, and snacks",
+      "D": " — : a map, water, and snacks"
+    },
+    "correct": "A",
+    "explanation": "A colon introduces the list after a complete clause. Correct: “: a map, water, and snacks”.",
+    "distractor_notes": {
+      "B": "Incorrect: “, a map, water, and snacks”.",
+      "C": "Incorrect: “; a map, water, and snacks”.",
+      "D": "Incorrect: “ — : a map, water, and snacks”."
+    },
+    "tags": [
+      "colon_introduce",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Semicolon wrongly used to introduce a list.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Semicolons and colons are often confused.",
+      "how_to_avoid": "Colon introduces; semicolon links independent clauses or complex list items."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0018",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "fragment_dependent",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "[Although the data were incomplete.] The team published a caution note.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Although the data were incomplete; the team published a caution note.",
+      "B": "Although the data were incomplete, the team published a caution note.",
+      "C": "Although the data were incomplete: the team published a caution note.",
+      "D": "Although the data were incomplete. The team published a caution note."
+    },
+    "correct": "B",
+    "explanation": "Dependent clause cannot be its own sentence. Correct: “Although the data were incomplete, the team published a caution note.”.",
+    "distractor_notes": {
+      "A": "Incorrect: “Although the data were incomplete; the team published a caution note.”.",
+      "C": "Incorrect: “Although the data were incomplete: the team published a caution note.”.",
+      "D": "Incorrect: “Although the data were incomplete. The team published a caution note.”."
+    },
+    "tags": [
+      "fragment_dependent",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Period after although-clause looks like a clean sentence break.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students see a capital letter and assume a valid sentence.",
+      "how_to_avoid": "If a clause starts with although/because/when, attach it to a main clause."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0019",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The server crashed at noon[, ]backups restored the files.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ", ",
+      "B": ", which ",
+      "C": "; ",
+      "D": ": "
+    },
+    "correct": "C",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “, ”.",
+      "B": "Incorrect: “, which ”.",
+      "D": "Incorrect: “: ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "conventions_comma_splice",
+      "trap_description": "Comma appears to link related ideas but is insufficient.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0020",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The exhibit opened in May[, it drew record crowds].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "; it, drew record crowds",
+      "B": ", which it drew record crowds",
+      "C": ", it drew record crowds",
+      "D": ". It drew record crowds"
+    },
+    "correct": "D",
+    "explanation": "Two independent clauses need a period (or semicolon / comma+conjunction). Correct: “. It drew record crowds”.",
+    "distractor_notes": {
+      "A": "Incorrect: “; it, drew record crowds”.",
+      "B": "Incorrect: “, which it drew record crowds”.",
+      "C": "Incorrect: “, it drew record crowds”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "conventions_comma_splice",
+      "trap_description": "Comma splice looks natural in speech cadence.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Speech-like pause suggests a comma.",
+      "how_to_avoid": "Read each clause alone; if both are complete, upgrade the punctuation."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0021",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Snow blocked the pass[, ]drivers waited for plows.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "; ",
+      "B": ", which ",
+      "C": ", ",
+      "D": ": "
+    },
+    "correct": "A",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "B": "Incorrect: “, which ”.",
+      "C": "Incorrect: “, ”.",
+      "D": "Incorrect: “: ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students treat a comma as always acceptable between related clauses.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0022",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "dash_interrupter",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Her answer[, short and exact, ]ended the debate.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "; short and exact, ",
+      "B": " — short and exact — ",
+      "C": ", short and exact; ",
+      "D": ": short and exact: "
+    },
+    "correct": "B",
+    "explanation": "Paired dashes can set off a nonrestrictive interrupter consistently. Correct: “ — short and exact — ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “; short and exact, ”.",
+      "C": "Incorrect: “, short and exact; ”.",
+      "D": "Incorrect: “: short and exact: ”."
+    },
+    "tags": [
+      "dash_interrupter",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Mixed punctuation around interrupters.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students combine comma and semicolon habits.",
+      "how_to_avoid": "Use a matched pair (commas or dashes), not a mix."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0023",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "fragment_dependent",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "[While the plaster dried.] Staff followed the safety checklist.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "While the plaster dried: staff followed the safety checklist.",
+      "B": "While the plaster dried; staff followed the safety checklist.",
+      "C": "While the plaster dried, staff followed the safety checklist.",
+      "D": "While the plaster dried. Staff followed the safety checklist."
+    },
+    "correct": "C",
+    "explanation": "Attach the dependent clause to the main clause with a comma. Correct: “While the plaster dried, staff followed the safety checklist.”.",
+    "distractor_notes": {
+      "A": "Incorrect: “While the plaster dried: staff followed the safety checklist.”.",
+      "B": "Incorrect: “While the plaster dried; staff followed the safety checklist.”.",
+      "D": "Incorrect: “While the plaster dried. Staff followed the safety checklist.”."
+    },
+    "tags": [
+      "fragment_dependent",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Fragment looks like a sentence because it is long.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Length and capitalization mimic completeness.",
+      "how_to_avoid": "Spot subordinators: because/when/if/since/while/although/after/before."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0024",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "colon_introduce",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The memo made a request[, ]submit timesheets by Friday.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": " — , ",
+      "B": ", ",
+      "C": "; ",
+      "D": ": "
+    },
+    "correct": "D",
+    "explanation": "A colon introduces an explanation or list after a complete clause. Correct: “: ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “ — , ”.",
+      "B": "Incorrect: “, ”.",
+      "C": "Incorrect: “; ”."
+    },
+    "tags": [
+      "colon_introduce",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Comma or semicolon used where a colon is required.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students under-punctuate before an elaboration.",
+      "how_to_avoid": "If the first clause is complete and introduces what follows, prefer a colon."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0025",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "dash_interrupter",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The model[, trained on open data, ]flagged outliers.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": " — trained on open data — ",
+      "B": ", trained on open data; ",
+      "C": ": trained on open data: ",
+      "D": "; trained on open data, "
+    },
+    "correct": "A",
+    "explanation": "Paired dashes can set off a nonrestrictive interrupter consistently. Correct: “ — trained on open data — ”.",
+    "distractor_notes": {
+      "B": "Incorrect: “, trained on open data; ”.",
+      "C": "Incorrect: “: trained on open data: ”.",
+      "D": "Incorrect: “; trained on open data, ”."
+    },
+    "tags": [
+      "dash_interrupter",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Mixed punctuation around interrupters.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students combine comma and semicolon habits.",
+      "how_to_avoid": "Use a matched pair (commas or dashes), not a mix."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0026",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Funding expired in June[, ]work paused until August.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ", ",
+      "B": "; ",
+      "C": ": ",
+      "D": ", which "
+    },
+    "correct": "B",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “, ”.",
+      "C": "Incorrect: “: ”.",
+      "D": "Incorrect: “, which ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students treat a comma as always acceptable between related clauses.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0027",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The choir missed a cue[, ]the conductor reset the tempo.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ", ",
+      "B": ", which ",
+      "C": "; ",
+      "D": ": "
+    },
+    "correct": "C",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “, ”.",
+      "B": "Incorrect: “, which ”.",
+      "D": "Incorrect: “: ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "conventions_comma_splice",
+      "trap_description": "Comma appears to link related ideas but is insufficient.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0028",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "fragment_dependent",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "[After the siren sounded.] Staff followed the safety checklist.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "After the siren sounded: staff followed the safety checklist.",
+      "B": "After the siren sounded. Staff followed the safety checklist.",
+      "C": "After the siren sounded; staff followed the safety checklist.",
+      "D": "After the siren sounded, staff followed the safety checklist."
+    },
+    "correct": "D",
+    "explanation": "Attach the dependent clause to the main clause with a comma. Correct: “After the siren sounded, staff followed the safety checklist.”.",
+    "distractor_notes": {
+      "A": "Incorrect: “After the siren sounded: staff followed the safety checklist.”.",
+      "B": "Incorrect: “After the siren sounded. Staff followed the safety checklist.”.",
+      "C": "Incorrect: “After the siren sounded; staff followed the safety checklist.”."
+    },
+    "tags": [
+      "fragment_dependent",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Fragment looks like a sentence because it is long.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Length and capitalization mimic completeness.",
+      "how_to_avoid": "Spot subordinators: because/when/if/since/while/although/after/before."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0029",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Demand surged overnight[, ]the warehouse ran short.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "; ",
+      "B": ", which ",
+      "C": ", ",
+      "D": ": "
+    },
+    "correct": "A",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "B": "Incorrect: “, which ”.",
+      "C": "Incorrect: “, ”.",
+      "D": "Incorrect: “: ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students treat a comma as always acceptable between related clauses.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0030",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "fragment_dependent",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "[Because the seal was broken.] Staff followed the safety checklist.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Because the seal was broken: staff followed the safety checklist.",
+      "B": "Because the seal was broken, staff followed the safety checklist.",
+      "C": "Because the seal was broken; staff followed the safety checklist.",
+      "D": "Because the seal was broken. Staff followed the safety checklist."
+    },
+    "correct": "B",
+    "explanation": "Attach the dependent clause to the main clause with a comma. Correct: “Because the seal was broken, staff followed the safety checklist.”.",
+    "distractor_notes": {
+      "A": "Incorrect: “Because the seal was broken: staff followed the safety checklist.”.",
+      "C": "Incorrect: “Because the seal was broken; staff followed the safety checklist.”.",
+      "D": "Incorrect: “Because the seal was broken. Staff followed the safety checklist.”."
+    },
+    "tags": [
+      "fragment_dependent",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Fragment looks like a sentence because it is long.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Length and capitalization mimic completeness.",
+      "how_to_avoid": "Spot subordinators: because/when/if/since/while/although/after/before."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0031",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "colon_introduce",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "She remembered one lesson[, ]revise before you submit.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "; ",
+      "B": ", ",
+      "C": ": ",
+      "D": " — , "
+    },
+    "correct": "C",
+    "explanation": "A colon introduces an explanation or list after a complete clause. Correct: “: ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “; ”.",
+      "B": "Incorrect: “, ”.",
+      "D": "Incorrect: “ — , ”."
+    },
+    "tags": [
+      "colon_introduce",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Comma or semicolon used where a colon is required.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students under-punctuate before an elaboration.",
+      "how_to_avoid": "If the first clause is complete and introduces what follows, prefer a colon."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0032",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "complex_list_semicolon",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "The cities on the tour were [Paris, France, Rome, Italy, and Madrid, Spain].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Paris, France, Rome, Italy, and Madrid, Spain",
+      "B": "Paris, France: Rome, Italy: and Madrid, Spain",
+      "C": "Paris; France; Rome; Italy; and Madrid; Spain",
+      "D": "Paris, France; Rome, Italy; and Madrid, Spain"
+    },
+    "correct": "D",
+    "explanation": "Semicolons separate complex list items that contain commas. Correct: “Paris, France; Rome, Italy; and Madrid, Spain”.",
+    "distractor_notes": {
+      "A": "Incorrect: “Paris, France, Rome, Italy, and Madrid, Spain”.",
+      "B": "Incorrect: “Paris, France: Rome, Italy: and Madrid, Spain”.",
+      "C": "Incorrect: “Paris; France; Rome; Italy; and Madrid; Spain”."
+    },
+    "tags": [
+      "complex_list_semicolon",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "All-comma list is readable but ambiguous with city/country pairs.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Simple-series habit ignores internal commas.",
+      "how_to_avoid": "If items have commas inside, step up to semicolons between items."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0033",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "colon_introduce",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "His advice was brief[, ]measure twice.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ": ",
+      "B": ", ",
+      "C": " — , ",
+      "D": "; "
+    },
+    "correct": "A",
+    "explanation": "A colon introduces an explanation or list after a complete clause. Correct: “: ”.",
+    "distractor_notes": {
+      "B": "Incorrect: “, ”.",
+      "C": "Incorrect: “ — , ”.",
+      "D": "Incorrect: “; ”."
+    },
+    "tags": [
+      "colon_introduce",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Comma or semicolon used where a colon is required.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students under-punctuate before an elaboration.",
+      "how_to_avoid": "If the first clause is complete and introduces what follows, prefer a colon."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.1-trap-0034",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.1",
+    "topic_title": "Boundaries",
+    "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+    "skill": "comma_splice",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The editor cut the sidebar[, ]pagination improved.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": ": ",
+      "B": "; ",
+      "C": ", ",
+      "D": ", which "
+    },
+    "correct": "B",
+    "explanation": "Replace the comma splice with a semicolon (or period / comma+FANBOYS). Correct: “; ”.",
+    "distractor_notes": {
+      "A": "Incorrect: “: ”.",
+      "C": "Incorrect: “, ”.",
+      "D": "Incorrect: “, which ”."
+    },
+    "tags": [
+      "comma_splice",
+      "conventions",
+      "4.1"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "conventions_comma_splice",
+      "trap_description": "Comma appears to link related ideas but is insufficient.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Related ideas feel like they only need a comma.",
+      "how_to_avoid": "Test each side as a complete sentence."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0001",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "parallelism",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The program emphasizes [ran drills, recording times, and and stretched].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "ran drills, recorded times, and stretched",
+      "B": "to ran drills, recording times, and and stretched",
+      "C": "ran drills, recording times, and and stretched",
+      "D": "ran drills; recording times; and and stretched"
+    },
+    "correct": "A",
+    "explanation": "Parallel grammatical forms are required in a series. Correct: “ran drills, recorded times, and stretched”.",
+    "distractor_notes": {
+      "B": "Incorrect: “to ran drills, recording times, and and stretched”.",
+      "C": "Incorrect: “ran drills, recording times, and and stretched”.",
+      "D": "Incorrect: “ran drills; recording times; and and stretched”."
+    },
+    "tags": [
+      "parallelism",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Mixed forms still communicate meaning.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Clarity of meaning hides broken parallelism.",
+      "how_to_avoid": "Force each list item into the same pattern."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0002",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "pronoun_case",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The prize went to Nia and [I].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "mine",
+      "B": "me",
+      "C": "myself",
+      "D": "I"
+    },
+    "correct": "B",
+    "explanation": "Correct case is “me.” Correct: “me”.",
+    "distractor_notes": {
+      "A": "Incorrect: “mine”.",
+      "C": "Incorrect: “myself”.",
+      "D": "Incorrect: “I”."
+    },
+    "tags": [
+      "pronoun_case",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Hypercorrect subject case in object slots (or reverse).",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Formal-sounding pronouns are overused.",
+      "how_to_avoid": "Test the pronoun alone in the slot."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0003",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Mathematics [are] required.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "have been",
+      "B": "were",
+      "C": "is",
+      "D": "are"
+    },
+    "correct": "C",
+    "explanation": "Correct agreement requires “is” with this subject. Correct: “is”.",
+    "distractor_notes": {
+      "A": "Incorrect: “have been”.",
+      "B": "Incorrect: “were”.",
+      "D": "Incorrect: “are”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Proximity or notional agreement error.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students match the nearest noun or misread collectives.",
+      "how_to_avoid": "Identify the head subject and whether it is singular or plural."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0004",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "dangling_modifier",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "[To reduce glare], the blinds were closed.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "the blinds were closed, to reduce glare.",
+      "B": "To reduce glare; the blinds were closed.",
+      "C": "To reduce glare, the blinds were closed.",
+      "D": "To reduce glare, the staff closed the blinds."
+    },
+    "correct": "D",
+    "explanation": "Make the subject the logical agent of the introductory modifier. Correct: “To reduce glare, the staff closed the blinds.”.",
+    "distractor_notes": {
+      "A": "Incorrect: “the blinds were closed, to reduce glare.”.",
+      "B": "Incorrect: “To reduce glare; the blinds were closed.”.",
+      "C": "Incorrect: “To reduce glare, the blinds were closed.”."
+    },
+    "tags": [
+      "dangling_modifier",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Dangler is easy to miss under timed conditions.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Sentence seems understandable.",
+      "how_to_avoid": "Check modifier-subject logic every time you see an -ing/to-/after opener."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0005",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "parallelism",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The program emphasizes [humble, work hard, and and kindness].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "humility, hard work, and kindness",
+      "B": "humble; work hard; and and kindness",
+      "C": "humble, work hard, and and kindness",
+      "D": "to humble, work hard, and and kindness"
+    },
+    "correct": "A",
+    "explanation": "Parallel grammatical forms are required in a series. Correct: “humility, hard work, and kindness”.",
+    "distractor_notes": {
+      "B": "Incorrect: “humble; work hard; and and kindness”.",
+      "C": "Incorrect: “humble, work hard, and and kindness”.",
+      "D": "Incorrect: “to humble, work hard, and and kindness”."
+    },
+    "tags": [
+      "parallelism",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Mixed forms still communicate meaning.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Clarity of meaning hides broken parallelism.",
+      "how_to_avoid": "Force each list item into the same pattern."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0006",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Every one of the essays [have] a clear thesis.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "were having",
+      "B": "has",
+      "C": "have",
+      "D": "are having"
+    },
+    "correct": "B",
+    "explanation": "“Every one” is singular. Correct: “has”.",
+    "distractor_notes": {
+      "A": "Incorrect: “were having”.",
+      "C": "Incorrect: “have”.",
+      "D": "Incorrect: “are having”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Agreement with “essays.”",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Nearest noun is plural.",
+      "how_to_avoid": "Circle the true subject: every one."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0007",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The news of the mergers [were] unexpected.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "were",
+      "B": "are",
+      "C": "was",
+      "D": "have been"
+    },
+    "correct": "C",
+    "explanation": "Correct agreement requires “was” with this subject. Correct: “was”.",
+    "distractor_notes": {
+      "A": "Incorrect: “were”.",
+      "B": "Incorrect: “are”.",
+      "D": "Incorrect: “have been”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Proximity or notional agreement error.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students match the nearest noun or misread collectives.",
+      "how_to_avoid": "Identify the head subject and whether it is singular or plural."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0008",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The scissors [is] in the drawer.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "was",
+      "B": "have been",
+      "C": "is",
+      "D": "are"
+    },
+    "correct": "D",
+    "explanation": "Correct agreement requires “are” with this subject. Correct: “are”.",
+    "distractor_notes": {
+      "A": "Incorrect: “was”.",
+      "B": "Incorrect: “have been”.",
+      "C": "Incorrect: “is”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Proximity or notional agreement error.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students match the nearest noun or misread collectives.",
+      "how_to_avoid": "Identify the head subject and whether it is singular or plural."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0009",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "pronoun_case",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Nobody but [he] knew the code.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "him",
+      "B": "his",
+      "C": "he",
+      "D": "himself"
+    },
+    "correct": "A",
+    "explanation": "Correct case is “him.” Correct: “him”.",
+    "distractor_notes": {
+      "B": "Incorrect: “his”.",
+      "C": "Incorrect: “he”.",
+      "D": "Incorrect: “himself”."
+    },
+    "tags": [
+      "pronoun_case",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Hypercorrect subject case in object slots (or reverse).",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Formal-sounding pronouns are overused.",
+      "how_to_avoid": "Test the pronoun alone in the slot."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0010",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Either of the answers [are] defensible.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "were",
+      "B": "is",
+      "C": "are",
+      "D": "have been"
+    },
+    "correct": "B",
+    "explanation": "Correct agreement requires “is” with this subject. Correct: “is”.",
+    "distractor_notes": {
+      "A": "Incorrect: “were”.",
+      "C": "Incorrect: “are”.",
+      "D": "Incorrect: “have been”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Proximity or notional agreement error.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students match the nearest noun or misread collectives.",
+      "how_to_avoid": "Identify the head subject and whether it is singular or plural."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0011",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "comparatives",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "This route is faster [than any route] in the county.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "than all route",
+      "B": "of any route",
+      "C": "than any other route",
+      "D": "than any route"
+    },
+    "correct": "C",
+    "explanation": "Exclude the compared item from its set via “other.” Correct: “than any other route”.",
+    "distractor_notes": {
+      "A": "Incorrect: “than all route”.",
+      "B": "Incorrect: “of any route”.",
+      "D": "Incorrect: “than any route”."
+    },
+    "tags": [
+      "comparatives",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Illogical comparison includes the subject in “any route.”",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "“Any” feels maximally inclusive—and that’s the bug.",
+      "how_to_avoid": "Add “other” when comparing one member to the rest of its group."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0012",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "pronoun_case",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Whom/Who: [Who] did they nominate?",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Who",
+      "B": "Who's",
+      "C": "Whose",
+      "D": "Whom"
+    },
+    "correct": "D",
+    "explanation": "Correct case is “Whom.” Correct: “Whom”.",
+    "distractor_notes": {
+      "A": "Incorrect: “Who”.",
+      "B": "Incorrect: “Who's”.",
+      "C": "Incorrect: “Whose”."
+    },
+    "tags": [
+      "pronoun_case",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Hypercorrect subject case in object slots (or reverse).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Formal-sounding pronouns are overused.",
+      "how_to_avoid": "Test the pronoun alone in the slot."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0013",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "A set of guidelines [were] published yesterday.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "are",
+      "D": "have been"
+    },
+    "correct": "A",
+    "explanation": "Correct agreement requires “was” with this subject. Correct: “was”.",
+    "distractor_notes": {
+      "B": "Incorrect: “were”.",
+      "C": "Incorrect: “are”.",
+      "D": "Incorrect: “have been”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Proximity or notional agreement error.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students match the nearest noun or misread collectives.",
+      "how_to_avoid": "Identify the head subject and whether it is singular or plural."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0014",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "parallelism",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The program emphasizes [to plan, shopping, and and cook].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "to plan; shopping; and and cook",
+      "B": "to plan, to shop, and to cook",
+      "C": "to plan, shopping, and and cook",
+      "D": "to to plan, shopping, and and cook"
+    },
+    "correct": "B",
+    "explanation": "Parallel grammatical forms are required in a series. Correct: “to plan, to shop, and to cook”.",
+    "distractor_notes": {
+      "A": "Incorrect: “to plan; shopping; and and cook”.",
+      "C": "Incorrect: “to plan, shopping, and and cook”.",
+      "D": "Incorrect: “to to plan, shopping, and and cook”."
+    },
+    "tags": [
+      "parallelism",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Mixed forms still communicate meaning.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Clarity of meaning hides broken parallelism.",
+      "how_to_avoid": "Force each list item into the same pattern."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0015",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "parallelism",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The program emphasizes [strength, being agile, and and stamina].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "strength; being agile; and and stamina",
+      "B": "to strength, being agile, and and stamina",
+      "C": "strength, agility, and stamina",
+      "D": "strength, being agile, and and stamina"
+    },
+    "correct": "C",
+    "explanation": "Parallel grammatical forms are required in a series. Correct: “strength, agility, and stamina”.",
+    "distractor_notes": {
+      "A": "Incorrect: “strength; being agile; and and stamina”.",
+      "B": "Incorrect: “to strength, being agile, and and stamina”.",
+      "D": "Incorrect: “strength, being agile, and and stamina”."
+    },
+    "tags": [
+      "parallelism",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Mixed forms still communicate meaning.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Clarity of meaning hides broken parallelism.",
+      "how_to_avoid": "Force each list item into the same pattern."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0016",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "parallelism",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The program emphasizes [organize files, labeling boxes, and and to update logs].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "organize files; labeling boxes; and and to update logs",
+      "B": "organize files, labeling boxes, and and to update logs",
+      "C": "to organize files, labeling boxes, and and to update logs",
+      "D": "organize files, label boxes, and update logs"
+    },
+    "correct": "D",
+    "explanation": "Parallel grammatical forms are required in a series. Correct: “organize files, label boxes, and update logs”.",
+    "distractor_notes": {
+      "A": "Incorrect: “organize files; labeling boxes; and and to update logs”.",
+      "B": "Incorrect: “organize files, labeling boxes, and and to update logs”.",
+      "C": "Incorrect: “to organize files, labeling boxes, and and to update logs”."
+    },
+    "tags": [
+      "parallelism",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Mixed forms still communicate meaning.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Clarity of meaning hides broken parallelism.",
+      "how_to_avoid": "Force each list item into the same pattern."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0017",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "parallelism",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "She likes [hiking, to swim, and biking].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "hiking, swimming, and biking",
+      "B": "to hike, swimming, and to bike",
+      "C": "hiking, to swim, and biking",
+      "D": "hike, swimming, and biking"
+    },
+    "correct": "A",
+    "explanation": "Keep gerund forms parallel. Correct: “hiking, swimming, and biking”.",
+    "distractor_notes": {
+      "B": "Incorrect: “to hike, swimming, and to bike”.",
+      "C": "Incorrect: “hiking, to swim, and biking”.",
+      "D": "Incorrect: “hike, swimming, and biking”."
+    },
+    "tags": [
+      "parallelism",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Mixed forms still “sound okay” casually.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Meaning is clear despite broken parallel structure.",
+      "how_to_avoid": "Read list items aloud in isolation—forms should match."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0018",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "dangling_modifier",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "[While climbing the ladder], the bucket tipped.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "While climbing the ladder; the bucket tipped.",
+      "B": "While climbing the ladder, Maya tipped the bucket.",
+      "C": "the bucket tipped, while climbing the ladder.",
+      "D": "While climbing the ladder, the bucket tipped."
+    },
+    "correct": "B",
+    "explanation": "Make the subject the logical agent of the introductory modifier. Correct: “While climbing the ladder, Maya tipped the bucket.”.",
+    "distractor_notes": {
+      "A": "Incorrect: “While climbing the ladder; the bucket tipped.”.",
+      "C": "Incorrect: “the bucket tipped, while climbing the ladder.”.",
+      "D": "Incorrect: “While climbing the ladder, the bucket tipped.”."
+    },
+    "tags": [
+      "dangling_modifier",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Dangler is easy to miss under timed conditions.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Sentence seems understandable.",
+      "how_to_avoid": "Check modifier-subject logic every time you see an -ing/to-/after opener."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0019",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "pronoun_case",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Between you and [I], the estimate is low.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "mine",
+      "B": "myself",
+      "C": "me",
+      "D": "I"
+    },
+    "correct": "C",
+    "explanation": "Object of preposition → “me.” Correct: “me”.",
+    "distractor_notes": {
+      "A": "Incorrect: “mine”.",
+      "B": "Incorrect: “myself”.",
+      "D": "Incorrect: “I”."
+    },
+    "tags": [
+      "pronoun_case",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Hypercorrection to “I” after and.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students were taught “I” sounds more formal.",
+      "how_to_avoid": "Remove the other person: “between I” is clearly wrong."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0020",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Each of the finalists [have] a unique approach.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "was",
+      "B": "have",
+      "C": "have been",
+      "D": "has"
+    },
+    "correct": "D",
+    "explanation": "Correct agreement requires “has” with this subject. Correct: “has”.",
+    "distractor_notes": {
+      "A": "Incorrect: “was”.",
+      "B": "Incorrect: “have”.",
+      "C": "Incorrect: “have been”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Proximity or notional agreement error.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students match the nearest noun or misread collectives.",
+      "how_to_avoid": "Identify the head subject and whether it is singular or plural."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0021",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The bundle of keys [are] on the counter.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "have been"
+    },
+    "correct": "A",
+    "explanation": "Head noun “bundle” is singular. Correct: “is”.",
+    "distractor_notes": {
+      "B": "Incorrect: “are”.",
+      "C": "Incorrect: “were”.",
+      "D": "Incorrect: “have been”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students agree with nearest plural “keys.”",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Proximity agreement error.",
+      "how_to_avoid": "Find the head noun before any prepositional phrase."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0022",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "pronoun_case",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "[Us] students finished the survey early.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Us",
+      "B": "We",
+      "C": "Ourselves",
+      "D": "Them"
+    },
+    "correct": "B",
+    "explanation": "Correct case is “We.” Correct: “We”.",
+    "distractor_notes": {
+      "A": "Incorrect: “Us”.",
+      "C": "Incorrect: “Ourselves”.",
+      "D": "Incorrect: “Them”."
+    },
+    "tags": [
+      "pronoun_case",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Hypercorrect subject case in object slots (or reverse).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Formal-sounding pronouns are overused.",
+      "how_to_avoid": "Test the pronoun alone in the slot."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0023",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "dangling_modifier",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "[Based on early results], a celebration began.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Based on early results, a celebration began.",
+      "B": "a celebration began, based on early results.",
+      "C": "Based on early results, the team began a celebration.",
+      "D": "Based on early results; a celebration began."
+    },
+    "correct": "C",
+    "explanation": "Make the subject the logical agent of the introductory modifier. Correct: “Based on early results, the team began a celebration.”.",
+    "distractor_notes": {
+      "A": "Incorrect: “Based on early results, a celebration began.”.",
+      "B": "Incorrect: “a celebration began, based on early results.”.",
+      "D": "Incorrect: “Based on early results; a celebration began.”."
+    },
+    "tags": [
+      "dangling_modifier",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Dangler is easy to miss under timed conditions.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Sentence seems understandable.",
+      "how_to_avoid": "Check modifier-subject logic every time you see an -ing/to-/after opener."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0024",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "A number of tickets [has] been refunded.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "have been",
+      "B": "was",
+      "C": "has",
+      "D": "have"
+    },
+    "correct": "D",
+    "explanation": "Correct agreement requires “have” with this subject. Correct: “have”.",
+    "distractor_notes": {
+      "A": "Incorrect: “have been”.",
+      "B": "Incorrect: “was”.",
+      "C": "Incorrect: “has”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Proximity or notional agreement error.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students match the nearest noun or misread collectives.",
+      "how_to_avoid": "Identify the head subject and whether it is singular or plural."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0025",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The number of tickets [have] increased.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "was",
+      "D": "have been"
+    },
+    "correct": "A",
+    "explanation": "Correct agreement requires “has” with this subject. Correct: “has”.",
+    "distractor_notes": {
+      "B": "Incorrect: “have”.",
+      "C": "Incorrect: “was”.",
+      "D": "Incorrect: “have been”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Proximity or notional agreement error.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students match the nearest noun or misread collectives.",
+      "how_to_avoid": "Identify the head subject and whether it is singular or plural."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0026",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "verb_tense_form",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "By dawn the crew [finished] the repairs already.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "finishes",
+      "B": "had finished",
+      "C": "finished",
+      "D": "have finished"
+    },
+    "correct": "B",
+    "explanation": "Past perfect for an action completed before another past reference. Correct: “had finished”.",
+    "distractor_notes": {
+      "A": "Incorrect: “finishes”.",
+      "C": "Incorrect: “finished”.",
+      "D": "Incorrect: “have finished”."
+    },
+    "tags": [
+      "verb_tense_form",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Simple past seems fine without sequencing care.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Both actions feel “past.”",
+      "how_to_avoid": "Mark which past action happened first; use had + past participle."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0027",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "pronoun_case",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The caller was [her].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "herself",
+      "B": "hers",
+      "C": "she",
+      "D": "her"
+    },
+    "correct": "C",
+    "explanation": "Correct case is “she.” Correct: “she”.",
+    "distractor_notes": {
+      "A": "Incorrect: “herself”.",
+      "B": "Incorrect: “hers”.",
+      "D": "Incorrect: “her”."
+    },
+    "tags": [
+      "pronoun_case",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Hypercorrect subject case in object slots (or reverse).",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Formal-sounding pronouns are overused.",
+      "how_to_avoid": "Test the pronoun alone in the slot."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0028",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "dangling_modifier",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "[Hoping to save time], the shortcut was taken.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Hoping to save time, the shortcut was taken.",
+      "B": "Hoping to save time; the shortcut was taken.",
+      "C": "the shortcut was taken, hoping to save time.",
+      "D": "Hoping to save time, we took the shortcut."
+    },
+    "correct": "D",
+    "explanation": "Make the subject the logical agent of the introductory modifier. Correct: “Hoping to save time, we took the shortcut.”.",
+    "distractor_notes": {
+      "A": "Incorrect: “Hoping to save time, the shortcut was taken.”.",
+      "B": "Incorrect: “Hoping to save time; the shortcut was taken.”.",
+      "C": "Incorrect: “the shortcut was taken, hoping to save time.”."
+    },
+    "tags": [
+      "dangling_modifier",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Dangler is easy to miss under timed conditions.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Sentence seems understandable.",
+      "how_to_avoid": "Check modifier-subject logic every time you see an -ing/to-/after opener."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0029",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "dangling_modifier",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "[Covered with frost], we scraped the windshield.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "Covered with frost, the windshield needed scraping.",
+      "B": "Covered with frost; we scraped the windshield.",
+      "C": "we scraped the windshield, covered with frost.",
+      "D": "Covered with frost, we scraped the windshield."
+    },
+    "correct": "A",
+    "explanation": "Make the subject the logical agent of the introductory modifier. Correct: “Covered with frost, the windshield needed scraping.”.",
+    "distractor_notes": {
+      "B": "Incorrect: “Covered with frost; we scraped the windshield.”.",
+      "C": "Incorrect: “we scraped the windshield, covered with frost.”.",
+      "D": "Incorrect: “Covered with frost, we scraped the windshield.”."
+    },
+    "tags": [
+      "dangling_modifier",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Dangler is easy to miss under timed conditions.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Sentence seems understandable.",
+      "how_to_avoid": "Check modifier-subject logic every time you see an -ing/to-/after opener."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0030",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Thirty percent of the funds [is] still missing.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "have been"
+    },
+    "correct": "B",
+    "explanation": "Correct agreement requires “are” with this subject. Correct: “are”.",
+    "distractor_notes": {
+      "A": "Incorrect: “is”.",
+      "C": "Incorrect: “was”.",
+      "D": "Incorrect: “have been”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Proximity or notional agreement error.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students match the nearest noun or misread collectives.",
+      "how_to_avoid": "Identify the head subject and whether it is singular or plural."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0031",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Neither the flutes nor the clarinet [need] repair.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "need",
+      "B": "are needing",
+      "C": "needs",
+      "D": "have needed"
+    },
+    "correct": "C",
+    "explanation": "Agree with nearer subject “clarinet.” Correct: “needs”.",
+    "distractor_notes": {
+      "A": "Incorrect: “need”.",
+      "B": "Incorrect: “are needing”.",
+      "D": "Incorrect: “have needed”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Plural-sounding neither/nor leads to plural verb.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students recall “neither” as plural-ish.",
+      "how_to_avoid": "With neither…nor, match the subject closest to the verb."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0032",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "parallelism",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The program emphasizes [writing code, to test builds, and documenting bugs].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "writing code; to test builds; and documenting bugs",
+      "B": "to writing code, to test builds, and documenting bugs",
+      "C": "writing code, to test builds, and documenting bugs",
+      "D": "writing code, testing builds, and documenting bugs"
+    },
+    "correct": "D",
+    "explanation": "Parallel grammatical forms are required in a series. Correct: “writing code, testing builds, and documenting bugs”.",
+    "distractor_notes": {
+      "A": "Incorrect: “writing code; to test builds; and documenting bugs”.",
+      "B": "Incorrect: “to writing code, to test builds, and documenting bugs”.",
+      "C": "Incorrect: “writing code, to test builds, and documenting bugs”."
+    },
+    "tags": [
+      "parallelism",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Mixed forms still communicate meaning.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Clarity of meaning hides broken parallelism.",
+      "how_to_avoid": "Force each list item into the same pattern."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0033",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "subject_verb_agreement",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The pair of gloves [are] still wet.",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "have been"
+    },
+    "correct": "A",
+    "explanation": "Correct agreement requires “is” with this subject. Correct: “is”.",
+    "distractor_notes": {
+      "B": "Incorrect: “are”.",
+      "C": "Incorrect: “were”.",
+      "D": "Incorrect: “have been”."
+    },
+    "tags": [
+      "subject_verb_agreement",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Proximity or notional agreement error.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students match the nearest noun or misread collectives.",
+      "how_to_avoid": "Identify the head subject and whether it is singular or plural."
+    }
+  },
+  {
+    "id": "satrw-d4-t4.2-trap-0034",
+    "subject": "satrw",
+    "unit": 4,
+    "unit_title": "Standard English Conventions",
+    "topic": "4.2",
+    "topic_title": "Form, Structure, and Sense",
+    "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+    "skill": "pronoun_case",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The secret is safe with Devon and [I].",
+      "citation": "Original generated sentence(s); grammar verified via Purdue OWL / LibreTexts citations in verification.",
+      "asset_path": null
+    },
+    "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "options": {
+      "A": "I",
+      "B": "me",
+      "C": "myself",
+      "D": "mine"
+    },
+    "correct": "B",
+    "explanation": "Correct case is “me.” Correct: “me”.",
+    "distractor_notes": {
+      "A": "Incorrect: “I”.",
+      "C": "Incorrect: “myself”.",
+      "D": "Incorrect: “mine”."
+    },
+    "tags": [
+      "pronoun_case",
+      "conventions",
+      "4.2"
+    ],
+    "section": "trap",
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "Rule check against Purdue OWL / LibreTexts grammar & punctuation guidance; distractors reviewed for single best answer",
+      "confidence": 0.92,
+      "citations": [
+        "https://owl.purdue.edu/owl/general_writing/punctuation/independent_and_dependent_clauses/index.html",
+        "https://owl.purdue.edu/owl/general_writing/grammar/subject_verb_agreement.html",
+        "https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_(Mills)/13%3A_Correcting_Grammar_and_Punctuation",
+        "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_avoid_them.html"
+      ]
+    },
+    "created_at": "2026-10-08",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Hypercorrect subject case in object slots (or reverse).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Formal-sounding pronouns are overused.",
+      "how_to_avoid": "Test the pronoun alone in the slot."
+    }
+  }
+]

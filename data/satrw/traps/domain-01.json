@@ -1,0 +1,4100 @@
+[
+  {
+    "id": "satrw-d1-t1.1-trap-0001",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.",
+      "citation": "Jane Austen, Pride and Prejudice (1813), Ch. 1 — public domain; https://www.gutenberg.org/ebooks/1342",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text?",
+    "options": {
+      "A": "Families around a wealthy newcomer assume he is an eligible match for their daughters.",
+      "B": "Austen argues that every wealthy man personally desires marriage above all else.",
+      "C": "The neighborhood refuses to gossip about newcomers.",
+      "D": "Daughters openly own the legal rights to visiting bachelors."
+    },
+    "correct": "A",
+    "explanation": "Ironic main-idea questions punish literal readings of proverb-like openings. Students often miss Austen's irony and treat the 'universal truth' as the bachelor's own sincere desire.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap or unsupported.",
+      "C": "Trap or unsupported.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "misconception"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "The tempting wrong option treats the social cliché as the man's actual wish.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students often miss Austen's irony and treat the 'universal truth' as the bachelor's own sincere desire.",
+      "how_to_avoid": "Watch for ironic distance: who believes the 'truth'—the families or the man?"
+    },
+    "origin": "open_source",
+    "source": {
+      "name": "Public-domain excerpt with original trap question",
+      "url": "https://www.gutenberg.org/ebooks/1342",
+      "license": "Public domain excerpt; original question",
+      "attribution": "Jane Austen, Pride and Prejudice (1813), Ch. 1 — public domain; https://www.gutenberg.org/ebooks/1342"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/1342",
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0002",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Coral bleaching occurs when stressed polyps expel the symbiotic algae that provide much of their energy and color. Elevated sea temperatures are a frequent trigger, though pollution and extreme light can also contribute. Bleached colonies are not immediately dead, but prolonged stress sharply raises mortality and can shift reef communities toward algae-dominated states.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea?",
+    "options": {
+      "A": "Bleaching sometimes follows heat stress and can raise mortality risk.",
+      "B": "Bleaching is a stress response that becomes especially dangerous if it lasts.",
+      "C": "Bleaching never kills coral under any circumstances.",
+      "D": "Heat is occasionally linked to bleaching events."
+    },
+    "correct": "B",
+    "explanation": "Passage hedges vs absolute distractor. Absolute words like never/always create appealingly clean but false main ideas.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Correct.",
+      "C": "Trap or unsupported.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "absolute_wording"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Option with 'never' sounds decisive but contradicts 'not immediately dead' / mortality risk.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Absolute words like never/always create appealingly clean but false main ideas.",
+      "how_to_avoid": "Prefer nuanced options that match the passage's hedges."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0003",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "During the early twentieth century, many U.S. cities expanded streetcar networks outward from downtown commercial cores. Fare structures and land speculation often pushed residential growth along the lines faster than municipal services could follow. Reformers argued that annexation and zoning were needed not merely for aesthetics but to ensure sewers, schools, and fire protection kept pace with the new neighborhoods.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the central idea of the passage?",
+    "options": {
+      "A": "Streetcars expanded outward from downtowns in many U.S. cities.",
+      "B": "Reformers cared only about architectural beauty.",
+      "C": "Streetcar suburbs often grew faster than services, sparking reform debates about annexation and zoning.",
+      "D": "Municipal services always arrived before residents did."
+    },
+    "correct": "C",
+    "explanation": "Detail vs controlling idea. A true detail (streetcars expanded) is not the full central idea.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Trap or unsupported.",
+      "C": "Correct.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "partial_truth"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Tempting option is true but incomplete relative to the passage's focus on service gaps/reform.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "A true detail (streetcars expanded) is not the full central idea.",
+      "how_to_avoid": "Ask what problem the whole passage is organized around."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0004",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Art historians sometimes describe the shift from fresco to portable oil painting in early modern Europe as a change not only of medium but of market. Oils could travel, be resold, and hang in private rooms. Patronage still mattered, yet collectors increasingly treated paintings as movable assets, altering what subjects artists chose when commissions were scarce.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best expresses the main idea?",
+    "options": {
+      "A": "Fresco painting vanished overnight in every European city.",
+      "B": "Collectors refused to hang oils in private rooms.",
+      "C": "Patronage ceased to matter as soon as oils could travel.",
+      "D": "The rise of portable oils changed markets and, with them, artistic subject choices."
+    },
+    "correct": "D",
+    "explanation": "Contrast misread trap. Surface mention of patronage 'still mattered' is flipped by a distractor saying it ceased.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Trap or unsupported.",
+      "C": "Trap or unsupported.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Misread: treating 'still mattered' as 'no longer mattered'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Surface mention of patronage 'still mattered' is flipped by a distractor saying it ceased.",
+      "how_to_avoid": "Track contrast words: still / yet / however."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0001",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Coral bleaching occurs when stressed polyps expel the symbiotic algae that provide much of their energy and color. Elevated sea temperatures are a frequent trigger, though pollution and extreme light can also contribute. Bleached colonies are not immediately dead, but prolonged stress sharply raises mortality and can shift reef communities toward algae-dominated states.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which detail best supports the claim that bleaching can be reversed before death?",
+    "options": {
+      "A": "Bleached colonies are not immediately dead, but prolonged stress sharply raises mortality",
+      "B": "Elevated sea temperatures are a frequent trigger",
+      "C": "polyps expel the symbiotic algae that provide much of their energy and color",
+      "D": "pollution and extreme light can also contribute"
+    },
+    "correct": "A",
+    "explanation": "True but off-claim evidence. Students pick a true cause of bleaching instead of evidence about timing/mortality.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap or unsupported.",
+      "C": "Trap or unsupported.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "evidence_mismatch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "evidence_mismatch",
+      "trap_description": "Temperature trigger is relevant science but does not support the reversibility/timing claim.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students pick a true cause of bleaching instead of evidence about timing/mortality.",
+      "how_to_avoid": "Match evidence to the claim's key terms (immediate death vs prolonged stress)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0002",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure.",
+      "citation": "Abraham Lincoln, Gettysburg Address (1863) — public domain; https://www.loc.gov/resource/rbpe.03301800/",
+      "asset_path": null
+    },
+    "question": "Which quotation best supports the claim that Lincoln presents equality as a founding commitment?",
+    "options": {
+      "A": "testing whether that nation, or any nation so conceived and so dedicated, can long endure",
+      "B": "conceived in Liberty, and dedicated to the proposition that all men are created equal",
+      "C": "Now we are engaged in a great civil war",
+      "D": "Four score and seven years ago our fathers brought forth on this continent, a new nation"
+    },
+    "correct": "B",
+    "explanation": "Neighboring-claim evidence trap. The 'testing whether' line supports endurance-test claim, not the equality-dedication claim.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Correct.",
+      "C": "Trap or unsupported.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "near_miss_fact"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Near-miss: famous line that supports a neighboring claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The 'testing whether' line supports endurance-test claim, not the equality-dedication claim.",
+      "how_to_avoid": "Underline the claim's key words before hunting evidence."
+    },
+    "origin": "open_source",
+    "source": {
+      "name": "Public-domain excerpt with original trap question",
+      "url": "https://www.loc.gov/resource/rbpe.03301800/",
+      "license": "Public domain excerpt; original question",
+      "attribution": "Abraham Lincoln, Gettysburg Address (1863) — public domain; https://www.loc.gov/resource/rbpe.03301800/"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://www.loc.gov/resource/rbpe.03301800/",
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0003",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Marta stacked the letters she would never send on the windowsill, ordered by the month she had drafted them. January's pages were angry; June's were almost kind. She told herself that keeping them was enough—that the act of writing had already done the work of speaking. Still, each time the postman passed, she felt the unfinished conversation tug at her sleeve.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which detail best supports the claim that Marta still feels unfinished business?",
+    "options": {
+      "A": "January's pages were angry; June's were almost kind",
+      "B": "She told herself that keeping them was enough",
+      "C": "each time the postman passed, she felt the unfinished conversation tug at her sleeve",
+      "D": "Marta stacked the letters she would never send on the windowsill"
+    },
+    "correct": "C",
+    "explanation": "Character self-talk vs evidence of feeling. 'She told herself keeping them was enough' shows self-persuasion, not the lingering tug.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Trap or unsupported.",
+      "C": "Correct.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "partial_truth"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Partial truth: she claims resolution while still feeling unresolved—students stop at the claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'She told herself keeping them was enough' shows self-persuasion, not the lingering tug.",
+      "how_to_avoid": "Prefer evidence of feeling/behavior over characters' self-justifying statements."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0004",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "In classical rhetoric, ethos, pathos, and logos name overlapping means of persuasion rather than mutually exclusive boxes. A speaker who cites a careful study (logos) may also remind listeners of shared civic identity (ethos) while describing consequences that stir concern (pathos). Effective analysis asks which appeal dominates a passage, not which one alone is present.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best supports the claim that appeals can appear together?",
+    "options": {
+      "A": "Effective analysis asks which appeal dominates a passage",
+      "B": "not which one alone is present",
+      "C": "A speaker who cites a careful study (logos) may also remind listeners of shared civic identity (ethos)",
+      "D": "ethos, pathos, and logos name overlapping means of persuasion rather than mutually exclusive boxes"
+    },
+    "correct": "D",
+    "explanation": "Dominance vs exclusivity misread. Students may pick 'which appeal dominates' as if dominance denied coexistence.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Trap or unsupported.",
+      "C": "Trap or unsupported.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Misread dominance language as exclusivity.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students may pick 'which appeal dominates' as if dominance denied coexistence.",
+      "how_to_avoid": "Overlapping ≠ one appeal only."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0001",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "table",
+      "content": "Average July air temperature (°C) at four weather stations, 1990 vs. 2020\nStation | 1990 | 2020\nCoastal A | 22.1 | 23.4\nCoastal B | 21.8 | 22.0\nInland C | 26.5 | 28.9\nInland D | 25.2 | 27.1",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table?",
+    "options": {
+      "A": "Inland stations show larger temperature increases than the coastal stations listed.",
+      "B": "Coastal stations warmed more than inland stations.",
+      "C": "Every station cooled between 1990 and 2020.",
+      "D": "Coastal B increased more than Inland C."
+    },
+    "correct": "A",
+    "explanation": "Reversed comparison trap. Students reverse coastal vs inland magnitudes.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap or unsupported.",
+      "C": "Trap or unsupported.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "reversed_trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Tempting option flips the actual comparison.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students reverse coastal vs inland magnitudes.",
+      "how_to_avoid": "Compute differences before choosing."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0002",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "table",
+      "content": "Average daily ridership (thousands) on a metro line by year\nYear | Ridership\n2016 | 112\n2017 | 118\n2018 | 121\n2019 | 125\n2020 | 61\n2021 | 74\n2022 | 98",
+      "citation": "Original instructional table (illustrative figures).",
+      "asset_path": null
+    },
+    "question": "Which statement is best supported?",
+    "options": {
+      "A": "Ridership in 2020 was higher than in 2019.",
+      "B": "Ridership dropped sharply in 2020 and remained below 2019 levels through 2022.",
+      "C": "2022 exceeded 2019 ridership.",
+      "D": "Ridership fell every year after 2016."
+    },
+    "correct": "B",
+    "explanation": "Standout-year misread. Students misread the 2020 cliff as a peak or ignore partial recovery context.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Correct.",
+      "C": "Trap or unsupported.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Misreading the standout year.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students misread the 2020 cliff as a peak or ignore partial recovery context.",
+      "how_to_avoid": "Identify extrema explicitly."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0003",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "table",
+      "content": "Mean test score by tutoring hours per week (same class, n=25 per group)\nHours | Mean score\n0 | 68\n1 | 74\n2 | 79\n3 | 81\n4 | 82",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported?",
+    "options": {
+      "A": "Any increase in hours always raises the mean by the same amount.",
+      "B": "Tutoring hours are associated with higher means overall.",
+      "C": "Mean scores rise with tutoring hours, but gains shrink at higher hour levels.",
+      "D": "Four hours lowers the mean relative to three hours."
+    },
+    "correct": "C",
+    "explanation": "Incomplete trend description. A true overall positive association is incomplete if the question needs diminishing returns.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Trap or unsupported.",
+      "C": "Correct.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "partial_truth"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Partial truth ignores the diminishing-gain pattern.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "A true overall positive association is incomplete if the question needs diminishing returns.",
+      "how_to_avoid": "Check whether the claim needs the full pattern, not one half."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0004",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Bacterial colony count (CFU/mL) after antibiotic exposure\nAntibiotic | 0 hours | 6 hours | 12 hours\nDrug P | 1.0e6 | 2.2e5 | 4.0e4\nDrug Q | 1.0e6 | 9.1e5 | 8.8e5\nControl (none) | 1.0e6 | 3.5e6 | 8.0e6",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim do the data best support?",
+    "options": {
+      "A": "Drug Q outperforms Drug P at 12 hours.",
+      "B": "Control counts fall below Drug P by 12 hours.",
+      "C": "Drug P and Drug Q are tied at 6 hours already near zero.",
+      "D": "Drug P reduces colonies much more by 12 hours than Drug Q does."
+    },
+    "correct": "D",
+    "explanation": "Column-swap trap. Students confuse which drug works or mis-copy a time column.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Trap or unsupported.",
+      "C": "Trap or unsupported.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "near_miss_fact"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Near-miss: swapping drugs or times.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students confuse which drug works or mis-copy a time column.",
+      "how_to_avoid": "Track column headers carefully."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0001",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Migratory birds often rely on a combination of celestial cues, magnetic sensing, and learned landmarks. Experiments that shift the apparent star pattern in a planetarium can reorient captive birds' preferred direction, while disrupting magnetic fields alters orientation in some species more than others. The redundancy suggests navigation is a toolkit, not a single compass.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable?",
+    "options": {
+      "A": "Birds may still orient if one cue is disrupted because other cues can contribute.",
+      "B": "Birds can never orient without a perfect magnetic field.",
+      "C": "Celestial cues are irrelevant to all species.",
+      "D": "Landmarks are the only cue any migrant uses."
+    },
+    "correct": "A",
+    "explanation": "Overstrong inference. Absolute inferences overclaim beyond 'toolkit' language.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap or unsupported.",
+      "C": "Trap or unsupported.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "absolute_wording"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Always/never options overreach.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Absolute inferences overclaim beyond 'toolkit' language.",
+      "how_to_avoid": "Match inference strength to passage hedges (some/often/combination)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0002",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Nineteenth-century abolitionist newspapers circulated not only moral arguments but also first-person narratives by formerly enslaved people. Editors selected excerpts that would move Northern readers while surviving postal censorship and libel threats. The resulting archive is powerful, yet incomplete: many voices never reached print, and some published texts were shaped by white amanuenses.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Based on the text, which inference is best?",
+    "options": {
+      "A": "If a narrative was printed, it must be a complete, unfiltered record.",
+      "B": "Published narratives are informative yet shaped by selection and mediation.",
+      "C": "Abolitionist newspapers never printed first-person accounts.",
+      "D": "Historians should discard all mediated sources."
+    },
+    "correct": "B",
+    "explanation": "Primary-source completeness myth. Students equate publication with unmediated completeness.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Correct.",
+      "C": "Trap or unsupported.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "misconception"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Misconception about primary sources.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students equate publication with unmediated completeness.",
+      "how_to_avoid": "Ask what the passage says about selection/amanuenses."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0003",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The orchestra pit smelled of resin and damp wood. From the wings, Elias watched the conductor raise her baton and felt the familiar dread that practice had not erased: not fear of missing notes, but fear of playing them perfectly and still being invisible. When the overture began, he focused on the boy in the third row who leaned forward as if the music were a rope.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What can reasonably be inferred about Elias?",
+    "options": {
+      "A": "He has not practiced enough to play the notes.",
+      "B": "He wants the boy in the third row to leave.",
+      "C": "He fears technical success without emotional connection to an audience.",
+      "D": "He distrusts the smell of the orchestra pit more than the performance."
+    },
+    "correct": "C",
+    "explanation": "Clarifying-phrase misread. Students latch onto 'dread' and assume ordinary stage fright about wrong notes.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Trap or unsupported.",
+      "C": "Correct.",
+      "D": "Trap or unsupported."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Misread: ignoring 'perfectly and still being invisible'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students latch onto 'dread' and assume ordinary stage fright about wrong notes.",
+      "how_to_avoid": "Read the clarification after the colon/dash."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0004",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Translation is sometimes imagined as swapping words like coins of equal value. Experienced translators instead negotiate tone, idiom, and cultural reference, accepting that some jokes or allusions will not survive unchanged. A faithful translation, on this view, preserves a text's function for a new audience more than it preserves every local detail.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The author implies all of the following EXCEPT that",
+    "options": {
+      "A": "tone and idiom may need negotiation",
+      "B": "some jokes may not survive unchanged",
+      "C": "faithfulness can mean preserving function for a new audience",
+      "D": "dictionary equivalence alone guarantees a successful literary translation"
+    },
+    "correct": "D",
+    "explanation": "NOT/EXCEPT process trap. EXCEPT items: students pick a true implication instead of the one NOT implied.",
+    "distractor_notes": {
+      "A": "Trap or unsupported.",
+      "B": "Trap or unsupported.",
+      "C": "Trap or unsupported.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "not_except_least"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Tempting wrong answers are supported; the keyed option contradicts the thesis.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "EXCEPT items: students pick a true implication instead of the one NOT implied.",
+      "how_to_avoid": "For EXCEPT, eliminate options the passage does support."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original trap item (Tier B)",
+      "url": "",
+      "license": "Original",
+      "attribution": "Domain 1 trap bank"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0005",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Migratory birds often rely on a combination of celestial cues, magnetic sensing, and learned landmarks. Experiments that shift the apparent star pattern in a planetarium can reorient captive birds' preferred direction, while disrupting magnetic fields alters orientation in some species more than others. The redundancy suggests navigation is a toolkit, not a single compass.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “Migratory birds often rely on a combination of cel…”?",
+    "options": {
+      "A": "A balanced restatement of the author's primary message.",
+      "B": "A misreading that flips a contrast in the passage.",
+      "C": "A fact from outside knowledge not grounded here.",
+      "D": "A detail that is mentioned but not central."
+    },
+    "correct": "A",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Central-idea trap (stimulus_misread).",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Contrast flips and outside knowledge feel familiar.",
+      "how_to_avoid": "Eliminate options that need information the stimulus lacks."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0005",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The orchestra pit smelled of resin and damp wood. From the wings, Elias watched the conductor raise her baton and felt the familiar dread that practice had not erased: not fear of missing notes, but fear of playing them perfectly and still being invisible. When the overture began, he focused on the boy in the third row who leaned forward as if the music were a rope.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage lit06?",
+    "options": {
+      "A": "From the wings, Elias watched the conductor raise her baton and felt the familiar dread that practice had not erased: not fear of missing notes, but fear of playing them ",
+      "B": "The orchestra pit smelled of resin and damp wood",
+      "C": "When the overture began, he focused on the boy in the third row who leaned forward as if the music were a rope",
+      "D": "a sentence that does not appear in the passage"
+    },
+    "correct": "A",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0005",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Railroad track miles in Region Q (thousands), selected years\nYear | Miles\n1860 | 12\n1870 | 31\n1880 | 58\n1890 | 79\n1900 | 84",
+      "citation": "Original instructional table (illustrative figures).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab06)?",
+    "options": {
+      "A": "Mileage grows quickly after 1860 and more slowly near 1900.",
+      "B": "Mileage declines every decade after 1860.",
+      "C": "The biggest decade jump is 1890–1900.",
+      "D": "Mileage is flat from 1870 to 1880."
+    },
+    "correct": "A",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0005",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "After the 1918 influenza pandemic, several U.S. cities debated lasting public-health powers such as quarantine authority and school closure rules. Business associations often favored narrow, temporary measures, while physicians' groups pushed for permanent boards with clearer reporting duties. The dispute revealed that epidemic memory faded unevenly across neighborhoods that had suffered different death rates.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable based on the text beginning “After the 1918 influenza pandemic, several U.S. ci…”?",
+    "options": {
+      "A": "A cautious inference aligned with the emphasis near “After the 1918 influenza pandemic, several U.S. ci….”",
+      "B": "An inference that contradicts a clear statement in the passage.",
+      "C": "An inference that requires elaborate outside conspiracy theories.",
+      "D": "An inference that the narrator explicitly rules out."
+    },
+    "correct": "A",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Inference trap (stimulus_misread).",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Attractive story-like leaps feel insightful but leave the text.",
+      "how_to_avoid": "Point to the sentence that licenses the inference."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0006",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Antibiotic resistance spreads when bacteria that survive drug exposure reproduce, and when resistance genes hitchhike on plasmids shared between cells. Overuse in clinics and agriculture can increase selective pressure. Stewardship programs aim to reserve powerful drugs for cases that need them, slowing—but not eliminating—the evolutionary process.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “Antibiotic resistance spreads when bacteria that s…”?",
+    "options": {
+      "A": "A misreading that flips a contrast in the passage.",
+      "B": "A balanced restatement of the author's primary message.",
+      "C": "A fact from outside knowledge not grounded here.",
+      "D": "A detail that is mentioned but not central."
+    },
+    "correct": "B",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "not_except_least"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Central-idea trap (not_except_least).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Contrast flips and outside knowledge feel familiar.",
+      "how_to_avoid": "Eliminate options that need information the stimulus lacks."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0006",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Call me whatever name the harbor clerks invent; I answer to the tide more than to any ledger. I have apprenticed under captains who loved maps and captains who loved luck, and I trust neither completely. What I trust is the smell of weather an hour before it arrives, and the way a ship's timber complains before a storm that charts refuse to predict.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage lit07?",
+    "options": {
+      "A": "Call me whatever name the harbor clerks invent; I answer to the tide more than to any ledger",
+      "B": "I have apprenticed under captains who loved maps and captains who loved luck, and I trust neither completely",
+      "C": "What I trust is the smell of weather an hour before it arrives, and the way a ship's timber complains before a storm that charts refuse to predict",
+      "D": "a sentence that does not appear in the passage"
+    },
+    "correct": "B",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "not_except_least"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0006",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Bacterial colony count (CFU/mL) after antibiotic exposure\nAntibiotic | 0 hours | 6 hours | 12 hours\nDrug P | 1.0e6 | 2.2e5 | 4.0e4\nDrug Q | 1.0e6 | 9.1e5 | 8.8e5\nControl (none) | 1.0e6 | 3.5e6 | 8.0e6",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab07)?",
+    "options": {
+      "A": "Drug Q reduces colonies more by 12 hours than Drug P does.",
+      "B": "Drug P reduces colonies more by 12 hours than Drug Q does.",
+      "C": "The control shrinks faster than Drug P.",
+      "D": "Drug P and Drug Q end tied near zero at 6 hours."
+    },
+    "correct": "B",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "not_except_least"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0006",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Museum labels once offered only names, dates, and materials. Many institutions now add brief interpretive sentences about labor, trade routes, or contested ownership. Supporters say the added context helps visitors see objects as historical evidence; critics worry that condensed labels risk oversimplifying debates that scholars still contest.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The passage beginning “Museum labels once offered only names, dates, and …” supports all of the following inferences EXCEPT",
+    "options": {
+      "A": "that context shapes how the phenomenon should be understood",
+      "B": "that the author considers the topic unworthy of analysis",
+      "C": "that details in the text point beyond a single isolated fact",
+      "D": "that readers should notice a tension or implication in the account"
+    },
+    "correct": "B",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "not_except_least"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Inference trap (not_except_least).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Under time pressure, students select a supported inference on EXCEPT items.",
+      "how_to_avoid": "Find three supported options; the remaining one is correct."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0007",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "The abandoned orchard still flowered, though no one harvested. Bees treated the neglect as invitation. Children dared one another to eat the unmarked fruit, then spit it out laughing.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “The abandoned orchard still flowered, though no on…”?",
+    "options": {
+      "A": "A misreading that flips a contrast in the passage.",
+      "B": "A fact from outside knowledge not grounded here.",
+      "C": "A balanced restatement of the author's primary message.",
+      "D": "A detail that is mentioned but not central."
+    },
+    "correct": "C",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "evidence_mismatch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "evidence_mismatch",
+      "trap_description": "Central-idea trap (evidence_mismatch).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Contrast flips and outside knowledge feel familiar.",
+      "how_to_avoid": "Eliminate options that need information the stimulus lacks."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0007",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "She had expected the museum to be quiet, but the gallery of clocks ticked in overlapping rhythms until the room itself felt like an argument. Each clock claimed a slightly different noon. Visitors laughed; she did not. Somewhere between the wrong noon and the right one, she thought, people misplaced whole afternoons of their lives.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage lit08?",
+    "options": {
+      "A": "She had expected the museum to be quiet, but the gallery of clocks ticked in overlapping rhythms until the room itself felt like an argument",
+      "B": "Somewhere between the wrong noon and the right one, she thought, people misplaced whole afternoons of their lives",
+      "C": "Each clock claimed a slightly different noon",
+      "D": "a sentence that does not appear in the passage"
+    },
+    "correct": "C",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "evidence_mismatch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "evidence_mismatch",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0007",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Average daily ridership (thousands) on a metro line by year\nYear | Ridership\n2016 | 112\n2017 | 118\n2018 | 121\n2019 | 125\n2020 | 61\n2021 | 74\n2022 | 98",
+      "citation": "Original instructional table (illustrative figures).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab08)?",
+    "options": {
+      "A": "2020 is the high point in the ridership series shown.",
+      "B": "Ridership never changed after 2016.",
+      "C": "2020 is the low point in the ridership series shown.",
+      "D": "2022 remained equal to 2020."
+    },
+    "correct": "C",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "evidence_mismatch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "evidence_mismatch",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0007",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Architectural preservation debates often pit authenticity against usability. Strict reconstruction may freeze a building at one idealized moment, while adaptive reuse can erase layers of later history that themselves document change. Planners who document each choice—what is restored, what is left scarred—treat the building as an archive rather than a stage set.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable based on the text beginning “Architectural preservation debates often pit authe…”?",
+    "options": {
+      "A": "An inference that contradicts a clear statement in the passage.",
+      "B": "An inference that requires elaborate outside conspiracy theories.",
+      "C": "A cautious inference aligned with the emphasis near “Architectural preservation debates often pit authe….”",
+      "D": "An inference that the narrator explicitly rules out."
+    },
+    "correct": "C",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "evidence_mismatch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "evidence_mismatch",
+      "trap_description": "Inference trap (evidence_mismatch).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Attractive story-like leaps feel insightful but leave the text.",
+      "how_to_avoid": "Point to the sentence that licenses the inference."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0008",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "A sonnet's volta marks a turn in thought, not merely a rhyme change. Readers who track only end sounds may miss the argument's pivot from problem to response.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “A sonnet's volta marks a turn in thought, not mere…”?",
+    "options": {
+      "A": "A misreading that flips a contrast in the passage.",
+      "B": "A fact from outside knowledge not grounded here.",
+      "C": "A detail that is mentioned but not central.",
+      "D": "A balanced restatement of the author's primary message."
+    },
+    "correct": "D",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "reversed_trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Central-idea trap (reversed_trend).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Contrast flips and outside knowledge feel familiar.",
+      "how_to_avoid": "Eliminate options that need information the stimulus lacks."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0008",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure.",
+      "citation": "Abraham Lincoln, Gettysburg Address (1863) — public domain; https://www.loc.gov/resource/rbpe.03301800/",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage hist01?",
+    "options": {
+      "A": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created ",
+      "B": "Additional clause unrelated to the target claim",
+      "C": "a sentence that does not appear in the passage",
+      "D": "Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure"
+    },
+    "correct": "D",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "reversed_trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0008",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Dissolved oxygen (mg/L) at three river sites across seasons\nSite | Spring | Summer | Autumn\nUpstream | 9.8 | 8.1 | 9.2\nMidstream (near factory) | 7.4 | 4.2 | 6.8\nDownstream | 8.0 | 5.5 | 7.1",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab09)?",
+    "options": {
+      "A": "Upstream summer oxygen is lower than midstream summer oxygen.",
+      "B": "All sites share identical autumn oxygen.",
+      "C": "Downstream oxygen exceeds upstream oxygen in every season.",
+      "D": "Midstream summer oxygen is the lowest value among the three sites' seasons shown."
+    },
+    "correct": "D",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "reversed_trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0008",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Coral bleaching occurs when stressed polyps expel the symbiotic algae that provide much of their energy and color. Elevated sea temperatures are a frequent trigger, though pollution and extreme light can also contribute. Bleached colonies are not immediately dead, but prolonged stress sharply raises mortality and can shift reef communities toward algae-dominated states.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable based on the text beginning “Coral bleaching occurs when stressed polyps expel …”?",
+    "options": {
+      "A": "An inference that contradicts a clear statement in the passage.",
+      "B": "An inference that requires elaborate outside conspiracy theories.",
+      "C": "An inference that the narrator explicitly rules out.",
+      "D": "A cautious inference aligned with the emphasis near “Coral bleaching occurs when stressed polyps expel ….”"
+    },
+    "correct": "D",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "reversed_trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Inference trap (reversed_trend).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Attractive story-like leaps feel insightful but leave the text.",
+      "how_to_avoid": "Point to the sentence that licenses the inference."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0009",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Glaciers record past atmospheres in trapped air bubbles. Scientists reading those bubbles reconstruct carbon dioxide levels across millennia of climate change.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “Glaciers record past atmospheres in trapped air bu…”?",
+    "options": {
+      "A": "A balanced restatement of the author's primary message.",
+      "B": "A misreading that flips a contrast in the passage.",
+      "C": "A fact from outside knowledge not grounded here.",
+      "D": "A detail that is mentioned but not central."
+    },
+    "correct": "A",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "misconception"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Central-idea trap (misconception).",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Contrast flips and outside knowledge feel familiar.",
+      "how_to_avoid": "Eliminate options that need information the stimulus lacks."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0009",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.—That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed.",
+      "citation": "Declaration of Independence (1776) — public domain; https://www.archives.gov/founding-docs/declaration-transcript",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage hist02?",
+    "options": {
+      "A": "—That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed",
+      "B": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life",
+      "C": "Additional clause unrelated to the target claim",
+      "D": "a sentence that does not appear in the passage"
+    },
+    "correct": "A",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "misconception"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0009",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Literacy rate (%) estimated for adults in Province R\nDecade | Men | Women\n1880s | 62 | 41\n1890s | 68 | 49\n1900s | 74 | 58\n1910s | 79 | 66",
+      "citation": "Original instructional table (illustrative estimates).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab10)?",
+    "options": {
+      "A": "Women's literacy rises but stays below men's in each decade shown.",
+      "B": "Women's literacy exceeds men's by the 1890s.",
+      "C": "Men's literacy falls across the decades shown.",
+      "D": "Literacy rates are unchanged for both groups."
+    },
+    "correct": "A",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "misconception"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0009",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Vaccines train the immune system with antigens that do not cause the full disease. Memory cells formed after vaccination can respond faster upon later exposure to the pathogen. Coverage matters at the population level: when enough people are immune, chains of transmission shorten, protecting individuals who cannot be vaccinated for medical reasons.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable based on the text beginning “Vaccines train the immune system with antigens tha…”?",
+    "options": {
+      "A": "A cautious inference aligned with the emphasis near “Vaccines train the immune system with antigens tha….”",
+      "B": "An inference that contradicts a clear statement in the passage.",
+      "C": "An inference that requires elaborate outside conspiracy theories.",
+      "D": "An inference that the narrator explicitly rules out."
+    },
+    "correct": "A",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "misconception"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Inference trap (misconception).",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Attractive story-like leaps feel insightful but leave the text.",
+      "how_to_avoid": "Point to the sentence that licenses the inference."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0010",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Metaphor lets writers map unfamiliar experiences onto familiar ones. Overused metaphors, however, stop prompting thought and become invisible furniture in the sentence.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “Metaphor lets writers map unfamiliar experiences o…”?",
+    "options": {
+      "A": "An extreme version using always/never that the text does not support.",
+      "B": "A nuanced statement matching the author's actual scope.",
+      "C": "A denial that the topic appears in the text.",
+      "D": "A focus on a trivial side detail only."
+    },
+    "correct": "B",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "absolute_wording"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Central-idea trap (absolute_wording).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Extreme wording sounds confidently 'main'.",
+      "how_to_avoid": "Match hedges and scope words."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0010",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "During the early twentieth century, many U.S. cities expanded streetcar networks outward from downtown commercial cores. Fare structures and land speculation often pushed residential growth along the lines faster than municipal services could follow. Reformers argued that annexation and zoning were needed not merely for aesthetics but to ensure sewers, schools, and fire protection kept pace with the new neighborhoods.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage hist03?",
+    "options": {
+      "A": "During the early twentieth century, many U",
+      "B": "cities expanded streetcar networks outward from downtown commercial cores",
+      "C": "Fare structures and land speculation often pushed residential growth along the lines faster than municipal services could follow",
+      "D": "a sentence that does not appear in the passage"
+    },
+    "correct": "B",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "absolute_wording"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0010",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Pollinator visits per hour to four flower colors in a field trial\nColor | Bees | Butterflies\nYellow | 42 | 11\nPurple | 38 | 19\nWhite | 21 | 8\nRed | 9 | 24",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab11)?",
+    "options": {
+      "A": "Red attracts the most bees in the trial.",
+      "B": "Red attracts the most butterflies but the fewest bees among the colors shown.",
+      "C": "Yellow attracts the fewest butterflies.",
+      "D": "White leads in both bee and butterfly visits."
+    },
+    "correct": "B",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "absolute_wording"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0010",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Antibiotic resistance spreads when bacteria that survive drug exposure reproduce, and when resistance genes hitchhike on plasmids shared between cells. Overuse in clinics and agriculture can increase selective pressure. Stewardship programs aim to reserve powerful drugs for cases that need them, slowing—but not eliminating—the evolutionary process.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable based on the text beginning “Antibiotic resistance spreads when bacteria that s…”?",
+    "options": {
+      "A": "The passage proves the described pattern always holds in every possible case.",
+      "B": "The passage supports a limited, conditional conclusion rather than a universal law.",
+      "C": "The author denies that any pattern exists.",
+      "D": "Nothing in the text can support even a cautious conclusion."
+    },
+    "correct": "B",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "absolute_wording"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Inference trap (absolute_wording).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Always/every options feel 'strong' and test-like but overreach.",
+      "how_to_avoid": "Downgrade absolutes unless the passage uses absolute language."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0011",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Nitrogen fixation converts atmospheric N2 into forms plants can use. Without microbial fixers or fertilizers, many ecosystems would be sharply nitrogen-limited.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “Nitrogen fixation converts atmospheric N2 into for…”?",
+    "options": {
+      "A": "A misreading that flips a contrast in the passage.",
+      "B": "A fact from outside knowledge not grounded here.",
+      "C": "A balanced restatement of the author's primary message.",
+      "D": "A detail that is mentioned but not central."
+    },
+    "correct": "C",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "near_miss_fact"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Central-idea trap (near_miss_fact).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Contrast flips and outside knowledge feel familiar.",
+      "how_to_avoid": "Eliminate options that need information the stimulus lacks."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0011",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "In the decades after 1945, several newly independent states in Asia and Africa pursued mixed strategies of state-led industrialization and agricultural reform. Leaders often framed these policies as escapes from colonial economic patterns that had favored export crops over domestic manufacturing. Outcomes varied widely: some countries built durable industries, while others faced debt crises when commodity prices fell.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage hist04?",
+    "options": {
+      "A": "In the decades after 1945, several newly independent states in Asia and Africa pursued mixed strategies of state-led industrialization and agricultural reform",
+      "B": "Outcomes varied widely: some countries built durable industries, while others faced debt crises when commodity prices fell",
+      "C": "Leaders often framed these policies as escapes from colonial economic patterns that had favored export crops over domestic manufacturing",
+      "D": "a sentence that does not appear in the passage"
+    },
+    "correct": "C",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "near_miss_fact"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0011",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "table",
+      "content": "Mean test score by tutoring hours per week (same class, n=25 per group)\nHours | Mean score\n0 | 68\n1 | 74\n2 | 79\n3 | 81\n4 | 82",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab12)?",
+    "options": {
+      "A": "Mean score falls whenever tutoring hours increase.",
+      "B": "Four hours yields a lower mean than zero hours.",
+      "C": "Mean score rises with hours, with smaller gains at the highest hour levels.",
+      "D": "Each added hour raises the mean by exactly ten points."
+    },
+    "correct": "C",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "near_miss_fact"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0011",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Grandmother's recipes omitted salt amounts, saying the cook must taste the weather. Rainy weeks meant less brine; dry weeks meant more. Guests who demanded exact teaspoons left disappointed.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable based on the text beginning “Grandmother's recipes omitted salt amounts, saying…”?",
+    "options": {
+      "A": "An inference that contradicts a clear statement in the passage.",
+      "B": "An inference that requires elaborate outside conspiracy theories.",
+      "C": "A cautious inference aligned with the emphasis near “Grandmother's recipes omitted salt amounts, saying….”",
+      "D": "An inference that the narrator explicitly rules out."
+    },
+    "correct": "C",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "near_miss_fact"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Inference trap (near_miss_fact).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Attractive story-like leaps feel insightful but leave the text.",
+      "how_to_avoid": "Point to the sentence that licenses the inference."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0012",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Marta stacked the letters she would never send on the windowsill, ordered by the month she had drafted them. January's pages were angry; June's were almost kind. She told herself that keeping them was enough—that the act of writing had already done the work of speaking. Still, each time the postman passed, she felt the unfinished conversation tug at her sleeve.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “Marta stacked the letters she would never send on …”?",
+    "options": {
+      "A": "A true minor detail from the first sentence, treated as if it were the whole point.",
+      "B": "A claim that contradicts the passage's conclusion.",
+      "C": "A claim that the author says is irrelevant.",
+      "D": "The passage's controlling idea combines the topic with the author's specific emphasis or problem frame."
+    },
+    "correct": "D",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "partial_truth"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Central-idea trap (partial_truth).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "First-sentence details feel like main ideas.",
+      "how_to_avoid": "Summarize the whole passage in one line before choosing."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0012",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Medieval European craft guilds regulated training, product quality, and market entry in many towns. Apprenticeship terms could last years, and mastership often required a masterpiece judged by existing members. Critics later claimed guilds stifled innovation; defenders replied that they protected consumers from fraud and workers from sudden wage collapse in thin markets.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage hist05?",
+    "options": {
+      "A": "Medieval European craft guilds regulated training, product quality, and market entry in many towns",
+      "B": "Critics later claimed guilds stifled innovation; defenders replied that they protected consumers from fraud and workers from sudden wage collapse in thin markets",
+      "C": "a sentence that does not appear in the passage",
+      "D": "Apprenticeship terms could last years, and mastership often required a masterpiece judged by existing members"
+    },
+    "correct": "D",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "partial_truth"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0012",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "table",
+      "content": "Average July air temperature (°C) at four weather stations, 1990 vs. 2020\nStation | 1990 | 2020\nCoastal A | 22.1 | 23.4\nCoastal B | 21.8 | 22.0\nInland C | 26.5 | 28.9\nInland D | 25.2 | 27.1",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab01)?",
+    "options": {
+      "A": "Coastal B's increase exceeds Inland C's increase.",
+      "B": "All stations show zero change.",
+      "C": "Coastal A cooled by more than 5°C.",
+      "D": "Inland C's increase exceeds Coastal B's increase."
+    },
+    "correct": "D",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "partial_truth"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0012",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Canal companies in the 1820s sold shares by promising farmers cheaper routes to coastal markets. Some canals repaid investors; others stalled in unfinished cuts when credit tightened.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable based on the text beginning “Canal companies in the 1820s sold shares by promis…”?",
+    "options": {
+      "A": "An inference that contradicts a clear statement in the passage.",
+      "B": "An inference that requires elaborate outside conspiracy theories.",
+      "C": "An inference that the narrator explicitly rules out.",
+      "D": "A cautious inference aligned with the emphasis near “Canal companies in the 1820s sold shares by promis….”"
+    },
+    "correct": "D",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "partial_truth"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Inference trap (partial_truth).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Attractive story-like leaps feel insightful but leave the text.",
+      "how_to_avoid": "Point to the sentence that licenses the inference."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0013",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.—That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed.",
+      "citation": "Declaration of Independence (1776) — public domain; https://www.archives.gov/founding-docs/declaration-transcript",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “We hold these truths to be self-evident, that all …”?",
+    "options": {
+      "A": "A balanced restatement of the author's primary message.",
+      "B": "A misreading that flips a contrast in the passage.",
+      "C": "A fact from outside knowledge not grounded here.",
+      "D": "A detail that is mentioned but not central."
+    },
+    "correct": "A",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Central-idea trap (stimulus_misread).",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Contrast flips and outside knowledge feel familiar.",
+      "how_to_avoid": "Eliminate options that need information the stimulus lacks."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0013",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "The Homestead Act of 1862 offered qualifying applicants title to surveyed public land after residency and improvement requirements were met. In practice, success depended on rainfall, capital for tools, and proximity to railroads. Speculators and large ranching interests sometimes acquired claims in ways that undercut the image of an evenly distributed yeoman frontier.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage hist06?",
+    "options": {
+      "A": "In practice, success depended on rainfall, capital for tools, and proximity to railroads",
+      "B": "The Homestead Act of 1862 offered qualifying applicants title to surveyed public land after residency and improvement requirements were met",
+      "C": "Speculators and large ranching interests sometimes acquired claims in ways that undercut the image of an evenly distributed yeoman frontier",
+      "D": "a sentence that does not appear in the passage"
+    },
+    "correct": "A",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0013",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "table",
+      "content": "Bird species counts in a wetland before and after a restoration project\nSpecies group | Before | After (3 years)\nWading birds | 18 | 41\nSongbirds | 56 | 62\nWaterfowl | 30 | 29\nRaptors | 4 | 7",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab02)?",
+    "options": {
+      "A": "Wading birds increased much more than waterfowl after restoration.",
+      "B": "Waterfowl increased much more than wading birds after restoration.",
+      "C": "Raptors disappeared after restoration.",
+      "D": "Songbirds fell by half after restoration."
+    },
+    "correct": "A",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0013",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "text",
+      "content": "Treaty language often used ambiguous borders described by rivers that later changed course. Cartographers then inherited disputes that diplomats had postponed rather than solved.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable based on the text beginning “Treaty language often used ambiguous borders descr…”?",
+    "options": {
+      "A": "A cautious inference aligned with the emphasis near “Treaty language often used ambiguous borders descr….”",
+      "B": "An inference that contradicts a clear statement in the passage.",
+      "C": "An inference that requires elaborate outside conspiracy theories.",
+      "D": "An inference that the narrator explicitly rules out."
+    },
+    "correct": "A",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Correct.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "stimulus_misread"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Inference trap (stimulus_misread).",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Attractive story-like leaps feel insightful but leave the text.",
+      "how_to_avoid": "Point to the sentence that licenses the inference."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0014",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Nineteenth-century abolitionist newspapers circulated not only moral arguments but also first-person narratives by formerly enslaved people. Editors selected excerpts that would move Northern readers while surviving postal censorship and libel threats. The resulting archive is powerful, yet incomplete: many voices never reached print, and some published texts were shaped by white amanuenses.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “Nineteenth-century abolitionist newspapers circula…”?",
+    "options": {
+      "A": "A misreading that flips a contrast in the passage.",
+      "B": "A balanced restatement of the author's primary message.",
+      "C": "A fact from outside knowledge not grounded here.",
+      "D": "A detail that is mentioned but not central."
+    },
+    "correct": "B",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "not_except_least"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Central-idea trap (not_except_least).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Contrast flips and outside knowledge feel familiar.",
+      "how_to_avoid": "Eliminate options that need information the stimulus lacks."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0014",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Nineteenth-century abolitionist newspapers circulated not only moral arguments but also first-person narratives by formerly enslaved people. Editors selected excerpts that would move Northern readers while surviving postal censorship and libel threats. The resulting archive is powerful, yet incomplete: many voices never reached print, and some published texts were shaped by white amanuenses.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage hist07?",
+    "options": {
+      "A": "Nineteenth-century abolitionist newspapers circulated not only moral arguments but also first-person narratives by formerly enslaved people",
+      "B": "Editors selected excerpts that would move Northern readers while surviving postal censorship and libel threats",
+      "C": "The resulting archive is powerful, yet incomplete: many voices never reached print, and some published texts were shaped by white amanuenses",
+      "D": "a sentence that does not appear in the passage"
+    },
+    "correct": "B",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "not_except_least"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0014",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Share of urban population (%) in four countries, 1900 and 1950\nCountry | 1900 | 1950\nW | 28 | 51\nX | 12 | 19\nY | 45 | 62\nZ | 33 | 34",
+      "citation": "Original instructional table (illustrative percentages).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab03)?",
+    "options": {
+      "A": "Country Z urbanizes faster than Country W.",
+      "B": "Country W's urban share rises far more than Country Z's between 1900 and 1950.",
+      "C": "Country Y's urban share falls over the period.",
+      "D": "Country X has the highest urban share in both years."
+    },
+    "correct": "B",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "not_except_least"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0014",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Public statues teach civic memory as much as they celebrate individuals. Removing or relocating one does not erase history; it changes which story a plaza endorses.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The passage beginning “Public statues teach civic memory as much as they …” supports all of the following inferences EXCEPT",
+    "options": {
+      "A": "that context shapes how the phenomenon should be understood",
+      "B": "that the author considers the topic unworthy of analysis",
+      "C": "that details in the text point beyond a single isolated fact",
+      "D": "that readers should notice a tension or implication in the account"
+    },
+    "correct": "B",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Correct.",
+      "C": "Trap/wrong.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "not_except_least"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Inference trap (not_except_least).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Under time pressure, students select a supported inference on EXCEPT items.",
+      "how_to_avoid": "Find three supported options; the remaining one is correct."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0015",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "In classical rhetoric, ethos, pathos, and logos name overlapping means of persuasion rather than mutually exclusive boxes. A speaker who cites a careful study (logos) may also remind listeners of shared civic identity (ethos) while describing consequences that stir concern (pathos). Effective analysis asks which appeal dominates a passage, not which one alone is present.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “In classical rhetoric, ethos, pathos, and logos na…”?",
+    "options": {
+      "A": "A misreading that flips a contrast in the passage.",
+      "B": "A fact from outside knowledge not grounded here.",
+      "C": "A balanced restatement of the author's primary message.",
+      "D": "A detail that is mentioned but not central."
+    },
+    "correct": "C",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "evidence_mismatch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "evidence_mismatch",
+      "trap_description": "Central-idea trap (evidence_mismatch).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Contrast flips and outside knowledge feel familiar.",
+      "how_to_avoid": "Eliminate options that need information the stimulus lacks."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0015",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "After the 1918 influenza pandemic, several U.S. cities debated lasting public-health powers such as quarantine authority and school closure rules. Business associations often favored narrow, temporary measures, while physicians' groups pushed for permanent boards with clearer reporting duties. The dispute revealed that epidemic memory faded unevenly across neighborhoods that had suffered different death rates.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage hist08?",
+    "options": {
+      "A": "After the 1918 influenza pandemic, several U",
+      "B": "Business associations often favored narrow, temporary measures, while physicians' groups pushed for permanent boards with clearer reporting duties",
+      "C": "cities debated lasting public-health powers such as quarantine authority and school closure rules",
+      "D": "a sentence that does not appear in the passage"
+    },
+    "correct": "C",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "evidence_mismatch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "evidence_mismatch",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0015",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Mean reaction time (ms) on a vigilance task by sleep condition (n=40 each)\nCondition | Mean RT | Errors\n8 hours sleep | 312 | 2.1\n5 hours sleep | 368 | 4.8\nTotal sleep deprivation (24h) | 441 | 9.3",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab04)?",
+    "options": {
+      "A": "Total sleep deprivation yields the fastest mean RT.",
+      "B": "Errors are lowest after 24 hours without sleep.",
+      "C": "Less sleep is linked to slower RT and more errors across conditions.",
+      "D": "Eight-hour sleep produces the slowest mean RT."
+    },
+    "correct": "C",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "evidence_mismatch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "evidence_mismatch",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0015",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Glaciers record past atmospheres in trapped air bubbles. Scientists reading those bubbles reconstruct carbon dioxide levels across millennia of climate change.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable based on the text beginning “Glaciers record past atmospheres in trapped air bu…”?",
+    "options": {
+      "A": "An inference that contradicts a clear statement in the passage.",
+      "B": "An inference that requires elaborate outside conspiracy theories.",
+      "C": "A cautious inference aligned with the emphasis near “Glaciers record past atmospheres in trapped air bu….”",
+      "D": "An inference that the narrator explicitly rules out."
+    },
+    "correct": "C",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Correct.",
+      "D": "Trap/wrong."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "evidence_mismatch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "evidence_mismatch",
+      "trap_description": "Inference trap (evidence_mismatch).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Attractive story-like leaps feel insightful but leave the text.",
+      "how_to_avoid": "Point to the sentence that licenses the inference."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.1-trap-0016",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.1",
+    "topic_title": "Central Ideas and Details",
+    "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+    "skill": "Central Ideas and Details",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Coral bleaching occurs when stressed polyps expel the symbiotic algae that provide much of their energy and color. Elevated sea temperatures are a frequent trigger, though pollution and extreme light can also contribute. Bleached colonies are not immediately dead, but prolonged stress sharply raises mortality and can shift reef communities toward algae-dominated states.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which choice best states the main idea of the text beginning “Coral bleaching occurs when stressed polyps expel …”?",
+    "options": {
+      "A": "A misreading that flips a contrast in the passage.",
+      "B": "A fact from outside knowledge not grounded here.",
+      "C": "A detail that is mentioned but not central.",
+      "D": "A balanced restatement of the author's primary message."
+    },
+    "correct": "D",
+    "explanation": "Main idea must cover the passage's emphasis without distortion.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.1",
+      "reversed_trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Central-idea trap (reversed_trend).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Contrast flips and outside knowledge feel familiar.",
+      "how_to_avoid": "Eliminate options that need information the stimulus lacks."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.2-trap-0016",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.2",
+    "topic_title": "Command of Evidence (Textual)",
+    "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Textual",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Art historians sometimes describe the shift from fresco to portable oil painting in early modern Europe as a change not only of medium but of market. Oils could travel, be resold, and hang in private rooms. Patronage still mattered, yet collectors increasingly treated paintings as movable assets, altering what subjects artists chose when commissions were scarce.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which quotation from the text best supports the claim that the author highlights a significant consequence or stakes in passage hum01?",
+    "options": {
+      "A": "Art historians sometimes describe the shift from fresco to portable oil painting in early modern Europe as a change not only of medium but of market",
+      "B": "Patronage still mattered, yet collectors increasingly treated paintings as movable assets, altering what subjects artists chose when commissions were scarce",
+      "C": "a sentence that does not appear in the passage",
+      "D": "Oils could travel, be resold, and hang in private rooms"
+    },
+    "correct": "D",
+    "explanation": "Best evidence must establish stakes/consequence, not merely introduce the topic.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.2",
+      "reversed_trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Evidence that is true but not consequential to the claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the opening definition/detail instead of consequence language.",
+      "how_to_avoid": "Locate claim keywords (effect, risk, change, debate) in the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.3-trap-0016",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.3",
+    "topic_title": "Command of Evidence (Quantitative)",
+    "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+    "skill": "Command of Evidence — Quantitative",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Crop yield (bushels/acre) under three fertilizer treatments\nTreatment | Year 1 | Year 2 | Year 3\nNone | 48 | 45 | 44\nStandard NPK | 72 | 75 | 74\nNPK + cover crop | 70 | 78 | 81",
+      "citation": "Original instructional table (generated data for practice).",
+      "asset_path": null
+    },
+    "question": "Which claim is best supported by the table (tab05)?",
+    "options": {
+      "A": "By Year 3, no fertilizer exceeds both fertilized treatments.",
+      "B": "Standard NPK yields fall each year.",
+      "C": "Cover crops reduce Year 3 yield below the control.",
+      "D": "By Year 3, NPK + cover crop exceeds standard NPK yield."
+    },
+    "correct": "D",
+    "explanation": "Correct reading of the table; tempting option flips the relationship.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.3",
+      "reversed_trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Quantitative reverse/skimming trap.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse highs/lows or swap categories when skimming tables.",
+      "how_to_avoid": "Write the comparison inequality before looking at choices."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  },
+  {
+    "id": "satrw-d1-t1.4-trap-0016",
+    "subject": "satrw",
+    "unit": 1,
+    "unit_title": "Information and Ideas",
+    "topic": "1.4",
+    "topic_title": "Inferences",
+    "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+    "skill": "Inferences",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Rain drummed the tin roof in a tempo that made conversation impossible, so they played cards by gesture. By midnight, winning mattered less than not being alone with the storm.",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which inference is most reasonable based on the text beginning “Rain drummed the tin roof in a tempo that made con…”?",
+    "options": {
+      "A": "An inference that contradicts a clear statement in the passage.",
+      "B": "An inference that requires elaborate outside conspiracy theories.",
+      "C": "An inference that the narrator explicitly rules out.",
+      "D": "A cautious inference aligned with the emphasis near “Rain drummed the tin roof in a tempo that made con….”"
+    },
+    "correct": "D",
+    "explanation": "Stay within what the passage warrants.",
+    "distractor_notes": {
+      "A": "Trap/wrong.",
+      "B": "Trap/wrong.",
+      "C": "Trap/wrong.",
+      "D": "Correct."
+    },
+    "tags": [
+      "satrw",
+      "domain-1",
+      "trap",
+      "topic-1.4",
+      "reversed_trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Inference trap (reversed_trend).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Attractive story-like leaps feel insightful but leave the text.",
+      "how_to_avoid": "Point to the sentence that licenses the inference."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original SAT RW practice item (Tier B)",
+      "url": "",
+      "license": "Original; public-domain excerpts cited in stimulus when used",
+      "attribution": "Written for this bank; no proprietary SAT items reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "author_solve_plus_structural_audit",
+      "confidence": 0.9,
+      "citations": [
+        "https://satsuite.collegeboard.org/sat/whats-on-the-test/reading-writing",
+        "https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf"
+      ]
+    },
+    "created_at": "2026-10-08T16:45:00Z"
+  }
+]

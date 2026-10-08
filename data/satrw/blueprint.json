@@ -1,0 +1,122 @@
+{
+  "subject": "satrw",
+  "name": "Digital SAT Reading and Writing",
+  "ced_source": "College Board Digital SAT Suite specifications (domains/skills)",
+  "targets": {
+    "min_standard_per_domain": 280,
+    "min_traps_per_domain": 60,
+    "min_per_topic_standard": 40,
+    "min_traps_per_topic": 8
+  },
+  "units": [
+    {
+      "unit": 1,
+      "title": "Information and Ideas",
+      "topics": [
+        {
+          "id": "1.1",
+          "title": "Central Ideas and Details",
+          "learning_objective": "Determine the central idea of a text and/or interpret the key details supporting that idea.",
+          "standard_count": 72,
+          "trap_count": 16
+        },
+        {
+          "id": "1.2",
+          "title": "Command of Evidence (Textual)",
+          "learning_objective": "Determine the textual evidence (a fact, detail, or example from a text) that best supports a specified claim or point.",
+          "standard_count": 72,
+          "trap_count": 16
+        },
+        {
+          "id": "1.3",
+          "title": "Command of Evidence (Quantitative)",
+          "learning_objective": "Determine the quantitative evidence (data from an informational graphic) that best supports a specified claim or point.",
+          "standard_count": 72,
+          "trap_count": 16
+        },
+        {
+          "id": "1.4",
+          "title": "Inferences",
+          "learning_objective": "Draw reasonable inferences based on explicit and/or implicit information and ideas in a text.",
+          "standard_count": 72,
+          "trap_count": 16
+        }
+      ],
+      "standard_count": 288,
+      "trap_count": 64
+    },
+    {
+      "unit": 2,
+      "title": "Craft and Structure",
+      "topics": [
+        {
+          "id": "2.1",
+          "title": "Words in Context",
+          "learning_objective": "Determine the meaning of words/phrases in context.",
+          "standard_count": 100,
+          "trap_count": 22
+        },
+        {
+          "id": "2.2",
+          "title": "Text Structure and Purpose",
+          "learning_objective": "Analyze why an author structures a text or includes a portion.",
+          "standard_count": 100,
+          "trap_count": 22
+        },
+        {
+          "id": "2.3",
+          "title": "Cross-Text Connections",
+          "learning_objective": "Compare/contrast ideas across two short related texts.",
+          "standard_count": 100,
+          "trap_count": 22
+        }
+      ],
+      "standard_count": 300,
+      "trap_count": 66
+    },
+    {
+      "unit": 3,
+      "title": "Expression of Ideas",
+      "topics": [
+        {
+          "id": "3.1",
+          "title": "Rhetorical Synthesis",
+          "learning_objective": "Combine notes to achieve a stated rhetorical goal.",
+          "standard_count": 145,
+          "trap_count": 32
+        },
+        {
+          "id": "3.2",
+          "title": "Transitions",
+          "learning_objective": "Choose the most logical transition word or sentence.",
+          "standard_count": 145,
+          "trap_count": 32
+        }
+      ],
+      "standard_count": 290,
+      "trap_count": 64
+    },
+    {
+      "unit": 4,
+      "title": "Standard English Conventions",
+      "topics": [
+        {
+          "id": "4.1",
+          "title": "Boundaries",
+          "learning_objective": "Punctuate and join clauses correctly (commas, semicolons, colons, dashes, periods); fix splices, fragments, and run-ons.",
+          "standard_count": 150,
+          "trap_count": 34
+        },
+        {
+          "id": "4.2",
+          "title": "Form, Structure, and Sense",
+          "learning_objective": "Ensure subject-verb agreement, pronoun clarity/case, verb tense and form, modifier placement, parallelism, and logical comparisons.",
+          "standard_count": 150,
+          "trap_count": 34
+        }
+      ],
+      "standard_count": 300,
+      "trap_count": 68
+    }
+  ]
+}

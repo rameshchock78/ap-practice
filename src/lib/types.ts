@@ -1,9 +1,9 @@
-export type SubjectId = "apush" | "apchem";
+export type SubjectId = "apush" | "apchem" | "satrw";
 export type Section = "standard" | "trap";
 export type Difficulty = "easy" | "medium" | "hard";
 
 export type Stimulus = {
-  type: "text" | "image" | "table" | "graph" | "none";
+  type: "text" | "image" | "table" | "graph" | "none" | "paired_passages";
   content?: string;
   citation?: string;
   asset_path?: string | null;
@@ -19,7 +19,7 @@ export type TrapMeta = {
 
 export type Question = {
   id: string;
-  subject: SubjectId;
+  subject: SubjectId | string;
   unit: number;
   unit_title: string;
   topic: string;
@@ -60,7 +60,7 @@ export type BlueprintUnit = {
 };
 
 export type Blueprint = {
-  subject: SubjectId;
+  subject: SubjectId | string;
   name: string;
   units: BlueprintUnit[];
 };

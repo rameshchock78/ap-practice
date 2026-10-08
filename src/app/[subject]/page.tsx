@@ -1,10 +1,10 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getBlueprint } from "@/lib/data";
-import { SUBJECTS, isSubjectId } from "@/lib/subjects";
+import { SUBJECT_IDS, SUBJECTS, isSubjectId } from "@/lib/subjects";
 
 export function generateStaticParams() {
-  return [{ subject: "apush" }, { subject: "apchem" }];
+  return SUBJECT_IDS.map((subject) => ({ subject }));
 }
 
 export default async function SubjectPage({
@@ -34,24 +34,23 @@ export default async function SubjectPage({
             style={{ background: subject.accent }}
             aria-hidden
           >
-            {subject.short === "APUSH" ? "USH" : "CHM"}
+            {subject.icon}
           </div>
           <div>
             <p className="kicker">Course</p>
             <h1 style={{ marginBottom: "0.35rem" }}>{subject.name}</h1>
             <p className="lede" style={{ maxWidth: "36rem" }}>
               {subject.blurb} {total.toLocaleString()} questions across{" "}
-              {blueprint.units.length} units.
+              {blueprint.units.length} {subject.partLabelPlural}.
             </p>
           </div>
         </div>
       </div>
 
-      <p className="section-label">Unit list</p>
+      <p className="section-label">{subject.partLabel} list</p>
       <div className="unit-list">
         {blueprint.units.map((unit) => {
-          const count =
-            (unit.standard_count || 0) + (unit.trap_count || 0);
+          const count = (unit.standard_count || 0) + (unit.trap_count || 0);
           return (
             <Link
               key={unit.unit}

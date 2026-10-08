@@ -7,6 +7,7 @@ export function SiteHeader() {
   const pathname = usePathname();
   const onApush = pathname?.startsWith("/apush");
   const onApchem = pathname?.startsWith("/apchem");
+  const onSatrw = pathname?.startsWith("/satrw");
 
   return (
     <header className="topnav">
@@ -16,7 +17,10 @@ export function SiteHeader() {
           Practice
         </Link>
         <nav className="topnav-links" aria-label="Subjects">
-          <Link href="/" className={!onApush && !onApchem ? "active" : undefined}>
+          <Link
+            href="/"
+            className={!onApush && !onApchem && !onSatrw ? "active" : undefined}
+          >
             Courses
           </Link>
           <Link href="/apush" className={onApush ? "active" : undefined}>
@@ -24,6 +28,9 @@ export function SiteHeader() {
           </Link>
           <Link href="/apchem" className={onApchem ? "active" : undefined}>
             AP Chem
+          </Link>
+          <Link href="/satrw" className={onSatrw ? "active" : undefined}>
+            SAT English
           </Link>
         </nav>
       </div>
