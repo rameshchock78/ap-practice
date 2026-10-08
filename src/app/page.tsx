@@ -23,25 +23,58 @@ export default async function HomePage() {
     },
   ];
 
+  const totalQ =
+    cards[0].standard + cards[0].traps + cards[1].standard + cards[1].traps;
+
   return (
     <>
-      <p className="eyebrow">High school AP practice</p>
-      <h1>Drill every unit. Then drill the traps.</h1>
-      <p className="lede">
-        A local question bank for AP U.S. History and AP Chemistry — standard MCQs
-        plus a separate trap set for each unit, with explanations after every
-        answer.
-      </p>
-      <div className="grid two">
+      <section className="hero">
+        <div>
+          <p className="kicker">Free AP practice</p>
+          <h1>Learn AP U.S. History and Chemistry, one question at a time</h1>
+          <p className="lede">
+            Structured practice across every unit — with a separate trap mode for
+            the mistakes students make most often. Instant explanations after each
+            answer.
+          </p>
+        </div>
+        <div className="hero-stats">
+          <div className="hero-stat">
+            <strong>{totalQ.toLocaleString()}</strong>
+            <span>Practice questions</span>
+          </div>
+          <div className="hero-stat">
+            <strong>2</strong>
+            <span>AP subjects</span>
+          </div>
+          <div className="hero-stat">
+            <strong>18</strong>
+            <span>Units covered</span>
+          </div>
+        </div>
+      </section>
+
+      <p className="section-label">Courses</p>
+      <div className="course-grid">
         {cards.map((c) => (
-          <Link key={c.id} href={`/${c.id}`} className="card">
-            <p className="eyebrow">{c.short}</p>
-            <h2>{c.name}</h2>
-            <p>{c.blurb}</p>
-            <div className="meta">
-              <span className="pill">{c.units} units</span>
-              <span className="pill">{c.standard.toLocaleString()} standard</span>
-              <span className="pill trap">{c.traps.toLocaleString()} traps</span>
+          <Link key={c.id} href={`/${c.id}`} className="course-card">
+            <div
+              className="course-icon"
+              style={{ background: c.accent }}
+              aria-hidden
+            >
+              {c.short === "APUSH" ? "USH" : "CHM"}
+            </div>
+            <div>
+              <h2>{c.name}</h2>
+              <p>{c.blurb}</p>
+              <div className="course-meta">
+                <span className="chip">{c.units} units</span>
+                <span className="chip accent">
+                  {c.standard.toLocaleString()} practice
+                </span>
+                <span className="chip warn">{c.traps.toLocaleString()} traps</span>
+              </div>
             </div>
           </Link>
         ))}

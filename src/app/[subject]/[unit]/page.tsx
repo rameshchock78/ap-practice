@@ -31,33 +31,49 @@ export default async function UnitPage({
 
   return (
     <>
-      <p className="eyebrow">
-        <Link href={`/${params.subject}`}>{subject.short}</Link> · Unit {unit.unit}
-      </p>
+      <nav className="breadcrumbs" aria-label="Breadcrumb">
+        <Link href="/">Courses</Link>
+        <span className="sep">/</span>
+        <Link href={`/${params.subject}`}>{subject.short}</Link>
+        <span className="sep">/</span>
+        <span>Unit {unit.unit}</span>
+      </nav>
+
+      <p className="kicker">Unit {unit.unit}</p>
       <h1>{unit.title}</h1>
       <p className="lede">
-        Choose a mode. Trap mode shows why the tempting wrong answer looks right,
-        and how to avoid it.
+        Start with standard practice to build coverage, then use trap mode to
+        train against the most common wrong answers.
       </p>
+
       <div className="mode-grid">
         <Link
           href={`/${params.subject}/${unit.unit}/standard`}
-          className="card"
+          className="mode-card standard"
         >
-          <p className="eyebrow">Mode</p>
-          <h2>Standard practice</h2>
-          <p>Full unit bank with explanations after each answer.</p>
-          <div className="meta">
-            <span className="pill">{unit.standard_count || 0} questions</span>
-          </div>
+          <div className="icon-circle">P</div>
+          <h2>Practice</h2>
+          <p>
+            Full unit bank with explanations after every answer. Filter by topic
+            and difficulty.
+          </p>
+          <span className="chip accent">
+            {unit.standard_count || 0} questions
+          </span>
+          <span className="cta">Start practice →</span>
         </Link>
-        <Link href={`/${params.subject}/${unit.unit}/traps`} className="card">
-          <p className="eyebrow">Mode</p>
-          <h2>Trap questions</h2>
-          <p>Common pitfalls, absolute wording, near-miss facts, and more.</p>
-          <div className="meta">
-            <span className="pill trap">{unit.trap_count || 0} traps</span>
-          </div>
+        <Link
+          href={`/${params.subject}/${unit.unit}/traps`}
+          className="mode-card traps"
+        >
+          <div className="icon-circle">T</div>
+          <h2>Trap drills</h2>
+          <p>
+            Focused items for misconceptions, absolute wording, near-miss facts,
+            and other exam traps.
+          </p>
+          <span className="chip warn">{unit.trap_count || 0} traps</span>
+          <span className="cta">Start trap drills →</span>
         </Link>
       </div>
     </>

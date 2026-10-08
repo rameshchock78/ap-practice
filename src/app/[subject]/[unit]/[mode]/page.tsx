@@ -38,16 +38,19 @@ export default async function PracticePage({
   if (!unit) notFound();
 
   const questions = await loadUnitQuestions(params.subject, unitNum, section);
+  const modeLabel = section === "trap" ? "Trap drills" : "Practice";
 
   return (
     <>
-      <p className="eyebrow" style={{ marginBottom: "0.75rem" }}>
+      <nav className="breadcrumbs" aria-label="Breadcrumb">
+        <Link href="/">Courses</Link>
+        <span className="sep">/</span>
         <Link href={`/${params.subject}`}>{subject.short}</Link>
-        {" · "}
+        <span className="sep">/</span>
         <Link href={`/${params.subject}/${unit.unit}`}>Unit {unit.unit}</Link>
-        {" · "}
-        {section === "trap" ? "Traps" : "Standard"}
-      </p>
+        <span className="sep">/</span>
+        <span>{modeLabel}</span>
+      </nav>
       <Quiz
         questions={questions}
         section={section}
