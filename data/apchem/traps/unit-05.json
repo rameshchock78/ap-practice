@@ -1,0 +1,4300 @@
+[
+  {
+    "id": "apchem-u5-t5.1-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.1",
+    "topic_title": "Reaction Rates",
+    "learning_objective": "Explain the relationship between the rate of a chemical reaction and experimental parameters. (5.1.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For N$_2$(g) + 3 H$_2$(g) → 2 NH$_3$(g), H$_2$ is consumed at 0.0600 M/s. At what rate is NH$_3$ formed?",
+    "options": {
+      "A": "0.0400 M/s",
+      "B": "0.0600 M/s",
+      "C": "0.0900 M/s",
+      "D": "0.0200 M/s"
+    },
+    "correct": "A",
+    "explanation": "NH$_3$ forms at $0.0600 \\times 2/3 = 0.0400$ M/s. The keyed answer is correct: 0.0400 M/s. This aligns with the topic (Reaction Rates) learning objective: Explain the relationship between the rate of a chemical reaction and experimental parameters. (5.1.A).",
+    "distractor_notes": {
+      "B": "Equal rates: tempting because the reaction rate is one number, but each species changes in proportion to its coefficient.",
+      "C": "Inverted the 3:2 ratio.",
+      "D": "Divided by the coefficient of H$_2$ only."
+    },
+    "tags": [
+      "stoichiometry"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students think all species change at the same rate.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The question mentions one reaction, so it feels like one rate applies to every substance.",
+      "how_to_avoid": "Scale rates by the coefficient ratio: rate of Y = rate of X × (coefficient of Y / coefficient of X)."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_rate",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.1-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.1",
+    "topic_title": "Reaction Rates",
+    "learning_objective": "Explain the relationship between the rate of a chemical reaction and experimental parameters. (5.1.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For 2 A → B, [A] changes from 0.50 M to 0.30 M in 10 s. Which value is the rate of appearance of B?",
+    "options": {
+      "A": "0.0200 M/s",
+      "B": "0.0400 M/s",
+      "C": "0.0100 M/s",
+      "D": "0.0300 M/s"
+    },
+    "correct": "C",
+    "explanation": "A disappears at $0.20/10 = 0.020$ M/s; B appears at half that, 0.0100 M/s.",
+    "distractor_notes": {
+      "A": "Reported the rate of disappearance of A rather than the rate of appearance of B.",
+      "B": "Doubled the rate of A when it should have been halved.",
+      "D": "Applied an incorrect ratio of 3/2."
+    },
+    "tags": [
+      "stoichiometry"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "A is consumed twice as fast as B is formed.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students use the coefficient of A (2) to multiply rather than divide.",
+      "how_to_avoid": "Ask which species has the larger coefficient: that species changes faster."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_rate",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.1-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.1",
+    "topic_title": "Reaction Rates",
+    "learning_objective": "Explain the relationship between the rate of a chemical reaction and experimental parameters. (5.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about reaction rates is correct?",
+    "options": {
+      "A": "Increasing temperature always increases the rate of every reaction by exactly a factor of 2 for each 10 K.",
+      "B": "The rate of a reaction is always constant throughout the reaction.",
+      "C": "Only the concentration of reactants can change the rate of a reaction.",
+      "D": "A catalyst can increase the rate of a reaction without being consumed overall."
+    },
+    "correct": "D",
+    "explanation": "Catalysts speed reactions by providing a lower-Ea path and are regenerated; the other statements are false or oversimplified.",
+    "distractor_notes": {
+      "A": "The '2 per 10 K' rule is only an approximation and not exact or universal.",
+      "B": "For most reactions the rate decreases as reactant concentrations fall.",
+      "C": "Temperature, surface area, and catalysts also affect rate."
+    },
+    "tags": [
+      "absolute wording"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Options use 'always' or 'only'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The rule of thumb for temperature is widely taught and sounds precise.",
+      "how_to_avoid": "Treat 'always' and 'only' claims with suspicion and look for counterexamples."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_rate",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.1-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.1",
+    "topic_title": "Reaction Rates",
+    "learning_objective": "Explain the relationship between the rate of a chemical reaction and experimental parameters. (5.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following would NOT be expected to increase the rate of reaction of zinc granules with dilute sulfuric acid at constant temperature?",
+    "options": {
+      "A": "Grinding the zinc granules into a fine powder",
+      "B": "Using the same mass of zinc as one solid lump instead of granules",
+      "C": "Replacing the acid with a more concentrated solution of the same acid",
+      "D": "Stirring the mixture vigorously"
+    },
+    "correct": "B",
+    "explanation": "A single lump has less surface area than granules, so it would slow, not speed, the reaction.",
+    "distractor_notes": {
+      "A": "More surface area increases the rate.",
+      "C": "Higher concentration of H$^+$ increases collision frequency.",
+      "D": "Stirring improves contact between acid and metal surface and speeds reaction."
+    },
+    "tags": [
+      "not/except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem requires choosing the option that does not increase rate.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students read past NOT and pick a factor that does increase the rate.",
+      "how_to_avoid": "Underline NOT/EXCEPT and test each option against the stem."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_rate",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.1-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.1",
+    "topic_title": "Reaction Rates",
+    "learning_objective": "Explain the relationship between the rate of a chemical reaction and experimental parameters. (5.1.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The average rate of disappearance of a reactant is $2.5 \\times 10^{-3}$ M/min. What is this rate in M/s?",
+    "options": {
+      "A": "$4.2 \\times 10^{-5}$ M/s",
+      "B": "0.15 M/s",
+      "C": "$2.5 \\times 10^{-3}$ M/s",
+      "D": "$6.9 \\times 10^{-7}$ M/s"
+    },
+    "correct": "A",
+    "explanation": "1 min = 60 s, so divide by 60: $2.5\\times10^{-3}/60 = 4.2\\times10^{-5}$ M/s.",
+    "distractor_notes": {
+      "B": "Multiplied by 60 when converting minutes to seconds in the denominator.",
+      "C": "Ignored the unit change.",
+      "D": "Divided by 3600 (hours) instead of 60."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Time unit conversion changes the numerical value.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Direction of conversion is easily reversed; the magnitude 'looks fine' either way.",
+      "how_to_avoid": "A rate per minute is larger than per second by 60×, so dividing by 60 gives a smaller number per second."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_rate",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.1-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.1",
+    "topic_title": "Reaction Rates",
+    "learning_objective": "Explain the relationship between the rate of a chemical reaction and experimental parameters. (5.1.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Time (s) | [A] (M)\n--- | ---\n0 | 0.8\n20 | 0.62\n40 | 0.48\n60 | 0.372",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "The table shows [A] over time for A → products. A student claims 'the reaction slows down because the rate constant gets smaller.' Which response is best supported by the data?",
+    "options": {
+      "A": "The claim is supported: each 20 s interval has a smaller concentration drop, so k must be decreasing.",
+      "B": "The average rate decreases because [A] decreases; the data do not show a change in the rate constant.",
+      "C": "The claim is unsupported because the rate stays the same in each interval.",
+      "D": "The claim is supported because k and rate always decrease together."
+    },
+    "correct": "B",
+    "explanation": "Interval rates fall from 9.0 to 5.5 × 10$^{-3}$ M/s because [A] falls; k is unchanged at constant T.",
+    "distractor_notes": {
+      "A": "At constant temperature k is constant; the drop is smaller because [A] is smaller.",
+      "C": "The concentration drops are 0.18, 0.14 and 0.11 M, so the rate is not constant.",
+      "D": "k depends on temperature, not on time or concentration."
+    },
+    "tags": [
+      "stimulus",
+      "rate constant"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "A true observation (rate slows) is attributed to the wrong cause (k).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The data show slowing, which seems to confirm the student's claim.",
+      "how_to_avoid": "Separate the observation (rate decreases) from its cause (lower concentration) and recall k depends on temperature only."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_rate",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.1-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.1",
+    "topic_title": "Reaction Rates",
+    "learning_objective": "Explain the relationship between the rate of a chemical reaction and experimental parameters. (5.1.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement correctly explains why a reaction that is thermodynamically favorable may still be very slow?",
+    "options": {
+      "A": "A negative ΔG means the reaction is spontaneous and therefore must also occur quickly.",
+      "B": "The products have lower energy than the reactants, which lowers the activation energy.",
+      "C": "The rate constant is always zero for spontaneous reactions at room temperature.",
+      "D": "A large activation energy barrier means few collisions have enough energy to react."
+    },
+    "correct": "D",
+    "explanation": "Thermodynamics governs whether a reaction can proceed; kinetics (Ea) governs how fast.",
+    "distractor_notes": {
+      "A": "Spontaneity says nothing about speed.",
+      "B": "Product stability does not change Ea for the forward reaction.",
+      "C": "k is not zero for spontaneous reactions; it can be very small."
+    },
+    "tags": [
+      "kinetics vs thermodynamics"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Equating 'spontaneous' with 'fast'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "In everyday language, spontaneous suggests immediate.",
+      "how_to_avoid": "Remember: thermodynamics = direction/extent; kinetics = speed."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_rate",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.2-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.2",
+    "topic_title": "Introduction to Rate Law",
+    "learning_objective": "Represent experimental data with a consistent rate law expression. (5.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Experiment | [A]$_0$ (M) | [B]$_0$ (M) | Initial rate (M/s)\n--- | --- | --- | ---\n1 | 0.100 | 0.100 | 0.0600\n2 | 0.200 | 0.100 | 0.120\n3 | 0.100 | 0.300 | 0.0600",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "For 2 A + B → C, the initial-rate data are given. Which rate law is consistent with the data?",
+    "options": {
+      "A": "$\\text{rate} = k[\\mathrm{A}]^2[\\mathrm{B}]$",
+      "B": "$\\text{rate} = k[\\mathrm{A}]$",
+      "C": "$\\text{rate} = k[\\mathrm{A}][\\mathrm{B}]$",
+      "D": "$\\text{rate} = k[\\mathrm{A}]^2$"
+    },
+    "correct": "B",
+    "explanation": "Doubling [A] doubles the rate (first order); tripling [B] does not change the rate (zero order).",
+    "distractor_notes": {
+      "A": "Took exponents from the coefficients; the data show rate unchanged when [B] triples.",
+      "C": "Assumed all reactants appear in the rate law.",
+      "D": "Rate would quadruple when [A] doubles."
+    },
+    "tags": [
+      "coefficients vs orders"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Orders do not equal coefficients in general.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The balanced equation is the most visible information, and students were often taught to copy coefficients into rate laws.",
+      "how_to_avoid": "Always determine orders from the data; use coefficients only for elementary steps."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/03%3A_Rate_Laws",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.2-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.2",
+    "topic_title": "Introduction to Rate Law",
+    "learning_objective": "Represent experimental data with a consistent rate law expression. (5.2.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A reaction is first order overall with rate = $k[\\mathrm{A}]$. Which is a correct unit for k?",
+    "options": {
+      "A": "M s$^{-1}$",
+      "B": "M$^{-1}$ s$^{-1}$",
+      "C": "s$^{-1}$",
+      "D": "M"
+    },
+    "correct": "C",
+    "explanation": "rate (M/s) = k M → k has units of s$^{-1}$. The keyed answer is correct: s$^{-1}$. This aligns with the topic (Introduction to Rate Law) learning objective: Represent experimental data with a consistent rate law expression. (5.2.A).",
+    "distractor_notes": {
+      "A": "Rate units, not first-order k units.",
+      "B": "Units for a second-order reaction.",
+      "D": "k has time in the units."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Units of k depend on overall order.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students memorize M s$^{-1}$ because that is the rate unit.",
+      "how_to_avoid": "Divide the rate unit by M raised to the overall order."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/03%3A_Rate_Laws",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.2-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.2",
+    "topic_title": "Introduction to Rate Law",
+    "learning_objective": "Represent experimental data with a consistent rate law expression. (5.2.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Experiment | [A]$_0$ (M) | [B]$_0$ (M) | Initial rate (M/s)\n--- | --- | --- | ---\n1 | 0.100 | 0.100 | $5.00 \\times 10^{-3}$\n2 | 0.200 | 0.200 | 0.0200\n3 | 0.200 | 0.100 | 0.0100",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "In experiment 2 both [A] and [B] are doubled relative to experiment 1, and the initial rate quadruples. In experiment 3 only [A] is doubled and the rate doubles. What is the rate law?",
+    "options": {
+      "A": "$\\text{rate} = k[\\mathrm{A}]^2$",
+      "B": "$\\text{rate} = k[\\mathrm{A}]^2[\\mathrm{B}]^2$",
+      "C": "$\\text{rate} = k[\\mathrm{A}]$",
+      "D": "$\\text{rate} = k[\\mathrm{A}][\\mathrm{B}]$"
+    },
+    "correct": "D",
+    "explanation": "Experiment 3 gives first order in A (2×); experiment 2 then needs a further 2× from doubling B: first order in B.",
+    "distractor_notes": {
+      "A": "Attributes the whole 4× to A, ignoring experiment 3.",
+      "B": "Squares both concentrations because the rate quadrupled.",
+      "C": "Ignores the dependence on B shown by the 4× rate in experiment 2."
+    },
+    "tags": [
+      "initial rates",
+      "paired change"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "A rate quadrupling when two concentrations double is not evidence of second order in each.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The headline '4× when doubling' resembles square dependence.",
+      "how_to_avoid": "Use an experiment that changes one variable at a time to separate contributions."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/03%3A_Rate_Laws",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.2-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.2",
+    "topic_title": "Introduction to Rate Law",
+    "learning_objective": "Represent experimental data with a consistent rate law expression. (5.2.A)",
+    "skill": "Argumentation",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about reaction orders is true?",
+    "options": {
+      "A": "A reactant can be zero order and still be required for the reaction to occur.",
+      "B": "A zero-order reactant is not consumed in the reaction.",
+      "C": "Reaction orders can never be fractions or negative numbers.",
+      "D": "The overall order is always the number of reactant molecules in the balanced equation."
+    },
+    "correct": "A",
+    "explanation": "Zero order refers to rate dependence, not to participation in the reaction.",
+    "distractor_notes": {
+      "B": "Zero order means rate independent of its concentration; it is still consumed if it is a reactant.",
+      "C": "Fractional orders exist.",
+      "D": "Overall order is the sum of exponents in the rate law."
+    },
+    "tags": [
+      "zero order"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Zero order in a reactant does not mean that reactant is unnecessary.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "'Does not affect the rate' sounds like 'not involved'.",
+      "how_to_avoid": "Separate rate dependence (kinetics) from stoichiometry."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/03%3A_Rate_Laws",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.2-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.2",
+    "topic_title": "Introduction to Rate Law",
+    "learning_objective": "Represent experimental data with a consistent rate law expression. (5.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For rate = $k[\\mathrm{A}]^2$, which statement about a doubling of [A] is correct?",
+    "options": {
+      "A": "The rate always doubles whenever any reactant concentration doubles.",
+      "B": "The rate is multiplied by 4 because it depends on [A]$^2$.",
+      "C": "The rate is multiplied by 2 because [A] is multiplied by 2.",
+      "D": "The rate constant is multiplied by 4."
+    },
+    "correct": "B",
+    "explanation": "With order 2, rate ∝ [A]$^2$ so doubling gives 4×. The keyed answer is correct: The rate is multiplied by 4 because it depends on [A]$^2$. This aligns with the topic (Introduction to Rate Law) learning objective: Represent experimental data with a consistent rate law expression. (5.2.A).",
+    "distractor_notes": {
+      "A": "Only first-order dependence doubles.",
+      "C": "Neglects the squared dependence.",
+      "D": "k does not depend on concentration."
+    },
+    "tags": [
+      "proportionality"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Always doubles' ignores order.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "First-order examples are the most common, so 'double in, double out' becomes a reflex.",
+      "how_to_avoid": "Raise the concentration factor to the reaction order."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/03%3A_Rate_Laws",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.2-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.2",
+    "topic_title": "Introduction to Rate Law",
+    "learning_objective": "Represent experimental data with a consistent rate law expression. (5.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT true of the rate constant, k?",
+    "options": {
+      "A": "It rises as reactant concentration rises.",
+      "B": "Its units depend on the overall order of the reaction.",
+      "C": "Its value changes when the temperature changes.",
+      "D": "It is the proportionality constant in the rate law expression."
+    },
+    "correct": "A",
+    "explanation": "k does not vary with concentration; the rate does. The keyed answer is correct: It rises as reactant concentration rises. This aligns with the topic (Introduction to Rate Law) learning objective: Represent experimental data with a consistent rate law expression. (5.2.A).",
+    "distractor_notes": {
+      "B": "True statement.",
+      "C": "True statement.",
+      "D": "True statement."
+    },
+    "tags": [
+      "not/except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem: three true statements and one false.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "A hurried reader picks the first true-sounding statement.",
+      "how_to_avoid": "Evaluate every option as true/false before choosing."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/03%3A_Rate_Laws",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.2-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.2",
+    "topic_title": "Introduction to Rate Law",
+    "learning_objective": "Represent experimental data with a consistent rate law expression. (5.2.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For a reaction with rate = $k[\\mathrm{A}]^2[\\mathrm{B}]$, an experiment with [A] = 0.20 M and [B] = 0.10 M gives an initial rate of $6.0 \\times 10^{-3}$ M/s. What is k?",
+    "options": {
+      "A": "0.30 M$^{-1}$ s$^{-1}$",
+      "B": "1.5 M$^{-1}$ s$^{-1}$",
+      "C": "$2.4 \\times 10^{-5}$ M$^{-2}$ s$^{-1}$",
+      "D": "1.5 M$^{-2}$ s$^{-1}$"
+    },
+    "correct": "D",
+    "explanation": "k = rate/([A]$^2$[B]) = $6.0\\times10^{-3}/(0.040 \\times 0.10) = 1.5$ M$^{-2}$ s$^{-1}$.",
+    "distractor_notes": {
+      "A": "Used first-order exponents for both species.",
+      "B": "Correct number but units for the wrong order.",
+      "C": "Multiplied instead of dividing."
+    },
+    "tags": [
+      "units",
+      "rate constant"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Correct magnitude paired with an incorrect unit.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The numerical value matches only if exponents are correct, and units are then not checked.",
+      "how_to_avoid": "Check that the unit of k makes rate = k × conc$^n$ come out in M/s."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/03%3A_Rate_Laws",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.3-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.3",
+    "topic_title": "Concentration Changes Over Time",
+    "learning_objective": "Identify the rate law expression of a chemical reaction using data that show how the concentrations of reaction species change over time. (5.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about half-lives is correct?",
+    "options": {
+      "A": "For every reaction, the half-life stays constant throughout the course of the reaction.",
+      "B": "A first-order half-life is constant; successive second-order half-lives grow.",
+      "C": "For a zero-order reaction, successive half-lives get longer as [A] decreases.",
+      "D": "For a second-order reaction, the half-life is independent of the initial concentration."
+    },
+    "correct": "B",
+    "explanation": "Zero-order half-lives shorten, first-order are constant, second-order lengthen.",
+    "distractor_notes": {
+      "A": "Only first-order half-lives are constant.",
+      "C": "Zero-order half-life is $[A]_0/(2k)$; it gets shorter as [A] falls.",
+      "D": "It is inversely proportional to [A]$_0$."
+    },
+    "tags": [
+      "half-life"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'For all reactions, constant half-life' is false.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Radioactive decay is the usual example, so half-lives feel universal.",
+      "how_to_avoid": "Check whether the claim depends on order."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Order_of_reaction",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates/2.03%3A_First-Order_Reactions",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.3-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.3",
+    "topic_title": "Concentration Changes Over Time",
+    "learning_objective": "Identify the rate law expression of a chemical reaction using data that show how the concentrations of reaction species change over time. (5.3.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A first-order reaction has $k = 0.0462$ min$^{-1}$. What is the half-life in seconds?",
+    "options": {
+      "A": "900 s",
+      "B": "15.0 s",
+      "C": "0.250 s",
+      "D": "$5.40 \\times 10^{4}$ s"
+    },
+    "correct": "A",
+    "explanation": "$t_{1/2} = 0.693/0.0462 = 15.0$ min $= 900$ s. The keyed answer is correct: 900 s. This aligns with the topic (Concentration Changes Over Time) learning objective: Identify the rate law expression of a chemical reaction using data that show how the concentrations of reaction species change over time. (5.3.A).",
+    "distractor_notes": {
+      "B": "Gave the half-life in minutes (15.0) but labeled it seconds.",
+      "C": "Divided by 60 instead of multiplying.",
+      "D": "Converted k to s$^{-1}$ and then converted the answer to seconds again."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Time unit in k differs from the unit requested.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The numerical half-life (15.0) seems right, so the unit conversion is skipped.",
+      "how_to_avoid": "Convert units at the end: minutes × 60 = seconds."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Order_of_reaction",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates/2.03%3A_First-Order_Reactions",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.3-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.3",
+    "topic_title": "Concentration Changes Over Time",
+    "learning_objective": "Identify the rate law expression of a chemical reaction using data that show how the concentrations of reaction species change over time. (5.3.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A plot of log$_{10}$[A] versus time for a first-order reaction has a slope of $-0.0150$ min$^{-1}$. What is k?",
+    "options": {
+      "A": "0.0150 min$^{-1}$",
+      "B": "$6.51 \\times 10^{-3}$ min$^{-1}$",
+      "C": "-0.0150 min$^{-1}$",
+      "D": "0.0345 min$^{-1}$"
+    },
+    "correct": "D",
+    "explanation": "slope(log$_{10}$) = −k/2.303, so $k = 0.0150 \\times 2.303 = 0.0345$ min$^{-1}$.",
+    "distractor_notes": {
+      "A": "Treated the log$_{10}$ slope as −k; that is true only for a ln plot.",
+      "B": "Divided by 2.303 instead of multiplying.",
+      "C": "Rate constants are positive."
+    },
+    "tags": [
+      "log vs ln"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "log vs ln.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Slope = −k is memorized for ln plots.",
+      "how_to_avoid": "Check which logarithm the plot uses; log$_{10}$ slopes must be multiplied by 2.303."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Order_of_reaction",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates/2.03%3A_First-Order_Reactions",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.3-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.3",
+    "topic_title": "Concentration Changes Over Time",
+    "learning_objective": "Identify the rate law expression of a chemical reaction using data that show how the concentrations of reaction species change over time. (5.3.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A plot of 1/[A] versus time is a straight line with slope $+0.040$ M$^{-1}$ s$^{-1}$. What is k for the reaction?",
+    "options": {
+      "A": "-0.040 M$^{-1}$ s$^{-1}$",
+      "B": "0.080 M$^{-1}$ s$^{-1}$",
+      "C": "0.040 M$^{-1}$ s$^{-1}$",
+      "D": "0.040 s$^{-1}$"
+    },
+    "correct": "C",
+    "explanation": "$1/[A]_t = 1/[A]_0 + kt$: slope = +k. The keyed answer is correct: 0.040 M$^{-1}$ s$^{-1}$. This aligns with the topic (Concentration Changes Over Time) learning objective: Identify the rate law expression of a chemical reaction using data that show how the concentrations of reaction species change over time. (5.3.A).",
+    "distractor_notes": {
+      "A": "Carried over the −k rule from first-order and zero-order plots.",
+      "B": "Doubled the slope for no reason.",
+      "D": "Right number but the units for a first-order constant."
+    },
+    "tags": [
+      "second order",
+      "slope"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Sign of slope differs between integrated plots.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Zero- and first-order plots have slope −k.",
+      "how_to_avoid": "Write the integrated equation and read off the slope."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Order_of_reaction",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates/2.03%3A_First-Order_Reactions",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.3-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.3",
+    "topic_title": "Concentration Changes Over Time",
+    "learning_objective": "Identify the rate law expression of a chemical reaction using data that show how the concentrations of reaction species change over time. (5.3.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Time (s) | [D] (M)\n--- | ---\n0 | 0.800\n50 | 0.400\n150 | 0.200\n350 | 0.100",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "The data for D are shown. A student notes that [D] fell to half of its initial value in the first 50 s and concludes the reaction is first order with $t_{1/2}$ = 50 s. What is the best evaluation of this conclusion?",
+    "options": {
+      "A": "It is supported, because the first halving took 50 s and a half-life is defined as the time for [D] to halve.",
+      "B": "It is supported, because [D] decreases by a smaller amount in each successive interval.",
+      "C": "It is not supported, because the next halving (0.400 → 0.200 M) takes 100 s, not 50 s.",
+      "D": "It is not supported, because zero-order reactions are the only ones with a constant half-life."
+    },
+    "correct": "C",
+    "explanation": "Successive halvings take 50 s, 100 s, 200 s (doubling each time), so 1/[D] = 1.25, 2.50, 5.00, 10.0 M$^{-1}$ is linear in time with slope 0.0250 M$^{-1}$ s$^{-1}$: second order.",
+    "distractor_notes": {
+      "A": "A first-order half-life must be the same for every halving; here the second halving takes twice as long.",
+      "B": "Decreasing losses occur for first- and second-order reactions alike.",
+      "D": "Zero-order half-lives are not constant, and a constant half-life is the signature of first order."
+    },
+    "tags": [
+      "order from data"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The first interval looks like a half-life.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "A single halving matches the definition at first glance.",
+      "how_to_avoid": "Check at least two successive half-lives or test ln[D] and 1/[D] for linearity."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Order_of_reaction",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates/2.03%3A_First-Order_Reactions",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.3-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.3",
+    "topic_title": "Concentration Changes Over Time",
+    "learning_objective": "Identify the rate law expression of a chemical reaction using data that show how the concentrations of reaction species change over time. (5.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about a second-order reaction (A → products, rate = $k[A]^2$) is correct?",
+    "options": {
+      "A": "As the reaction proceeds, each successive half-life is shorter than the previous one.",
+      "B": "The half-life stays constant because the concentration halves each time.",
+      "C": "The half-life is shortest at the lowest concentration.",
+      "D": "As the reaction proceeds, each successive half-life is longer than the previous one."
+    },
+    "correct": "D",
+    "explanation": "$t_{1/2} = 1/(k[A]_0)$ grows as the starting concentration for each successive half-life gets smaller.",
+    "distractor_notes": {
+      "A": "Lower [A] means a longer half-life for second order.",
+      "B": "Constant half-life is first order.",
+      "C": "It is longest at the lowest concentration."
+    },
+    "tags": [
+      "half-life",
+      "second order"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Half-life gets longer, not shorter, as [A] falls for second order.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Most students expect a decaying reaction to speed up its halvings.",
+      "how_to_avoid": "Use $t_{1/2} = 1/(k[A]_0)$: smaller [A]$_0$ → longer half-life."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Order_of_reaction",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates/2.03%3A_First-Order_Reactions",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.3-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.3",
+    "topic_title": "Concentration Changes Over Time",
+    "learning_objective": "Identify the rate law expression of a chemical reaction using data that show how the concentrations of reaction species change over time. (5.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student claims 'any reaction with a straight-line concentration–time graph is first order.' Which response is correct?",
+    "options": {
+      "A": "Incorrect: a straight [A] line shows zero order; first order is straight for ln[A].",
+      "B": "Correct: first-order reactions give a straight line when [A] is graphed against time.",
+      "C": "Correct: every integrated rate law gives a straight line for [A] versus time.",
+      "D": "Incorrect: a straight [A] versus time line shows second order."
+    },
+    "correct": "A",
+    "explanation": "Order is identified by which transformation of [A] is linear versus time.",
+    "distractor_notes": {
+      "B": "That plot is straight for zero order.",
+      "C": "Only zero order does.",
+      "D": "Second order is straight for 1/[A]."
+    },
+    "tags": [
+      "plots"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Straight lines appear for all orders, but for different variables.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "'Straight line = first order' is a common shorthand.",
+      "how_to_avoid": "Always ask: straight line of what versus time?"
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Order_of_reaction",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/02%3A_Reaction_Rates/2.03%3A_First-Order_Reactions",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.4-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.4",
+    "topic_title": "Elementary Reactions",
+    "learning_objective": "Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The overall reaction 2 NO + O$_2$ → 2 NO$_2$ is observed to be second order in NO and first order in O$_2$. Which statement is correct?",
+    "options": {
+      "A": "The reaction must be a single elementary termolecular step because the rate law matches the stoichiometry.",
+      "B": "The rate law cannot be correct, because experimental rate laws never match the coefficients of the overall equation.",
+      "C": "The rate law matches the stoichiometry, but that alone does not prove a single step.",
+      "D": "The reaction must proceed in two or more steps, because termolecular steps are completely impossible."
+    },
+    "correct": "C",
+    "explanation": "A match is necessary but not sufficient evidence for a single elementary step.",
+    "distractor_notes": {
+      "A": "Matching is consistent with, but does not prove, a single step.",
+      "B": "They can match.",
+      "D": "They are rare but not impossible."
+    },
+    "tags": [
+      "overall vs elementary"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "A rate law that matches stoichiometry does not prove the mechanism.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Consistency feels like confirmation.",
+      "how_to_avoid": "Distinguish 'consistent with' from 'proves'."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Elementary_reaction",
+        "https://en.wikipedia.org/wiki/Molecularity",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.4-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.4",
+    "topic_title": "Elementary Reactions",
+    "learning_objective": "Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For the overall reaction A + 2 B → C, which rate law must be correct if the reaction is the single elementary step A + 2 B → C?",
+    "options": {
+      "A": "$\\text{rate} = k[\\mathrm{A}][\\mathrm{B}]^2$",
+      "B": "$\\text{rate} = k[\\mathrm{A}][\\mathrm{B}]$",
+      "C": "$\\text{rate} = k[\\mathrm{A}]^2[\\mathrm{B}]$",
+      "D": "$\\text{rate} = k[\\mathrm{C}]$"
+    },
+    "correct": "A",
+    "explanation": "Exponents are the numbers of each particle in the step. The keyed answer is correct: $\\text{rate} = k[\\mathrm{A}][\\mathrm{B}]^2$. This aligns with the topic (Elementary Reactions) learning objective: Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A).",
+    "distractor_notes": {
+      "B": "Ignored the coefficient 2.",
+      "C": "Swapped the exponents.",
+      "D": "Rates of forward steps depend on reactants."
+    },
+    "tags": [
+      "rate law"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Swapped exponents are tempting.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students pair the 2 with the first species.",
+      "how_to_avoid": "Match each coefficient to its own species."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Elementary_reaction",
+        "https://en.wikipedia.org/wiki/Molecularity",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.4-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.4",
+    "topic_title": "Elementary Reactions",
+    "learning_objective": "Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A)",
+    "skill": "Argumentation",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about elementary reactions is correct?",
+    "options": {
+      "A": "Every chemical reaction with a balanced equation is an elementary reaction.",
+      "B": "The rate law of any overall reaction can be read from its balanced equation.",
+      "C": "Elementary reactions never have an activation energy.",
+      "D": "Steps with three or more colliding particles are rare; most are uni- or bimolecular."
+    },
+    "correct": "D",
+    "explanation": "Most elementary steps are unimolecular or bimolecular (CED 5.4.A.2).",
+    "distractor_notes": {
+      "A": "Many reactions occur in multiple steps.",
+      "B": "Only for elementary reactions.",
+      "C": "All elementary steps have an Ea."
+    },
+    "tags": [
+      "absolute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Every' and 'any' claims.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Textbook examples are all elementary.",
+      "how_to_avoid": "Beware universal claims about balanced equations."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Elementary_reaction",
+        "https://en.wikipedia.org/wiki/Molecularity",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.4-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.4",
+    "topic_title": "Elementary Reactions",
+    "learning_objective": "Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For the elementary step 2 A → B, the rate is $4.0 \\times 10^{-3}$ M/s when [A] = 0.20 M. What is the rate when [A] = 0.40 M?",
+    "options": {
+      "A": "$8.0 \\times 10^{-3}$ M/s",
+      "B": "0.016 M/s",
+      "C": "0.032 M/s",
+      "D": "$2.0 \\times 10^{-3}$ M/s"
+    },
+    "correct": "B",
+    "explanation": "Elementary step 2 A → B is second order: doubling [A] gives 4×.",
+    "distractor_notes": {
+      "A": "Applied first-order dependence.",
+      "C": "Used a cubic dependence.",
+      "D": "Reversed the effect of concentration."
+    },
+    "tags": [
+      "rate factor"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Stoichiometric coefficient is the exponent.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Doubling concentration doubling the rate is the default expectation.",
+      "how_to_avoid": "Use the exponent from the particles in the step."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Elementary_reaction",
+        "https://en.wikipedia.org/wiki/Molecularity",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.4-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.4",
+    "topic_title": "Elementary Reactions",
+    "learning_objective": "Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For an elementary step A + B → C, k has what units when concentrations are in M and time in s?",
+    "options": {
+      "A": "s$^{-1}$",
+      "B": "M s$^{-1}$",
+      "C": "M$^{-2}$ s$^{-1}$",
+      "D": "M$^{-1}$ s$^{-1}$"
+    },
+    "correct": "D",
+    "explanation": "Bimolecular step → second order → k in M$^{-1}$ s$^{-1}$. The keyed answer is correct: M$^{-1}$ s$^{-1}$. This aligns with the topic (Elementary Reactions) learning objective: Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A).",
+    "distractor_notes": {
+      "A": "The units of a first-order constant.",
+      "B": "The units of a rate.",
+      "C": "Units for a third-order constant."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "k units depend on molecularity for elementary steps.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Two reactants may suggest more than two concentration factors.",
+      "how_to_avoid": "Count the exponents."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Elementary_reaction",
+        "https://en.wikipedia.org/wiki/Molecularity",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.4-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.4",
+    "topic_title": "Elementary Reactions",
+    "learning_objective": "Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT a correct statement about the elementary step CH$_3$NC → CH$_3$CN?",
+    "options": {
+      "A": "It is a unimolecular step with one reactant molecule.",
+      "B": "Its rate law is first order: $\\text{rate} = k[\\mathrm{CH_3NC}]$.",
+      "C": "Its rate law is second order because two molecules must collide.",
+      "D": "The units of its rate constant k are s$^{-1}$, as for any first-order step."
+    },
+    "correct": "C",
+    "explanation": "A unimolecular step has a first-order rate law; it does not require a collision between two reactant molecules.",
+    "distractor_notes": {
+      "A": "True: one reactant molecule.",
+      "B": "True.",
+      "D": "True for a first-order constant."
+    },
+    "tags": [
+      "not/except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem with one false statement phrased as a plausible mechanism.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'Reactions require collisions' is a general belief.",
+      "how_to_avoid": "Remember unimolecular steps need only energy, not a second reactant."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Elementary_reaction",
+        "https://en.wikipedia.org/wiki/Molecularity",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.4-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.4",
+    "topic_title": "Elementary Reactions",
+    "learning_objective": "Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Row | Rate law consistent with the data\n--- | ---\n1 | k[A]\n2 | k[A][B]\n3 | k[A]²[B]\n4 | k[B]²",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "The table lists proposed rate laws for the overall reaction 2 A + B → products along with the experimentally observed rate dependence on [A] and [B]. Which row shows a rate law that could describe a single elementary step?",
+    "options": {
+      "A": "Row 3: $k[A]^2[B]$",
+      "B": "Row 1: rate = $k[A]$, first order overall",
+      "C": "Row 2: rate = $k[A][B]$, second order overall",
+      "D": "Row 4: rate = $k[B]^2$, second order in B"
+    },
+    "correct": "A",
+    "explanation": "Only rate = $k[A]^2[B]$ matches the stoichiometry 2 A + B. The keyed answer is correct: Row 3: $k[A]^2[B]$. This aligns with the topic (Elementary Reactions) learning objective: Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A).",
+    "distractor_notes": {
+      "B": "Does not match stoichiometry for a single step.",
+      "C": "Exponent of A (1) does not match the coefficient 2.",
+      "D": "Does not include A."
+    },
+    "tags": [
+      "table"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Table lists the experimental laws; only one matches stoichiometry.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students assume the lowest-order one is simplest.",
+      "how_to_avoid": "Compare each exponent with the coefficient of the same reactant."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Elementary_reaction",
+        "https://en.wikipedia.org/wiki/Molecularity",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.5-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.5",
+    "topic_title": "Collision Model",
+    "learning_objective": "Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student states, 'A higher temperature increases reaction rate because it lowers the activation energy.' Which response is correct?",
+    "options": {
+      "A": "Incorrect: temperature raises the fraction of collisions with energy ≥ E$_a$, not E$_a$.",
+      "B": "Correct: higher temperature supplies energy to the molecules that reduces the height of the barrier.",
+      "C": "Correct: the rate increases only because the collision frequency of the particles increases.",
+      "D": "Incorrect: temperature has no effect on the rate of reaction."
+    },
+    "correct": "A",
+    "explanation": "Temperature changes the energy distribution, not Ea. A catalyst changes Ea.",
+    "distractor_notes": {
+      "B": "The barrier height is a property of the pathway.",
+      "C": "Frequency changes slightly; the energy fraction matters most.",
+      "D": "Temperature has a large effect."
+    },
+    "tags": [
+      "misconception"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Confusing the effect of T with that of a catalyst.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both increase rate, so they are conflated.",
+      "how_to_avoid": "Ask: did the pathway change (catalyst) or the energy distribution (temperature)?"
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Collision_theory",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.5-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.5",
+    "topic_title": "Collision Model",
+    "learning_objective": "Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about collisions is correct?",
+    "options": {
+      "A": "Every collision between reactant particles leads to a reaction.",
+      "B": "Only a small fraction of collisions are effective in most reactions.",
+      "C": "A collision is effective whenever the particles have the same kinetic energy.",
+      "D": "Only collisions at the average kinetic energy lead to a reaction."
+    },
+    "correct": "B",
+    "explanation": "CED 5.5.A.2: in most reactions only a small fraction of collisions lead to reaction.",
+    "distractor_notes": {
+      "A": "Most collisions do not.",
+      "C": "Equal energy is not the criterion.",
+      "D": "Reactive collisions are those exceeding Ea."
+    },
+    "tags": [
+      "absolute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Every' collision.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Collision language suggests contact equals reaction.",
+      "how_to_avoid": "Think of the two requirements."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Collision_theory",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.5-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.5",
+    "topic_title": "Collision Model",
+    "learning_objective": "Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "graph",
+      "content": "Graph of number of particles (y-axis) versus kinetic energy (x-axis) at two temperatures. Curve 1 (T$_1$) has a tall peak at low energy and a short tail; curve 2 (T$_2$, higher temperature) has a lower, broader peak shifted to higher energy with a longer tail. A vertical dashed line marks the activation energy, E$_a$, far into the tail.",
+      "citation": "Original graph described in text for this item.",
+      "asset_path": null
+    },
+    "question": "The Maxwell–Boltzmann graph shows a curve at T$_1$ and T$_2$. A student says the T$_2$ curve is lower, so fewer molecules exceed E$_a$ at T$_2$. What is wrong with this reasoning?",
+    "options": {
+      "A": "Nothing is wrong: a lower curve always means fewer molecules at every energy on the graph.",
+      "B": "The total area under the T$_2$ curve is smaller, so fewer molecules are present.",
+      "C": "The student should compare peak heights only, which are equal.",
+      "D": "The peak is lower, but the tail beyond E$_a$ is larger at T$_2$."
+    },
+    "correct": "D",
+    "explanation": "Compare areas in the region beyond E$_a$. The keyed answer is correct: The peak is lower, but the tail beyond E$_a$ is larger at T$_2$. This aligns with the topic (Collision Model) learning objective: Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A).",
+    "distractor_notes": {
+      "A": "Curve height varies by energy; the tail is higher at T$_2$.",
+      "B": "The total area is the same.",
+      "C": "Peak heights are not equal."
+    },
+    "tags": [
+      "graph"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Peak height versus tail area.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The most visible feature of the graph is the peak.",
+      "how_to_avoid": "Examine the region to the right of the Ea line."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Collision_theory",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.5-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.5",
+    "topic_title": "Collision Model",
+    "learning_objective": "Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT required for a collision to be effective?",
+    "options": {
+      "A": "The colliding particles must have a minimum total energy at least E$_a$.",
+      "B": "The colliding particles must be oriented properly for bond rearrangement.",
+      "C": "The colliding particles must have equal kinetic energies.",
+      "D": "The colliding particles must come into contact."
+    },
+    "correct": "C",
+    "explanation": "Equal individual energies are not needed; the combined collision energy must be ≥ Ea.",
+    "distractor_notes": {
+      "A": "Required.",
+      "B": "Required.",
+      "D": "Required."
+    },
+    "tags": [
+      "not/except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'Equal' seems fair-minded.",
+      "how_to_avoid": "Evaluate each condition: needed or not?"
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Collision_theory",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.5-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.5",
+    "topic_title": "Collision Model",
+    "learning_objective": "Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Out of $5.0\\times10^{9}$ collisions per second, $2.0\\%$ have enough energy and $10\\%$ of those are properly oriented. How many effective collisions occur per second?",
+    "options": {
+      "A": "$1.0 \\times 10^{8}$",
+      "B": "$1.0 \\times 10^{9}$",
+      "C": "$1.0 \\times 10^{7}$",
+      "D": "$5.0 \\times 10^{8}$"
+    },
+    "correct": "C",
+    "explanation": "$5.0\\times10^9 \\times 0.020 \\times 0.10 = 1.0\\times10^{7}$. The keyed answer is correct: $1.0 \\times 10^{7}$. This aligns with the topic (Collision Model) learning objective: Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A).",
+    "distractor_notes": {
+      "A": "Ignored the orientation factor.",
+      "B": "Used 10 instead of 10% (0.10).",
+      "D": "Ignored the energy fraction."
+    },
+    "tags": [
+      "percent"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Percent must be converted to a fraction.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Percent signs are skipped when scanning for numbers.",
+      "how_to_avoid": "Convert percentages to decimals before multiplying."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Collision_theory",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.5-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.5",
+    "topic_title": "Collision Model",
+    "learning_objective": "Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "As temperature increases, the rate of most elementary reactions increases. Which statement is the best explanation?",
+    "options": {
+      "A": "Each collision releases more energy as the temperature of the sample increases.",
+      "B": "A larger fraction of collisions has energy of at least E$_a$.",
+      "C": "The activation energy of each reaction decreases.",
+      "D": "The molecules become more closely packed together at a higher temperature."
+    },
+    "correct": "B",
+    "explanation": "CED 5.5.A.3. The keyed answer is correct: A larger fraction of collisions has energy of at least E$_a$. This aligns with the topic (Collision Model) learning objective: Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A).",
+    "distractor_notes": {
+      "A": "Energy released relates to ΔH.",
+      "C": "Ea is unchanged.",
+      "D": "Packing is concentration, not temperature."
+    },
+    "tags": [
+      "reasoning"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Attributing the T effect to a lower Ea.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'More energy' leads to 'less barrier'.",
+      "how_to_avoid": "Distinguish particle energy from barrier height."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Collision_theory",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.5-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.5",
+    "topic_title": "Collision Model",
+    "learning_objective": "Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "How does an increase in the temperature affect the fraction of molecules with energy greater than E$_a$ and the activation energy?",
+    "options": {
+      "A": "The fraction increases; E$_a$ stays the same.",
+      "B": "The fraction stays the same; E$_a$ decreases.",
+      "C": "The fraction decreases; E$_a$ increases.",
+      "D": "Both the fraction and E$_a$ increase."
+    },
+    "correct": "A",
+    "explanation": "T changes the distribution only. The keyed answer is correct: The fraction increases; E$_a$ stays the same. This aligns with the topic (Collision Model) learning objective: Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A).",
+    "distractor_notes": {
+      "B": "Reversed the two.",
+      "C": "Opposite of the trends.",
+      "D": "Ea is constant."
+    },
+    "tags": [
+      "temperature"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Which quantity moves.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both the line and the curve appear on the graph.",
+      "how_to_avoid": "The Ea line does not move when T changes."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Collision_theory",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.6-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.6",
+    "topic_title": "Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A reaction has ΔH = −90 kJ/mol. Which statement about its rate is correct?",
+    "options": {
+      "A": "The reaction must be fast because it releases a large amount of energy overall.",
+      "B": "The rate cannot be predicted from ΔH; it depends on E$_a$.",
+      "C": "The reaction must be slow because exothermic reactions have large Ea.",
+      "D": "The reaction must be fast because the products are more stable."
+    },
+    "correct": "B",
+    "explanation": "Rate depends on Ea, not ΔH. The keyed answer is correct: The rate cannot be predicted from ΔH; it depends on E$_a$. This aligns with the topic (Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A).",
+    "distractor_notes": {
+      "A": "Exothermic reactions can be slow.",
+      "C": "No such rule.",
+      "D": "Stability is thermodynamic."
+    },
+    "tags": [
+      "kinetics vs thermodynamics"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Exothermic ≠ fast.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Energy release suggests vigor.",
+      "how_to_avoid": "Look for Ea."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Activation_energy",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.6-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.6",
+    "topic_title": "Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A reaction has forward Ea = 70 kJ/mol and ΔH = +40 kJ/mol. What is the reverse Ea?",
+    "options": {
+      "A": "110 kJ/mol",
+      "B": "70 kJ/mol",
+      "C": "40 kJ/mol",
+      "D": "30 kJ/mol"
+    },
+    "correct": "D",
+    "explanation": "Ea(rev) = 70 − 40 = 30 kJ/mol. The keyed answer is correct: 30 kJ/mol. This aligns with the topic (Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A).",
+    "distractor_notes": {
+      "A": "Added ΔH to forward Ea: wrong for an endothermic reaction.",
+      "B": "Assumed it equals the forward Ea.",
+      "C": "Reported ΔH."
+    },
+    "tags": [
+      "sign"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Sign of ΔH.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The rule Ea(rev) = Ea(fwd) + |ΔH| applies only to exothermic reactions.",
+      "how_to_avoid": "Use Ea(rev) = Ea(fwd) − ΔH with sign."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Activation_energy",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.6-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.6",
+    "topic_title": "Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about reaction energy profiles is correct?",
+    "options": {
+      "A": "Both exothermic and endothermic reactions have positive E$_a$.",
+      "B": "Exothermic reactions have no activation energy because they release energy.",
+      "C": "Endothermic reactions have activation energies equal to ΔH.",
+      "D": "Only endothermic reactions pass through a transition state on the way to products."
+    },
+    "correct": "A",
+    "explanation": "Every elementary step has a barrier. The keyed answer is correct: Both exothermic and endothermic reactions have positive E$_a$. This aligns with the topic (Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A).",
+    "distractor_notes": {
+      "B": "All reactions have Ea.",
+      "C": "Ea ≥ ΔH but not equal in general.",
+      "D": "All elementary reactions do."
+    },
+    "tags": [
+      "absolute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'No' or 'only' claims.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Self-heating reactions feel barrier-free.",
+      "how_to_avoid": "Recall that ignition energy is an Ea."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Activation_energy",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.6-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.6",
+    "topic_title": "Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "graph",
+      "content": "Reaction energy profile (energy in kJ/mol on the y-axis, reaction coordinate on the x-axis): reactants at 20, a single maximum (transition state) at 110, and products at 60.",
+      "citation": "Original graph described in text for this item.",
+      "asset_path": null
+    },
+    "question": "In the energy profile described, the reactants are at 20 kJ/mol, the transition state at 110 kJ/mol, and the products at 60 kJ/mol. A student says the activation energy is 110 kJ/mol. What is the correct value?",
+    "options": {
+      "A": "110 kJ/mol",
+      "B": "50 kJ/mol",
+      "C": "90 kJ/mol",
+      "D": "40 kJ/mol"
+    },
+    "correct": "C",
+    "explanation": "Ea = 110 − 20 = 90 kJ/mol. The keyed answer is correct: 90 kJ/mol. This aligns with the topic (Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A).",
+    "distractor_notes": {
+      "A": "Read the TS height from the axis rather than the difference from the reactants.",
+      "B": "Calculated the reverse Ea.",
+      "D": "Calculated ΔH."
+    },
+    "tags": [
+      "profile"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Ea is a difference not a coordinate.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The tallest point is labeled with a number.",
+      "how_to_avoid": "Always subtract the reactant energy."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Activation_energy",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.6-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.6",
+    "topic_title": "Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A catalyzed and an uncatalyzed reaction are compared. Which of these is NOT expected to differ between them?",
+    "options": {
+      "A": "The ΔH of the reaction",
+      "B": "The activation energy",
+      "C": "The forward rate at the same T",
+      "D": "The pathway (mechanism)"
+    },
+    "correct": "A",
+    "explanation": "Catalysts do not change ΔH. The keyed answer is correct: The ΔH of the reaction. This aligns with the topic (Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A).",
+    "distractor_notes": {
+      "B": "Different with a catalyst.",
+      "C": "Different.",
+      "D": "Different."
+    },
+    "tags": [
+      "not/except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Catalysts seem to change everything.",
+      "how_to_avoid": "Recall the state functions are unchanged."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Activation_energy",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.6-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.6",
+    "topic_title": "Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Raising the temperature increases the rate of an exothermic reaction. Which explanation is correct?",
+    "options": {
+      "A": "Higher temperature makes the reaction endothermic instead of exothermic.",
+      "B": "Higher temperature makes the products less stable than the reactants were.",
+      "C": "More collisions reach E$_a$, even though the reaction is exothermic.",
+      "D": "Higher temperature lowers E$_a$."
+    },
+    "correct": "C",
+    "explanation": "Rate depends on Ea, not ΔH. The keyed answer is correct: More collisions reach E$_a$, even though the reaction is exothermic. This aligns with the topic (Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A).",
+    "distractor_notes": {
+      "A": "ΔH does not depend on T this way.",
+      "B": "Not the cause of the rate increase.",
+      "D": "Ea is unchanged."
+    },
+    "tags": [
+      "temperature"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Both thermodynamic and kinetic statements.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Exothermic = 'does not need heat'.",
+      "how_to_avoid": "Heat is needed to overcome Ea."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Activation_energy",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.6-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.6",
+    "topic_title": "Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Reaction A has a larger |ΔH| than reaction B; reaction B has the lower Ea. Which reaction has the larger rate constant at the same T?",
+    "options": {
+      "A": "Reaction A",
+      "B": "Reaction B",
+      "C": "They are equal",
+      "D": "Cannot be determined from Ea"
+    },
+    "correct": "B",
+    "explanation": "Lower Ea → larger k. The keyed answer is correct: Reaction B. This aligns with the topic (Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A).",
+    "distractor_notes": {
+      "A": "Larger |ΔH| does not mean a larger k.",
+      "C": "Ea differs.",
+      "D": "Ea is the main determinant (orientation assumed equal)."
+    },
+    "tags": [
+      "activation energy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "ΔH vs Ea.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Larger energy change feels faster.",
+      "how_to_avoid": "Choose Ea."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Activation_energy",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.7-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.7",
+    "topic_title": "Introduction to Reaction Mechanisms",
+    "learning_objective": "Identify the components of a reaction mechanism. (5.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Step 1: NO$_{2}$ + F$_{2}$ → NO$_{2}$F + F; Step 2: NO$_{2}$ + F → NO$_{2}$F",
+      "citation": "Original mechanism written for this item (compositions based on well-known textbook examples).",
+      "asset_path": null
+    },
+    "question": "Which species is an intermediate in the mechanism: Step 1: NO$_2$ + F$_2$ → NO$_2$F + F; Step 2: NO$_2$ + F → NO$_2$F?",
+    "options": {
+      "A": "F$_2$",
+      "B": "NO$_2$F",
+      "C": "NO$_2$",
+      "D": "F"
+    },
+    "correct": "D",
+    "explanation": "F is produced in step 1 and consumed in step 2. The keyed answer is correct: F. This aligns with the topic (Introduction to Reaction Mechanisms) learning objective: Identify the components of a reaction mechanism. (5.7.A).",
+    "distractor_notes": {
+      "A": "A reactant.",
+      "B": "A product.",
+      "C": "A reactant (used in both steps)."
+    },
+    "tags": [
+      "intermediate"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "The species appearing in both steps (NO$_2$) is not the intermediate.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Appearing in multiple steps looks like 'intermediate'.",
+      "how_to_avoid": "Find the species produced first and consumed later."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_mechanism",
+        "https://en.wikipedia.org/wiki/Reaction_intermediate",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.7-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.7",
+    "topic_title": "Introduction to Reaction Mechanisms",
+    "learning_objective": "Identify the components of a reaction mechanism. (5.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Step 1: NO$_{2}$ + F$_{2}$ → NO$_{2}$F + F; Step 2: NO$_{2}$ + F → NO$_{2}$F",
+      "citation": "Original mechanism written for this item (compositions based on well-known textbook examples).",
+      "asset_path": null
+    },
+    "question": "Which is the overall reaction for the mechanism: Step 1: NO$_2$ + F$_2$ → NO$_2$F + F; Step 2: NO$_2$ + F → NO$_2$F?",
+    "options": {
+      "A": "2 NO$_2$ + F$_2$ → 2 NO$_2$F",
+      "B": "NO$_2$ + F$_2$ → NO$_2$F + F",
+      "C": "NO$_2$ + F$_2$ → NO$_2$F",
+      "D": "2 NO$_2$ + F$_2$ → 2 NO$_2$F + F"
+    },
+    "correct": "A",
+    "explanation": "2 NO$_2$ + F$_2$ + F → 2 NO$_2$F + F → cancel F. The keyed answer is correct: 2 NO$_2$ + F$_2$ → 2 NO$_2$F. This aligns with the topic (Introduction to Reaction Mechanisms) learning objective: Identify the components of a reaction mechanism. (5.7.A).",
+    "distractor_notes": {
+      "B": "Only step 1.",
+      "C": "Wrong coefficients; NO$_2$ is used in two steps.",
+      "D": "Left the intermediate F in the equation."
+    },
+    "tags": [
+      "overall equation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Counting NO$_2$ once.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Each step shows one NO$_2$.",
+      "how_to_avoid": "Sum atom counts."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_mechanism",
+        "https://en.wikipedia.org/wiki/Reaction_intermediate",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.7-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.7",
+    "topic_title": "Introduction to Reaction Mechanisms",
+    "learning_objective": "Identify the components of a reaction mechanism. (5.7.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the energy profile of a multistep mechanism is correct?",
+    "options": {
+      "A": "Intermediates correspond to energy maxima between steps and transition states to energy minima.",
+      "B": "Intermediates and transition states both correspond to maxima on the profile.",
+      "C": "Intermediates are energy minima; transition states are maxima.",
+      "D": "Both correspond to the final products."
+    },
+    "correct": "C",
+    "explanation": "CED 5.7, 5.10. The keyed answer is correct: Intermediates are energy minima; transition states are maxima. This aligns with the topic (Introduction to Reaction Mechanisms) learning objective: Identify the components of a reaction mechanism. (5.7.A).",
+    "distractor_notes": {
+      "A": "Reversed.",
+      "B": "Intermediates are minima.",
+      "D": "No."
+    },
+    "tags": [
+      "intermediate"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Maxima vs minima.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both are 'unstable' species.",
+      "how_to_avoid": "Associate peaks with TS."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_mechanism",
+        "https://en.wikipedia.org/wiki/Reaction_intermediate",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.7-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.7",
+    "topic_title": "Introduction to Reaction Mechanisms",
+    "learning_objective": "Identify the components of a reaction mechanism. (5.7.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT a component of a reaction mechanism?",
+    "options": {
+      "A": "Intermediates, if any are formed",
+      "B": "The enthalpy of vaporization of the solvent used",
+      "C": "Catalysts, if any are present",
+      "D": "The sequence of elementary steps"
+    },
+    "correct": "B",
+    "explanation": "CED 5.7.A.1. The keyed answer is correct: The enthalpy of vaporization of the solvent used. This aligns with the topic (Introduction to Reaction Mechanisms) learning objective: Identify the components of a reaction mechanism. (5.7.A).",
+    "distractor_notes": {
+      "A": "A component.",
+      "C": "A component.",
+      "D": "A component."
+    },
+    "tags": [
+      "not/except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Three correct terms.",
+      "how_to_avoid": "Test each."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_mechanism",
+        "https://en.wikipedia.org/wiki/Reaction_intermediate",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.7-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.7",
+    "topic_title": "Introduction to Reaction Mechanisms",
+    "learning_objective": "Identify the components of a reaction mechanism. (5.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Step 1: H$_{2}$O$_{2}$ + I$^{−}$ → H$_{2}$O + IO$^{−}$; Step 2: H$_{2}$O$_{2}$ + IO$^{−}$ → H$_{2}$O + O$_{2}$ + I$^{−}$",
+      "citation": "Original mechanism written for this item (compositions based on well-known textbook examples).",
+      "asset_path": null
+    },
+    "question": "In the mechanism: Step 1: H$_2$O$_2$ + I$^-$ → H$_2$O + IO$^-$; Step 2: H$_2$O$_2$ + IO$^-$ → H$_2$O + O$_2$ + I$^-$, which statement is correct?",
+    "options": {
+      "A": "IO$^-$ is a catalyst and I$^-$ is an intermediate.",
+      "B": "Both I$^-$ and IO$^-$ are intermediates.",
+      "C": "Both I$^-$ and IO$^-$ are catalysts.",
+      "D": "I$^-$ is a catalyst and IO$^-$ is an intermediate."
+    },
+    "correct": "D",
+    "explanation": "Order of production/consumption identifies the role. The keyed answer is correct: I$^-$ is a catalyst and IO$^-$ is an intermediate. This aligns with the topic (Introduction to Reaction Mechanisms) learning objective: Identify the components of a reaction mechanism. (5.7.A).",
+    "distractor_notes": {
+      "A": "Reversed.",
+      "B": "I$^-$ is present at the start and end.",
+      "C": "IO$^-$ is produced first."
+    },
+    "tags": [
+      "catalyst",
+      "intermediate"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Order of production vs consumption.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both are ions that appear on both sides.",
+      "how_to_avoid": "Look at which appears first."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_mechanism",
+        "https://en.wikipedia.org/wiki/Reaction_intermediate",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.7-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.7",
+    "topic_title": "Introduction to Reaction Mechanisms",
+    "learning_objective": "Identify the components of a reaction mechanism. (5.7.A)",
+    "skill": "Argumentation",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about a reaction mechanism is correct?",
+    "options": {
+      "A": "Every mechanism has exactly two steps, one fast and one slow.",
+      "B": "A mechanism can be proven correct by a single rate-law experiment.",
+      "C": "Elementary steps must sum to the overall equation.",
+      "D": "All steps in a mechanism proceed at exactly the same rate."
+    },
+    "correct": "C",
+    "explanation": "CED 5.7.A.2. The keyed answer is correct: Elementary steps must sum to the overall equation. This aligns with the topic (Introduction to Reaction Mechanisms) learning objective: Identify the components of a reaction mechanism. (5.7.A).",
+    "distractor_notes": {
+      "A": "No restriction.",
+      "B": "Mechanisms can only be supported, not proven.",
+      "D": "Different steps have different rates."
+    },
+    "tags": [
+      "absolute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Overreaching claims.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Textbook examples show two steps.",
+      "how_to_avoid": "Look for absolutes."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_mechanism",
+        "https://en.wikipedia.org/wiki/Reaction_intermediate",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.7-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.7",
+    "topic_title": "Introduction to Reaction Mechanisms",
+    "learning_objective": "Identify the components of a reaction mechanism. (5.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A mechanism has steps whose sum is 2 A + B → C + D. Which species could appear as an intermediate?",
+    "options": {
+      "A": "A species listed as a reactant of the overall reaction equation",
+      "B": "A species formed in one step and used in a later one",
+      "C": "A species listed as a product of the overall reaction equation",
+      "D": "A species that appears only in the overall equation"
+    },
+    "correct": "B",
+    "explanation": "Definition. The keyed answer is correct: A species formed in one step and used in a later one. This aligns with the topic (Introduction to Reaction Mechanisms) learning objective: Identify the components of a reaction mechanism. (5.7.A).",
+    "distractor_notes": {
+      "A": "Overall reactants are not intermediates.",
+      "C": "Overall products are not intermediates.",
+      "D": "Intermediates do not appear in it."
+    },
+    "tags": [
+      "intermediate"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Intermediates are absent from the overall equation.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students look in the overall equation.",
+      "how_to_avoid": "Search the steps."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_mechanism",
+        "https://en.wikipedia.org/wiki/Reaction_intermediate",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.8-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.8",
+    "topic_title": "Reaction Mechanism and Rate Law",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Step 1 (slow): 2 NO → N$_{2}$O$_{2}$; Step 2 (fast): N$_{2}$O$_{2}$ + O$_{2}$ → 2 NO$_{2}$",
+      "citation": "Original mechanism written for this item (textbook-style examples).",
+      "asset_path": null
+    },
+    "question": "The overall reaction is 2 NO + O$_2$ → 2 NO$_2$. A proposed mechanism has Step 1: 2 NO → N$_2$O$_2$ (slow); Step 2: N$_2$O$_2$ + O$_2$ → 2 NO$_2$ (fast). What is the rate law?",
+    "options": {
+      "A": "$\\text{rate} = k[\\mathrm{NO}]^2[\\mathrm{O_2}]$",
+      "B": "$\\text{rate} = k[\\mathrm{N_2O_2}][\\mathrm{O_2}]$",
+      "C": "$\\text{rate} = k[\\mathrm{NO}]^2$",
+      "D": "$\\text{rate} = k[\\mathrm{NO}][\\mathrm{O_2}]$"
+    },
+    "correct": "C",
+    "explanation": "Slow first step: rate = $k[\\mathrm{NO}]^2$; O$_2$ reacts after the rate-limiting step.",
+    "distractor_notes": {
+      "A": "Used the overall equation's coefficients.",
+      "B": "Used the fast step, which has an intermediate.",
+      "D": "Used first order for each overall reactant."
+    },
+    "tags": [
+      "rate law"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Rate law from the overall equation.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The overall equation is the most visible information.",
+      "how_to_avoid": "Use the slow step only."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/04%3A_Reaction_Mechanisms",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.8-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.8",
+    "topic_title": "Reaction Mechanism and Rate Law",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Step 1 (slow): NO$_{2}$ + F$_{2}$ → NO$_{2}$F + F; Step 2 (fast): NO$_{2}$ + F → NO$_{2}$F",
+      "citation": "Original mechanism written for this item (textbook-style examples).",
+      "asset_path": null
+    },
+    "question": "For the mechanism with Step 1: NO$_2$ + F$_2$ → NO$_2$F + F (slow) and Step 2: NO$_2$ + F → NO$_2$F (fast), which rate law is correct?",
+    "options": {
+      "A": "$\\text{rate} = k[\\mathrm{NO_2}][\\mathrm{F_2}]$",
+      "B": "$\\text{rate} = k[\\mathrm{NO_2}]^2[\\mathrm{F_2}]$",
+      "C": "$\\text{rate} = k[\\mathrm{NO_2}][\\mathrm{F}]$",
+      "D": "$\\text{rate} = k[\\mathrm{F_2}]$"
+    },
+    "correct": "A",
+    "explanation": "Only step 1 matters. The keyed answer is correct: $\\text{rate} = k[\\mathrm{NO_2}][\\mathrm{F_2}]$. This aligns with the topic (Reaction Mechanism and Rate Law) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A).",
+    "distractor_notes": {
+      "B": "Counted NO$_2$ twice because it is used in both steps.",
+      "C": "F is an intermediate.",
+      "D": "NO$_2$ is also in the slow step."
+    },
+    "tags": [
+      "rate law"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "NO$_2$ appears in both steps.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Total usage of NO$_2$ is 2 per overall reaction.",
+      "how_to_avoid": "Only the slow step counts."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/04%3A_Reaction_Mechanisms",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.8-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.8",
+    "topic_title": "Reaction Mechanism and Rate Law",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement is correct for a mechanism whose first step is slow?",
+    "options": {
+      "A": "The rate law always matches the coefficients of the overall balanced equation.",
+      "B": "Every step in the mechanism contributes equally to the rate law.",
+      "C": "The slow step is always the last step in the mechanism sequence.",
+      "D": "The rate law is set by the slow step, not the overall equation."
+    },
+    "correct": "D",
+    "explanation": "CED 5.8.A.1. The keyed answer is correct: The rate law is set by the slow step, not the overall equation. This aligns with the topic (Reaction Mechanism and Rate Law) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A).",
+    "distractor_notes": {
+      "A": "Only for elementary reactions.",
+      "B": "Only the slow step does.",
+      "C": "Not necessarily."
+    },
+    "tags": [
+      "absolute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Always' and 'every'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Overgeneralizing.",
+      "how_to_avoid": "Look at the exact condition."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/04%3A_Reaction_Mechanisms",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.8-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.8",
+    "topic_title": "Reaction Mechanism and Rate Law",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT consistent with the experimentally observed rate law rate = $k[\\mathrm{A}][\\mathrm{B}]$ for the reaction A + B + C → D?",
+    "options": {
+      "A": "Step 1: A + B → I (slow); Step 2: I + C → D (fast)",
+      "B": "Step 1: A + B + C → I (slow); Step 2: I → D (fast)",
+      "C": "Step 1: A + B → I (slow); Step 2: I + C → J (fast); Step 3: J → D (fast)",
+      "D": "Step 1: A + B → I (slow); Step 2: I → J (fast); Step 3: J + C → D (fast)"
+    },
+    "correct": "B",
+    "explanation": "A slow termolecular step would give rate = k[A][B][C]. The keyed answer is correct: Step 1: A + B + C → I (slow); Step 2: I → D (fast). This aligns with the topic (Reaction Mechanism and Rate Law) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A).",
+    "distractor_notes": {
+      "A": "Consistent.",
+      "C": "Consistent.",
+      "D": "Consistent."
+    },
+    "tags": [
+      "not/except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Three consistent mechanisms, one inconsistent.",
+      "how_to_avoid": "Compute each slow-step rate law."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/04%3A_Reaction_Mechanisms",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.8-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.8",
+    "topic_title": "Reaction Mechanism and Rate Law",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For rate = $k[\\mathrm{A}]^2$, the concentration of A is tripled. By what factor does the rate change?",
+    "options": {
+      "A": "3×",
+      "B": "6×",
+      "C": "27×",
+      "D": "9×"
+    },
+    "correct": "D",
+    "explanation": "$3^2 = 9$. The keyed answer is correct: 9×. This aligns with the topic (Reaction Mechanism and Rate Law) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A).",
+    "distractor_notes": {
+      "A": "Treated as first order.",
+      "B": "Multiplied the factor by the exponent.",
+      "C": "Cubed the factor."
+    },
+    "tags": [
+      "rate factor"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Exponent vs multiplier.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Multiplying 3 by 2 feels natural.",
+      "how_to_avoid": "Raise the factor to the exponent."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/04%3A_Reaction_Mechanisms",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.8-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.8",
+    "topic_title": "Reaction Mechanism and Rate Law",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Mechanism | Slow step | Predicted rate law\n--- | --- | ---\n1 | A + B → I (slow) | k[A][B]\n2 | A → I' (slow) | k[A]",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "A student compares two proposed mechanisms for A + B → C. Mechanism 1 has a slow step A + B → I; mechanism 2 has a slow step A → I'. The experimental rate law is rate = $k[\\mathrm{A}]$. What can be concluded?",
+    "options": {
+      "A": "Mechanism 1 is consistent with the rate law because it contains A.",
+      "B": "Both mechanisms are consistent because both contain A in the slow step.",
+      "C": "Mechanism 2 is consistent with the rate law; mechanism 1 is not.",
+      "D": "Neither mechanism can be tested by rate laws."
+    },
+    "correct": "C",
+    "explanation": "Mechanism 1 predicts rate = k[A][B]; mechanism 2 predicts k[A].",
+    "distractor_notes": {
+      "A": "Mechanism 1 predicts first order in B as well.",
+      "B": "Only mechanism 2 matches.",
+      "D": "Rate laws test mechanisms."
+    },
+    "tags": [
+      "mechanism check"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Presence of A in the slow step is not enough.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "A appears in both.",
+      "how_to_avoid": "Compare the whole predicted rate law."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/04%3A_Reaction_Mechanisms",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.8-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.8",
+    "topic_title": "Reaction Mechanism and Rate Law",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A reaction with slow first step 2 A → B has rate = $k[\\mathrm{A}]^2$ and $k = 0.040$ M$^{-1}$ s$^{-1}$. What is the rate when [A] = 0.50 M?",
+    "options": {
+      "A": "0.010 M/s",
+      "B": "0.020 M/s",
+      "C": "0.010 s$^{-1}$",
+      "D": "0.16 M/s"
+    },
+    "correct": "A",
+    "explanation": "rate = 0.040 × 0.50² = 0.010 M/s. The keyed answer is correct: 0.010 M/s. This aligns with the topic (Reaction Mechanism and Rate Law) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A).",
+    "distractor_notes": {
+      "B": "Used first order.",
+      "C": "Wrong units: rate must be in M/s.",
+      "D": "Divided by [A]$^2$."
+    },
+    "tags": [
+      "units",
+      "rate"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Units on the answer must be rate units.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The number alone looks right.",
+      "how_to_avoid": "Check that the final unit is M/s."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/04%3A_Reaction_Mechanisms",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.9-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.9",
+    "topic_title": "Pre-Equilibrium Approximation",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Step 1 (fast, reversible): 2 NO ⇌ N$_{2}$O$_{2}$; Step 2 (slow): N$_{2}$O$_{2}$ + O$_{2}$ → 2 NO$_{2}$",
+      "citation": "Original mechanism written for this item (textbook-style examples).",
+      "asset_path": null
+    },
+    "question": "For the mechanism 2 NO ⇌ N$_2$O$_2$ (fast, reversible); N$_2$O$_2$ + O$_2$ → 2 NO$_2$ (slow), which rate law is correct?",
+    "options": {
+      "A": "$\\text{rate} = k[\\mathrm{N_2O_2}][\\mathrm{O_2}]$",
+      "B": "$\\text{rate} = k[\\mathrm{NO}]^2$",
+      "C": "$\\text{rate} = k[\\mathrm{NO}]^2[\\mathrm{O_2}]$",
+      "D": "$\\text{rate} = k[\\mathrm{NO}][\\mathrm{O_2}]$"
+    },
+    "correct": "C",
+    "explanation": "Substitute $[\\mathrm{N_2O_2}] = K[\\mathrm{NO}]^2$. The keyed answer is correct: $\\text{rate} = k[\\mathrm{NO}]^2[\\mathrm{O_2}]$. This aligns with the topic (Pre-Equilibrium Approximation) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A).",
+    "distractor_notes": {
+      "A": "The intermediate cannot appear in the final rate law.",
+      "B": "Used only the first step.",
+      "D": "Used first order in NO."
+    },
+    "tags": [
+      "pre-equilibrium"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Using the slow-step law with the intermediate.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The slow step is rate limiting, so it feels like the answer.",
+      "how_to_avoid": "Replace the intermediate using the fast equilibrium."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://en.wikipedia.org/wiki/Lindemann_mechanism",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.9-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.9",
+    "topic_title": "Pre-Equilibrium Approximation",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Step 1 (fast, reversible): Cl$_{2}$ ⇌ 2 Cl; Step 2 (slow): Cl + CHCl$_{3}$ → HCl + CCl$_{3}$",
+      "citation": "Original mechanism written for this item (textbook-style examples).",
+      "asset_path": null
+    },
+    "question": "For Cl$_2$ ⇌ 2 Cl (fast); Cl + CHCl$_3$ → HCl + CCl$_3$ (slow), what is the order of the rate law in Cl$_2$?",
+    "options": {
+      "A": "Second order",
+      "B": "One-half",
+      "C": "First order",
+      "D": "Zero order"
+    },
+    "correct": "B",
+    "explanation": "[Cl] = (K[Cl$_2$])$^{1/2}$. The keyed answer is correct: One-half. This aligns with the topic (Pre-Equilibrium Approximation) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A).",
+    "distractor_notes": {
+      "A": "Took the coefficient of Cl in the equilibrium as the order.",
+      "C": "Treated Cl$_2$ as first order.",
+      "D": "Cl$_2$ appears only in the fast step, but the equilibrium links it to the slow step."
+    },
+    "tags": [
+      "fractional order"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Exponent in K inverts.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Coefficient 2 appears with Cl, not Cl$_2$.",
+      "how_to_avoid": "Solve K for [Cl]."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://en.wikipedia.org/wiki/Lindemann_mechanism",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.9-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.9",
+    "topic_title": "Pre-Equilibrium Approximation",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the pre-equilibrium approximation is correct?",
+    "options": {
+      "A": "It is used when the first step is slow and essentially irreversible.",
+      "B": "It requires that all steps in the mechanism have equal rates.",
+      "C": "It applies only to mechanisms that contain a catalyst somewhere.",
+      "D": "It applies when a fast reversible step precedes a slow one."
+    },
+    "correct": "D",
+    "explanation": "CED 5.9.A.1. The keyed answer is correct: It applies when a fast reversible step precedes a slow one. This aligns with the topic (Pre-Equilibrium Approximation) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A).",
+    "distractor_notes": {
+      "A": "That case is simpler: the slow step sets the rate law.",
+      "B": "Rates differ.",
+      "C": "Catalysts are not required."
+    },
+    "tags": [
+      "absolute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Overly narrow condition.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Memorized condition inverted.",
+      "how_to_avoid": "Check which step is slow."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://en.wikipedia.org/wiki/Lindemann_mechanism",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.9-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.9",
+    "topic_title": "Pre-Equilibrium Approximation",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of these is NOT an acceptable form of the overall rate law for a mechanism with a fast pre-equilibrium followed by a slow step?",
+    "options": {
+      "A": "A law that includes an intermediate's concentration",
+      "B": "A rate law with a fractional exponent on a reactant",
+      "C": "A rate law with a negative exponent on a species",
+      "D": "A rate law whose observed constant is $k_2k_1/k_{-1}$"
+    },
+    "correct": "A",
+    "explanation": "Intermediates must be eliminated. The keyed answer is correct: A law that includes an intermediate's concentration. This aligns with the topic (Pre-Equilibrium Approximation) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A).",
+    "distractor_notes": {
+      "B": "Acceptable.",
+      "C": "Acceptable.",
+      "D": "Acceptable."
+    },
+    "tags": [
+      "not/except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Fractional or negative exponents look wrong.",
+      "how_to_avoid": "Ask whether the species is a reactant or intermediate."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://en.wikipedia.org/wiki/Lindemann_mechanism",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.9-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.9",
+    "topic_title": "Pre-Equilibrium Approximation",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A fast equilibrium has $k_1 = 6.0\\times10^{2}$ s$^{-1}$ and $k_{-1} = 3.0\\times10^{2}$ s$^{-1}$ followed by a slow step with $k_2 = 4.0$ s$^{-1}$ (rate = $k_2[\\mathrm{I}]$, with [I] = K[A]). What is $k_{obs}$ in rate = $k_{obs}[\\mathrm{A}]$?",
+    "options": {
+      "A": "8.0 s$^{-1}$",
+      "B": "2.0 s$^{-1}$",
+      "C": "4.0 s$^{-1}$",
+      "D": "$7.2 \\times 10^{5}$ s$^{-1}$"
+    },
+    "correct": "A",
+    "explanation": "$k_{obs} = k_2K = 4.0 \\times 2.0 = 8.0$ s$^{-1}$. The keyed answer is correct: 8.0 s$^{-1}$. This aligns with the topic (Pre-Equilibrium Approximation) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A).",
+    "distractor_notes": {
+      "B": "Inverted K.",
+      "C": "Left out K.",
+      "D": "Multiplied all constants."
+    },
+    "tags": [
+      "pre-equilibrium"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Which constant is in the numerator.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "K = forward/reverse is easy to invert.",
+      "how_to_avoid": "K = k$_f$/k$_r$."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://en.wikipedia.org/wiki/Lindemann_mechanism",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.9-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.9",
+    "topic_title": "Pre-Equilibrium Approximation",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Mechanism | Steps | Predicted rate law\n--- | --- | ---\nI | A + B → X (slow); X + A → P (fast) | k[A][B]\nII | 2 A ⇌ X (fast); X + B → P (slow) | k[A]²[B]\nIII | A + B ⇌ X (fast); X + A → P (slow) | k[A]²[B]",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "The table lists the rate laws predicted by three mechanisms for 2 A + B → products. The experimental rate law is rate = $k[\\mathrm{A}]^2[\\mathrm{B}]$. Which mechanisms are consistent?",
+    "options": {
+      "A": "Mechanism I only, since it is the simplest mechanism",
+      "B": "Mechanisms II and III only",
+      "C": "Mechanisms I and II only, but not mechanism III",
+      "D": "All three mechanisms, since each contains A and B"
+    },
+    "correct": "B",
+    "explanation": "Consistent means the predicted law matches the observation; I predicts k[A][B].",
+    "distractor_notes": {
+      "A": "Mechanism I predicts k[A][B].",
+      "C": "Mechanism I is not consistent.",
+      "D": "Mechanism I is not consistent."
+    },
+    "tags": [
+      "mechanism check"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Multiple consistent mechanisms.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students want one answer.",
+      "how_to_avoid": "Test all and report all."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://en.wikipedia.org/wiki/Lindemann_mechanism",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.9-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.9",
+    "topic_title": "Pre-Equilibrium Approximation",
+    "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In the pre-equilibrium approximation, the first step has reached equilibrium. Which equation correctly relates the rate constants for the reversible step A + B ⇌ I?",
+    "options": {
+      "A": "$k_1[\\mathrm{I}] = k_{-1}[\\mathrm{A}][\\mathrm{B}]$",
+      "B": "$k_1 = k_{-1}$",
+      "C": "$k_1[\\mathrm{A}][\\mathrm{B}] = k_{-1}[\\mathrm{I}]$",
+      "D": "$k_1[\\mathrm{A}] = k_{-1}[\\mathrm{B}]$"
+    },
+    "correct": "C",
+    "explanation": "Equal forward and reverse rates. The keyed answer is correct: $k_1[\\mathrm{A}][\\mathrm{B}] = k_{-1}[\\mathrm{I}]$. This aligns with the topic (Pre-Equilibrium Approximation) learning objective: Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A).",
+    "distractor_notes": {
+      "A": "Swapped forward and reverse.",
+      "B": "Equal rates, not equal constants.",
+      "D": "Left out the intermediate."
+    },
+    "tags": [
+      "pre-equilibrium"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Rate equality not constant equality.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'Equilibrium' suggests equal constants.",
+      "how_to_avoid": "Equate rates, not constants."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rate-determining_step",
+        "https://en.wikipedia.org/wiki/Lindemann_mechanism",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.10-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.10",
+    "topic_title": "Multistep Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "graph",
+      "content": "Energy profile (kJ/mol) for a two-step reaction: reactants at 10; first peak (transition state 1) at 40; a valley (intermediate) at -5; second peak (transition state 2) at 85; products at -20.",
+      "citation": "Original graph described in text for this item.",
+      "asset_path": null
+    },
+    "question": "In the energy profile described, a student says step 1 is rate limiting because it is the first peak. What is the best evaluation?",
+    "options": {
+      "A": "Correct; the first step in a mechanism always determines the overall rate.",
+      "B": "Incorrect; step 2 has the larger barrier (90 versus 30 kJ/mol).",
+      "C": "Correct; step 1 has a larger activation energy than step 2 does.",
+      "D": "Incorrect; multistep reactions have no single rate-limiting step."
+    },
+    "correct": "B",
+    "explanation": "Compare barriers. The keyed answer is correct: Incorrect; step 2 has the larger barrier (90 versus 30 kJ/mol). This aligns with the topic (Multistep Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A).",
+    "distractor_notes": {
+      "A": "No such rule.",
+      "C": "Ea(step 1) = 30; Ea(step 2) = 90.",
+      "D": "One step usually limits."
+    },
+    "tags": [
+      "rate-determining step"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "First step ≠ slow step.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The first step is the first to occur.",
+      "how_to_avoid": "Compare activation energies."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Transition_state",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.10-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.10",
+    "topic_title": "Multistep Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "graph",
+      "content": "Energy profile (kJ/mol) for a two-step reaction: reactants at 0; first peak (transition state 1) at 60; a valley (intermediate) at 20; second peak (transition state 2) at 45; products at -30.",
+      "citation": "Original graph described in text for this item.",
+      "asset_path": null
+    },
+    "question": "In the energy profile described, which step is rate limiting?",
+    "options": {
+      "A": "Step 2, because the second peak is the one closer to the products.",
+      "B": "Step 2, because the intermediate lies above the energy of the reactants.",
+      "C": "Step 2, because the overall reaction is exothermic overall.",
+      "D": "Step 1, because its barrier is 60 kJ/mol versus 25 kJ/mol."
+    },
+    "correct": "D",
+    "explanation": "Ea(1) = 60, Ea(2) = 25. The keyed answer is correct: Step 1, because its barrier is 60 kJ/mol versus 25 kJ/mol. This aligns with the topic (Multistep Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A).",
+    "distractor_notes": {
+      "A": "Peak position is irrelevant.",
+      "B": "Intermediate energy does not set the slow step.",
+      "C": "ΔE does not set the slow step."
+    },
+    "tags": [
+      "rate-determining step"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Peak height vs step barrier.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "TS2 is at 45 but the barrier is measured from the intermediate.",
+      "how_to_avoid": "Subtract the preceding species' energy."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Transition_state",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.10-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.10",
+    "topic_title": "Multistep Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "graph",
+      "content": "Energy profile (kJ/mol) for a two-step reaction: reactants at 10; first peak (transition state 1) at 40; a valley (intermediate) at -5; second peak (transition state 2) at 85; products at -20.",
+      "citation": "Original graph described in text for this item.",
+      "asset_path": null
+    },
+    "question": "In the energy profile described, what is the activation energy of step 2?",
+    "options": {
+      "A": "90 kJ/mol",
+      "B": "75 kJ/mol",
+      "C": "85 kJ/mol",
+      "D": "105 kJ/mol"
+    },
+    "correct": "A",
+    "explanation": "Step 2 starts at the intermediate (−5 kJ/mol): 85 − (−5) = 90 kJ/mol.",
+    "distractor_notes": {
+      "B": "Measured from the reactants to the second peak.",
+      "C": "Read the peak energy directly.",
+      "D": "Used the reverse activation energy."
+    },
+    "tags": [
+      "activation energy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Starting point for Ea of step 2.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students measure all barriers from the reactants.",
+      "how_to_avoid": "Use the preceding energy well."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Transition_state",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.10-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.10",
+    "topic_title": "Multistep Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about intermediates and transition states is correct?",
+    "options": {
+      "A": "An intermediate is an energy maximum, while a transition state is an energy minimum.",
+      "B": "Both are energy maxima, one for each step of the mechanism.",
+      "C": "A transition state is an energy maximum; an intermediate is a minimum.",
+      "D": "Both are energy minima, found between consecutive peaks on the profile."
+    },
+    "correct": "C",
+    "explanation": "CED 5.10. The keyed answer is correct: A transition state is an energy maximum; an intermediate is a minimum. This aligns with the topic (Multistep Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A).",
+    "distractor_notes": {
+      "A": "Reversed.",
+      "B": "Intermediates are in wells.",
+      "D": "Transition states are peaks."
+    },
+    "tags": [
+      "concept"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Peak vs valley.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both are 'fleeting species'.",
+      "how_to_avoid": "Peak = TS; valley = intermediate."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Transition_state",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.10-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.10",
+    "topic_title": "Multistep Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT true for the energy profile of a multistep reaction?",
+    "options": {
+      "A": "The number of transition states equals the number of elementary steps.",
+      "B": "Intermediates are located in energy wells between peaks.",
+      "C": "The overall energy change equals the largest activation energy.",
+      "D": "The overall energy change is the difference between the energies of products and reactants."
+    },
+    "correct": "C",
+    "explanation": "ΔE is independent of activation energies. The keyed answer is correct: The overall energy change equals the largest activation energy. This aligns with the topic (Multistep Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A).",
+    "distractor_notes": {
+      "A": "True.",
+      "B": "True.",
+      "D": "True."
+    },
+    "tags": [
+      "not/except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Plausible-sounding wrong claim.",
+      "how_to_avoid": "Check each statement."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Transition_state",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.10-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.10",
+    "topic_title": "Multistep Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student says a reaction with several steps always has a rate determined by the final step. Which response is correct?",
+    "options": {
+      "A": "Incorrect: the slow step is the one with the largest barrier.",
+      "B": "Correct: the final step produces the products and so it controls the overall rate.",
+      "C": "Correct: all of the earlier steps must finish completely before any product forms.",
+      "D": "Incorrect: multistep reactions have no rate-limiting step."
+    },
+    "correct": "A",
+    "explanation": "Largest barrier = slow. The keyed answer is correct: Incorrect: the slow step is the one with the largest barrier. This aligns with the topic (Multistep Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A).",
+    "distractor_notes": {
+      "B": "Producing products does not control the rate.",
+      "C": "Steps run in sequence continuously.",
+      "D": "There is generally one."
+    },
+    "tags": [
+      "absolute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Always' claim.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Product formation appears at the end.",
+      "how_to_avoid": "Identify the slow step from the profile."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Transition_state",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.10-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.10",
+    "topic_title": "Multistep Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Step 1: ΔE = +30 kJ/mol; Step 2: ΔE = −55 kJ/mol. A student reports the overall ΔE as +25 kJ/mol. What is the correct value and the error?",
+    "options": {
+      "A": "+25 kJ/mol; the student's answer is correct as reported.",
+      "B": "−25 kJ/mol; the student dropped the sign of step 2.",
+      "C": "−85 kJ/mol; the student should have added the magnitudes of both values.",
+      "D": "+85 kJ/mol; the student should have subtracted the second step from the first."
+    },
+    "correct": "B",
+    "explanation": "ΔE = +30 + (−55) = −25. The keyed answer is correct: −25 kJ/mol; the student dropped the sign of step 2. This aligns with the topic (Multistep Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A).",
+    "distractor_notes": {
+      "A": "Sum is −25.",
+      "C": "ΔE values are signed.",
+      "D": "Signed sum."
+    },
+    "tags": [
+      "sign"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Sign handling.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Magnitudes look like energies.",
+      "how_to_avoid": "Keep signs."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Transition_state",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.10-trap-0008",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.10",
+    "topic_title": "Multistep Reaction Energy Profile",
+    "learning_objective": "Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement correctly relates the rate-limiting step to the energy profile?",
+    "options": {
+      "A": "The rate-limiting step always has the smallest activation energy of all the steps.",
+      "B": "The rate-limiting step always has the lowest-energy transition state on the profile.",
+      "C": "The rate-limiting step is the step with the most negative energy change, ΔE.",
+      "D": "The slow step has the largest barrier, measured from the well before its peak."
+    },
+    "correct": "D",
+    "explanation": "Compare Ea of each step. The keyed answer is correct: The slow step has the largest barrier, measured from the well before its peak. This aligns with the topic (Multistep Reaction Energy Profile) learning objective: Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A).",
+    "distractor_notes": {
+      "A": "Reversed.",
+      "B": "Reversed.",
+      "C": "ΔE is not the criterion."
+    },
+    "tags": [
+      "partial_truth"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Highest peak can differ from largest barrier.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Peak height heuristic usually works.",
+      "how_to_avoid": "Compute barriers from preceding wells."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaction_coordinate",
+        "https://en.wikipedia.org/wiki/Transition_state",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.11-trap-0001",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.11",
+    "topic_title": "Catalysis",
+    "learning_objective": "Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A catalyst is added to a reaction. Which statement is correct?",
+    "options": {
+      "A": "The forward reaction is faster, but the reverse reaction is unchanged in speed.",
+      "B": "The equilibrium constant increases because the forward rate constant increases.",
+      "C": "Both directions are faster, and the equilibrium constant is unchanged.",
+      "D": "The reaction yields more product at equilibrium."
+    },
+    "correct": "C",
+    "explanation": "Catalysts affect kinetics, not thermodynamics. The keyed answer is correct: Both directions are faster, and the equilibrium constant is unchanged. This aligns with the topic (Catalysis) learning objective: Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A).",
+    "distractor_notes": {
+      "A": "Both barriers are lowered.",
+      "B": "K is unchanged.",
+      "D": "Equilibrium yield is unchanged."
+    },
+    "tags": [
+      "equilibrium"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Catalysts increase yield.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Catalysts are used to 'improve' reactions.",
+      "how_to_avoid": "Remember: they change the speed only."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Catalysis",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.11-trap-0002",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.11",
+    "topic_title": "Catalysis",
+    "learning_objective": "Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about catalysts is correct?",
+    "options": {
+      "A": "A catalyst can never appear in the rate law because it is not a net reactant.",
+      "B": "A catalyst is always consumed in the final step of the mechanism and lost.",
+      "C": "A catalyst always increases the activation energy of the reverse reaction only.",
+      "D": "A catalyst can appear in the rate law though absent from the overall equation."
+    },
+    "correct": "D",
+    "explanation": "A catalyst consumed in the rate-limiting step appears in the rate law.",
+    "distractor_notes": {
+      "A": "It can.",
+      "B": "It is consumed early and regenerated.",
+      "C": "It lowers both barriers."
+    },
+    "tags": [
+      "absolute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Never' claims.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The overall equation excludes the catalyst.",
+      "how_to_avoid": "Rate laws come from the slow step."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Catalysis",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.11-trap-0003",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.11",
+    "topic_title": "Catalysis",
+    "learning_objective": "Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT a correct statement about a catalyst?",
+    "options": {
+      "A": "It changes the enthalpy change of the reaction.",
+      "B": "It provides an alternative reaction pathway.",
+      "C": "It is regenerated by the end of the reaction.",
+      "D": "It can lower the activation energy of the reaction."
+    },
+    "correct": "A",
+    "explanation": "ΔH is unchanged by catalysts. The keyed answer is correct: It changes the enthalpy change of the reaction. This aligns with the topic (Catalysis) learning objective: Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A).",
+    "distractor_notes": {
+      "B": "True.",
+      "C": "True.",
+      "D": "True."
+    },
+    "tags": [
+      "not/except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Familiar true statements first.",
+      "how_to_avoid": "Evaluate each."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Catalysis",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.11-trap-0004",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.11",
+    "topic_title": "Catalysis",
+    "learning_objective": "Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A catalyst lowers the forward Ea of an endothermic reaction (ΔH = +40 kJ/mol) from 110 to 80 kJ/mol. What is the reverse Ea with the catalyst?",
+    "options": {
+      "A": "70 kJ/mol",
+      "B": "40 kJ/mol",
+      "C": "120 kJ/mol",
+      "D": "80 kJ/mol"
+    },
+    "correct": "B",
+    "explanation": "Reverse Ea = catalyzed forward Ea − ΔH = 80 − 40 = 40 kJ/mol.",
+    "distractor_notes": {
+      "A": "Reverse Ea without catalyst (110 − 40).",
+      "C": "Added ΔH to the catalyzed Ea.",
+      "D": "Used the catalyzed forward Ea."
+    },
+    "tags": [
+      "reverse",
+      "sign"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Sign of ΔH.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Using the exothermic formula for an endothermic reaction.",
+      "how_to_avoid": "Ea(rev) = Ea(fwd) − ΔH."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Catalysis",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "Computed with Python (apchem/scripts/unit05_gen.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.11-trap-0005",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.11",
+    "topic_title": "Catalysis",
+    "learning_objective": "Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "graph",
+      "content": "Two curves from reactants at 0 to products at −40 kJ/mol: the uncatalyzed curve has one peak at 100 kJ/mol; the catalyzed curve has two peaks at 55 and 60 kJ/mol separated by a valley at 20 kJ/mol.",
+      "citation": "Original graph described in text for this item.",
+      "asset_path": null
+    },
+    "question": "The graphs describe the uncatalyzed (peak at 100 kJ/mol) and catalyzed (peaks at 55 and 60 kJ/mol) paths. A student says the catalyst makes the overall reaction less exothermic because the curve is lower in the middle. What is wrong?",
+    "options": {
+      "A": "Nothing; the catalyzed curve is lower so ΔE is smaller.",
+      "B": "The overall energy change depends on the endpoints, which are identical for both paths.",
+      "C": "The reaction is endothermic with a catalyst.",
+      "D": "The student is correct because the intermediate lies at a lower energy than the reactants."
+    },
+    "correct": "B",
+    "explanation": "Same endpoints, same ΔE. The keyed answer is correct: The overall energy change depends on the endpoints, which are identical for both paths. This aligns with the topic (Catalysis) learning objective: Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A).",
+    "distractor_notes": {
+      "A": "Peak heights do not change ΔE.",
+      "C": "No.",
+      "D": "ΔE is determined by products vs. reactants."
+    },
+    "tags": [
+      "profile"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Curve height vs endpoints.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The curve looks lower overall.",
+      "how_to_avoid": "Compare the endpoints."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Catalysis",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.11-trap-0006",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.11",
+    "topic_title": "Catalysis",
+    "learning_objective": "Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "How does the activation energy of the reverse reaction change when a catalyst is added?",
+    "options": {
+      "A": "It decreases by the same amount as the forward activation energy.",
+      "B": "It increases by the same amount as the forward activation energy decreases.",
+      "C": "It stays the same.",
+      "D": "It decreases by twice as much as the forward activation energy."
+    },
+    "correct": "A",
+    "explanation": "ΔH unchanged → equal changes. The keyed answer is correct: It decreases by the same amount as the forward activation energy. This aligns with the topic (Catalysis) learning objective: Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A).",
+    "distractor_notes": {
+      "B": "A catalyst lowers both.",
+      "C": "Both barriers change.",
+      "D": "Both change by equal amounts."
+    },
+    "tags": [
+      "reverse"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Direction of reverse barrier.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Forward gets lower so reverse must rise to balance.",
+      "how_to_avoid": "Both lower by the same amount."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Catalysis",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u5-t5.11-trap-0007",
+    "subject": "apchem",
+    "unit": 5,
+    "unit_title": "Kinetics",
+    "topic": "5.11",
+    "topic_title": "Catalysis",
+    "learning_objective": "Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A catalyst is described as 'not consumed'. Which statement is the most accurate?",
+    "options": {
+      "A": "A catalyst takes no part in any of the elementary steps of the mechanism.",
+      "B": "A catalyst is consumed in the first step and permanently converted to a final product.",
+      "C": "A catalyst is produced in the first step and consumed in the last step instead.",
+      "D": "A catalyst may be consumed in one step but is regenerated in a later step."
+    },
+    "correct": "D",
+    "explanation": "CED 5.11.A.2. The keyed answer is correct: A catalyst may be consumed in one step but is regenerated in a later step. This aligns with the topic (Catalysis) learning objective: Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A).",
+    "distractor_notes": {
+      "A": "It participates.",
+      "B": "It is regenerated.",
+      "C": "Reversed."
+    },
+    "tags": [
+      "partial_truth"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "'Not consumed' overall vs in each step.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Intro courses say 'not used up'.",
+      "how_to_avoid": "Look at the mechanism."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Catalysis",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics",
+        "College Board AP Chemistry CED (Unit 5 essential knowledge statements), https://apcentral.collegeboard.org/courses/ap-chemistry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  }
+]

@@ -1,0 +1,4529 @@
+[
+  {
+    "id": "apush-u5-t5.1-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.1",
+    "topic_title": "Contextualizing Period 5",
+    "learning_objective": "Explain the context in which sectional conflict emerged from 1844 to 1877.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following took place FIRST?",
+    "options": {
+      "A": "The ratification of the Fourteenth Amendment",
+      "B": "The passage of the Homestead Act",
+      "C": "The completion of the first transcontinental railroad",
+      "D": "The Treaty of Guadalupe Hidalgo"
+    },
+    "correct": "D",
+    "explanation": "The treaty was signed in 1848. The Homestead Act came in 1862, the Fourteenth Amendment in 1868, and the transcontinental railroad in 1869.",
+    "distractor_notes": {
+      "A": "The Fourteenth Amendment was ratified in 1868.",
+      "B": "The Homestead Act was 1862.",
+      "C": "The railroad was completed in 1869."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.1",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four events from 1848 to 1869 can be confused.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students sometimes treat the western acquisitions and Civil War-era land policy as a single era.",
+      "how_to_avoid": "Anchor dates: Guadalupe Hidalgo (1848), Homestead Act (1862), Fourteenth Amendment (1868), railroad (1869)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+        "https://en.wikipedia.org/wiki/Mexican_Cession",
+        "https://en.wikipedia.org/wiki/Homestead_Acts",
+        "https://en.wikipedia.org/wiki/Pacific_Railway_Acts",
+        "https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution",
+        "https://en.wikipedia.org/wiki/Reconstruction_era"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.1-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.1",
+    "topic_title": "Contextualizing Period 5",
+    "learning_objective": "Explain the context in which sectional conflict emerged from 1844 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about nativism in the 1840s and 1850s is most accurate?",
+    "options": {
+      "A": "Nativism disappeared after the Mexican-American War",
+      "B": "Nativists often opposed Catholic immigrants and organized politically, as in the American (Know-Nothing) Party",
+      "C": "Nativists were mainly opposed to the Protestant majority",
+      "D": "Nativists primarily wanted to expand the right to vote to immigrants and to increase Catholic influence in public schools"
+    },
+    "correct": "B",
+    "explanation": "The American Party grew from anti-Catholic and anti-immigrant sentiment and won significant electoral support in 1854-1856.",
+    "distractor_notes": {
+      "A": "Nativism peaked in the 1850s.",
+      "C": "Nativists opposed Catholics, not Protestants.",
+      "D": "Nativists sought to restrict, not extend, immigrants' political influence."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.1",
+      "nativism"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students may link all political movements of the era to slavery alone.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Because slavery dominated the era, students overlook nativism as a separate political force.",
+      "how_to_avoid": "Recall that Irish and German Catholic immigration fueled anti-Catholic, anti-immigrant politics in the 1850s."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Know_Nothing",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Know_Nothing",
+        "https://en.wikipedia.org/wiki/History_of_the_Republican_Party_(United_States)"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.1-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.1",
+    "topic_title": "Contextualizing Period 5",
+    "learning_objective": "Explain the context in which sectional conflict emerged from 1844 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following were methods by which the United States gained territory between 1845 and 1853 EXCEPT",
+    "options": {
+      "A": "a purchase of land from Mexico",
+      "B": "a treaty ending the Mexican-American War",
+      "C": "annexation of Texas by joint resolution",
+      "D": "a military conquest of Canada"
+    },
+    "correct": "D",
+    "explanation": "The United States annexed Texas (1845), ended the war with the Treaty of Guadalupe Hidalgo (1848), and bought the Gadsden Purchase (1853). It did not conquer Canada.",
+    "distractor_notes": {
+      "A": "The Gadsden Purchase was a purchase in 1853.",
+      "B": "The 1848 treaty ended the war.",
+      "C": "Texas was annexed in 1845."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.1",
+      "except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stems reverse the usual direction of the question.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students see familiar words such as “military” and “conquest” and pick a true statement.",
+      "how_to_avoid": "Label each option true or false first, then select the false one."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Texas_annexation",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Texas_annexation",
+        "https://en.wikipedia.org/wiki/James_K._Polk",
+        "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+        "https://en.wikipedia.org/wiki/Mexican_Cession",
+        "https://en.wikipedia.org/wiki/Gadsden_Purchase"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.1-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.1",
+    "topic_title": "Contextualizing Period 5",
+    "learning_objective": "Explain the context in which sectional conflict emerged from 1844 to 1877.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Oregon Treaty of 1846 is most accurate?",
+    "options": {
+      "A": "It gave the United States the entire Oregon Country up to 54°40' after a short war",
+      "B": "It was imposed after a war with Britain",
+      "C": "It was a compromise that divided the Oregon Country with Britain",
+      "D": "It ended the Mexican-American War"
+    },
+    "correct": "C",
+    "explanation": "The treaty set the border at the 49th parallel, short of the slogan's demand. No war with Britain occurred.",
+    "distractor_notes": {
+      "A": "Britain kept land north of the 49th parallel.",
+      "B": "The treaty was peaceful.",
+      "D": "The war with Mexico ended in 1848."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.1",
+      "oregon",
+      "slogan"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The slogan “54°40' or fight” suggests the United States took all of Oregon.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The slogan was memorable, and students assume expansionists got what they demanded.",
+      "how_to_avoid": "Recall that Polk compromised on the 49th parallel, avoiding war with Britain while fighting Mexico."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Oregon_Treaty",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Oregon_Treaty",
+        "https://en.wikipedia.org/wiki/James_K._Polk"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.1-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.1",
+    "topic_title": "Contextualizing Period 5",
+    "learning_objective": "Explain the context in which sectional conflict emerged from 1844 to 1877.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Territorial acquisitions by the United States, 1845-1853 (author-prepared summary)\n| Acquisition | Year | Method |\n| Texas | 1845 | Annexed by joint resolution of Congress |\n| Oregon Country (south of the 49th parallel) | 1846 | Negotiated treaty with Great Britain |\n| Mexican Cession | 1848 | Treaty of Guadalupe Hidalgo after the Mexican-American War |\n| Gadsden Purchase | 1853 | Purchased from Mexico |",
+      "citation": "Author-prepared summary based on Wikipedia articles on Texas annexation, Oregon Treaty, Mexican Cession, and Gadsden Purchase (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement is NOT supported by the table?",
+    "options": {
+      "A": "All four acquisitions were made by military force",
+      "B": "Great Britain participated in negotiations over Oregon",
+      "C": "A purchase from Mexico occurred after the Treaty of Guadalupe Hidalgo",
+      "D": "Texas entered the Union by joint resolution"
+    },
+    "correct": "A",
+    "explanation": "Only the Mexican Cession followed a war. The table shows annexation, a treaty with Britain, and a purchase for the others.",
+    "distractor_notes": {
+      "B": "The table lists a treaty with Great Britain.",
+      "C": "The Gadsden Purchase (1853) followed 1848.",
+      "D": "The table lists a joint resolution."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.1",
+      "table",
+      "except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stems plus an absolute (“all”) make the false choice hard to spot.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students equate expansion with the Mexican-American War and generalize to every acquisition.",
+      "how_to_avoid": "Compare each option with the specific row it concerns."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Author-prepared summary; facts from Wikipedia (mexcession)",
+      "url": "https://en.wikipedia.org/wiki/Mexican_Cession",
+      "license": "CC BY-SA 4.0 (facts only; table/description text original)",
+      "attribution": "Facts from Wikipedia contributors; text written by the question author"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Texas_annexation",
+        "https://en.wikipedia.org/wiki/James_K._Polk",
+        "https://en.wikipedia.org/wiki/Oregon_Treaty",
+        "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+        "https://en.wikipedia.org/wiki/Mexican_Cession",
+        "https://en.wikipedia.org/wiki/Gadsden_Purchase"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.1-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.1",
+    "topic_title": "Contextualizing Period 5",
+    "learning_objective": "Explain the context in which sectional conflict emerged from 1844 to 1877.",
+    "skill": "Making Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following best explains why the Mexican Cession, rather than Texas annexation alone, so sharply increased sectional conflict?",
+    "options": {
+      "A": "It extended the Missouri Compromise line to the Pacific",
+      "B": "It gave Congress no authority over the territories",
+      "C": "It created vast territory not covered by the Missouri Compromise line, forcing a new decision on slavery",
+      "D": "It granted Mexican citizens control over slavery in the region"
+    },
+    "correct": "C",
+    "explanation": "Texas entered as a slave state, but the Cession's status was undecided. Disputes over it produced the Wilmot Proviso and the Compromise of 1850.",
+    "distractor_notes": {
+      "A": "The 1820 line did not apply to the Cession.",
+      "B": "Congress claimed authority over territories.",
+      "D": "Mexican citizens did not decide slavery's status."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.1",
+      "cession",
+      "sectionalism"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Texas annexation also affected slavery, so students may think the Cession added nothing new.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Texas was already a slave state by 1845, so the Cession's open-ended status seems less distinctive.",
+      "how_to_avoid": "Focus on the question of status: the Cession was unorganized land outside the 1820 line."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Mexican_Cession",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Mexican_Cession",
+        "https://en.wikipedia.org/wiki/Wilmot_Proviso",
+        "https://en.wikipedia.org/wiki/Texas_annexation",
+        "https://en.wikipedia.org/wiki/James_K._Polk"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.2-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.2",
+    "topic_title": "Manifest Destiny",
+    "learning_objective": "Explain the causes and effects of westward expansion from 1844 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following statements about Manifest Destiny is most accurate?",
+    "options": {
+      "A": "It had no connection to the slavery debate and was supported equally by every region",
+      "B": "It was supported only in the North",
+      "C": "It was widely supported but opposed by many Whigs and antislavery Northerners",
+      "D": "All Americans agreed with it"
+    },
+    "correct": "C",
+    "explanation": "Expansion was popular, especially among Democrats, but many Whigs and Northerners opposed it for fear of expanding slavery and war.",
+    "distractor_notes": {
+      "A": "Expansion was intertwined with slavery.",
+      "B": "Southerners were among its strongest supporters.",
+      "D": "Many Whigs opposed it."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.2",
+      "manifest-destiny"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolute language (“all,” “only,” “no”) ignores disagreement.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The slogan sounds like national consensus, so students assume everyone agreed.",
+      "how_to_avoid": "Distrust absolutes and recall Whig and antislavery opposition."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Manifest_destiny",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Manifest_destiny",
+        "https://en.wikipedia.org/wiki/James_K._Polk",
+        "https://en.wikipedia.org/wiki/Texas_annexation",
+        "https://en.wikisource.org/wiki/Joint_Resolution_for_Annexing_Texas_to_the_United_States"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.2-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.2",
+    "topic_title": "Manifest Destiny",
+    "learning_objective": "Explain the causes and effects of westward expansion from 1844 to 1877.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . our manifest destiny to overspread the continent allotted by Providence for the free development of our yearly multiplying millions.”",
+      "citation": "John L. O'Sullivan, “Annexation,” United States Magazine and Democratic Review, July-August 1845 (public-domain text as quoted on Wikipedia, “Manifest destiny”)",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, which statement best describes O'Sullivan's claim?",
+    "options": {
+      "A": "The nation's growing population was destined to spread across the continent",
+      "B": "The nation should avoid war with Mexico",
+      "C": "The nation should negotiate the Oregon boundary with Britain before settling the Texas question",
+      "D": "The nation needed more territory to expand slavery"
+    },
+    "correct": "A",
+    "explanation": "The excerpt speaks only of Providence and a growing population. It does not mention slavery, Oregon, or Mexico.",
+    "distractor_notes": {
+      "B": "War with Mexico is not mentioned.",
+      "C": "Oregon is not mentioned.",
+      "D": "Slavery is not mentioned."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.2",
+      "stimulus",
+      "o-sullivan"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "A well-known historical context (slavery, Oregon) tempts students to read it into the text.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students bring outside knowledge and choose what they know was true of the era rather than what the excerpt says.",
+      "how_to_avoid": "Limit your answer to words in the excerpt: Providence, continent, “yearly multiplying millions.”"
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Manifest destiny (quoting O'Sullivan, 1845)",
+      "url": "https://en.wikipedia.org/wiki/Manifest_destiny",
+      "license": "Public domain (1845 text); Wikipedia page CC BY-SA 4.0",
+      "attribution": "O'Sullivan's 1845 text is public domain; quotation as quoted by Wikipedia contributors (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Manifest_destiny",
+        "https://en.wikipedia.org/wiki/John_L._O'Sullivan"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.2-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.2",
+    "topic_title": "Manifest Destiny",
+    "learning_objective": "Explain the causes and effects of westward expansion from 1844 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which president signed the joint resolution annexing Texas?",
+    "options": {
+      "A": "James K. Polk",
+      "B": "John Tyler",
+      "C": "Andrew Jackson",
+      "D": "Zachary Taylor"
+    },
+    "correct": "B",
+    "explanation": "Outgoing president John Tyler signed the resolution; Polk took office March 4 and encouraged Texas to accept. Jackson and Taylor were not involved.",
+    "distractor_notes": {
+      "A": "Polk was inaugurated days later.",
+      "C": "Jackson refused Texas's 1836 request.",
+      "D": "Taylor was elected in 1848."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.2",
+      "texas",
+      "tyler"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The annexation is usually associated with Polk, who won the 1844 election.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Polk's victory and the 1846 war make him the more famous expansionist.",
+      "how_to_avoid": "Remember that Tyler signed the resolution on March 1, 1845, days before Polk took office."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Texas_annexation",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Texas_annexation",
+        "https://en.wikipedia.org/wiki/James_K._Polk"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.2-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.2",
+    "topic_title": "Manifest Destiny",
+    "learning_objective": "Explain the causes and effects of westward expansion from 1844 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the order of events is most accurate?",
+    "options": {
+      "A": "The war with Mexico began in 1836, Texas was annexed in 1845, and it became independent in 1846",
+      "B": "Texas became independent in 1836, was annexed in 1845, and the war with Mexico began in 1846",
+      "C": "Texas became independent in 1845, the war began in 1836, and it was annexed in 1846",
+      "D": "Texas was annexed in 1836, became independent in 1845, and the war began in 1846"
+    },
+    "correct": "B",
+    "explanation": "Texas won independence in 1836, joined the United States in 1845, and war began in 1846.",
+    "distractor_notes": {
+      "A": "The war did not start in 1836.",
+      "C": "Independence was in 1836.",
+      "D": "Annexation cannot precede independence."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.2",
+      "chronology",
+      "texas"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Three dates in a ten-year span make order easy to scramble.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students confuse independence, annexation, and war.",
+      "how_to_avoid": "Sequence: independence (1836), annexation (1845), war (1846)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Texas_annexation",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Texas_annexation",
+        "https://en.wikipedia.org/wiki/Texas_Revolution",
+        "https://en.wikipedia.org/wiki/James_K._Polk",
+        "https://en.wikipedia.org/wiki/Mexican–American_War"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.2-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.2",
+    "topic_title": "Manifest Destiny",
+    "learning_objective": "Explain the causes and effects of westward expansion from 1844 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best describes the relationship between the discovery of gold in California and the Mexican-American War?",
+    "options": {
+      "A": "Gold was discovered in the Mexican Cession after the Gadsden Purchase",
+      "B": "The war began after gold was discovered in 1848",
+      "C": "The discovery of gold was the main cause of the war",
+      "D": "Gold was discovered shortly before the war formally ended and did not cause it"
+    },
+    "correct": "D",
+    "explanation": "Gold was found on January 24, 1848, and the treaty was signed on February 2. The war began in 1846 for other reasons.",
+    "distractor_notes": {
+      "A": "Gold was found five years before the Gadsden Purchase.",
+      "B": "The war began before gold's discovery.",
+      "C": "The war began in 1846."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.2",
+      "correlation",
+      "gold-rush"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "The Gold Rush and the war are tied together geographically but not causally.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Because both involve California, students assume the war was about gold.",
+      "how_to_avoid": "Check dates: war began in 1846; gold was found in January 1848, shortly before the treaty of February 1848."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/California_Gold_Rush",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/California_Gold_Rush",
+        "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+        "https://en.wikipedia.org/wiki/Mexican–American_War",
+        "https://en.wikipedia.org/wiki/James_K._Polk"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.2-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.2",
+    "topic_title": "Manifest Destiny",
+    "learning_objective": "Explain the causes and effects of westward expansion from 1844 to 1877.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student claims that the annexation of Texas was supported by all political leaders because Texans favored it. Which evidence best refutes this claim?",
+    "options": {
+      "A": "Many Northern Whigs opposed annexation, and the Senate rejected the 1844 treaty",
+      "B": "The annexation resolution passed Congress in 1845",
+      "C": "Texas entered the Union as a state in December 1845 with no opposition in Congress",
+      "D": "Texas had declared independence in 1836"
+    },
+    "correct": "A",
+    "explanation": "Only the Senate's rejection and Whig opposition show disagreement. The other facts are true but do not show disagreement.",
+    "distractor_notes": {
+      "B": "Passage shows majority support, not unanimity.",
+      "C": "Statehood is consistent with the claim.",
+      "D": "Independence does not show disagreement."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.2",
+      "texas",
+      "evidence"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The listed facts are true but do not address whether leaders were united.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students choose accurate statements that do not answer the question.",
+      "how_to_avoid": "Ask whether each option contradicts the claim of unanimity."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Texas_annexation",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Texas_annexation",
+        "https://en.wikipedia.org/wiki/James_K._Polk",
+        "https://en.wikipedia.org/wiki/Manifest_destiny"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.3-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.3",
+    "topic_title": "The Mexican-American War",
+    "learning_objective": "Explain the causes and effects of the Mexican-American War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In the Treaty of Guadalupe Hidalgo, the United States agreed to pay Mexico",
+    "options": {
+      "A": "$15 million",
+      "B": "$7.2 million",
+      "C": "$10 million",
+      "D": "$25 million"
+    },
+    "correct": "A",
+    "explanation": "Article XII of the treaty provided $15 million. The other figures belong to different transactions.",
+    "distractor_notes": {
+      "B": "$7.2 million was Alaska.",
+      "C": "$10 million was the Gadsden Purchase.",
+      "D": "$25 million was Polk's earlier offer."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.3",
+      "numbers"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Several round dollar amounts are linked with expansion in the 1840s and 1850s.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Polk's earlier offer was $25 million, the Gadsden Purchase was $10 million, and Alaska was $7.2 million.",
+      "how_to_avoid": "Match each figure with its transaction: treaty $15 million, Gadsden $10 million, Alaska $7.2 million; $25 million was Polk's rejected offer."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+        "https://en.wikipedia.org/wiki/Mexican_Cession",
+        "https://en.wikipedia.org/wiki/Mexican–American_War",
+        "https://en.wikipedia.org/wiki/James_K._Polk",
+        "https://en.wikipedia.org/wiki/Gadsden_Purchase"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.3-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.3",
+    "topic_title": "The Mexican-American War",
+    "learning_objective": "Explain the causes and effects of the Mexican-American War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about public opinion on the Mexican-American War is most accurate?",
+    "options": {
+      "A": "The nation was united in support",
+      "B": "Opposition came only from Mexican Americans living in the Southwest and from Native nations",
+      "C": "Only Southerners opposed it",
+      "D": "Support was strong among many Democrats, but many Whigs and abolitionists opposed it"
+    },
+    "correct": "D",
+    "explanation": "Many Whigs and abolitionists saw the war as a slaveholders' plot or an unjust aggression.",
+    "distractor_notes": {
+      "A": "Opposition existed.",
+      "B": "Opposition included Northern Whigs and others.",
+      "C": "Many Southerners supported the war."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.3",
+      "opinion"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Wars are often remembered as unified national efforts.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students may assume that a successful war enjoyed unanimous support.",
+      "how_to_avoid": "Recall Lincoln's Spot Resolutions, Thoreau's protest, and the Whig and abolitionist opposition."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Mexican–American_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Mexican–American_War",
+        "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+        "https://www.gutenberg.org/ebooks/71"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.3-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.3",
+    "topic_title": "The Mexican-American War",
+    "learning_objective": "Explain the causes and effects of the Mexican-American War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following occurred FIRST?",
+    "options": {
+      "A": "The Treaty of Guadalupe Hidalgo was signed",
+      "B": "Polk sent John Slidell to Mexico City",
+      "C": "The Wilmot Proviso was introduced",
+      "D": "Congress declared war on Mexico"
+    },
+    "correct": "B",
+    "explanation": "Slidell arrived in late 1845. Congress declared war in May 1846, the Proviso was introduced in August 1846, and the treaty was signed in 1848.",
+    "distractor_notes": {
+      "A": "The treaty ended the war.",
+      "C": "The Proviso followed the war's start.",
+      "D": "War followed Slidell's mission."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.3",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Several events in the 1845-1848 span are easy to reorder.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students often assume war preceded diplomatic offers.",
+      "how_to_avoid": "Remember the sequence: Slidell (1845), war (1846), Proviso (1846), treaty (1848)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Mexican–American_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Mexican–American_War",
+        "https://en.wikipedia.org/wiki/James_K._Polk",
+        "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.3-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.3",
+    "topic_title": "The Mexican-American War",
+    "learning_objective": "Explain the causes and effects of the Mexican-American War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following were results of the Treaty of Guadalupe Hidalgo EXCEPT",
+    "options": {
+      "A": "Mexico's recognition of the Rio Grande boundary",
+      "B": "a payment of $15 million to Mexico",
+      "C": "the transfer of Oregon to the United States",
+      "D": "the cession of California to the United States"
+    },
+    "correct": "C",
+    "explanation": "The treaty fixed the Rio Grande boundary, paid Mexico $15 million, and ceded California. Oregon was divided with Britain by a separate treaty.",
+    "distractor_notes": {
+      "A": "The treaty fixed the boundary.",
+      "B": "The payment was in the treaty.",
+      "D": "California was ceded."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.3",
+      "except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "In EXCEPT questions, a plausible expansion-related event serves as the false choice.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Oregon was part of the same expansionist era, so it seems to belong.",
+      "how_to_avoid": "Verify each option against the treaty text and remember Oregon was settled with Britain in 1846."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+        "https://en.wikipedia.org/wiki/Mexican–American_War",
+        "https://en.wikipedia.org/wiki/Mexican_Cession",
+        "https://en.wikipedia.org/wiki/Oregon_Treaty",
+        "https://en.wikipedia.org/wiki/James_K._Polk"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.3-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.3",
+    "topic_title": "The Mexican-American War",
+    "learning_objective": "Explain the causes and effects of the Mexican-American War.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . [A]s an express and fundamental condition to the acquisition of any territory from the Republic of Mexico by the United States, by virtue of any treaty which may be negotiated between them, and to the use by the Executive of the moneys herein appropriated, neither slavery nor involuntary servitude shall ever exist in any part of said territory, except for crime, whereof the party shall first be duly convicted.”",
+      "citation": "Wilmot Proviso, proposed amendment by Representative David Wilmot, August 1846 (as quoted on Wikipedia, “Wilmot Proviso”)",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, the Wilmot Proviso would have",
+    "options": {
+      "A": "ended the war with Mexico",
+      "B": "banned slavery in Texas",
+      "C": "abolished slavery in the Southern states",
+      "D": "banned slavery in any territory acquired from Mexico"
+    },
+    "correct": "D",
+    "explanation": "The language applies only to new territory acquired from Mexico, not to states or Texas.",
+    "distractor_notes": {
+      "A": "It was an amendment on territory, not peace terms.",
+      "B": "Texas was already annexed.",
+      "C": "It said nothing about Southern states."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.3",
+      "wilmot",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students recall that the Proviso is an “antislavery” measure and overread it.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The word “slavery” prompts students to choose the broadest antislavery option.",
+      "how_to_avoid": "Read the scope of the text: “any territory from the Republic of Mexico.”"
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Wilmot Proviso (quoting the 1846 amendment)",
+      "url": "https://en.wikipedia.org/wiki/Wilmot_Proviso",
+      "license": "Public domain (1846 text); Wikipedia page CC BY-SA 4.0",
+      "attribution": "Text of the 1846 House amendment is public domain; quotation as it appears on a CC BY-SA Wikipedia page"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Wilmot_Proviso",
+        "https://en.wikipedia.org/wiki/Mexican_Cession"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.3-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.3",
+    "topic_title": "The Mexican-American War",
+    "learning_objective": "Explain the causes and effects of the Mexican-American War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Wilmot Proviso is most accurate?",
+    "options": {
+      "A": "It passed both houses but was vetoed by Polk",
+      "B": "It became law in 1847 and banned slavery in the Mexican Cession after Polk reluctantly signed it",
+      "C": "Although it passed the House, it never became law because the Senate refused to approve it",
+      "D": "It was approved by the Senate but rejected by the House"
+    },
+    "correct": "C",
+    "explanation": "The House passed it several times, but the Senate, where the South held equal power, did not.",
+    "distractor_notes": {
+      "A": "It never passed the Senate to reach the president.",
+      "B": "It never became law.",
+      "D": "The houses acted in the opposite order."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.3",
+      "wilmot",
+      "partial-truth"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The House passage is true, so the answer choice that stops there is tempting.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students remember that the measure passed and assume it became law.",
+      "how_to_avoid": "Check both houses: House passage is not enough for enactment."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Wilmot_Proviso",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Wilmot_Proviso",
+        "https://en.wikipedia.org/wiki/Mexican_Cession",
+        "https://en.wikipedia.org/wiki/Compromise_of_1850"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.4-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.4",
+    "topic_title": "The Compromise of 1850",
+    "learning_objective": "Explain the similarities and differences in how regional attitudes affected federal policy in the period after the Mexican-American War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which president signed the Compromise of 1850 into law?",
+    "options": {
+      "A": "Millard Fillmore",
+      "B": "Franklin Pierce",
+      "C": "James K. Polk",
+      "D": "Zachary Taylor"
+    },
+    "correct": "A",
+    "explanation": "Taylor died in office in July 1850. Fillmore signed the measures that September.",
+    "distractor_notes": {
+      "B": "Pierce took office in 1853.",
+      "C": "Polk's term ended in 1849.",
+      "D": "Taylor died before the bills passed."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.4",
+      "fillmore"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Taylor was president when the debate began.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Taylor opened the debate in 1849, so students assume he signed the bills.",
+      "how_to_avoid": "Remember that Taylor died in July 1850 and Fillmore signed the bills in September."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Compromise_of_1850",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Compromise_of_1850",
+        "https://en.wikipedia.org/wiki/Zachary_Taylor"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.4-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.4",
+    "topic_title": "The Compromise of 1850",
+    "learning_objective": "Explain the similarities and differences in how regional attitudes affected federal policy in the period after the Mexican-American War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the District of Columbia in the Compromise of 1850 is accurate?",
+    "options": {
+      "A": "Slavery was abolished",
+      "B": "Slavery was banned in the entire territory outside the District",
+      "C": "The slave trade was banned, but slavery remained legal",
+      "D": "The slave trade was protected"
+    },
+    "correct": "C",
+    "explanation": "The compromise ended the public sale of enslaved people in the capital. Slavery in the district was ended later, in 1862.",
+    "distractor_notes": {
+      "A": "Abolition came in 1862.",
+      "B": "That is not a provision.",
+      "D": "The trade was banned."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.4",
+      "district-of-columbia"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The measure is often summarized as “ending slavery in D.C.”",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The phrase “slave trade” is easily conflated with slavery itself.",
+      "how_to_avoid": "Read carefully: the ban applied to the trade, not to ownership."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Compromise_of_1850",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Compromise_of_1850"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.4-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.4",
+    "topic_title": "The Compromise of 1850",
+    "learning_objective": "Explain the similarities and differences in how regional attitudes affected federal policy in the period after the Mexican-American War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following took place LAST?",
+    "options": {
+      "A": "The Wilmot Proviso",
+      "B": "The Compromise of 1850",
+      "C": "The Missouri Compromise",
+      "D": "The Kansas-Nebraska Act"
+    },
+    "correct": "D",
+    "explanation": "The Kansas-Nebraska Act (1854) followed the Wilmot Proviso (1846) and the Compromise of 1850.",
+    "distractor_notes": {
+      "A": "1846 preceded 1854.",
+      "B": "1850 preceded 1854.",
+      "C": "1820 preceded 1854."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.4",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Several measures about slavery in the territories bear similar names and dates.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The 1820, 1846, and 1850 measures are often confused.",
+      "how_to_avoid": "Sequence: Missouri (1820), Wilmot (1846), Compromise (1850), Kansas-Nebraska (1854)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act",
+        "https://en.wikipedia.org/wiki/Compromise_of_1850",
+        "https://en.wikipedia.org/wiki/Texas_annexation"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.4-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.4",
+    "topic_title": "The Compromise of 1850",
+    "learning_objective": "Explain the similarities and differences in how regional attitudes affected federal policy in the period after the Mexican-American War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following were provisions of the Compromise of 1850 EXCEPT",
+    "options": {
+      "A": "the admission of California as a free state",
+      "B": "the repeal of the Missouri Compromise line",
+      "C": "a ban on the slave trade in the District of Columbia",
+      "D": "a stronger Fugitive Slave Act"
+    },
+    "correct": "B",
+    "explanation": "The repeal of the Missouri Compromise line occurred in 1854 under the Kansas-Nebraska Act.",
+    "distractor_notes": {
+      "A": "California entered as a free state.",
+      "C": "The slave trade ban was part of the compromise.",
+      "D": "The Fugitive Slave Act was part of the compromise."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.4",
+      "except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A later law (the Kansas-Nebraska Act) is placed among earlier measures.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The Missouri Compromise repeal is another compromise-era slavery measure.",
+      "how_to_avoid": "Associate the repeal with 1854, not 1850."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Compromise_of_1850",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Compromise_of_1850",
+        "https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850",
+        "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.4-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.4",
+    "topic_title": "The Compromise of 1850",
+    "learning_objective": "Explain the similarities and differences in how regional attitudes affected federal policy in the period after the Mexican-American War.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . in all cases where the proceedings are before a commissioner, he shall be entitled to a fee of ten dollars in full for his services in each case, upon the delivery of the said certificate to the claimant, his agent or attorney; or a fee of five dollars in cases where the proof shall not, in the opinion of such commissioner, warrant such certificate and delivery . . . . In no trial or hearing under this act shall the testimony of such alleged fugitive be admitted in evidence . . . .”",
+      "citation": "Fugitive Slave Act, 1850, The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, which statement about an alleged fugitive is accurate?",
+    "options": {
+      "A": "He was entitled to appeal to a state court",
+      "B": "His testimony could not be admitted as evidence",
+      "C": "He had the right to a trial by jury",
+      "D": "He could call witnesses to prove his freedom before a federal commissioner"
+    },
+    "correct": "B",
+    "explanation": "The excerpt bars testimony by the accused and mentions no jury or appeal.",
+    "distractor_notes": {
+      "A": "State courts are not mentioned.",
+      "C": "A jury is not mentioned.",
+      "D": "Witness rights are not mentioned."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.4",
+      "stimulus",
+      "fugitive-slave-act"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students assume that basic legal rights applied.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Familiar constitutional rights seem like a default.",
+      "how_to_avoid": "Rely on the text: it excludes the testimony and does not mention a jury or state courts."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "The Avalon Project: Fugitive Slave Act (1850)",
+      "url": "https://avalon.law.yale.edu/19th_century/fugitive.asp",
+      "license": "Public domain (19th-century text)",
+      "attribution": "The Avalon Project, Yale Law School, avalon.law.yale.edu"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://avalon.law.yale.edu/19th_century/fugitive.asp"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.4-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.4",
+    "topic_title": "The Compromise of 1850",
+    "learning_objective": "Explain the similarities and differences in how regional attitudes affected federal policy in the period after the Mexican-American War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Northern reaction to the Fugitive Slave Act is most accurate?",
+    "options": {
+      "A": "Many Northerners resisted it, though some officials enforced it",
+      "B": "All Northern states cooperated fully",
+      "C": "The law was repealed immediately in the North",
+      "D": "No Northerners opposed the law"
+    },
+    "correct": "A",
+    "explanation": "Resistance was widespread, but some federal officers did return people to slavery. Northern states could not repeal a federal law.",
+    "distractor_notes": {
+      "B": "Resistance was widespread.",
+      "C": "States could not repeal federal law.",
+      "D": "Opposition was strong."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.4",
+      "absolutes"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolute words (“all,” “no”) overlook mixed responses.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students may assume that a federal law was uniformly obeyed.",
+      "how_to_avoid": "Distrust absolutes and recall personal liberty laws and cases of enforcement."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850",
+        "https://en.wikipedia.org/wiki/Underground_Railroad"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.5-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.5",
+    "topic_title": "Sectional Conflict: Regional Differences",
+    "learning_objective": "Explain the effects of immigration from various parts of the world on American culture from 1844 to 1877; explain how regional differences related to slavery caused tension in the years leading up to the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Northern attitudes toward slavery in the 1850s is most accurate?",
+    "options": {
+      "A": "Most Northerners wanted slavery extended into the territories and protected by the federal government",
+      "B": "No Northerners opposed slavery",
+      "C": "All Northerners supported abolition",
+      "D": "Many Northerners opposed the expansion of slavery without supporting racial equality"
+    },
+    "correct": "D",
+    "explanation": "Free-soil Northerners objected to slavery's spread, but many were not abolitionists and held racist views.",
+    "distractor_notes": {
+      "A": "Free-soilers opposed extension.",
+      "B": "Many opposed slavery's spread.",
+      "C": "Abolitionists were a minority."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.5",
+      "free-soil"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolute statements hide a range of Northern views.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students may assume that opposition to slavery meant support for equal rights.",
+      "how_to_avoid": "Recall that free-soil sentiment was often tied to economic self-interest and racial prejudice."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Republican_Party_(United_States)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/History_of_the_Republican_Party_(United_States)",
+        "https://en.wikipedia.org/wiki/Free_Soil_Party"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.5-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.5",
+    "topic_title": "Sectional Conflict: Regional Differences",
+    "learning_objective": "Explain the effects of immigration from various parts of the world on American culture from 1844 to 1877; explain how regional differences related to slavery caused tension in the years leading up to the Civil War.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“In all social systems, there must be a class to do the menial duties, to perform the drudgery of life . . . . It constitutes the very mudsill of society.”",
+      "citation": "James Henry Hammond, speech to the U.S. Senate (“Mudsill” speech), March 4, 1858 (as quoted on Wikipedia, “James Henry Hammond”)",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, Hammond's argument is that",
+    "options": {
+      "A": "slavery should spread to the North",
+      "B": "slavery is essential to every society",
+      "C": "laborers should rise to lead the nation once they gain an education",
+      "D": "a society needs a class that performs menial labor"
+    },
+    "correct": "D",
+    "explanation": "The excerpt speaks of a class of menial laborers and does not mention slavery or the North.",
+    "distractor_notes": {
+      "A": "The North is not mentioned.",
+      "B": "Slavery is not named.",
+      "C": "The excerpt says a lower class must exist."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.5",
+      "stimulus",
+      "hammond"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students attach Hammond's famous proslavery reputation to the excerpt's wording.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The word “slavery” does not appear in the excerpt, but outside knowledge pushes students toward it.",
+      "how_to_avoid": "Answer from the text: it refers to a “class,” not to slavery."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: James Henry Hammond (quoting the 1858 Senate speech)",
+      "url": "https://en.wikipedia.org/wiki/James_Henry_Hammond",
+      "license": "Public domain (1858 text); Wikipedia page CC BY-SA 4.0",
+      "attribution": "Hammond's 1858 speech is public domain; quotation as it appears on a CC BY-SA Wikipedia page"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/James_Henry_Hammond"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.5-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.5",
+    "topic_title": "Sectional Conflict: Regional Differences",
+    "learning_objective": "Explain the effects of immigration from various parts of the world on American culture from 1844 to 1877; explain how regional differences related to slavery caused tension in the years leading up to the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following took place FIRST?",
+    "options": {
+      "A": "The founding of the Republican Party",
+      "B": "The publication of Uncle Tom's Cabin",
+      "C": "The Dred Scott decision",
+      "D": "John Brown's raid on Harpers Ferry"
+    },
+    "correct": "B",
+    "explanation": "Stowe's novel appeared in 1852. The Republicans formed in 1854, Dred Scott came in 1857, and Brown's raid in 1859.",
+    "distractor_notes": {
+      "A": "1854 followed 1852.",
+      "C": "1857 followed 1852.",
+      "D": "1859 followed 1852."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.5",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four antislavery-related events from 1852 to 1859 are easy to confuse.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The novel is often placed near the Civil War.",
+      "how_to_avoid": "Sequence: novel (1852), Republican Party (1854), Dred Scott (1857), Harpers Ferry (1859)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Uncle_Tom's_Cabin",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Uncle_Tom's_Cabin",
+        "https://en.wikipedia.org/wiki/Fugitive_Slave_Act_of_1850",
+        "https://en.wikipedia.org/wiki/History_of_the_Republican_Party_(United_States)",
+        "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.5-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.5",
+    "topic_title": "Sectional Conflict: Regional Differences",
+    "learning_objective": "Explain the effects of immigration from various parts of the world on American culture from 1844 to 1877; explain how regional differences related to slavery caused tension in the years leading up to the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following contributed to the rise of the Know-Nothing Party EXCEPT",
+    "options": {
+      "A": "fear of Irish and German immigration",
+      "B": "anti-Catholic prejudice",
+      "C": "a desire to expand immigration and Catholic political influence",
+      "D": "dissatisfaction with the existing parties over their failure to end slavery"
+    },
+    "correct": "C",
+    "explanation": "The party was anti-immigrant and anti-Catholic and benefited from dissatisfaction with the Whigs and Democrats.",
+    "distractor_notes": {
+      "A": "Fear of immigrants was central.",
+      "B": "Anti-Catholicism was central.",
+      "D": "Dissatisfaction helped the party."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.5",
+      "except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The false choice reverses the party's central goals.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "In an EXCEPT stem, students pick a true cause.",
+      "how_to_avoid": "Mark each option true or false, then pick the false one."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Know_Nothing",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Know_Nothing",
+        "https://en.wikipedia.org/wiki/History_of_the_Republican_Party_(United_States)"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.5-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.5",
+    "topic_title": "Sectional Conflict: Regional Differences",
+    "learning_objective": "Explain the effects of immigration from various parts of the world on American culture from 1844 to 1877; explain how regional differences related to slavery caused tension in the years leading up to the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about regional differences before the Civil War is most accurate?",
+    "options": {
+      "A": "The North had more factories and railroads, while the South depended on cotton and had a smaller industrial base",
+      "B": "The South had more factories and railroads than the North, while the North depended mainly on exporting raw cotton to Europe",
+      "C": "The North relied entirely on slave labor",
+      "D": "Both regions had equal manufacturing capacity"
+    },
+    "correct": "A",
+    "explanation": "The South was wealthy in cotton exports but had less manufacturing and fewer railroads than the North.",
+    "distractor_notes": {
+      "B": "The North had more factories.",
+      "C": "Northern labor was largely free.",
+      "D": "The regions were not equal."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.5",
+      "economy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students assume that cotton wealth meant the South was economically stronger overall.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Cotton exports made the South rich, which hides its industrial weakness.",
+      "how_to_avoid": "Compare manufacturing and rail data: the North had far more."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+        "https://en.wikipedia.org/wiki/Anaconda_Plan",
+        "https://en.wikipedia.org/wiki/History_of_the_Republican_Party_(United_States)"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.5-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.5",
+    "topic_title": "Sectional Conflict: Regional Differences",
+    "learning_objective": "Explain the effects of immigration from various parts of the world on American culture from 1844 to 1877; explain how regional differences related to slavery caused tension in the years leading up to the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best describes the relationship between the Free Soil Party and the Republican Party?",
+    "options": {
+      "A": "The Free Soil Party was founded after the Republican Party",
+      "B": "The two parties opposed each other",
+      "C": "The Republican Party absorbed many Free-Soil supporters and shared the goal of stopping slavery's expansion",
+      "D": "The Republican Party sought to abolish the Free Soil Party's platform"
+    },
+    "correct": "C",
+    "explanation": "Many Free-Soilers joined the new Republican Party in 1854 and its platform barred slavery from the territories.",
+    "distractor_notes": {
+      "A": "The Free Soil Party was founded in 1848.",
+      "B": "They were allies.",
+      "D": "The Republican platform built on the Free Soil goal."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.5",
+      "parties"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The parties share a name for some goals but differ in timing and scope.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students may reverse the order or assume the parties were identical.",
+      "how_to_avoid": "Check dates: Free Soil (1848), Republican (1854)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Free_Soil_Party",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Free_Soil_Party",
+        "https://en.wikipedia.org/wiki/History_of_the_Republican_Party_(United_States)",
+        "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.6-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.6",
+    "topic_title": "Failure of Compromise",
+    "learning_objective": "Explain the political causes of the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The Kansas-Nebraska Act effectively repealed which earlier measure?",
+    "options": {
+      "A": "The Missouri Compromise's ban on slavery north of 36°30'",
+      "B": "The Northwest Ordinance",
+      "C": "The Compromise of 1850 and its ban on the slave trade in Washington",
+      "D": "The Fugitive Slave Act"
+    },
+    "correct": "A",
+    "explanation": "The act declared the 1820 restriction void. The Compromise of 1850, the Northwest Ordinance, and the Fugitive Slave Act were not repealed.",
+    "distractor_notes": {
+      "B": "The Northwest Ordinance affected the old Northwest.",
+      "C": "The 1850 compromise was cited as a precedent.",
+      "D": "The fugitive law remained."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.6",
+      "kansas-nebraska"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Both the Missouri Compromise and the Compromise of 1850 involve territories and slavery.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The names “Compromise of 1850” and “Missouri Compromise” are easy to mix up.",
+      "how_to_avoid": "Remember that Douglas applied popular sovereignty and voided the 1820 line."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/19th_century/kanneb.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/19th_century/kanneb.asp",
+        "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act",
+        "https://en.wikipedia.org/wiki/Bleeding_Kansas"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.6-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.6",
+    "topic_title": "Failure of Compromise",
+    "learning_objective": "Explain the political causes of the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about popular sovereignty in Kansas is most accurate?",
+    "options": {
+      "A": "It peacefully resolved the slavery issue",
+      "B": "It ended the debate over slavery in all territories",
+      "C": "It was never attempted in Kansas",
+      "D": "It led to violence and competing governments"
+    },
+    "correct": "D",
+    "explanation": "Kansas had rival governments, violence, and a disputed constitution.",
+    "distractor_notes": {
+      "A": "It did not resolve the issue.",
+      "B": "The debate continued.",
+      "C": "It was used in Kansas."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.6",
+      "popular-sovereignty"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "The idea sounds democratic and peaceful.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume that voting would settle the matter.",
+      "how_to_avoid": "Recall that outsiders, fraud, and violence undermined the process."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Bleeding_Kansas",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bleeding_Kansas",
+        "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act",
+        "https://en.wikipedia.org/wiki/Lecompton_Constitution"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.6-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.6",
+    "topic_title": "Failure of Compromise",
+    "learning_objective": "Explain the political causes of the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following took place LAST?",
+    "options": {
+      "A": "The Dred Scott decision",
+      "B": "John Brown's raid on Harpers Ferry",
+      "C": "The Kansas-Nebraska Act and the Dred Scott decision",
+      "D": "The caning of Charles Sumner"
+    },
+    "correct": "B",
+    "explanation": "Brown's raid occurred in October 1859, after the other events.",
+    "distractor_notes": {
+      "A": "Dred Scott was 1857.",
+      "C": "KNA was 1854.",
+      "D": "Sumner was caned in 1856."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.6",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four events from 1854 to 1859 are easily reordered.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Each event is tied to the Kansas controversy and slavery.",
+      "how_to_avoid": "Sequence: KNA (1854), Sumner (1856), Dred Scott (1857), Harpers Ferry (1859)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act",
+        "https://en.wikipedia.org/wiki/Bleeding_Kansas",
+        "https://en.wikipedia.org/wiki/Caning_of_Charles_Sumner",
+        "https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford",
+        "https://en.wikipedia.org/wiki/John_Brown%27s_raid_on_Harpers_Ferry"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.6-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.6",
+    "topic_title": "Failure of Compromise",
+    "learning_objective": "Explain the political causes of the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following were results of the Dred Scott decision EXCEPT",
+    "options": {
+      "A": "increased Northern fears of a Slave Power",
+      "B": "a ruling that Dred Scott had earned his freedom by living in free territory",
+      "C": "a ruling that the Missouri Compromise was unconstitutional",
+      "D": "a holding that African Americans could not be citizens"
+    },
+    "correct": "B",
+    "explanation": "The Court held that Scott remained enslaved. It also held that Black Americans could not be citizens and that Congress could not ban slavery in the territories.",
+    "distractor_notes": {
+      "A": "Northerners feared a conspiracy.",
+      "C": "The Compromise was struck down.",
+      "D": "Citizenship was denied."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.6",
+      "except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A sympathetic reading of the case can lead students to select a freedom ruling.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students assume Scott won because they know the name.",
+      "how_to_avoid": "Remember that Scott lost; the Court said he had no standing to sue."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford",
+        "https://en.wikisource.org/wiki/Dred_Scott_v._Sandford",
+        "https://en.wikipedia.org/wiki/History_of_the_Republican_Party_(United_States)"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.6-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.6",
+    "topic_title": "Failure of Compromise",
+    "learning_objective": "Explain the political causes of the Civil War.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . when admitted as a State or States, the said Territory, or any portion of the same, shall be received into the Union with or without slavery, as their Constitution may prescribe at the time of their admission . . . . [T]he eighth section of the act preparatory to the admission of Missouri into the Union, approved March sixth, eighteen hundred and twenty, which, being inconsistent with the principle of non-intervention by Congress with slavery in the States and Territories, as recognized by the legislation of eighteen hundred and fifty, commonly called the Compromise Measures, is hereby declared inoperative and void; it being the true intent and meaning of this act not to legislate slavery into any Territory or State, nor to exclude it therefrom, but to leave the people thereof perfectly free to form and regulate their domestic institutions in their own way . . . .”",
+      "citation": "Kansas-Nebraska Act, 1854, The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, which statement about slavery in Kansas is accurate?",
+    "options": {
+      "A": "Congress would require slavery in Kansas until a majority of settlers voted to abolish it",
+      "B": "Congress would ban slavery in Kansas",
+      "C": "Kansas could enter the Union with or without slavery, as its constitution prescribed",
+      "D": "Slavery would be illegal north of 36°30'"
+    },
+    "correct": "C",
+    "explanation": "The text leaves slavery to the people of Kansas and voids the old ban.",
+    "distractor_notes": {
+      "A": "Congress takes no position to protect slavery.",
+      "B": "Congress declares non-intervention.",
+      "D": "The ban was repealed."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.6",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students read the Missouri Compromise's earlier ban into the document.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Prior knowledge of the 1820 ban leads to the wrong conclusion.",
+      "how_to_avoid": "Use the text: the Missouri Compromise provision is declared “inoperative and void.”"
+    },
+    "origin": "generated",
+    "source": {
+      "name": "The Avalon Project: Kansas-Nebraska Act (1854)",
+      "url": "https://avalon.law.yale.edu/19th_century/kanneb.asp",
+      "license": "Public domain (19th-century text)",
+      "attribution": "The Avalon Project, Yale Law School, avalon.law.yale.edu"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://avalon.law.yale.edu/19th_century/kanneb.asp"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.6-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.6",
+    "topic_title": "Failure of Compromise",
+    "learning_objective": "Explain the political causes of the Civil War.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student argues that the Dred Scott decision (1857) caused the Kansas-Nebraska Act (1854). Which response best evaluates this claim?",
+    "options": {
+      "A": "The claim fails because the act preceded the decision",
+      "B": "The claim is accurate because both involved slavery",
+      "C": "The claim fails because Dred Scott was not a real person",
+      "D": "The claim is accurate because both involved Kansas"
+    },
+    "correct": "A",
+    "explanation": "The act passed in 1854; the decision was issued in 1857, so the decision could not have caused it.",
+    "distractor_notes": {
+      "B": "Similar topics do not prove causation.",
+      "C": "Dred Scott was a real person.",
+      "D": "The decision did not concern Kansas directly."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.6",
+      "causation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Related events can seem to be cause and effect.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students link thematically similar events without checking dates.",
+      "how_to_avoid": "Check chronology before accepting a cause."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Kansas–Nebraska_Act",
+        "https://en.wikipedia.org/wiki/Bleeding_Kansas",
+        "https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.7-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.7",
+    "topic_title": "Election of 1860 and Secession",
+    "learning_objective": "Describe the effects of Lincoln's election.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which candidate finished second in the Electoral College in 1860?",
+    "options": {
+      "A": "Stephen A. Douglas",
+      "B": "Abraham Lincoln",
+      "C": "John Bell",
+      "D": "John C. Breckinridge"
+    },
+    "correct": "D",
+    "explanation": "Breckinridge won 72 electoral votes. Douglas had the second-highest popular vote total but won few states.",
+    "distractor_notes": {
+      "A": "Douglas had 12 electoral votes.",
+      "B": "Lincoln finished first.",
+      "C": "Bell had 39 electoral votes."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.7",
+      "election-1860"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Douglas finished second in the popular vote but not in the Electoral College.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students conflate popular-vote and electoral-vote standings.",
+      "how_to_avoid": "Recall that Breckinridge carried most Southern states (72), while Douglas won only 12 electoral votes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/1860_United_States_presidential_election",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/1860_United_States_presidential_election"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.7-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.7",
+    "topic_title": "Election of 1860 and Secession",
+    "learning_objective": "Describe the effects of Lincoln's election.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Lincoln's election in 1860 is most accurate?",
+    "options": {
+      "A": "He ran unopposed",
+      "B": "He won the presidency with a plurality, not a majority, of the popular vote",
+      "C": "He won a majority of the popular vote and carried every Northern and Southern state",
+      "D": "He won several Southern states"
+    },
+    "correct": "B",
+    "explanation": "Lincoln won roughly 40 percent of the popular vote and 180 electoral votes, helped by a divided opposition.",
+    "distractor_notes": {
+      "A": "He faced three opponents.",
+      "C": "He won about 40 percent.",
+      "D": "He won no Southern states."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.7",
+      "election-1860"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Winning an election is often equated with winning a majority.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The Electoral College obscures the popular-vote result.",
+      "how_to_avoid": "Check the popular vote: Lincoln won about 40 percent."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/1860_United_States_presidential_election",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/1860_United_States_presidential_election"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.7-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.7",
+    "topic_title": "Election of 1860 and Secession",
+    "learning_objective": "Describe the effects of Lincoln's election.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following took place LAST?",
+    "options": {
+      "A": "South Carolina seceded",
+      "B": "The Confederate States adopted a constitution",
+      "C": "Lincoln was inaugurated",
+      "D": "Virginia, Arkansas, Tennessee, and North Carolina seceded"
+    },
+    "correct": "D",
+    "explanation": "The Upper South seceded after Fort Sumter and Lincoln's call for troops, after the other events.",
+    "distractor_notes": {
+      "A": "South Carolina left first.",
+      "B": "The constitution was adopted in February-March.",
+      "C": "The inauguration was March 4."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.7",
+      "chronology",
+      "secession"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Secession occurred in two waves.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students may think all eleven states seceded at once.",
+      "how_to_avoid": "Sequence: South Carolina (Dec. 1860), Deep South (Jan.-Feb. 1861), Lincoln's inauguration and Sumter (March-April), Upper South (April-June)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Secession_in_the_United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Secession_in_the_United_States",
+        "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+        "https://avalon.law.yale.edu/19th_century/lincoln1.asp"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.7-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.7",
+    "topic_title": "Election of 1860 and Secession",
+    "learning_objective": "Describe the effects of Lincoln's election.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following states seceded from the Union and joined the Confederacy EXCEPT",
+    "options": {
+      "A": "Virginia",
+      "B": "Texas",
+      "C": "Kentucky",
+      "D": "Georgia"
+    },
+    "correct": "C",
+    "explanation": "Kentucky remained in the Union, though it was a slave state.",
+    "distractor_notes": {
+      "A": "Virginia seceded in April 1861.",
+      "B": "Texas seceded in February 1861.",
+      "D": "Georgia seceded in January 1861."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.7",
+      "except",
+      "border-states"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Border states are slave states that stayed in the Union.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Kentucky was a slave state, so students assume it seceded.",
+      "how_to_avoid": "Memorize the four border slave states: Delaware, Maryland, Kentucky, Missouri."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Border_states_(American_Civil_War)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Border_states_(American_Civil_War)",
+        "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+        "https://en.wikipedia.org/wiki/Secession_in_the_United_States"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.7-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.7",
+    "topic_title": "Election of 1860 and Secession",
+    "learning_objective": "Describe the effects of Lincoln's election.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“A geographical line has been drawn across the Union, and all the States north of that line have united in the election of a man to the high office of President of the United States, whose opinions and purposes are hostile to slavery . . . . But an increasing hostility on the part of the non-slaveholding States to the institution of slavery, has led to a disregard of their obligations, and the laws of the General Government have ceased to effect the objects of the Constitution.”",
+      "citation": "South Carolina, Declaration of the Immediate Causes . . . of Secession, December 1860, The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, what was South Carolina's complaint about the Northern states?",
+    "options": {
+      "A": "They had abolished slavery in the South and ended the fugitive slave law",
+      "B": "They had declared war on South Carolina",
+      "C": "They had united to elect a president hostile to slavery",
+      "D": "They had refused to pay taxes"
+    },
+    "correct": "C",
+    "explanation": "The excerpt refers to the election of a president hostile to slavery and the North's attitude. It does not claim that slavery had been abolished.",
+    "distractor_notes": {
+      "A": "No abolition had occurred.",
+      "B": "War had not begun.",
+      "D": "Taxes are not mentioned."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.7",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students expect secession documents to cite actual abolition.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Outside knowledge suggests the North had acted against slavery.",
+      "how_to_avoid": "Stick to the text: it complains about an election and hostility, not a completed act of abolition."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "The Avalon Project: South Carolina Declaration of Causes of Secession (1860)",
+      "url": "https://avalon.law.yale.edu/19th_century/csa_scarsec.asp",
+      "license": "Public domain (19th-century text)",
+      "attribution": "The Avalon Project, Yale Law School, avalon.law.yale.edu"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://avalon.law.yale.edu/19th_century/csa_scarsec.asp"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.7-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.7",
+    "topic_title": "Election of 1860 and Secession",
+    "learning_objective": "Describe the effects of Lincoln's election.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about secession in 1860-1861 is most accurate?",
+    "options": {
+      "A": "Not every slave state seceded; four border slave states remained in the Union",
+      "B": "Only free states seceded",
+      "C": "Every slave state seceded",
+      "D": "No slave state seceded"
+    },
+    "correct": "A",
+    "explanation": "Eleven slave states joined the Confederacy, but Delaware, Maryland, Kentucky, and Missouri did not.",
+    "distractor_notes": {
+      "B": "Free states did not secede.",
+      "C": "Four slave states stayed.",
+      "D": "Eleven states seceded."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.7",
+      "absolutes"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "“Every” and “no” overstate the pattern.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students assume that slavery alone determined each state's choice.",
+      "how_to_avoid": "Recall Delaware, Maryland, Kentucky, and Missouri."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Border_states_(American_Civil_War)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Border_states_(American_Civil_War)",
+        "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+        "https://en.wikipedia.org/wiki/Secession_in_the_United_States"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.8-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.8",
+    "topic_title": "Military Conflict in the Civil War",
+    "learning_objective": "Explain the various factors that contributed to the Union victory in the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which battle, fought in Maryland on September 17, 1862, ended Lee's first invasion of the North?",
+    "options": {
+      "A": "Vicksburg",
+      "B": "Antietam",
+      "C": "Bull Run",
+      "D": "Gettysburg"
+    },
+    "correct": "B",
+    "explanation": "Antietam was fought in Maryland in 1862. Gettysburg (1863) was in Pennsylvania, Bull Run (1861) in Virginia, and Vicksburg (1863) in Mississippi.",
+    "distractor_notes": {
+      "A": "Vicksburg was in Mississippi.",
+      "C": "Bull Run was in Virginia.",
+      "D": "Gettysburg was in 1863."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.8",
+      "battles"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Antietam and Gettysburg are both Lee's invasions of the North.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students often remember Gettysburg as the only Northern invasion.",
+      "how_to_avoid": "Remember that Antietam (1862) was in Maryland and Gettysburg (1863) was in Pennsylvania."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Antietam",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Battle_of_Antietam",
+        "https://en.wikipedia.org/wiki/Battle_of_Gettysburg",
+        "https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.8-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.8",
+    "topic_title": "Military Conflict in the Civil War",
+    "learning_objective": "Explain the various factors that contributed to the Union victory in the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following took place LAST?",
+    "options": {
+      "A": "The Battle of Antietam",
+      "B": "The siege of Vicksburg",
+      "C": "The Battle of Gettysburg",
+      "D": "Sherman's March to the Sea"
+    },
+    "correct": "D",
+    "explanation": "Sherman's March took place in November-December 1864.",
+    "distractor_notes": {
+      "A": "Antietam was 1862.",
+      "B": "Vicksburg was 1863.",
+      "C": "Gettysburg was 1863."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.8",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four major operations from 1862 to 1864.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students link Sherman's march with the end of the war and think it came earlier or later than Gettysburg.",
+      "how_to_avoid": "Sequence: Antietam (1862), Vicksburg/Gettysburg (1863), Sherman's march (1864)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Sherman%27s_March_to_the_Sea",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Sherman%27s_March_to_the_Sea",
+        "https://en.wikipedia.org/wiki/Battle_of_Gettysburg",
+        "https://en.wikipedia.org/wiki/Battle_of_Antietam",
+        "https://en.wikipedia.org/wiki/Siege_of_Vicksburg"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.8-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.8",
+    "topic_title": "Military Conflict in the Civil War",
+    "learning_objective": "Explain the various factors that contributed to the Union victory in the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the early years of the Civil War is most accurate?",
+    "options": {
+      "A": "The war was settled by a single battle in 1861",
+      "B": "The Union won every battle in the first two years",
+      "C": "The Confederacy won several early battles, but Union advantages gradually became decisive",
+      "D": "The Confederacy was badly defeated at Bull Run"
+    },
+    "correct": "C",
+    "explanation": "The Confederacy won at Bull Run and in many early engagements, but the Union's resources and strategy told over time.",
+    "distractor_notes": {
+      "A": "The war lasted four years.",
+      "B": "The Union lost at Bull Run.",
+      "D": "The Confederacy won at Bull Run."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.8",
+      "early-war"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students assume that larger resources produce easy early victories.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The Union's size makes early defeats surprising.",
+      "how_to_avoid": "Recall Bull Run (Confederate victory) and the length of the war."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/First_Battle_of_Bull_Run",
+        "https://en.wikipedia.org/wiki/Confederate_States_of_America"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.8-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.8",
+    "topic_title": "Military Conflict in the Civil War",
+    "learning_objective": "Explain the various factors that contributed to the Union victory in the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following were Union advantages in the Civil War EXCEPT",
+    "options": {
+      "A": "a tradition of fighting offensive wars on home territory",
+      "B": "greater industrial capacity",
+      "C": "a larger population from which to recruit soldiers, including enslaved men",
+      "D": "more miles of railroad"
+    },
+    "correct": "A",
+    "explanation": "The Union had industrial, rail, and manpower advantages. The Confederacy fought defensively.",
+    "distractor_notes": {
+      "B": "Industry favored the Union.",
+      "C": "Population favored the Union.",
+      "D": "Railroads favored the Union."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.8",
+      "except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A plausible-sounding military “advantage” is placed among real Union strengths.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students choose the factual advantages and miss the false claim.",
+      "how_to_avoid": "Check each option against known Union advantages: industry, railroads, population."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Confederate_States_of_America"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.8-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.8",
+    "topic_title": "Military Conflict in the Civil War",
+    "learning_objective": "Explain the various factors that contributed to the Union victory in the Civil War.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . that we here highly resolve that these dead shall not have died in vain, that this nation under God shall have a new birth of freedom, and that government of the people, by the people, for the people shall not perish from the earth.”",
+      "citation": "Abraham Lincoln, Gettysburg Address, November 19, 1863, The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, Lincoln's main point is that",
+    "options": {
+      "A": "the soldiers' sacrifice calls the nation to ensure that self-government survives",
+      "B": "the Confederacy would soon surrender",
+      "C": "the Union should accept a negotiated peace",
+      "D": "the Emancipation Proclamation freed all enslaved people and the war was therefore won"
+    },
+    "correct": "A",
+    "explanation": "The excerpt does not mention the Proclamation. It resolves that the dead will not have died in vain and that self-government will endure.",
+    "distractor_notes": {
+      "B": "Surrender is not mentioned.",
+      "C": "Peace terms are not mentioned.",
+      "D": "The Proclamation is not mentioned."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.8",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students import the Emancipation Proclamation from the Address's historical setting.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Knowledge that the speech came after the Proclamation tempts students to credit it to the text.",
+      "how_to_avoid": "Quote the text: “these dead shall not have died in vain” and “government of the people . . . shall not perish.”"
+    },
+    "origin": "generated",
+    "source": {
+      "name": "The Avalon Project: Gettysburg Address (1863)",
+      "url": "https://avalon.law.yale.edu/19th_century/gettyb.asp",
+      "license": "Public domain (19th-century text)",
+      "attribution": "The Avalon Project, Yale Law School, avalon.law.yale.edu"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://avalon.law.yale.edu/19th_century/gettyb.asp"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.8-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.8",
+    "topic_title": "Military Conflict in the Civil War",
+    "learning_objective": "Explain the various factors that contributed to the Union victory in the Civil War.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Lee's surrender at Appomattox on April 9, 1865, is most accurate?",
+    "options": {
+      "A": "The war continued for several more years",
+      "B": "It ended the fighting of Lee's army, but other Confederate forces surrendered afterward",
+      "C": "Lee surrendered to Sherman",
+      "D": "All Confederate forces surrendered that day"
+    },
+    "correct": "B",
+    "explanation": "Other Confederate armies surrendered in the following weeks and months.",
+    "distractor_notes": {
+      "A": "Fighting ended soon.",
+      "C": "Lee surrendered to Grant.",
+      "D": "Others surrendered later."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.8",
+      "appomattox"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Appomattox is widely taught as “the end of the war.”",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students treat a famous surrender as the whole conflict's end.",
+      "how_to_avoid": "Distinguish between the surrender of one army and the end of the war."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Appomattox_Court_House",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Battle_of_Appomattox_Court_House",
+        "https://en.wikipedia.org/wiki/Confederate_States_of_America"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.9-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.9",
+    "topic_title": "Government Policies During the Civil War",
+    "learning_objective": "Explain how Lincoln's leadership during the Civil War impacted American ideals over the course of the war.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Emancipation Proclamation is most accurate?",
+    "options": {
+      "A": "It freed all enslaved people in the United States",
+      "B": "It was passed by Congress as a law",
+      "C": "It freed enslaved people only in the border states and in Washington, D.C., after Congress approved",
+      "D": "It declared free enslaved people in areas in rebellion, but not in the loyal border states"
+    },
+    "correct": "D",
+    "explanation": "The Proclamation exempted the border states and was an executive war measure, not a law.",
+    "distractor_notes": {
+      "A": "Slavery continued in the border states.",
+      "B": "It was an executive order.",
+      "C": "The border states were exempt."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.9",
+      "emancipation-proclamation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The Proclamation is often described as ending slavery.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students conflate the Proclamation with the Thirteenth Amendment.",
+      "how_to_avoid": "Recall that it covered rebel areas only; the Thirteenth Amendment (1865) ended slavery everywhere."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/19th_century/emancipa.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/19th_century/emancipa.asp",
+        "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+        "https://en.wikipedia.org/wiki/Border_states_(American_Civil_War)",
+        "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.9-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.9",
+    "topic_title": "Government Policies During the Civil War",
+    "learning_objective": "Explain how Lincoln's leadership during the Civil War impacted American ideals over the course of the war.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Union's war aims in 1861 is most accurate?",
+    "options": {
+      "A": "The Union had no aim except to avoid war",
+      "B": "Lincoln went to war to abolish slavery from the start, and the Union never wavered in that aim",
+      "C": "Lincoln's primary aim was to preserve the Union, and emancipation became a goal later",
+      "D": "The Union fought to expand slavery"
+    },
+    "correct": "C",
+    "explanation": "Lincoln stated that his paramount object was to save the Union; the Emancipation Proclamation reframed the war in 1863.",
+    "distractor_notes": {
+      "A": "The Union fought a war.",
+      "B": "Abolition was not the initial aim.",
+      "D": "The Union opposed slavery's expansion."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.9",
+      "war-aims"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students project the war's later meaning back onto its beginning.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The war is remembered as a war over slavery, so students assume abolition was the original aim.",
+      "how_to_avoid": "Recall Lincoln's first inaugural and the Greeley letter."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+        "https://avalon.law.yale.edu/19th_century/lincoln1.asp"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.9-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.9",
+    "topic_title": "Government Policies During the Civil War",
+    "learning_objective": "Explain how Lincoln's leadership during the Civil War impacted American ideals over the course of the war.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following took place LAST?",
+    "options": {
+      "A": "The ratification of the Thirteenth Amendment",
+      "B": "The preliminary Emancipation Proclamation",
+      "C": "The Emancipation Proclamation took effect",
+      "D": "The Gettysburg Address"
+    },
+    "correct": "A",
+    "explanation": "The amendment was ratified in December 1865. The others occurred in 1862-1863.",
+    "distractor_notes": {
+      "B": "It was September 1862.",
+      "C": "It was January 1863.",
+      "D": "It was November 1863."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.9",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four events concerning slavery and the war's meaning.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students confuse the Proclamation's date with the amendment's.",
+      "how_to_avoid": "Sequence: Sept. 1862, Jan. 1863, Nov. 1863, Dec. 1865."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution",
+        "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+        "https://en.wikipedia.org/wiki/Battle_of_Antietam",
+        "https://avalon.law.yale.edu/19th_century/emancipa.asp",
+        "https://en.wikipedia.org/wiki/Battle_of_Gettysburg"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.9-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.9",
+    "topic_title": "Government Policies During the Civil War",
+    "learning_objective": "Explain how Lincoln's leadership during the Civil War impacted American ideals over the course of the war.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following were measures taken by the Union government during the Civil War EXCEPT",
+    "options": {
+      "A": "the issuance of greenbacks",
+      "B": "the passage of the National Banking Acts of 1863",
+      "C": "the adoption of the Fourteenth Amendment",
+      "D": "the passage of the Homestead Act"
+    },
+    "correct": "C",
+    "explanation": "Greenbacks (1862), the Homestead Act (1862), and the National Banking Acts (1863-64) were wartime measures; the 14th Amendment came in 1868.",
+    "distractor_notes": {
+      "A": "Greenbacks were issued in 1862.",
+      "B": "The Banking Acts were 1863-64.",
+      "D": "The Homestead Act was 1862."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.9",
+      "except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A Reconstruction-era amendment is placed among wartime measures.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The amendments are all connected to the war and easy to blur.",
+      "how_to_avoid": "Remember that the Fourteenth Amendment was ratified in 1868."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Greenback_(1860s_money)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Greenback_(1860s_money)",
+        "https://en.wikipedia.org/wiki/Homestead_Acts",
+        "https://en.wikipedia.org/wiki/National_Banking_Acts"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.9-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.9",
+    "topic_title": "Government Policies During the Civil War",
+    "learning_objective": "Explain how Lincoln's leadership during the Civil War impacted American ideals over the course of the war.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . My paramount object in this struggle is to save the Union, and is not either to save or to destroy slavery. If I could save the Union without freeing any slave I would do it, and if I could save it by freeing all the slaves I would do it; and if I could save it by freeing some and leaving others alone I would also do that.”",
+      "citation": "Abraham Lincoln, letter to Horace Greeley, August 22, 1862 (as quoted on Wikipedia, “Emancipation Proclamation”)",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, which statement about Lincoln's position on slavery is accurate?",
+    "options": {
+      "A": "He demanded immediate abolition regardless of the Union",
+      "B": "He would act for or against slavery depending on what would best save the Union",
+      "C": "He opposed freeing any enslaved people under any circumstances, even to save the Union",
+      "D": "He believed that slavery should be expanded"
+    },
+    "correct": "B",
+    "explanation": "The excerpt says Lincoln would free all, some, or none, whichever saved the Union.",
+    "distractor_notes": {
+      "A": "He placed the Union first.",
+      "C": "He said he would free all if that saved the Union.",
+      "D": "He did not call for expansion."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.9",
+      "stimulus",
+      "greeley"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The first half of the quotation (“without freeing any slave”) seems to show opposition to emancipation.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students stop reading after the first condition.",
+      "how_to_avoid": "Read all three conditions in the excerpt: free none, all, or some."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Emancipation Proclamation (quoting Lincoln's letter to Greeley, 1862)",
+      "url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+      "license": "Public domain (1862 text); Wikipedia page CC BY-SA 4.0",
+      "attribution": "Lincoln's 1862 letter is public domain; quotation as it appears on a CC BY-SA Wikipedia page"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.9-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.9",
+    "topic_title": "Government Policies During the Civil War",
+    "learning_objective": "Explain how Lincoln's leadership during the Civil War impacted American ideals over the course of the war.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best describes the immediate practical effect of the Emancipation Proclamation?",
+    "options": {
+      "A": "It immediately freed all enslaved people in the Confederacy",
+      "B": "It had no effect on the war",
+      "C": "It ended slavery in the border states",
+      "D": "It depended on the Union army's advance into Confederate territory"
+    },
+    "correct": "D",
+    "explanation": "The Proclamation could not be enforced in areas under Confederate control, but it encouraged enslaved people to flee and enlist.",
+    "distractor_notes": {
+      "A": "Many remained enslaved until Union forces arrived.",
+      "B": "It changed the war.",
+      "C": "The border states were exempt."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.9",
+      "emancipation-proclamation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The Proclamation declared freedom, so its immediate effect seems total.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students equate a declaration with enforcement.",
+      "how_to_avoid": "Ask who could enforce it: the Union army, as it advanced."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+        "https://en.wikipedia.org/wiki/Border_states_(American_Civil_War)"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.10-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.10",
+    "topic_title": "Reconstruction",
+    "learning_objective": "Explain the effects of government policy during Reconstruction on society from 1865 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which plan required that only 10 percent of a state's 1860 voters take a loyalty oath?",
+    "options": {
+      "A": "The Wade-Davis Bill",
+      "B": "Lincoln's plan of 1863",
+      "C": "The Reconstruction Acts of 1867",
+      "D": "Johnson's plan of 1865"
+    },
+    "correct": "B",
+    "explanation": "Lincoln's plan required one-tenth of 1860 voters. The Wade-Davis Bill required a majority.",
+    "distractor_notes": {
+      "A": "Wade-Davis required a majority.",
+      "C": "The Acts required military rule.",
+      "D": "Johnson required the Thirteenth Amendment."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.10",
+      "reconstruction-plans"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Several plans overlap in name and timing.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students confuse Lincoln's and Johnson's lenient plans.",
+      "how_to_avoid": "Remember: 10 percent equals Lincoln's 1863 proclamation."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Ten_percent_plan",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ten_percent_plan",
+        "https://en.wikipedia.org/wiki/Wade–Davis_Bill"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.10-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.10",
+    "topic_title": "Reconstruction",
+    "learning_objective": "Explain the effects of government policy during Reconstruction on society from 1865 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Fifteenth Amendment is most accurate?",
+    "options": {
+      "A": "It barred race-based denial of the vote, but it did not give women the right to vote",
+      "B": "It gave all adult citizens, including women and immigrants, the right to vote in federal elections",
+      "C": "It required states to provide education",
+      "D": "It banned all literacy tests"
+    },
+    "correct": "A",
+    "explanation": "The amendment did not mention sex or literacy tests. Women won the vote in 1920.",
+    "distractor_notes": {
+      "B": "Women were excluded.",
+      "C": "It did not address education.",
+      "D": "Literacy tests were not banned."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.10",
+      "15th-amendment"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "It is often described as “giving Black Americans the vote,” which is only partly true.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students assume the amendment guaranteed universal suffrage.",
+      "how_to_avoid": "Read the text: it lists race, color, and previous condition of servitude."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.10-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.10",
+    "topic_title": "Reconstruction",
+    "learning_objective": "Explain the effects of government policy during Reconstruction on society from 1865 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following took place FIRST?",
+    "options": {
+      "A": "Lincoln issued the Ten Percent Plan proclamation",
+      "B": "The Fifteenth Amendment was ratified",
+      "C": "The Reconstruction Acts were passed",
+      "D": "Congress overrode Johnson's veto of the Civil Rights Act"
+    },
+    "correct": "A",
+    "explanation": "Lincoln's plan was announced in December 1863, during the war.",
+    "distractor_notes": {
+      "B": "That occurred in 1870.",
+      "C": "That occurred in 1867.",
+      "D": "That occurred in 1866."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.10",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four Reconstruction-era events across seven years.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students assign Lincoln's plan to the postwar period.",
+      "how_to_avoid": "Sequence: Dec. 1863, April 1866, March 1867, 1870."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Ten_percent_plan",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ten_percent_plan",
+        "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1866",
+        "https://en.wikipedia.org/wiki/Reconstruction_Acts",
+        "https://en.wikipedia.org/wiki/Fifteenth_Amendment_to_the_United_States_Constitution"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.10-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.10",
+    "topic_title": "Reconstruction",
+    "learning_objective": "Explain the effects of government policy during Reconstruction on society from 1865 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following were Reconstruction-era measures EXCEPT",
+    "options": {
+      "A": "the Civil Rights Act of 1866",
+      "B": "the Freedmen's Bureau",
+      "C": "the Fourteenth Amendment",
+      "D": "the Fugitive Slave Act"
+    },
+    "correct": "D",
+    "explanation": "The Fugitive Slave Act of 1850 was repealed in 1864. The others date from 1865-1868.",
+    "distractor_notes": {
+      "A": "1866.",
+      "B": "1865.",
+      "C": "1868."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.10",
+      "except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A pre-war law is placed among postwar measures.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students may think of any slavery-related law as part of Reconstruction.",
+      "how_to_avoid": "Check dates: 1850 is not Reconstruction."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1866",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1866",
+        "https://en.wikipedia.org/wiki/Freedmen%27s_Bureau",
+        "https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.10-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.10",
+    "topic_title": "Reconstruction",
+    "learning_objective": "Explain the effects of government policy during Reconstruction on society from 1865 to 1877.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . the abandoned rice-fields along the rivers for thirty miles back from the sea, and the country bordering the Saint Johns River, Fla., are reserved and set apart for the settlement of the Negros now made free by the acts of war and the proclamation of the President of the United States.”",
+      "citation": "Major General William T. Sherman, Special Field Orders, No. 15, January 16, 1865 (as quoted on Wikipedia)",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, which statement about the order is accurate?",
+    "options": {
+      "A": "It gave all Southern land to freed people",
+      "B": "It created the Freedmen's Bureau",
+      "C": "It reserved certain coastal lands for freed people",
+      "D": "It required freed people to work for former owners"
+    },
+    "correct": "C",
+    "explanation": "The order applied to a limited coastal area. It did not create the Bureau.",
+    "distractor_notes": {
+      "A": "It covered a limited area.",
+      "B": "The Bureau was created by Congress.",
+      "D": "It did not mandate work for owners."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.10",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students recall “40 acres and a mule” and generalize it to all land.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The popular slogan overstates the order's scope.",
+      "how_to_avoid": "Read the geography: rice fields, rivers within thirty miles of the sea, and the St. Johns River."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Special Field Orders, No. 15 (quoting Sherman's order, 1865)",
+      "url": "https://en.wikipedia.org/wiki/Special_Field_Orders,_No._15",
+      "license": "Public domain (1865 text); Wikipedia page CC BY-SA 4.0",
+      "attribution": "Sherman's 1865 order is public domain; quotation as it appears on a CC BY-SA Wikipedia page"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Special_Field_Orders,_No._15"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.10-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.10",
+    "topic_title": "Reconstruction",
+    "learning_objective": "Explain the effects of government policy during Reconstruction on society from 1865 to 1877.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Reconstruction is most accurate?",
+    "options": {
+      "A": "No Black men held public office",
+      "B": "Black men voted and held office in the South during Reconstruction, but white resistance grew",
+      "C": "All Southern whites accepted Reconstruction",
+      "D": "Reconstruction ended immediately in 1865"
+    },
+    "correct": "B",
+    "explanation": "Black officeholders, including a U.S. senator and many legislators, served in the South, but groups such as the Klan opposed them.",
+    "distractor_notes": {
+      "A": "Black men did hold office.",
+      "C": "Many whites resisted.",
+      "D": "Reconstruction lasted until 1877."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.10",
+      "absolutes"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolute statements erase real political change.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students may overlook Black political achievement.",
+      "how_to_avoid": "Recall Revels and the many Black legislators."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Reconstruction_era",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reconstruction_era",
+        "https://en.wikipedia.org/wiki/Ku_Klux_Klan"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.11-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.11",
+    "topic_title": "Failure of Reconstruction",
+    "learning_objective": "Explain how and why Reconstruction resulted in continuity and change in regional and national understandings of what it meant to be American.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the end of Reconstruction is most accurate?",
+    "options": {
+      "A": "Reconstruction ended gradually through several causes culminating in the withdrawal of troops in 1877",
+      "B": "Reconstruction ended when Johnson left office",
+      "C": "Reconstruction ended with the Compromise of 1850",
+      "D": "Reconstruction ended suddenly with a single Supreme Court decision in 1873, and federal troops left the next day"
+    },
+    "correct": "A",
+    "explanation": "The troop withdrawal in 1877 is the usual end point, but Redeemers, courts, and the panic had eroded Reconstruction earlier.",
+    "distractor_notes": {
+      "B": "Johnson left in 1869.",
+      "C": "1850 predates the war.",
+      "D": "No single decision ended it."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.11",
+      "causes"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "A single date (1877) often hides the long decline.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students identify a single cause.",
+      "how_to_avoid": "Look for multiple causes: violence, courts, depression, politics."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Compromise_of_1877",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Compromise_of_1877"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.11-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.11",
+    "topic_title": "Failure of Reconstruction",
+    "learning_objective": "Explain how and why Reconstruction resulted in continuity and change in regional and national understandings of what it meant to be American.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following took place LAST?",
+    "options": {
+      "A": "The Panic of 1873 began",
+      "B": "Congress passed the Enforcement Acts",
+      "C": "The Freedmen's Bureau closed",
+      "D": "Federal troops were withdrawn from the South"
+    },
+    "correct": "D",
+    "explanation": "The troops left in 1877; the other events came earlier.",
+    "distractor_notes": {
+      "A": "1873.",
+      "B": "1870-71.",
+      "C": "1872."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.11",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "All the events took place within a few years of each other.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students confuse the end of the Bureau with the end of Reconstruction.",
+      "how_to_avoid": "Sequence: 1870-71, 1872, 1873, 1877."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Compromise_of_1877",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Compromise_of_1877",
+        "https://en.wikipedia.org/wiki/Enforcement_Acts",
+        "https://en.wikipedia.org/wiki/Panic_of_1873",
+        "https://en.wikipedia.org/wiki/Freedmen%27s_Bureau"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.11-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.11",
+    "topic_title": "Failure of Reconstruction",
+    "learning_objective": "Explain how and why Reconstruction resulted in continuity and change in regional and national understandings of what it meant to be American.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following did NOT contribute to the decline of Reconstruction?",
+    "options": {
+      "A": "Supreme Court decisions narrowing federal protection",
+      "B": "The Panic of 1873",
+      "C": "Violence by the Klan",
+      "D": "The adoption of the Thirteenth Amendment"
+    },
+    "correct": "D",
+    "explanation": "The Thirteenth Amendment abolished slavery. The others weakened Northern resolve or federal power.",
+    "distractor_notes": {
+      "A": "Courts limited protection.",
+      "B": "The panic reduced support.",
+      "C": "Klan violence harmed Reconstruction."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.11",
+      "except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The amendment is a Reconstruction measure.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students include any pro-Reconstruction measure.",
+      "how_to_avoid": "Ask: did it weaken or strengthen Reconstruction?"
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution",
+        "https://en.wikipedia.org/wiki/Ku_Klux_Klan",
+        "https://en.wikipedia.org/wiki/Panic_of_1873",
+        "https://en.wikipedia.org/wiki/Slaughter-House_Cases"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.11-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.11",
+    "topic_title": "Failure of Reconstruction",
+    "learning_objective": "Explain how and why Reconstruction resulted in continuity and change in regional and national understandings of what it meant to be American.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The Supreme Court's decision in the Slaughter-House Cases (1873) most directly",
+    "options": {
+      "A": "required states to protect all civil rights of citizens against both state and private actors",
+      "B": "upheld segregation in public schools",
+      "C": "limited the Fourteenth Amendment's protections to rights of national citizenship",
+      "D": "struck down the Fourteenth Amendment"
+    },
+    "correct": "C",
+    "explanation": "The decision limited the privileges or immunities clause to federal citizenship rights.",
+    "distractor_notes": {
+      "A": "It limited rather than expanded.",
+      "B": "That was Plessy.",
+      "D": "The amendment remained."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.11",
+      "courts"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "It is mixed up with the Plessy decision (1896).",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students think the Court struck down or broadly enforced the amendment.",
+      "how_to_avoid": "Plessy approved segregation; Slaughter-House narrowed the clause."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Slaughter-House_Cases",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Slaughter-House_Cases",
+        "https://en.wikipedia.org/wiki/Plessy_v._Ferguson"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.11-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.11",
+    "topic_title": "Failure of Reconstruction",
+    "learning_objective": "Explain how and why Reconstruction resulted in continuity and change in regional and national understandings of what it meant to be American.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is most clearly a misconception about sharecropping?",
+    "options": {
+      "A": "That sharecroppers often relied on credit from merchants",
+      "B": "That sharecroppers paid landowners a share of the crop",
+      "C": "That sharecroppers usually owned the land they farmed",
+      "D": "That sharecropping could leave families in debt"
+    },
+    "correct": "C",
+    "explanation": "Sharecroppers farmed land owned by others and were often tied to merchants through credit.",
+    "distractor_notes": {
+      "A": "True.",
+      "B": "True.",
+      "D": "True."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.11",
+      "sharecropping"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "“Farming their own plot” sounds like ownership.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students confuse working a plot with owning it.",
+      "how_to_avoid": "Remember that sharecroppers rented land with crops."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Sharecropping",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Sharecropping"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.11-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.11",
+    "topic_title": "Failure of Reconstruction",
+    "learning_objective": "Explain how and why Reconstruction resulted in continuity and change in regional and national understandings of what it meant to be American.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Selected events in the retreat from Reconstruction (author-prepared summary)\n| Year | Event |\n| 1873 | Slaughter-House Cases narrowly interpret the Fourteenth Amendment; Panic of 1873 begins an economic depression |\n| 1873 | Colfax massacre in Louisiana |\n| 1876 | United States v. Cruikshank limits federal prosecution of private violence |\n| 1877 | Federal troops withdrawn from the South after the disputed presidential election |",
+      "citation": "Author-prepared summary based on Wikipedia articles on the Slaughter-House Cases, Panic of 1873, Colfax massacre, United States v. Cruikshank, and the Compromise of 1877 (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Based only on the table, which statement is accurate?",
+    "options": {
+      "A": "The Panic of 1873 ended before the Slaughter-House Cases were decided",
+      "B": "Federal troops were withdrawn after the Cruikshank decision",
+      "C": "Cruikshank came before the Colfax massacre",
+      "D": "Troops were withdrawn in 1873"
+    },
+    "correct": "B",
+    "explanation": "The table dates Cruikshank in 1876 and troop withdrawal in 1877.",
+    "distractor_notes": {
+      "A": "The panic began in 1873.",
+      "C": "Cruikshank was 1876.",
+      "D": "Troops left in 1877."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.11",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The table lists years but groups two 1873 events.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students misorder the 1873 and 1876 entries.",
+      "how_to_avoid": "Match each event to its year before comparing."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Author-prepared summary; facts from Wikipedia (slaughter)",
+      "url": "https://en.wikipedia.org/wiki/Slaughter-House_Cases",
+      "license": "CC BY-SA 4.0 (facts only; table/description text original)",
+      "attribution": "Facts from Wikipedia contributors; text written by the question author"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/United_States_v._Cruikshank",
+        "https://en.wikipedia.org/wiki/Compromise_of_1877",
+        "https://en.wikipedia.org/wiki/Slaughter-House_Cases"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.12-trap-0001",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.12",
+    "topic_title": "Comparison in Period 5",
+    "learning_objective": "Compare the relative significance of the effects of the Civil War on American values.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Emancipation Proclamation is most accurate?",
+    "options": {
+      "A": "It freed slaves in areas in rebellion but did not apply to the border states",
+      "B": "It freed slaves only in the border states",
+      "C": "It was ratified as a constitutional amendment",
+      "D": "It ended slavery in every state"
+    },
+    "correct": "A",
+    "explanation": "The Proclamation was a war measure covering rebel areas; the Thirteenth Amendment abolished slavery nationwide.",
+    "distractor_notes": {
+      "B": "The border states were exempt.",
+      "C": "It was not an amendment.",
+      "D": "It was not universal."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.12",
+      "emancipation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "“Emancipation” suggests universal freedom.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students overstate its legal reach.",
+      "how_to_avoid": "Remember the limits: rebel areas only; the Thirteenth Amendment finished the job."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/19th_century/emancipa.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/19th_century/emancipa.asp",
+        "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+        "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.12-trap-0002",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.12",
+    "topic_title": "Comparison in Period 5",
+    "learning_objective": "Compare the relative significance of the effects of the Civil War on American values.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following took place FIRST?",
+    "options": {
+      "A": "Lincoln delivered his Second Inaugural Address at the Capitol in Washington",
+      "B": "South Carolina issued its declaration of causes for secession",
+      "C": "The Thirteenth Amendment was ratified",
+      "D": "The Emancipation Proclamation took effect"
+    },
+    "correct": "B",
+    "explanation": "South Carolina's declaration came in December 1860, before the others.",
+    "distractor_notes": {
+      "A": "March 1865.",
+      "C": "December 1865.",
+      "D": "January 1863."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.12",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Secession and emancipation both involve slavery and are commonly blurred.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students fail to order December 1860, 1863, and 1865.",
+      "how_to_avoid": "Use the sequence: secession, proclamation, Second Inaugural, amendment."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Secession_in_the_United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Secession_in_the_United_States",
+        "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+        "https://avalon.law.yale.edu/19th_century/lincoln2.asp",
+        "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.12-trap-0003",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.12",
+    "topic_title": "Comparison in Period 5",
+    "learning_objective": "Compare the relative significance of the effects of the Civil War on American values.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is the BEST evidence that slavery was central to the Confederacy's purpose?",
+    "options": {
+      "A": "The Confederate Constitution's protection of slavery in the territories",
+      "B": "The Confederacy's location in the South",
+      "C": "The Confederacy's use of conscription",
+      "D": "The Confederacy's use of paper currency and conscription to finance and fight the war"
+    },
+    "correct": "A",
+    "explanation": "The constitution explicitly protected slavery, which directly reveals purpose; conscription and currency were wartime tools.",
+    "distractor_notes": {
+      "B": "Location is not purpose.",
+      "C": "Conscription was a war measure.",
+      "D": "Currency is not purpose."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.12",
+      "confederacy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Other Confederate features sound distinctive but do not show purpose.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students confuse wartime measures with founding purpose.",
+      "how_to_avoid": "Look for text that states the aim."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/19th_century/csa_csa.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/19th_century/csa_csa.asp",
+        "https://en.wikipedia.org/wiki/Confederate_States_of_America"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.12-trap-0004",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.12",
+    "topic_title": "Comparison in Period 5",
+    "learning_objective": "Compare the relative significance of the effects of the Civil War on American values.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT true of Lincoln's views in 1861?",
+    "options": {
+      "A": "He opposed the expansion of slavery",
+      "B": "He called for immediate abolition of slavery in the South",
+      "C": "He argued the Union was perpetual",
+      "D": "He promised not to interfere with slavery where it existed"
+    },
+    "correct": "B",
+    "explanation": "In 1861 Lincoln pledged not to interfere with slavery in existing states.",
+    "distractor_notes": {
+      "A": "He opposed extension.",
+      "C": "He said this.",
+      "D": "He said this."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.12",
+      "lincoln"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Lincoln's antislavery reputation encourages overstatement.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students project later actions onto 1861.",
+      "how_to_avoid": "Check the dates: emancipation came in 1863."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/19th_century/lincoln1.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://avalon.law.yale.edu/19th_century/lincoln1.asp"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.12-trap-0005",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.12",
+    "topic_title": "Comparison in Period 5",
+    "learning_objective": "Compare the relative significance of the effects of the Civil War on American values.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . the negro is not equal to the white man; that slavery--subordination to the superior race--is his natural and normal condition . . . . This, our new government, is the first, in the history of the world, based upon this great physical, philosophical, and moral truth.”",
+      "citation": "Alexander H. Stephens, Vice President of the Confederacy, “Cornerstone Speech,” Savannah, Georgia, March 21, 1861, Wikisource",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, which statement is accurate?",
+    "options": {
+      "A": "Stephens described the Confederacy as based on economic equality",
+      "B": "Stephens described the Union as based on slavery",
+      "C": "Stephens described the Confederacy as based on racial hierarchy",
+      "D": "Stephens proposed to abolish slavery"
+    },
+    "correct": "C",
+    "explanation": "Stephens claimed slavery and subordination of Black people formed the basis of the new government.",
+    "distractor_notes": {
+      "A": "He rejected equality.",
+      "B": "He praised slavery.",
+      "D": "He defended slavery."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.12",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The speech mentions a “new government” and “the first in the history of the world.”",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume “new” means egalitarian or reformist.",
+      "how_to_avoid": "Read the claim about what the government rests on."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikisource: Alexander Stephens, Cornerstone Speech (1861)",
+      "url": "https://en.wikisource.org/wiki/Cornerstone_Speech",
+      "license": "Public domain (19th-century text)",
+      "attribution": "Wikisource contributors (public-domain text)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikisource.org/wiki/Cornerstone_Speech"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  },
+  {
+    "id": "apush-u5-t5.12-trap-0006",
+    "subject": "apush",
+    "unit": 5,
+    "unit_title": "Sectionalism, Civil War and Reconstruction (1844-1877)",
+    "topic": "5.12",
+    "topic_title": "Comparison in Period 5",
+    "learning_objective": "Compare the relative significance of the effects of the Civil War on American values.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Union and the Confederacy during the war is most accurate?",
+    "options": {
+      "A": "Neither side used a draft",
+      "B": "Only the Confederacy drafted soldiers",
+      "C": "Only the Union drafted soldiers",
+      "D": "Both governments expanded central authority through measures such as conscription"
+    },
+    "correct": "D",
+    "explanation": "The Confederate Congress passed conscription in 1862 and the Union followed in 1863.",
+    "distractor_notes": {
+      "A": "Both drafted.",
+      "B": "The Union also drafted.",
+      "C": "The Confederacy also drafted."
+    },
+    "tags": [
+      "apush",
+      "unit-5",
+      "topic-5.12",
+      "conscription"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The Union's draft riots are better known than the Confederate draft.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students assume only the Union drafted.",
+      "how_to_avoid": "Recall both 1862 and 1863 laws."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Confederate_States_of_America"
+      ]
+    },
+    "created_at": "2026-10-08T03:02:22Z"
+  }
+]

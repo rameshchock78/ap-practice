@@ -1,0 +1,3844 @@
+[
+  {
+    "id": "apush-u2-t2.1-trap-0001",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.1",
+    "topic_title": "Contextualizing Period 2",
+    "learning_objective": "Explain the context for the colonization of North America from 1607 to 1754.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following events occurred FIRST?",
+    "options": {
+      "A": "Founding of Jamestown",
+      "B": "Signing of the Mayflower Compact",
+      "C": "Founding of Massachusetts Bay Colony",
+      "D": "Founding of Maryland"
+    },
+    "correct": "A",
+    "explanation": "Jamestown (1607) preceded Plymouth (1620), Massachusetts Bay (1630), and Maryland (1634).",
+    "distractor_notes": {
+      "B": "The Mayflower Compact was signed in 1620.",
+      "C": "Massachusetts Bay was founded in 1630.",
+      "D": "Maryland was founded in 1634."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Students confuse the order of the earliest English colonies.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Plymouth and the Mayflower Compact are the most famous early events in American memory, so students assume they came first.",
+      "how_to_avoid": "Anchor 1607 (Jamestown), 1620 (Plymouth), 1630 (Massachusetts Bay), 1634 (Maryland)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Jamestown,_Virginia",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Jamestown,_Virginia",
+        "https://en.wikipedia.org/wiki/Plymouth_Colony"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jamestown,_Virginia",
+          "pattern": "1607"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Plymouth_Colony",
+          "pattern": "1620"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.1-trap-0002",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.1",
+    "topic_title": "Contextualizing Period 2",
+    "learning_objective": "Explain the context for the colonization of North America from 1607 to 1754.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Pilgrims who settled Plymouth is most accurate?",
+    "options": {
+      "A": "They were Puritans who held a royal charter from the Massachusetts Bay Company",
+      "B": "They were Separatists who had earlier left England for the Netherlands before sailing to America",
+      "C": "They sailed directly from England to Virginia but were blown off course by a storm to establish a Dutch colony",
+      "D": "They were Catholic refugees sponsored by the Calvert family"
+    },
+    "correct": "B",
+    "explanation": "The Pilgrims were Separatists who spent years in Leiden, Netherlands, before settling Plymouth. The Puritans of Massachusetts Bay sought to reform the Church of England from within.",
+    "distractor_notes": {
+      "A": "Massachusetts Bay's founders were Puritans, not the Pilgrims.",
+      "C": "The Pilgrims did not found a Dutch colony.",
+      "D": "Maryland was the Calverts' colony."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students merge the Pilgrims (Separatists) with the Puritans of Massachusetts Bay.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Textbooks and holiday stories often use “Puritan” and “Pilgrim” interchangeably.",
+      "how_to_avoid": "Remember: Pilgrims = Separatists (Plymouth, 1620); Puritans = non-separating reformers (Massachusetts Bay, 1630)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Pilgrims_(Plymouth_Colony)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Pilgrims_(Plymouth_Colony)",
+        "https://en.wikipedia.org/wiki/Separatism"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pilgrims_(Plymouth_Colony)",
+          "pattern": "Leiden|Netherlands|Separatist"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Separatism",
+          "pattern": "Separatist|Netherlands"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.1-trap-0003",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.1",
+    "topic_title": "Contextualizing Period 2",
+    "learning_objective": "Explain the context for the colonization of North America from 1607 to 1754.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“Having undertaken for the Glory of God, and Advancement of the Christian Faith, and the Honour of our King and Country, a Voyage to plant the first Colony in the northern Parts of Virginia; Do by these Presents, solemnly and mutually, in the Presence of God and one another, covenant and combine ourselves together into a civil Body Politick, for our better Ordering and Preservation . . . and by Virtue hereof do enact, constitute, and frame, such just and equal Laws, Ordinances, Acts, Constitutions, and Officers, from time to time, as shall be thought most meet and convenient for the general Good of the Colony; unto which we promise all due Submission and Obedience.”",
+      "citation": "Mayflower Compact, 1620, The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "Based on the excerpt, which statement about the signers is most accurate?",
+    "options": {
+      "A": "They declared that the king had no authority over them and set up an independent government",
+      "B": "They agreed to be governed by the Virginia Company's officers in London",
+      "C": "They created their own government while still professing loyalty to the king",
+      "D": "They promised to build a church independent of every earthly authority"
+    },
+    "correct": "C",
+    "explanation": "The signers say they are loyal subjects of King James even as they form their own government.",
+    "distractor_notes": {
+      "A": "The excerpt expresses loyalty, not rejection.",
+      "B": "The excerpt shows the settlers governing themselves, not Virginia Company officers.",
+      "D": "No separate church is described."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The phrase “covenant and combine ourselves” suggests independence, but the text describes loyal subjects.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students read “civil Body Politick” and “make laws” as a rejection of royal authority.",
+      "how_to_avoid": "Read for explicit loyalty language: “Loyal Subjects of our dread Sovereign Lord King James.”"
+    },
+    "origin": "generated",
+    "source": {
+      "name": "The Avalon Project (Yale Law School): Mayflower Compact, 1620",
+      "url": "https://avalon.law.yale.edu/17th_century/mayflower.asp",
+      "license": "Public domain (17th/18th-century text; Avalon Project transcription)",
+      "attribution": "Mayflower Compact, 1620, The Avalon Project, Yale Law School"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/17th_century/mayflower.asp",
+        "https://en.wikipedia.org/wiki/Plymouth_Colony"
+      ],
+      "evidence": [
+        {
+          "url": "https://avalon.law.yale.edu/17th_century/mayflower.asp",
+          "pattern": "Loyal Subjects"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Plymouth_Colony",
+          "pattern": "Mayflower Compact"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.1-trap-0004",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.1",
+    "topic_title": "Contextualizing Period 2",
+    "learning_objective": "Explain the context for the colonization of North America from 1607 to 1754.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about indentured servants in the seventeenth-century Chesapeake is MOST accurate?",
+    "options": {
+      "A": "All indentured servants became wealthy planters as soon as they gained their freedom from their masters",
+      "B": "Indentured servants were never treated harshly because they were English subjects",
+      "C": "Indentured servitude was an unusual labor system that was confined to Virginia alone",
+      "D": "Many were young men who agreed to work for a fixed term in exchange for passage and a chance at land"
+    },
+    "correct": "D",
+    "explanation": "Indentured servants exchanged years of labor for passage; many died or struggled, and only some achieved land ownership.",
+    "distractor_notes": {
+      "A": "Many servants died or remained poor.",
+      "B": "Servants were often treated harshly.",
+      "C": "Indentured servitude existed throughout the colonies."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Options with absolutes such as “all” and “never” are tempting because the American Dream narrative is common.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The headright and “opportunity” story leads students to select the success-story option.",
+      "how_to_avoid": "Be wary of absolute wording. Many servants died before completing their terms, and many became tenants or laborers rather than planters."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Indentured_servitude",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Indentured_servitude",
+        "https://en.wikipedia.org/wiki/Headright_system"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indentured_servitude",
+          "pattern": "indentur"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Headright_system",
+          "pattern": "indentur|servant"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.1-trap-0005",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.1",
+    "topic_title": "Contextualizing Period 2",
+    "learning_objective": "Explain the context for the colonization of North America from 1607 to 1754.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is the BEST explanation for the founding of Massachusetts Bay in 1630?",
+    "options": {
+      "A": "Puritans sought a society based on their religious beliefs while remaining within the English political system",
+      "B": "A wave of economic collapse in Virginia drove thousands of Virginians to move north to New England",
+      "C": "English Catholics needed a refuge from persecution and therefore settled the Massachusetts coast",
+      "D": "The Crown ordered the Puritans to settle the region in order to counter the Dutch presence in the Hudson valley"
+    },
+    "correct": "A",
+    "explanation": "The Puritans' leaders wanted to create a godly community, and the charter expressed religious aims.",
+    "distractor_notes": {
+      "B": "Virginia's difficulties did not cause the Massachusetts Bay migration.",
+      "C": "Catholic refuge describes Maryland.",
+      "D": "The Crown did not order the migration."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Economic opportunity mattered in all colonies, which tempts students to choose an economic explanation.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students often assume economic motives always dominate colonization, even where religion was central.",
+      "how_to_avoid": "Match the group to the evidence: Puritans + charter language about religion indicates religious motives."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Puritans",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Puritans",
+        "https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Puritans",
+          "pattern": "religious"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony",
+          "pattern": "1630|Puritan"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.1-trap-0006",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.1",
+    "topic_title": "Contextualizing Period 2",
+    "learning_objective": "Explain the context for the colonization of North America from 1607 to 1754.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . [We] graciously accept[ ] . . . their Desires for the Furtherance of so noble a Work, which may, by the Providence of Almighty God, hereafter tend to the Glory of his Divine Majesty, in propagating of Christian Religion to such People, as yet live in Darkness and miserable Ignorance of the true Knowledge and Worship of God, and may in time bring the Infidels and Savages, living in those parts, to human Civility, and to a settled and quiet Government . . . .”",
+      "citation": "First Charter of Virginia, April 10, 1606, The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "The charter excerpted above most directly led to the establishment of which colony?",
+    "options": {
+      "A": "Roanoke, Virginia",
+      "B": "Jamestown, Virginia",
+      "C": "Baltimore, Maryland",
+      "D": "Plymouth, Massachusetts"
+    },
+    "correct": "B",
+    "explanation": "The 1606 charter authorized the Virginia Company's settlement at Jamestown in 1607. Roanoke was an earlier attempt in the 1580s.",
+    "distractor_notes": {
+      "A": "Roanoke predates the charter.",
+      "C": "Maryland was founded in 1634.",
+      "D": "Plymouth was settled in 1620."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Roanoke was also a Virginia colony, and “Virginia” appears in both names.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students associate the name Virginia with Roanoke (named by Raleigh for Elizabeth I) and miss the date 1606.",
+      "how_to_avoid": "Check the date: the charter is from 1606, after Roanoke had failed."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "The Avalon Project (Yale Law School): First Charter of Virginia, 1606",
+      "url": "https://avalon.law.yale.edu/17th_century/va01.asp",
+      "license": "Public domain (17th/18th-century text; Avalon Project transcription)",
+      "attribution": "First Charter of Virginia, April 10, 1606, The Avalon Project, Yale Law School"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/17th_century/va01.asp",
+        "https://en.wikipedia.org/wiki/Jamestown,_Virginia"
+      ],
+      "evidence": [
+        {
+          "url": "https://avalon.law.yale.edu/17th_century/va01.asp",
+          "pattern": "1606"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jamestown,_Virginia",
+          "pattern": "1607"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.1-trap-0007",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.1",
+    "topic_title": "Contextualizing Period 2",
+    "learning_objective": "Explain the context for the colonization of North America from 1607 to 1754.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Sources of labor in the English Chesapeake (author-prepared summary)\n| Labor source | How it worked | Period of emphasis |\n| Indentured servants | A migrant signed a contract (usually 4–7 years) in exchange for passage across the Atlantic | Majority of Chesapeake labor through much of the 1600s |\n| Headright system | Colonists received land (50 acres) for each person whose passage they paid | Introduced in Virginia in 1618 |\n| Enslaved Africans | Held for life; status passed to children; laws defined slavery as hereditary | Rapidly increasing from the late 1600s |",
+      "citation": "Author-prepared summary based on Wikipedia articles “Indentured servitude,” “Headright system,” and “Slavery in the colonial United States” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Based on the table, all of the following were true of labor in the English Chesapeake EXCEPT:",
+    "options": {
+      "A": "Planters could earn fifty acres of land by paying for the passage of workers",
+      "B": "Enslaved status was inherited by children from their fathers, whatever their mothers' status",
+      "C": "Colonists were required by law to hire free wage laborers instead of servants",
+      "D": "Colonists were required by law to hire free wage laborers instead of using servants"
+    },
+    "correct": "C",
+    "explanation": "The table describes indenture, headrights, and hereditary slavery; none of these is a legal requirement to hire free wage laborers.",
+    "distractor_notes": {
+      "A": "True per the table.",
+      "B": "True per the table.",
+      "D": "True per the table."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stems reverse the logic; students pick a true statement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students skim for a familiar-sounding true statement and choose the first one that matches the table.",
+      "how_to_avoid": "Mark the stem: three statements are true, one is false. Check each against the table."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Indentured servitude; Headright system; Slavery in the colonial United States",
+      "url": "https://en.wikipedia.org/wiki/Indentured_servitude",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared summary based on Wikipedia articles “Indentured servitude,” “Headright system,” and “Slavery in the colonial United States” (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Indentured_servitude",
+        "https://en.wikipedia.org/wiki/Headright_system"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Indentured_servitude",
+          "pattern": "indentur"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Headright_system",
+          "pattern": "headright"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.2-trap-0001",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.2",
+    "topic_title": "European Colonization in North America",
+    "learning_objective": "Explain how and why various European colonies developed and expanded from 1607 to 1754.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was a Dutch colony in North America in the 1600s?",
+    "options": {
+      "A": "New France",
+      "B": "New Spain",
+      "C": "New England",
+      "D": "New Netherland"
+    },
+    "correct": "D",
+    "explanation": "New Netherland (with New Amsterdam) was the Dutch colony. New France was French, New Spain was Spanish, and New England was English.",
+    "distractor_notes": {
+      "A": "New France was French.",
+      "B": "New Spain was Spanish.",
+      "C": "New England was English."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The names are similar and students confuse which empire held which colony.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "All options begin with “New,” and students associate “New Amsterdam” less automatically than “New France.”",
+      "how_to_avoid": "Match each empire to its colony: Spain → New Spain; France → New France; Netherlands → New Netherland."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/New_Netherland",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/New_Netherland",
+        "https://en.wikipedia.org/wiki/New_France"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_Netherland",
+          "pattern": "Dutch"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_France",
+          "pattern": "French"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.2-trap-0002",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.2",
+    "topic_title": "European Colonization in North America",
+    "learning_objective": "Explain how and why various European colonies developed and expanded from 1607 to 1754.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Spanish and English colonization of North America is most accurate?",
+    "options": {
+      "A": "Spain's North American colonies were small outposts compared with the English population",
+      "B": "Spanish colonies in North America were larger and more populous than the English colonies by 1750",
+      "C": "English colonies in North America were established before any permanent Spanish colony was founded",
+      "D": "The Spanish did not found any permanent colonies in what is now the present-day United States"
+    },
+    "correct": "A",
+    "explanation": "Spain founded St. Augustine (1565) and Santa Fe (c. 1610), but by 1750 the English colonies had far more people.",
+    "distractor_notes": {
+      "B": "The English colonies were larger.",
+      "C": "St. Augustine (1565) predates Jamestown.",
+      "D": "St. Augustine and Santa Fe were permanent."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Spain's empire in Mexico and South America was enormous, which tempts students to assume its North American colonies were large.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students conflate the whole Spanish empire with its northern frontier.",
+      "how_to_avoid": "Separate the regions: Spain's northern colonies were sparsely populated frontier regions."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Florida",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Spanish_Florida",
+        "https://en.wikipedia.org/wiki/Thirteen_Colonies"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spanish_Florida",
+          "pattern": "1565"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+          "pattern": "population"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.2-trap-0003",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.2",
+    "topic_title": "European Colonization in North America",
+    "learning_objective": "Explain how and why various European colonies developed and expanded from 1607 to 1754.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "European colonial models in North America, c. 1700 (author-prepared summary)\n| Colonizer | Typical colonists | Economic base | Relations with Native peoples |\n| Spain | Few, mostly men; missionaries and soldiers | Ranching, farming, tribute and labor systems (for example, in New Mexico) | Missions and forced labor; Pueblo Revolt (1680) |\n| France | Few; fur traders and missionaries | Fur trade | Trade alliances; intermarriage; military partnerships |\n| Netherlands (New Netherland, 1624–1664) | Few; traders and company employees | Fur trade through the Dutch West India Company | Trade-based, with periodic conflict |\n| England | Large numbers of men, women and families | Agriculture, trade, plantations | Land taken for settlement; settlers lived separately from Native peoples |",
+      "citation": "Author-prepared summary based on Wikipedia articles on New France, New Netherland, Spanish Florida, and the Thirteen Colonies (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "According to the table, which statement about the French is most accurate?",
+    "options": {
+      "A": "They sent the largest number of colonists of any European power to North America",
+      "B": "They sent few colonists and relied on trade and alliances with Native peoples",
+      "C": "They relied mainly on large plantations worked by enslaved labor, as in the Caribbean",
+      "D": "They lived separately from Native peoples and seized Native land for farming"
+    },
+    "correct": "B",
+    "explanation": "The French row lists few colonists, a fur-trade economy, and trade alliances.",
+    "distractor_notes": {
+      "A": "The English sent the most.",
+      "C": "That describes plantation colonies like the English South.",
+      "D": "That describes the English."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The last option describes the English column, not the French one.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students match a descriptor to the wrong row of a table.",
+      "how_to_avoid": "Read across the correct row and underline the colonizer named in the question."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: New France; New Netherland; Spanish Florida; Thirteen Colonies",
+      "url": "https://en.wikipedia.org/wiki/New_France",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared summary based on Wikipedia articles on New France, New Netherland, Spanish Florida, and the Thirteen Colonies (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/New_France",
+        "https://en.wikipedia.org/wiki/Thirteen_Colonies"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_France",
+          "pattern": "fur"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+          "pattern": "land"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.2-trap-0004",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.2",
+    "topic_title": "European Colonization in North America",
+    "learning_objective": "Explain how and why various European colonies developed and expanded from 1607 to 1754.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence correctly orders these events from earliest to latest?",
+    "options": {
+      "A": "Founding of Quebec → founding of St. Augustine → English capture of New Amsterdam → founding of New Netherland",
+      "B": "Founding of New Netherland → founding of St. Augustine → founding of Quebec → English capture of New Amsterdam",
+      "C": "Founding of St. Augustine → founding of Quebec → founding of New Netherland → English capture of New Amsterdam",
+      "D": "Founding of St. Augustine → English capture of New Amsterdam → founding of New Netherland → founding of Quebec"
+    },
+    "correct": "C",
+    "explanation": "St. Augustine was founded in 1565, Quebec in 1608, New Netherland in 1624, and New Amsterdam fell in 1664.",
+    "distractor_notes": {
+      "A": "Quebec came after 1565.",
+      "B": "New Netherland came after 1565.",
+      "D": "The English capture came last."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Order errors from assuming French and Dutch efforts came before Spanish ones.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students underestimate how early Spain settled North America.",
+      "how_to_avoid": "Memorize anchor dates: 1565 St. Augustine; 1608 Quebec; 1624 New Netherland; 1664 English capture."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Florida",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Spanish_Florida",
+        "https://en.wikipedia.org/wiki/New_France",
+        "https://en.wikipedia.org/wiki/New_Netherland"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spanish_Florida",
+          "pattern": "1565"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_France",
+          "pattern": "1608"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_Netherland",
+          "pattern": "1624|1664"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.2-trap-0005",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.2",
+    "topic_title": "European Colonization in North America",
+    "learning_objective": "Explain how and why various European colonies developed and expanded from 1607 to 1754.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best explains why the Pueblo Revolt of 1680 occurred?",
+    "options": {
+      "A": "The English had promised the Pueblo peoples military support against New Mexico",
+      "B": "Spain had abolished the missions in New Mexico, which left Pueblo peoples without protection",
+      "C": "Pueblo peoples sought to join the French in Louisiana and rejected Spanish rule",
+      "D": "Spanish demands for labor, tribute, and conformity provoked resistance among Pueblo peoples"
+    },
+    "correct": "D",
+    "explanation": "Spanish exploitation, suppression of Native religion, and drought contributed to the revolt led by Po'pay.",
+    "distractor_notes": {
+      "A": "The English were far away.",
+      "B": "The missions remained.",
+      "C": "Louisiana did not exist in 1680."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Many students assume European rivalries explain Native actions.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students attribute Native resistance to alliances with Europeans rather than to local grievances.",
+      "how_to_avoid": "Look for evidence of Native agency and local causes first."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Pueblo_Revolt",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Pueblo_Revolt",
+        "https://en.wikipedia.org/wiki/Santa_Fe_de_Nuevo_M%C3%A9xico"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pueblo_Revolt",
+          "pattern": "religio|labor|tribute|drought"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Santa_Fe_de_Nuevo_M%C3%A9xico",
+          "pattern": "1680"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.2-trap-0006",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.2",
+    "topic_title": "European Colonization in North America",
+    "learning_objective": "Explain how and why various European colonies developed and expanded from 1607 to 1754.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "image",
+      "content": "[Described map, author-prepared] A map of eastern North America c. 1700 shows Spanish settlements in Florida (St. Augustine) and in the upper Rio Grande valley (Santa Fe, New Mexico); French settlements along the St. Lawrence River (Quebec) and, by 1718, at the mouth of the Mississippi; Dutch New Netherland, shaded as having passed to English control after 1664; and a band of English colonies along the Atlantic coast between Massachusetts Bay and Georgia (founded 1732), bounded on the west by the Appalachian Mountains.",
+      "citation": "Author-prepared description; facts from Wikipedia articles on Spanish Florida, New France, New Netherland, and the Thirteen Colonies (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement is best supported by the map description?",
+    "options": {
+      "A": "English colonies were bordered by French and Spanish territory",
+      "B": "All European colonies in North America were controlled by Spain",
+      "C": "No European colonies existed west of the Appalachian Mountains",
+      "D": "English colonies were the only European settlements in North America"
+    },
+    "correct": "A",
+    "explanation": "The map places French holdings north and west and Spanish holdings in Florida and the Southwest.",
+    "distractor_notes": {
+      "B": "Spain did not control all.",
+      "C": "The map shows French claims west of the Appalachians.",
+      "D": "The map shows other empires."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Students may overgeneralize “All” and “Only” statements.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The map's focus on English colonies makes absolute statements about English dominance seem plausible.",
+      "how_to_avoid": "Reject absolute claims not supported by every part of the stimulus."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Spanish Florida; New France; New Netherland; Thirteen Colonies",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Florida",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared description; facts from Wikipedia articles on Spanish Florida, New France, New Netherland, and the Thirteen Colonies (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+        "https://en.wikipedia.org/wiki/New_France"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+          "pattern": "Atlantic"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_France",
+          "pattern": "Mississippi|Louisiana"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.3-trap-0001",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.3",
+    "topic_title": "The Regions of British Colonies",
+    "learning_objective": "Explain how and why environmental and other factors shaped the development and expansion of various British colonies that developed and expanded from 1607 to 1754.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Puritan Massachusetts is most accurate?",
+    "options": {
+      "A": "Puritans came to America mainly to establish religious freedom for all believers",
+      "B": "Puritan leaders accepted the ideas of Roger Williams and Anne Hutchinson about religion",
+      "C": "Puritans created a society that enforced religious conformity and punished dissent",
+      "D": "Puritan colonies were governed directly by officials of the Church of England"
+    },
+    "correct": "C",
+    "explanation": "Puritans banished Williams and Hutchinson and punished Quakers, showing intolerance toward dissent.",
+    "distractor_notes": {
+      "A": "They sought to practice their own religion.",
+      "B": "They banished Williams and Hutchinson.",
+      "D": "Puritans sought to reform the Church of England and ran their own churches."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students assume Puritans came for religious freedom in the modern sense.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Popular accounts emphasize “religious freedom” without noting that Puritans sought freedom for their own faith.",
+      "how_to_avoid": "Distinguish freedom to practice their beliefs from toleration for others."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Puritans",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Puritans",
+        "https://en.wikipedia.org/wiki/Anne_Hutchinson"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Puritans",
+          "pattern": "banish|dissent"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Anne_Hutchinson",
+          "pattern": "banish"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.3-trap-0002",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.3",
+    "topic_title": "The Regions of British Colonies",
+    "learning_objective": "Explain how and why environmental and other factors shaped the development and expansion of various British colonies that developed and expanded from 1607 to 1754.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which colony was founded as a refuge for Quakers and other dissenters by William Penn?",
+    "options": {
+      "A": "Maryland",
+      "B": "Rhode Island",
+      "C": "Massachusetts Bay",
+      "D": "Pennsylvania"
+    },
+    "correct": "D",
+    "explanation": "Pennsylvania was founded by William Penn, a Quaker, in 1681.",
+    "distractor_notes": {
+      "A": "Maryland was a Catholic proprietary colony.",
+      "B": "Rhode Island was founded by Roger Williams.",
+      "C": "Massachusetts Bay was Puritan."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Rhode Island also offered toleration, which causes confusion.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Maryland, Rhode Island, and Pennsylvania are all associated with toleration.",
+      "how_to_avoid": "Link each colony with its founder: Maryland – Calverts; Rhode Island – Williams; Pennsylvania – Penn."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/William_Penn",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/William_Penn",
+        "https://en.wikipedia.org/wiki/Colony_of_Rhode_Island_and_Providence_Plantations"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/William_Penn",
+          "pattern": "Pennsylvania"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Colony_of_Rhode_Island_and_Providence_Plantations",
+          "pattern": "Williams"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.3-trap-0003",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.3",
+    "topic_title": "The Regions of British Colonies",
+    "learning_objective": "Explain how and why environmental and other factors shaped the development and expansion of various British colonies that developed and expanded from 1607 to 1754.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . [W]e the Inhabitants and Residents of Windsor, Hartford and Wethersfield . . . well knowing where a people are gathered together the word of God requires that to maintain the peace and union of such a people there should be an orderly and decent Government established according to God . . . do therefore associate and conjoin ourselves to be as one Public State or Commonwealth; and do for ourselves and our successors . . . enter into Combination and Confederation together, to maintain and preserve the liberty and purity of the Gospel of our Lord Jesus which we now profess, as also, the discipline of the Churches . . . .”",
+      "citation": "Fundamental Orders of Connecticut, 1639, The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "Which statement about the Fundamental Orders is best supported by the excerpt?",
+    "options": {
+      "A": "It created a government that linked civil order to a commitment to the Gospel",
+      "B": "It created a purely secular government that kept religion out of civil matters",
+      "C": "It was issued by the English king as a royal charter for the Connecticut River towns",
+      "D": "It required Connecticut colonists to join the Church of England before they could vote"
+    },
+    "correct": "A",
+    "explanation": "The excerpt mentions both a commonwealth and maintaining the “liberty and purity of the Gospel.”",
+    "distractor_notes": {
+      "B": "It is not secular.",
+      "C": "Colonists wrote it.",
+      "D": "Connecticut's churches were Congregational."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The phrase “Public State or Commonwealth” may suggest a secular government.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students focus on civic vocabulary and miss religious language.",
+      "how_to_avoid": "Read the full excerpt, including references to the Gospel and church discipline."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "The Avalon Project (Yale Law School): Fundamental Orders of 1639",
+      "url": "https://avalon.law.yale.edu/17th_century/order.asp",
+      "license": "Public domain (17th/18th-century text; Avalon Project transcription)",
+      "attribution": "Fundamental Orders of Connecticut, 1639, The Avalon Project, Yale Law School"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/17th_century/order.asp",
+        "https://en.wikipedia.org/wiki/Connecticut_Colony"
+      ],
+      "evidence": [
+        {
+          "url": "https://avalon.law.yale.edu/17th_century/order.asp",
+          "pattern": "liberty and purity of the Gospel"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Connecticut_Colony",
+          "pattern": "Congregational|Puritan"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.3-trap-0004",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.3",
+    "topic_title": "The Regions of British Colonies",
+    "learning_objective": "Explain how and why environmental and other factors shaped the development and expansion of various British colonies that developed and expanded from 1607 to 1754.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which colony was founded LAST?",
+    "options": {
+      "A": "Pennsylvania",
+      "B": "Georgia",
+      "C": "Maryland",
+      "D": "Connecticut"
+    },
+    "correct": "B",
+    "explanation": "Georgia was chartered in 1732, later than the other colonies.",
+    "distractor_notes": {
+      "A": "Founded 1681.",
+      "C": "Founded 1634.",
+      "D": "Founded 1636."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Students confuse founding dates of colonies known for different features.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Pennsylvania is a late colony in many students' minds.",
+      "how_to_avoid": "Memorize anchor dates: Maryland 1634, Connecticut 1636, Pennsylvania 1681, Georgia 1732."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Province_of_Georgia",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Province_of_Georgia",
+        "https://en.wikipedia.org/wiki/Province_of_Pennsylvania"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Province_of_Georgia",
+          "pattern": "1732"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Province_of_Pennsylvania",
+          "pattern": "1681"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.3-trap-0005",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.3",
+    "topic_title": "The Regions of British Colonies",
+    "learning_objective": "Explain how and why environmental and other factors shaped the development and expansion of various British colonies that developed and expanded from 1607 to 1754.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Why did New England's economy develop around trade and shipbuilding rather than large export plantations?",
+    "options": {
+      "A": "The Crown banned farming in New England in order to protect English growers at home",
+      "B": "New England colonists lacked access to the Atlantic Ocean and to good natural harbors",
+      "C": "Soil and climate limited commercial farming, while forests and harbors encouraged maritime work",
+      "D": "Puritan religious beliefs prohibited any farming that was done for profit or for sale"
+    },
+    "correct": "C",
+    "explanation": "Rocky soil and short growing seasons made large cash-crop plantations impractical; coastal harbors and timber favored shipbuilding and fishing.",
+    "distractor_notes": {
+      "A": "The Crown did not ban farming.",
+      "B": "New England had extensive coastline.",
+      "D": "Puritans farmed."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Religious culture is often cited as the cause of New England's distinctive society.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students over-attribute economic differences to religion instead of environment.",
+      "how_to_avoid": "Consider environmental and geographic explanations alongside culture."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/New_England_Colonies",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/New_England_Colonies"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_England_Colonies",
+          "pattern": "soil|harbor|fishing"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/New_England_Colonies",
+          "pattern": "fishing"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.3-trap-0006",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.3",
+    "topic_title": "The Regions of British Colonies",
+    "learning_objective": "Explain how and why environmental and other factors shaped the development and expansion of various British colonies that developed and expanded from 1607 to 1754.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Colonial political institutions (author-prepared summary)\n| Colony | Representative body | Notes |\n| Virginia | House of Burgesses (first met 1619) | First representative assembly in English America |\n| Massachusetts Bay | General Court; town meetings | Voting often tied to church membership in the early decades |\n| Pennsylvania | Assembly with a governor appointed by the proprietor | Wide religious toleration; property-owning men could vote |\n| South Carolina | Commons House of Assembly | Dominated by wealthy planters and merchants |",
+      "citation": "Author-prepared summary based on Wikipedia articles on the House of Burgesses, the Massachusetts Bay Colony, the Province of Pennsylvania, and the Province of South Carolina (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which claim about colonial government is best supported by the table?",
+    "options": {
+      "A": "Voting was open to every adult in all four of the colonies, including women",
+      "B": "Colonial governments had no restrictions at all on who could participate in elections",
+      "C": "Representative assemblies existed only in Virginia, while other colonies had none",
+      "D": "Representative assemblies existed in all four colonies, but voting rules differed"
+    },
+    "correct": "D",
+    "explanation": "The table shows restrictions such as church membership in early Massachusetts and property requirements elsewhere.",
+    "distractor_notes": {
+      "A": "Voting was restricted.",
+      "B": "Restrictions existed.",
+      "C": "Other colonies had assemblies."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The table shows assemblies, which tempts students to assume broad democracy.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students equate representative assemblies with broad political participation.",
+      "how_to_avoid": "Check who could vote and who could hold office, not just whether an assembly existed."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: House of Burgesses; Massachusetts Bay Colony; Province of Pennsylvania; Province of South Carolina",
+      "url": "https://en.wikipedia.org/wiki/House_of_Burgesses",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared summary based on Wikipedia articles on the House of Burgesses, the Massachusetts Bay Colony, the Province of Pennsylvania, and the Province of South Carolina (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/House_of_Burgesses",
+        "https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Burgesses",
+          "pattern": "1619"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony",
+          "pattern": "church member|freeman"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.3-trap-0007",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.3",
+    "topic_title": "The Regions of British Colonies",
+    "learning_objective": "Explain how and why environmental and other factors shaped the development and expansion of various British colonies that developed and expanded from 1607 to 1754.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“One hundred and nine. No person whatsover shall disturb, molest, or persecute another for his speculative opinions in religion, or his way of worship. One hundred and ten. Every freeman of Carolina shall have absolute power and authority over his negro slaves, of what opinion or religion soever.”",
+      "citation": "Fundamental Constitutions of Carolina, 1669, The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "Each of the following is reflected in the excerpt EXCEPT:",
+    "options": {
+      "A": "A requirement that enslaved people be freed after converting to Christianity",
+      "B": "Broad authority for freemen over the enslaved people who lived in their households",
+      "C": "A legal distinction between free colonists and enslaved people in the colony",
+      "D": "Protection of freemen from persecution for their religious opinions"
+    },
+    "correct": "A",
+    "explanation": "The excerpt says freemen's authority applies regardless of the enslaved person's religion; conversion does not bring freedom.",
+    "distractor_notes": {
+      "B": "Present in Article 110.",
+      "C": "Present in Article 110.",
+      "D": "Present in Article 109."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "In EXCEPT questions students look for something true.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The Carolina constitution mentions religion, which tempts students to assume conversion brought freedom.",
+      "how_to_avoid": "Test each option against the text; pick the one not present."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "The Avalon Project (Yale Law School): Fundamental Constitutions of Carolina, 1669",
+      "url": "https://avalon.law.yale.edu/17th_century/nc05.asp",
+      "license": "Public domain (17th/18th-century text; Avalon Project transcription)",
+      "attribution": "Fundamental Constitutions of Carolina, 1669, The Avalon Project, Yale Law School"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/17th_century/nc05.asp",
+        "https://en.wikipedia.org/wiki/Slave_codes"
+      ],
+      "evidence": [
+        {
+          "url": "https://avalon.law.yale.edu/17th_century/nc05.asp",
+          "pattern": "of what opinion or religion soever"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Slave_codes",
+          "pattern": "baptism|Christian"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.4-trap-0001",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.4",
+    "topic_title": "Transatlantic Trade",
+    "learning_objective": "Explain the causes and effects of transatlantic trade over time.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence of events is correct?",
+    "options": {
+      "A": "Dominion of New England → Navigation Act of 1651 → Molasses Act → Glorious Revolution",
+      "B": "Navigation Act of 1651 → Dominion of New England → Glorious Revolution → Molasses Act",
+      "C": "Glorious Revolution → Navigation Act of 1651 → Dominion of New England → Molasses Act",
+      "D": "Molasses Act → Glorious Revolution → Dominion of New England → Navigation Act of 1651"
+    },
+    "correct": "B",
+    "explanation": "The sequence is 1651, 1686, 1688–1689, 1733.",
+    "distractor_notes": {
+      "A": "Out of order.",
+      "C": "Out of order.",
+      "D": "Reverse order."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Students mix up the sequence of imperial measures.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The Dominion and the Glorious Revolution are close in time, tempting a reversal.",
+      "how_to_avoid": "Use anchor dates: 1651, 1686, 1688, 1733."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Navigation_Acts",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Navigation_Acts",
+        "https://en.wikipedia.org/wiki/Dominion_of_New_England",
+        "https://en.wikipedia.org/wiki/Molasses_Act"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Navigation_Acts",
+          "pattern": "1651"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dominion_of_New_England",
+          "pattern": "1686"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Molasses_Act",
+          "pattern": "1733"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.4-trap-0002",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.4",
+    "topic_title": "Transatlantic Trade",
+    "learning_objective": "Explain the causes and effects of transatlantic trade over time.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the triangular trade is most accurate?",
+    "options": {
+      "A": "Every ship traveled the same triangle between New England, Africa, and the Caribbean without exception",
+      "B": "It involved only the English colonies and no other European empire",
+      "C": "It was a general pattern of Atlantic trade with many variations, not one fixed route",
+      "D": "It ended in the early 1600s, long before the colonies grew in size"
+    },
+    "correct": "C",
+    "explanation": "The trade involved many routes and many nations, and it continued into the eighteenth century.",
+    "distractor_notes": {
+      "A": "Many voyages varied.",
+      "B": "Other nations were involved.",
+      "D": "The trade expanded after 1700."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Textbook diagrams show a neat triangle.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students treat the diagram as a literal route used by every ship.",
+      "how_to_avoid": "Remember that diagrams simplify; many trade routes overlapped."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Triangular_trade",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Triangular_trade",
+        "https://en.wikipedia.org/wiki/Middle_Passage"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Triangular_trade",
+          "pattern": "triangle|route"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Middle_Passage",
+          "pattern": "Atlantic"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.4-trap-0003",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.4",
+    "topic_title": "Transatlantic Trade",
+    "learning_objective": "Explain the causes and effects of transatlantic trade over time.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "English trade regulation in the colonial era (author-prepared summary)\n| Measure | Year | Main provision |\n| Navigation Act | 1651 | Goods imported to England and its colonies had to arrive in English ships or the producing country's ships |\n| Navigation Act (Enumerated commodities) | 1660 | Certain colonial goods, such as sugar and tobacco, could be shipped only to England or other English colonies; trade carried in English-crewed ships |\n| Staple Act | 1663 | European goods bound for the colonies had to pass through England |\n| Molasses Act | 1733 | Duties on molasses, rum and sugar imported from non-British colonies |",
+      "citation": "Author-prepared summary based on Wikipedia, “Navigation Acts,” “Enumerated commodities,” and “Molasses Act” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement is best supported by the table?",
+    "options": {
+      "A": "The Molasses Act banned all rum production",
+      "B": "The Navigation Act of 1660 applied only to molasses",
+      "C": "The Staple Act required colonists to buy goods from the Dutch",
+      "D": "The Molasses Act targeted imports from non-British colonies"
+    },
+    "correct": "D",
+    "explanation": "The table says the Molasses Act placed duties on molasses, rum, and sugar imported from non-British colonies.",
+    "distractor_notes": {
+      "A": "It taxed imports, not rum production.",
+      "B": "The 1660 Act covered enumerated goods.",
+      "C": "The Staple Act routed goods through England."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The name “Molasses Act” tempts students to assume it banned molasses or rum.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students infer from the title rather than from the table.",
+      "how_to_avoid": "Read the provision column carefully."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Navigation Acts; Enumerated commodities; Molasses Act",
+      "url": "https://en.wikipedia.org/wiki/Navigation_Acts",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared summary based on Wikipedia, “Navigation Acts,” “Enumerated commodities,” and “Molasses Act” (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Molasses_Act",
+        "https://en.wikipedia.org/wiki/Navigation_Acts"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Molasses_Act",
+          "pattern": "foreign|non-British|duty|duties"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Navigation_Acts",
+          "pattern": "Molasses"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.4-trap-0004",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.4",
+    "topic_title": "Transatlantic Trade",
+    "learning_objective": "Explain the causes and effects of transatlantic trade over time.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best explains why colonial assemblies gained power in the early eighteenth century?",
+    "options": {
+      "A": "Loose enforcement of imperial rules let assemblies control taxes and salaries",
+      "B": "The Crown granted assemblies absolute power over colonial governors in 1700",
+      "C": "Parliament had abolished royal governors and replaced them with elected officials",
+      "D": "Colonial assemblies were required by the Navigation Acts to approve royal salaries"
+    },
+    "correct": "A",
+    "explanation": "Assemblies used control of salaries and taxes to influence royal governors during salutary neglect.",
+    "distractor_notes": {
+      "B": "No such grant occurred.",
+      "C": "Governors remained.",
+      "D": "The Acts did not require assemblies."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Students assume formal legal changes explain growing power.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "They overlook the role of practice and neglect.",
+      "how_to_avoid": "Look for evidence of gradual, informal change."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Salutary_neglect",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Salutary_neglect",
+        "https://en.wikipedia.org/wiki/Thirteen_Colonies"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Salutary_neglect",
+          "pattern": "assembl"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+          "pattern": "assembl"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.4-trap-0005",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.4",
+    "topic_title": "Transatlantic Trade",
+    "learning_objective": "Explain the causes and effects of transatlantic trade over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Navigation Acts is most accurate?",
+    "options": {
+      "A": "They applied to all goods and ended smuggling across the colonies",
+      "B": "They aimed to regulate colonial trade, but enforcement was often weak",
+      "C": "They were created by colonial assemblies to protect local merchants",
+      "D": "They were enforced strictly and consistently throughout the colonial period"
+    },
+    "correct": "B",
+    "explanation": "Colonial merchants frequently evaded the laws, and enforcement increased only after 1763.",
+    "distractor_notes": {
+      "A": "Smuggling continued.",
+      "C": "Parliament passed them.",
+      "D": "Enforcement was weak."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Words like “strictly” and “all” tempt students.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Laws on paper are assumed to be effective.",
+      "how_to_avoid": "Beware of absolutes that ignore enforcement problems."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Navigation_Acts",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Navigation_Acts",
+        "https://en.wikipedia.org/wiki/Molasses_Act"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Navigation_Acts",
+          "pattern": "smuggl|enforce"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Molasses_Act",
+          "pattern": "smuggl"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.4-trap-0006",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.4",
+    "topic_title": "Transatlantic Trade",
+    "learning_objective": "Explain the causes and effects of transatlantic trade over time.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "image",
+      "content": "[Described map, author-prepared] A map of the Atlantic Ocean shows three linked routes. (1) Ships carry manufactured goods, such as cloth, metal goods and rum, from England and New England to the West African coast. (2) Ships carry enslaved Africans from West Africa across the Atlantic (the Middle Passage) to the Caribbean and the North American mainland. (3) Ships carry sugar, molasses, tobacco, rice and other products from the Caribbean and the mainland colonies to England and New England; molasses sent to New England is distilled into rum.",
+      "citation": "Author-prepared description based on Wikipedia, “Triangular trade” and “Middle Passage” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement about New England's role in the trade shown in the map is most accurate?",
+    "options": {
+      "A": "New England merchants avoided any role in the Atlantic slave trade for moral reasons",
+      "B": "New England's role was limited to growing sugar for Caribbean planters",
+      "C": "New England supplied rum and ships and was tied to the slave trade, but was not alone",
+      "D": "New England was the only region to take part in the Atlantic slave trade or in its shipping"
+    },
+    "correct": "C",
+    "explanation": "New England merchants distilled rum and traded in goods and people, but many other regions and nations participated.",
+    "distractor_notes": {
+      "A": "Merchants participated.",
+      "B": "Sugar grew in the Caribbean.",
+      "D": "Other regions participated."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "New England's role is highlighted, so students overstate it.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students equate a prominent role with exclusive participation.",
+      "how_to_avoid": "Check for words like “only” and look at the whole map."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Triangular trade; Middle Passage",
+      "url": "https://en.wikipedia.org/wiki/Triangular_trade",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared description based on Wikipedia, “Triangular trade” and “Middle Passage” (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Triangular_trade",
+        "https://en.wikipedia.org/wiki/Royal_African_Company"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Triangular_trade",
+          "pattern": "New England"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Royal_African_Company",
+          "pattern": "English|Royal African Company"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.4-trap-0007",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.4",
+    "topic_title": "Transatlantic Trade",
+    "learning_objective": "Explain the causes and effects of transatlantic trade over time.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Timeline of imperial control (author-prepared summary)\n| Year | Event |\n| 1651–1673 | Parliament passes a series of Navigation Acts regulating colonial trade |\n| 1686 | Dominion of New England created, joining New England colonies (later New York and New Jersey) under one royal governor |\n| 1688–1689 | Glorious Revolution in England; colonists in Boston, New York and Maryland overthrow or challenge royal officials |\n| 1689 | Dominion of New England collapses |\n| 1720s–1750s | Period of “salutary neglect”: trade laws loosely enforced and colonial assemblies expand their power |",
+      "citation": "Author-prepared summary based on Wikipedia, “Dominion of New England,” “Glorious Revolution,” and “Salutary neglect” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which of the following is LEAST likely to have contributed to the collapse of the Dominion of New England?",
+    "options": {
+      "A": "Colonial resentment of Governor Andros",
+      "B": "Loss of local assemblies and town meeting powers",
+      "C": "The Glorious Revolution in England",
+      "D": "The passage of the Molasses Act of 1733"
+    },
+    "correct": "D",
+    "explanation": "The Molasses Act came decades after the Dominion collapsed.",
+    "distractor_notes": {
+      "A": "Andros was unpopular.",
+      "B": "Loss of local governance fueled anger.",
+      "C": "The revolution encouraged the overthrow."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "LEAST stems reverse the logic.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students choose the most obvious cause.",
+      "how_to_avoid": "Check each option against the dates."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Dominion of New England; Glorious Revolution; Salutary neglect",
+      "url": "https://en.wikipedia.org/wiki/Dominion_of_New_England",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared summary based on Wikipedia, “Dominion of New England,” “Glorious Revolution,” and “Salutary neglect” (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Dominion_of_New_England",
+        "https://en.wikipedia.org/wiki/Molasses_Act"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dominion_of_New_England",
+          "pattern": "1689"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Molasses_Act",
+          "pattern": "1733"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.5-trap-0001",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.5",
+    "topic_title": "Interactions Between American Indians and Europeans",
+    "learning_objective": "Explain how and why interactions between various European nations and American Indians changed over time.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Thanksgiving-era relations between Plymouth colonists and the Wampanoag is most accurate?",
+    "options": {
+      "A": "Relations included cooperation and tension, and a 1621 alliance with Massasoit aided Plymouth",
+      "B": "Plymouth colonists and the Wampanoag remained in lasting harmony for the next century",
+      "C": "The Wampanoag had no contact with the colonists until the outbreak of war in 1675",
+      "D": "Plymouth colonists fought a major war with the Wampanoag in 1621"
+    },
+    "correct": "A",
+    "explanation": "The alliance with Massasoit helped Plymouth, but relations deteriorated as colonists expanded.",
+    "distractor_notes": {
+      "B": "Conflict erupted in 1675.",
+      "C": "Contact began in 1620.",
+      "D": "A treaty was made in 1621."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Popular accounts present a harmonious feast.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students assume early friendship continued.",
+      "how_to_avoid": "Remember later events: King Philip's War (1675–1676)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Massasoit",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Massasoit",
+        "https://en.wikipedia.org/wiki/Wampanoag"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Massasoit",
+          "pattern": "1621|treaty|alliance"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Wampanoag",
+          "pattern": "King Philip|Metacom"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.5-trap-0002",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.5",
+    "topic_title": "Interactions Between American Indians and Europeans",
+    "learning_objective": "Explain how and why interactions between various European nations and American Indians changed over time.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "“. . . _Squanto_ continued with them, and was their interpreter, and was a spetiall instrument sent of God for their good beyond their expectation. He directed them how to set their corne, wher to take fish, and to procure other comodities . . . . He was a _native of this place_, & scarce any left alive besids him selfe. He was caried away with diverce others by one _Hunt_, a m^r. of a ship, who thought to sell them for slaves in Spaine . . . .” (original spelling)",
+      "citation": "William Bradford, Of Plymouth Plantation (written 1630–1651), Project Gutenberg eBook #24950",
+      "asset_path": null
+    },
+    "question": "Which statement is best supported by the excerpt?",
+    "options": {
+      "A": "The colonists captured Squanto in Europe and sold him into slavery there",
+      "B": "A Native man taken to Europe returned with knowledge of English useful to colonists",
+      "C": "Squanto had been born in England and came to America with the colonists",
+      "D": "Squanto refused to help the colonists because of earlier kidnappings"
+    },
+    "correct": "B",
+    "explanation": "Bradford says Squanto was carried off by Hunt, who intended to sell him; he escaped to England.",
+    "distractor_notes": {
+      "A": "Hunt, not the colonists.",
+      "C": "He was a native of the place.",
+      "D": "He assisted them."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The excerpt mentions slavery, so students link it to the colonists.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students misattribute the kidnapping to the Pilgrims rather than to Hunt.",
+      "how_to_avoid": "Read who performed the action: Hunt, a ship's master, took him."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Project Gutenberg #24950: Bradford's History of 'Plimoth Plantation'",
+      "url": "https://www.gutenberg.org/ebooks/24950",
+      "license": "Public domain (Project Gutenberg)",
+      "attribution": "William Bradford, Of Plymouth Plantation (written 1630–1651), Project Gutenberg eBook #24950"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/24950",
+        "https://en.wikipedia.org/wiki/Squanto"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/24950",
+          "pattern": "Hunt"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Squanto",
+          "pattern": "Hunt"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.5-trap-0003",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.5",
+    "topic_title": "Interactions Between American Indians and Europeans",
+    "learning_objective": "Explain how and why interactions between various European nations and American Indians changed over time.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which colony's settlers fought the Pequot War?",
+    "options": {
+      "A": "Virginia and Maryland in the Chesapeake region",
+      "B": "Pennsylvania and New Jersey in the Middle colonies",
+      "C": "Massachusetts Bay and Connecticut",
+      "D": "South Carolina and Georgia in the Lower South"
+    },
+    "correct": "C",
+    "explanation": "The Pequot War (1636–1638) involved New England colonists.",
+    "distractor_notes": {
+      "A": "Virginia had the Powhatan wars.",
+      "B": "Pennsylvania was founded in 1681.",
+      "D": "South Carolina had the Yamasee War."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students confuse regions of colonial conflicts.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Several Native wars share similar names and dates.",
+      "how_to_avoid": "Associate each war with its region."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Pequot_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Pequot_War",
+        "https://en.wikipedia.org/wiki/Mystic_massacre"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pequot_War",
+          "pattern": "Massachusetts|Connecticut"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mystic_massacre",
+          "pattern": "Connecticut"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.5-trap-0004",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.5",
+    "topic_title": "Interactions Between American Indians and Europeans",
+    "learning_objective": "Explain how and why interactions between various European nations and American Indians changed over time.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which conflict occurred FIRST?",
+    "options": {
+      "A": "King Philip's War",
+      "B": "The Pueblo Revolt",
+      "C": "The Yamasee War",
+      "D": "The First Anglo-Powhatan War"
+    },
+    "correct": "D",
+    "explanation": "The First Anglo-Powhatan War began in 1609.",
+    "distractor_notes": {
+      "A": "1675–1676.",
+      "B": "1680.",
+      "C": "1715–1717."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Students assume wars in New England came first.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "King Philip's War is more famous.",
+      "how_to_avoid": "Anchor dates: 1609, 1636, 1675, 1680, 1715."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/First_Anglo-Powhatan_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/First_Anglo-Powhatan_War",
+        "https://en.wikipedia.org/wiki/King_Philip%27s_War"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/First_Anglo-Powhatan_War",
+          "pattern": "1609"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/King_Philip%27s_War",
+          "pattern": "1675"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.5-trap-0005",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.5",
+    "topic_title": "Interactions Between American Indians and Europeans",
+    "learning_objective": "Explain how and why interactions between various European nations and American Indians changed over time.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Selected conflicts and resistance, 1607–1715 (author-prepared summary)\n| Event | Years | Brief description |\n| First Anglo-Powhatan War | 1609–1614 | Fighting between Virginia colonists and the Powhatan Confederacy; ended in a peace linked to the marriage of Pocahontas and John Rolfe |\n| Pequot War | 1636–1638 | New England colonists and Native allies destroy Pequot power |\n| Pueblo Revolt | 1680 | Pueblo peoples drive the Spanish out of New Mexico; Spain returns in the 1690s |\n| King Philip's War | 1675–1676 | Wampanoag, Narragansett and allies fight New England colonists; heavy losses on both sides |\n| Yamasee War | 1715–1717 | Yamasee and allies attack South Carolina settlers over trade abuses and debt |",
+      "citation": "Author-prepared summary based on Wikipedia articles on each conflict (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement is best supported by the table?",
+    "options": {
+      "A": "Native resistance occurred in multiple regions between 1609 and 1717",
+      "B": "Every Native uprising ended in a clear and complete defeat for Native peoples",
+      "C": "Native peoples never allied with Europeans against other Native or European groups",
+      "D": "Native peoples resisted only in New England, where colonies were largest"
+    },
+    "correct": "A",
+    "explanation": "The table lists conflicts in Virginia, New England, New Mexico, and the Carolinas.",
+    "distractor_notes": {
+      "B": "The Pueblo Revolt succeeded temporarily.",
+      "C": "Native allies fought with colonists in the Pequot War.",
+      "D": "Other regions appear."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolute words tempt students.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students over-generalize from the most familiar events.",
+      "how_to_avoid": "Reject “only” and “never” unless the table supports them."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: First Anglo-Powhatan War; Pequot War; Pueblo Revolt; King Philip's War; Yamasee War",
+      "url": "https://en.wikipedia.org/wiki/First_Anglo-Powhatan_War",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared summary based on Wikipedia articles on each conflict (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Pueblo_Revolt",
+        "https://en.wikipedia.org/wiki/Yamasee_War"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pueblo_Revolt",
+          "pattern": "1680"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Yamasee_War",
+          "pattern": "1715"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.5-trap-0006",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.5",
+    "topic_title": "Interactions Between American Indians and Europeans",
+    "learning_objective": "Explain how and why interactions between various European nations and American Indians changed over time.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "“(1) It is proposed that humble application be made for an act of Parliament of Great Britain, by virtue of which one general government may be formed in America, including all the said colonies, within and under which government each colony may retain its present constitution . . . . 10. That the President-General, with the advice of the Grand Council, hold or direct all Indian treaties, in which the general interest of the Colonies may be concerned; and make peace or declare war with Indian nations. 11. That they make such laws as they judge necessary for regulating all Indian trade.”",
+      "citation": "Albany Plan of Union, 1754, The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "Which statement about the Albany Plan is most accurate?",
+    "options": {
+      "A": "It was written by Parliament and imposed on the colonies by royal order",
+      "B": "It was proposed in 1754 but the colonial assemblies and the Crown did not adopt it",
+      "C": "It created a union that governed the colonies during the Revolution",
+      "D": "It was approved by all colonial assemblies and put into practice in 1754"
+    },
+    "correct": "B",
+    "explanation": "Colonial assemblies feared losing power and the Crown did not support the plan.",
+    "distractor_notes": {
+      "A": "Colonists drafted it.",
+      "C": "It was not implemented.",
+      "D": "It was rejected."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students know it is Franklin's plan and assume it succeeded.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The plan's fame leads students to assume it was adopted.",
+      "how_to_avoid": "Distinguish a proposal from a law."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "The Avalon Project (Yale Law School): Albany Plan of Union, 1754",
+      "url": "https://avalon.law.yale.edu/18th_century/albany.asp",
+      "license": "Public domain (17th/18th-century text; Avalon Project transcription)",
+      "attribution": "Albany Plan of Union, 1754, The Avalon Project, Yale Law School"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/18th_century/albany.asp",
+        "https://en.wikipedia.org/wiki/Albany_Plan"
+      ],
+      "evidence": [
+        {
+          "url": "https://avalon.law.yale.edu/18th_century/albany.asp",
+          "pattern": "Parliament"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Albany_Plan",
+          "pattern": "rejected|not adopted|failed"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.5-trap-0007",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.5",
+    "topic_title": "Interactions Between American Indians and Europeans",
+    "learning_objective": "Explain how and why interactions between various European nations and American Indians changed over time.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which explanation for the decline of Native populations in colonial New England is best supported by historians?",
+    "options": {
+      "A": "Native peoples were fully integrated into English society",
+      "B": "Population decline began only after 1750",
+      "C": "Disease and warfare combined to reduce Native populations",
+      "D": "Native peoples chose to leave the region"
+    },
+    "correct": "C",
+    "explanation": "Epidemics and wars such as King Philip's War reduced Native populations.",
+    "distractor_notes": {
+      "A": "They were not integrated.",
+      "B": "Decline began earlier.",
+      "D": "No mass voluntary departure."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Students may attribute the decline to a single cause.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "They focus on war and ignore epidemics or vice versa.",
+      "how_to_avoid": "Consider multiple causes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Wampanoag",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Wampanoag",
+        "https://en.wikipedia.org/wiki/King_Philip%27s_War"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wampanoag",
+          "pattern": "epidemic|disease"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/King_Philip%27s_War",
+          "pattern": "casualt|died|killed"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.6-trap-0001",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.6",
+    "topic_title": "Slavery in the British Colonies",
+    "learning_objective": "Explain the causes and effects of slavery in the various British colonial regions and explain how enslaved peoples responded to slavery.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about slavery in the colonies is most accurate?",
+    "options": {
+      "A": "Slavery existed only in the South and was unknown elsewhere in the colonies",
+      "B": "Slavery was illegal in New England throughout the entire colonial era",
+      "C": "Slavery began in the colonies only after the American Revolution had ended",
+      "D": "Slavery existed in all of the British mainland colonies, though it varied in importance"
+    },
+    "correct": "D",
+    "explanation": "Enslaved people lived and worked in northern colonies.",
+    "distractor_notes": {
+      "A": "Northern colonies had slavery.",
+      "B": "It was legal.",
+      "C": "It began earlier."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students associate slavery only with the South.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The regional contrast is overstated in memory.",
+      "how_to_avoid": "Remember that Massachusetts, New York, and Pennsylvania all had enslaved people."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+        "https://en.wikipedia.org/wiki/Province_of_New_York"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+          "pattern": "New England|Northern"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Province_of_New_York",
+          "pattern": "slave"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.6-trap-0002",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.6",
+    "topic_title": "Slavery in the British Colonies",
+    "learning_objective": "Explain the causes and effects of slavery in the various British colonial regions and explain how enslaved peoples responded to slavery.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which event occurred FIRST?",
+    "options": {
+      "A": "The first Africans arrive in Virginia (1619)",
+      "B": "The Stono Rebellion in South Carolina (1739)",
+      "C": "South Carolina's Negro Act (1740)",
+      "D": "Virginia's Slave Code of 1705"
+    },
+    "correct": "A",
+    "explanation": "1619 precedes the others.",
+    "distractor_notes": {
+      "B": "1739.",
+      "C": "1740.",
+      "D": "1705."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Students may confuse the sequence of slave laws.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The Negro Act is a famous law.",
+      "how_to_avoid": "Anchor dates: 1619, 1662, 1705, 1739, 1740."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Jamestown,_Virginia",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Jamestown,_Virginia",
+        "https://en.wikipedia.org/wiki/Slave_codes"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jamestown,_Virginia",
+          "pattern": "1619"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Slave_codes",
+          "pattern": "1740"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.6-trap-0003",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.6",
+    "topic_title": "Slavery in the British Colonies",
+    "learning_objective": "Explain the causes and effects of slavery in the various British colonial regions and explain how enslaved peoples responded to slavery.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Resistance to slavery in the colonies (author-prepared summary)\n| Year | Place | Event |\n| 1712 | New York City | Enslaved people set fires and attack colonists; many are executed |\n| 1739 | South Carolina | Stono Rebellion: enslaved people march toward Spanish Florida, where Spain had offered freedom to fugitives; colonial militia suppresses the revolt |\n| 1740 | South Carolina | Legislature passes a stricter Negro Act restricting assembly, movement, and literacy |\n| 1741 | New York City | Alleged conspiracy leads to trials, executions and banishments |",
+      "citation": "Author-prepared summary based on Wikipedia, “Stono Rebellion,” “Slave codes,” and “Slavery in the colonial United States” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement is best supported by the timeline?",
+    "options": {
+      "A": "The Stono Rebellion occurred in New York during the 1710s and led to its slave code",
+      "B": "The 1740 South Carolina law followed the Stono Rebellion",
+      "C": "The New York conspiracy occurred before the New York revolt of 1712 and prompted it",
+      "D": "The Negro Act of 1740 eased restrictions on enslaved people after the revolt"
+    },
+    "correct": "B",
+    "explanation": "The timeline shows Stono in 1739 and the Negro Act in 1740.",
+    "distractor_notes": {
+      "A": "It was in South Carolina.",
+      "C": "1712 came before 1741.",
+      "D": "It added restrictions."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students misread the order of events.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Similar dates cause confusion.",
+      "how_to_avoid": "Read the years carefully."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Stono Rebellion; Slave codes; Slavery in the colonial United States",
+      "url": "https://en.wikipedia.org/wiki/Stono_Rebellion",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared summary based on Wikipedia, “Stono Rebellion,” “Slave codes,” and “Slavery in the colonial United States” (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Stono_Rebellion",
+        "https://en.wikipedia.org/wiki/Slave_codes"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stono_Rebellion",
+          "pattern": "1740"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Slave_codes",
+          "pattern": "1740"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.6-trap-0004",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.6",
+    "topic_title": "Slavery in the British Colonies",
+    "learning_objective": "Explain the causes and effects of slavery in the various British colonial regions and explain how enslaved peoples responded to slavery.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about enslaved people's responses to slavery is MOST accurate?",
+    "options": {
+      "A": "Enslaved people never resisted openly because laws and violence prevented it",
+      "B": "All enslaved people joined revolts whenever an opportunity arose",
+      "C": "Enslaved people resisted in many ways, from daily resistance to armed revolt",
+      "D": "Resistance occurred only in the Caribbean and not on the mainland of North America"
+    },
+    "correct": "C",
+    "explanation": "Resistance ranged from work slowdowns and flight to rebellions like Stono.",
+    "distractor_notes": {
+      "A": "Armed revolts occurred.",
+      "B": "Not all joined.",
+      "D": "It occurred in the colonies."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolute words tempt students.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume enslaved people were passive or uniformly rebellious.",
+      "how_to_avoid": "Look for evidence of a spectrum."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+        "https://en.wikipedia.org/wiki/Stono_Rebellion"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+          "pattern": "resist"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Stono_Rebellion",
+          "pattern": "rebell"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.6-trap-0005",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.6",
+    "topic_title": "Slavery in the British Colonies",
+    "learning_objective": "Explain the causes and effects of slavery in the various British colonial regions and explain how enslaved peoples responded to slavery.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which explanation of the shift from indentured servitude to slavery in the Chesapeake is best supported?",
+    "options": {
+      "A": "Slavery grew mainly because tobacco prices fell and planters needed cheaper workers to stay profitable",
+      "B": "Slavery grew because indentured servants had become too expensive to import",
+      "C": "Slavery grew because Parliament required colonists to use enslaved labor",
+      "D": "A decline in servants and fear of unrest among freed servants led to more reliance on slavery"
+    },
+    "correct": "D",
+    "explanation": "Bacon's Rebellion and falling servant supply encouraged slavery.",
+    "distractor_notes": {
+      "A": "Tobacco remained profitable.",
+      "B": "Cost was a factor, but the main cause was supply.",
+      "C": "Parliament did not require it."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Students look for a single cause.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "They assume government decree caused the shift.",
+      "how_to_avoid": "Consider labor supply and social unrest."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+        "https://en.wikipedia.org/wiki/Bacon%27s_Rebellion"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+          "pattern": "indentured"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bacon%27s_Rebellion",
+          "pattern": "servant|slave"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.6-trap-0006",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.6",
+    "topic_title": "Slavery in the British Colonies",
+    "learning_objective": "Explain the causes and effects of slavery in the various British colonial regions and explain how enslaved peoples responded to slavery.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Selected colonial laws on slavery (author-prepared summary)\n| Year | Colony | Law or provision |\n| 1661 | Barbados | Slave code defining enslaved Africans as property and restricting their movement and punishment; later a model for other colonies |\n| 1662 | Virginia | Status of a child follows the status of the mother |\n| 1667 | Virginia | Baptism does not free an enslaved person |\n| 1705 | Virginia | Slave code consolidating earlier laws; enslaved people treated as property and restricted in movement and assembly |\n| 1740 | South Carolina | Negro Act restricting assembly, movement, and education of enslaved people |",
+      "citation": "Author-prepared summary based on Wikipedia, “Slave codes,” “Virginia Slave Codes of 1705,” and “Slavery in the colonial United States” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement about colonial slave codes is most accurate?",
+    "options": {
+      "A": "They defined enslaved people as property and restricted their movement",
+      "B": "They guaranteed enslaved people the right to legal marriage and family life",
+      "C": "They freed enslaved people who converted to Christianity after baptism",
+      "D": "They protected enslaved people from harsh punishment by their masters"
+    },
+    "correct": "A",
+    "explanation": "The codes treated enslaved people as property and restricted them.",
+    "distractor_notes": {
+      "B": "Marriage was not protected.",
+      "C": "Baptism did not free.",
+      "D": "Codes allowed harsh punishment."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Some codes mention punishment or religion.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students assume Christian conversion offered protection.",
+      "how_to_avoid": "Check what the laws actually did."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Slave codes; Virginia Slave Codes of 1705; Slavery in the colonial United States",
+      "url": "https://en.wikipedia.org/wiki/Slave_codes",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared summary based on Wikipedia, “Slave codes,” “Virginia Slave Codes of 1705,” and “Slavery in the colonial United States” (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+        "https://en.wikipedia.org/wiki/Slave_codes"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+          "pattern": "property"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Slave_codes",
+          "pattern": "1705"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.7-trap-0001",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.7",
+    "topic_title": "Colonial Society and Culture",
+    "learning_objective": "Explain how and why the movement of a variety of people and ideas across the Atlantic contributed to the development of American culture over time, and how and why the different goals and interests of European leaders and colonists affected how they viewed themselves and their relationship with Britain.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Salem witch trials is most accurate?",
+    "options": {
+      "A": "Dozens of people were burned at the stake as witches in Salem Village",
+      "B": "The trials lasted for decades before they were finally halted in the colony",
+      "C": "Twenty people were executed, but none were burned at the stake",
+      "D": "The trials were ordered by the Crown and run by royal officials from London"
+    },
+    "correct": "C",
+    "explanation": "Most of the executed were hanged; one man was pressed to death.",
+    "distractor_notes": {
+      "A": "Burning did not occur.",
+      "B": "They lasted about a year.",
+      "D": "Local courts conducted them."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Popular culture often includes burning.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students conflate European witch-hunt practices with Salem.",
+      "how_to_avoid": "Check specifics: hanging and death by pressing."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Salem_witch_trials",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Salem_witch_trials"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Salem_witch_trials",
+          "pattern": "hanged|hang"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Salem_witch_trials",
+          "pattern": "1692"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.7-trap-0002",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.7",
+    "topic_title": "Colonial Society and Culture",
+    "learning_objective": "Explain how and why the movement of a variety of people and ideas across the Atlantic contributed to the development of American culture over time, and how and why the different goals and interests of European leaders and colonists affected how they viewed themselves and their relationship with Britain.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“In 1739 arrived among us from Ireland the Reverend Mr. Whitefield, who had made himself remarkable there as an itinerant preacher. He was at first permitted to preach in some of our churches; but the clergy, taking a dislike to him, soon refus'd him their pulpits, and he was oblig'd to preach in the fields. The multitudes of all sects and denominations that attended his sermons were enormous . . . . It was wonderful to see the change soon made in the manners of our inhabitants.”",
+      "citation": "Benjamin Franklin, The Autobiography of Benjamin Franklin (written 1771–1790), Project Gutenberg eBook #148",
+      "asset_path": null
+    },
+    "question": "Based on the excerpt, which statement is most accurate?",
+    "options": {
+      "A": "Franklin became a revival preacher who traveled with Whitefield",
+      "B": "Franklin rejected all religion and refused to hear Whitefield speak",
+      "C": "Franklin built a church for Whitefield in Philadelphia with his own funds",
+      "D": "Franklin observed the revival but does not claim to have been converted"
+    },
+    "correct": "D",
+    "explanation": "Franklin describes the revival's effects from the perspective of an observer.",
+    "distractor_notes": {
+      "A": "He did not preach.",
+      "B": "He did not reject religion.",
+      "C": "The text mentions a building elsewhere for general use."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students assume Franklin was a participant.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "He describes the effects strongly, which suggests agreement.",
+      "how_to_avoid": "Read for the author's stance."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Project Gutenberg #148: The Autobiography of Benjamin Franklin",
+      "url": "https://www.gutenberg.org/ebooks/148",
+      "license": "Public domain (Project Gutenberg)",
+      "attribution": "Benjamin Franklin, The Autobiography of Benjamin Franklin (written 1771–1790), Project Gutenberg eBook #148"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/148",
+        "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/148",
+          "pattern": "Whitefield"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+          "pattern": "deist|Deist|religion"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.7-trap-0003",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.7",
+    "topic_title": "Colonial Society and Culture",
+    "learning_objective": "Explain how and why the movement of a variety of people and ideas across the Atlantic contributed to the development of American culture over time, and how and why the different goals and interests of European leaders and colonists affected how they viewed themselves and their relationship with Britain.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which preacher is most closely associated with the sermon “Sinners in the Hands of an Angry God”?",
+    "options": {
+      "A": "Jonathan Edwards",
+      "B": "George Whitefield",
+      "C": "John Winthrop",
+      "D": "Cotton Mather"
+    },
+    "correct": "A",
+    "explanation": "Edwards delivered the sermon in 1741.",
+    "distractor_notes": {
+      "B": "Whitefield preached widely but not that sermon.",
+      "C": "Winthrop was earlier.",
+      "D": "Mather was associated with Salem."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Whitefield was also famous.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students confuse the leading Awakening figures.",
+      "how_to_avoid": "Edwards = Northampton and Enfield sermon; Whitefield = itinerant."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+        "https://en.wikipedia.org/wiki/George_Whitefield"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+          "pattern": "Sinners in the Hands"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Whitefield",
+          "pattern": "itinerant"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.7-trap-0004",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.7",
+    "topic_title": "Colonial Society and Culture",
+    "learning_objective": "Explain how and why the movement of a variety of people and ideas across the Atlantic contributed to the development of American culture over time, and how and why the different goals and interests of European leaders and colonists affected how they viewed themselves and their relationship with Britain.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which event occurred FIRST?",
+    "options": {
+      "A": "The Zenger trial",
+      "B": "The Half-Way Covenant",
+      "C": "The First Great Awakening",
+      "D": "The Albany Plan"
+    },
+    "correct": "B",
+    "explanation": "1662 predates the others.",
+    "distractor_notes": {
+      "A": "1735.",
+      "C": "1730s–1740s.",
+      "D": "1754."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Students confuse 1600s and 1700s.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "All are colonial events.",
+      "how_to_avoid": "Anchor: 1662, 1692, 1735, 1740s, 1754."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Half-Way_Covenant",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Half-Way_Covenant",
+        "https://en.wikipedia.org/wiki/John_Peter_Zenger"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Half-Way_Covenant",
+          "pattern": "1662"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/John_Peter_Zenger",
+          "pattern": "1735"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.7-trap-0005",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.7",
+    "topic_title": "Colonial Society and Culture",
+    "learning_objective": "Explain how and why the movement of a variety of people and ideas across the Atlantic contributed to the development of American culture over time, and how and why the different goals and interests of European leaders and colonists affected how they viewed themselves and their relationship with Britain.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "graph",
+      "content": "[Described chart, author-prepared; shape reflects scholarly estimates, not exact data] A line graph titled “European-descended and African-descended population of the British mainland colonies, 1650–1750” shows the total colonial population rising from tens of thousands in 1650 to well over a million by 1750, with the share of enslaved Africans rising across the same period. A second line shows that most population growth after 1700 came from natural increase rather than immigration, though immigration from Germany and Ulster (Scots-Irish) rose in the 1700s.",
+      "citation": "Author-prepared schematic based on Wikipedia, “Thirteen Colonies,” “German Americans,” and “Scotch-Irish Americans” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement about population growth is most accurate according to the chart description?",
+    "options": {
+      "A": "Natural increase alone explains the growth of the population before the year 1700",
+      "B": "Growth was caused only by the arrival of enslaved Africans in the colonies",
+      "C": "Natural increase and immigration both contributed, and natural increase dominated after 1700",
+      "D": "Immigration alone explains the growth of the colonial population in this period"
+    },
+    "correct": "C",
+    "explanation": "The chart shows two factors.",
+    "distractor_notes": {
+      "A": "Not alone.",
+      "B": "Not only enslaved Africans.",
+      "D": "Both factors."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students prefer single-cause explanations.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Immigration is emphasized in textbooks.",
+      "how_to_avoid": "Check for both factors."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Thirteen Colonies; German Americans; Scotch-Irish Americans",
+      "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared schematic based on Wikipedia, “Thirteen Colonies,” “German Americans,” and “Scotch-Irish Americans” (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+        "https://en.wikipedia.org/wiki/German_Americans"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+          "pattern": "population"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/German_Americans",
+          "pattern": "immigra"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.7-trap-0006",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.7",
+    "topic_title": "Colonial Society and Culture",
+    "learning_objective": "Explain how and why the movement of a variety of people and ideas across the Atlantic contributed to the development of American culture over time, and how and why the different goals and interests of European leaders and colonists affected how they viewed themselves and their relationship with Britain.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about religion in the colonies by 1750 is MOST accurate?",
+    "options": {
+      "A": "Only Puritans lived in the colonies by the middle of the eighteenth century",
+      "B": "No colony had an established church by the middle of the eighteenth century",
+      "C": "All colonies had a single established church that every colonist was required to attend",
+      "D": "Religious diversity had grown, with many denominations present in the Middle colonies"
+    },
+    "correct": "D",
+    "explanation": "Pennsylvania and New York had multiple denominations, while some colonies had established churches.",
+    "distractor_notes": {
+      "A": "Many groups existed.",
+      "B": "Several colonies had them.",
+      "C": "Not all."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolutes tempt.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students remember Puritan New England.",
+      "how_to_avoid": "Beware of “all” and “only.”"
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Middle_Colonies",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Middle_Colonies",
+        "https://en.wikipedia.org/wiki/Church_of_England"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Middle_Colonies",
+          "pattern": "diverse|denomination"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Church_of_England",
+          "pattern": "established"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.7-trap-0007",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.7",
+    "topic_title": "Colonial Society and Culture",
+    "learning_objective": "Explain how and why the movement of a variety of people and ideas across the Atlantic contributed to the development of American culture over time, and how and why the different goals and interests of European leaders and colonists affected how they viewed themselves and their relationship with Britain.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Intellectual and religious movements in the colonies (author-prepared summary)\n| Movement | Approximate period | Key ideas or figures |\n| Puritanism | 1620s onward | Predestination; covenant; a godly commonwealth; church membership by conversion experience |\n| First Great Awakening | 1730s–1740s | Emotional revival preaching; Jonathan Edwards; George Whitefield; split between New Lights and Old Lights |\n| Enlightenment | 1700s | Reason and natural law; scientific inquiry; Benjamin Franklin; ideas of consent and rights of individuals |",
+      "citation": "Author-prepared summary based on Wikipedia articles on Puritans, the First Great Awakening, and the Age of Enlightenment (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Each of the following is associated with the Enlightenment EXCEPT:",
+    "options": {
+      "A": "Emphasis on predestination and covenant",
+      "B": "Emphasis on natural law and rights",
+      "C": "Emphasis on scientific inquiry and observation",
+      "D": "Emphasis on reason and human perfectibility"
+    },
+    "correct": "A",
+    "explanation": "Predestination is associated with Puritanism.",
+    "distractor_notes": {
+      "B": "Enlightenment.",
+      "C": "Enlightenment.",
+      "D": "Enlightenment."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stems.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students choose familiar Enlightenment terms.",
+      "how_to_avoid": "Check each term."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Puritans; First Great Awakening; Age of Enlightenment",
+      "url": "https://en.wikipedia.org/wiki/Puritans",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared summary based on Wikipedia articles on Puritans, the First Great Awakening, and the Age of Enlightenment (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+        "https://en.wikipedia.org/wiki/Puritans"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+          "pattern": "reason"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Puritans",
+          "pattern": "predestination"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.8-trap-0001",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.8",
+    "topic_title": "Comparison in Period 2",
+    "learning_objective": "Compare the effects of the development of colonial society in the various regions of North America.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about colonial regions is most accurate?",
+    "options": {
+      "A": "The colonies were economically isolated from each other and from Britain and Europe",
+      "B": "Each region developed a distinctive economy, but all were linked to the Atlantic world",
+      "C": "The Chesapeake and New England had nearly identical economies and exports",
+      "D": "Only the southern colonies traded with Britain and the wider Atlantic world"
+    },
+    "correct": "B",
+    "explanation": "All regions traded with Britain and the West Indies.",
+    "distractor_notes": {
+      "A": "They were connected.",
+      "C": "They differed.",
+      "D": "All traded."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.8"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students may overemphasize isolation.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Regional labels suggest separateness.",
+      "how_to_avoid": "Remember Atlantic connections."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+        "https://en.wikipedia.org/wiki/Mercantilism"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+          "pattern": "trade|export"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mercantilism",
+          "pattern": "colon"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.8-trap-0002",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.8",
+    "topic_title": "Comparison in Period 2",
+    "learning_objective": "Compare the effects of the development of colonial society in the various regions of North America.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "British colonial regions, c. 1700–1750 (author-prepared summary)\n| Region | Settlement pattern | Main economic activities | Religious character |\n| New England | Compact towns; family migration | Small farms, fishing, shipbuilding, trade | Mostly Puritan/Congregational |\n| Middle colonies | Mixed farms and port cities; ethnically diverse | Grain exports, trade, crafts | Quakers, Dutch Reformed, Lutherans, Presbyterians, others |\n| Chesapeake | Dispersed plantations along rivers | Tobacco | Mostly Anglican |\n| Lower South (Carolina, Georgia) | Large rice and indigo plantations near the coast | Rice, indigo, deerskins | Anglican, with dissenting groups |",
+      "citation": "Author-prepared summary based on Wikipedia articles on the New England Colonies, Middle Colonies, Chesapeake Colonies, and Southern Colonies (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement is best supported by the table?",
+    "options": {
+      "A": "The Middle colonies were settled almost entirely by Puritans who came from New England",
+      "B": "The Chesapeake was settled mostly by Quakers who left Pennsylvania",
+      "C": "The Middle colonies included several religious groups, among them Quakers and Dutch Reformed",
+      "D": "The Lower South was mostly Congregational, as in Massachusetts and Connecticut"
+    },
+    "correct": "C",
+    "explanation": "The table lists multiple religious groups for the Middle colonies.",
+    "distractor_notes": {
+      "A": "New England was Puritan.",
+      "B": "The Chesapeake was Anglican.",
+      "D": "The Lower South was Anglican."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.8"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students match regions to famous groups.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Puritan New England is the best-known religious region.",
+      "how_to_avoid": "Use the table."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: New England Colonies; Middle Colonies; Chesapeake Colonies; Southern Colonies",
+      "url": "https://en.wikipedia.org/wiki/New_England_Colonies",
+      "license": "CC BY-SA 4.0 (facts only; stimulus text is original)",
+      "attribution": "Author-prepared summary based on Wikipedia articles on the New England Colonies, Middle Colonies, Chesapeake Colonies, and Southern Colonies (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Middle_Colonies",
+        "https://en.wikipedia.org/wiki/Dutch_Reformed_Church"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Middle_Colonies",
+          "pattern": "Quaker|Dutch Reformed"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Dutch_Reformed_Church",
+          "pattern": "Dutch"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.8-trap-0003",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.8",
+    "topic_title": "Comparison in Period 2",
+    "learning_objective": "Compare the effects of the development of colonial society in the various regions of North America.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which two colonies were both founded by proprietors in the 1600s?",
+    "options": {
+      "A": "Plymouth and Massachusetts Bay",
+      "B": "Virginia and Jamestown",
+      "C": "Georgia and Connecticut",
+      "D": "Pennsylvania and Carolina"
+    },
+    "correct": "D",
+    "explanation": "Penn and the Carolina lords were proprietors.",
+    "distractor_notes": {
+      "A": "Those were charter colonies.",
+      "B": "Jamestown is Virginia.",
+      "C": "Georgia was a trustee colony."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.8"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students confuse colony types.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Pilgrims and Puritans are lumped together.",
+      "how_to_avoid": "Learn types: joint-stock, charter, proprietary, royal."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Proprietary_colony",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Proprietary_colony",
+        "https://en.wikipedia.org/wiki/Province_of_Carolina"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Proprietary_colony",
+          "pattern": "Pennsylvania|Carolina"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Province_of_Carolina",
+          "pattern": "proprietor"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.8-trap-0004",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.8",
+    "topic_title": "Comparison in Period 2",
+    "learning_objective": "Compare the effects of the development of colonial society in the various regions of North America.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which explanation for New England's more balanced sex ratios and longer lives is best supported?",
+    "options": {
+      "A": "Family migration and a healthier climate improved survival and family formation",
+      "B": "Religious belief alone made colonists live longer than people in England",
+      "C": "Slavery caused longer lives for colonists in New England towns",
+      "D": "The fur trade supplied women to the New England colonies in large numbers"
+    },
+    "correct": "A",
+    "explanation": "Family groups and fewer tropical diseases helped.",
+    "distractor_notes": {
+      "B": "Religion was not the only factor.",
+      "C": "Slavery did not prolong lives.",
+      "D": "Fur trade is unrelated."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.8"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Students pick a single cause.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "They credit religion alone.",
+      "how_to_avoid": "Consider migration and environment."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Puritans",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Puritans",
+        "https://en.wikipedia.org/wiki/Chesapeake_Colonies"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Puritans",
+          "pattern": "famil"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chesapeake_Colonies",
+          "pattern": "disease"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.8-trap-0005",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.8",
+    "topic_title": "Comparison in Period 2",
+    "learning_objective": "Compare the effects of the development of colonial society in the various regions of North America.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about political participation is MOST accurate?",
+    "options": {
+      "A": "No colony held elections for any representative body in this period of time",
+      "B": "Voting rules varied by colony and generally excluded women and enslaved people",
+      "C": "Only clergy could vote in all of the colonies of the Atlantic coast",
+      "D": "All adults could vote in every colony, including women and enslaved people"
+    },
+    "correct": "B",
+    "explanation": "Voting was limited by gender, race, and property.",
+    "distractor_notes": {
+      "A": "Elections occurred.",
+      "C": "Not only clergy.",
+      "D": "Not all adults."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.8"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolutes.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students assume the colonies were fully democratic.",
+      "how_to_avoid": "Watch for “all.”"
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+        "https://en.wikipedia.org/wiki/House_of_Burgesses"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+          "pattern": "vote|property"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Burgesses",
+          "pattern": "elected"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.8-trap-0006",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.8",
+    "topic_title": "Comparison in Period 2",
+    "learning_objective": "Compare the effects of the development of colonial society in the various regions of North America.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which colony was settled EARLIEST?",
+    "options": {
+      "A": "Georgia",
+      "B": "New Hampshire",
+      "C": "Virginia",
+      "D": "Pennsylvania"
+    },
+    "correct": "C",
+    "explanation": "Virginia (1607) predates the others.",
+    "distractor_notes": {
+      "A": "1732.",
+      "B": "1623–1679.",
+      "D": "1681."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.8"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Students may think New England colonies came first.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Plymouth is famous.",
+      "how_to_avoid": "Remember 1607."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Colony_of_Virginia",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Colony_of_Virginia",
+        "https://en.wikipedia.org/wiki/Province_of_New_Hampshire"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Colony_of_Virginia",
+          "pattern": "1607"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Province_of_New_Hampshire",
+          "pattern": "1623|1629|1679"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u2-t2.8-trap-0007",
+    "subject": "apush",
+    "unit": 2,
+    "unit_title": "Colonial America: Settlement and Society (1607-1754)",
+    "topic": "2.8",
+    "topic_title": "Comparison in Period 2",
+    "learning_objective": "Compare the effects of the development of colonial society in the various regions of North America.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about slavery in the North is best?",
+    "options": {
+      "A": "Slavery was absent in the North, where free farmers did all of the work",
+      "B": "Slavery was banned in the North by the year 1700 under royal orders",
+      "C": "Slavery was central to the northern economy, just as it was in the South and the Caribbean",
+      "D": "Slavery was present but less central to northern economies than to southern plantations"
+    },
+    "correct": "D",
+    "explanation": "Northern economies used enslaved labor but depended less on it.",
+    "distractor_notes": {
+      "A": "It was present.",
+      "B": "Not banned.",
+      "C": "It was less central."
+    },
+    "tags": [
+      "apush",
+      "unit-2",
+      "topic-2.8"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students overstate regional contrast.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "They think slavery was only southern.",
+      "how_to_avoid": "Look for degrees."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+        "https://en.wikipedia.org/wiki/Province_of_New_York"
+      ],
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Slavery_in_the_colonial_United_States",
+          "pattern": "North|New England"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Province_of_New_York",
+          "pattern": "slave"
+        }
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  }
+]

@@ -1,0 +1,3806 @@
+[
+  {
+    "id": "apush-u7-t7.1-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.1",
+    "topic_title": "Contextualizing Period 7",
+    "learning_objective": "Explain the context in which industrialization, urbanization, migration, and political reform shaped the United States from 1890 to 1945.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best describes the federal government’s role in the Pullman Strike of 1894?",
+    "options": {
+      "A": "It obtained a federal court injunction and sent troops, which helped end the strike",
+      "B": "It mediated a settlement that granted workers most of their demands",
+      "C": "It nationalized the Pullman Company to end the dispute",
+      "D": "It stayed neutral and left the dispute to state governments"
+    },
+    "correct": "A",
+    "explanation": "President Cleveland’s administration used an injunction under the Sherman Antitrust Act and sent federal troops to keep trains running. The strike collapsed and Debs was jailed.",
+    "distractor_notes": {
+      "B": "Government did not mediate in labor’s favor.",
+      "C": "Nationalization never occurred.",
+      "D": "The federal government intervened directly."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.1",
+      "pullman"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students assume Progressive-era or New Deal attitudes toward labor already existed in 1894.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students project later pro-labor government policy back onto the 1890s, so a mediated settlement looks natural.",
+      "how_to_avoid": "Remember that before the New Deal the federal government usually sided with employers; recall the injunction against Eugene Debs and the American Railway Union."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Pullman_Strike",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Pullman_Strike",
+        "https://en.wikipedia.org/wiki/History_of_the_United_States_(1865%E2%80%931917)"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.1-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.1",
+    "topic_title": "Contextualizing Period 7",
+    "learning_objective": "Explain the context in which industrialization, urbanization, migration, and political reform shaped the United States from 1890 to 1945.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which law, passed in 1890, declared trusts and combinations in restraint of trade illegal?",
+    "options": {
+      "A": "The Clayton Antitrust Act",
+      "B": "The Sherman Antitrust Act",
+      "C": "The Interstate Commerce Act",
+      "D": "The Pendleton Civil Service Act"
+    },
+    "correct": "B",
+    "explanation": "The Sherman Antitrust Act dates to 1890. The Clayton Act (1914) strengthened it, the Interstate Commerce Act (1887) regulated railroads, and the Pendleton Act (1883) reformed civil service hiring.",
+    "distractor_notes": {
+      "A": "Clayton came in 1914, during Wilson’s presidency.",
+      "C": "The 1887 act regulated railroads.",
+      "D": "The Pendleton Act concerned civil service hiring."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.1",
+      "antitrust"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Sherman (1890) and Clayton (1914) both concern antitrust.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The two acts share a topic, and students often recall the more detailed Clayton Act, which strengthened the earlier law.",
+      "how_to_avoid": "Anchor each law to its date: Interstate Commerce (1887), Sherman (1890), Clayton (1914)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Sherman_Antitrust_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Sherman_Antitrust_Act",
+        "https://en.wikipedia.org/wiki/Clayton_Antitrust_Act"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.1-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.1",
+    "topic_title": "Contextualizing Period 7",
+    "learning_objective": "Explain the context in which industrialization, urbanization, migration, and political reform shaped the United States from 1890 to 1945.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence of events is in correct chronological order?",
+    "options": {
+      "A": "Panic of 1893, Wounded Knee Massacre, Plessy v. Ferguson, Pullman Strike",
+      "B": "Pullman Strike, Wounded Knee Massacre, Panic of 1893, Plessy v. Ferguson",
+      "C": "Wounded Knee Massacre, Panic of 1893, Pullman Strike, Plessy v. Ferguson",
+      "D": "Wounded Knee Massacre, Plessy v. Ferguson, Pullman Strike, Panic of 1893"
+    },
+    "correct": "C",
+    "explanation": "Wounded Knee occurred in 1890, the Panic of 1893 began that year, the Pullman Strike was in 1894, and Plessy was decided in 1896.",
+    "distractor_notes": {
+      "A": "Wounded Knee (1890) came before the Panic of 1893, and Plessy (1896) came after Pullman.",
+      "B": "Pullman (1894) came after both Wounded Knee and the Panic of 1893.",
+      "D": "Plessy (1896) followed Pullman, and the Panic of 1893 came before both."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.1",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four events of the 1890s are easily scrambled.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The events are only a few years apart and all involve conflict, so the order feels interchangeable.",
+      "how_to_avoid": "Build a mini-timeline: 1890 Wounded Knee, 1893 Panic, 1894 Pullman, 1896 Plessy."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Wounded_Knee_Massacre",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Wounded_Knee_Massacre",
+        "https://en.wikipedia.org/wiki/Pullman_Strike",
+        "https://en.wikipedia.org/wiki/Plessy_v._Ferguson"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.1-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.1",
+    "topic_title": "Contextualizing Period 7",
+    "learning_objective": "Explain the context in which industrialization, urbanization, migration, and political reform shaped the United States from 1890 to 1945.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The Populist (Omaha) Platform of 1892 called for all of the following EXCEPT",
+    "options": {
+      "A": "government ownership of railroads",
+      "B": "a graduated income tax",
+      "C": "direct election of United States senators by popular vote instead of state legislatures",
+      "D": "adherence to the gold standard to stabilize the currency"
+    },
+    "correct": "D",
+    "explanation": "Populists wanted expanded currency through free silver, not a restrictive gold standard. They demanded public ownership of railroads, an income tax, and direct election of senators.",
+    "distractor_notes": {
+      "A": "Populists advocated public ownership of transportation.",
+      "B": "The platform demanded a graduated income tax.",
+      "C": "The platform demanded direct election of senators."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.1",
+      "populism"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT/EXCEPT stem with several real Populist demands.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students skim for a familiar demand and pick the first item that sounds unfamiliar or conservative.",
+      "how_to_avoid": "Underline EXCEPT and test each option one at a time: ask whether Populists, who wanted inflationary silver coinage, would back the gold standard."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikisource.org/wiki/Omaha_Platform",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikisource.org/wiki/Omaha_Platform",
+        "https://en.wikipedia.org/wiki/History_of_the_United_States_(1865%E2%80%931917)"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.2-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.2",
+    "topic_title": "Imperialism: Debates",
+    "learning_objective": "Explain the various military, economic, and cultural motivations for and debates about U.S. imperialism in the period from 1890 to 1945.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "How did the United States acquire the Philippines in 1898–99?",
+    "options": {
+      "A": "By a joint resolution of Congress, as it had done with Hawaii",
+      "B": "By purchase from the Filipino government, which had requested annexation in a treaty negotiated in Manila",
+      "C": "By a League of Nations mandate granted after the war",
+      "D": "By treaty with Spain after the Spanish–American War, with the United States paying Spain $20 million"
+    },
+    "correct": "D",
+    "explanation": "In the Treaty of Paris, Spain ceded the Philippines, Guam, and Puerto Rico, and the United States paid $20 million for the Philippines. Hawaii was annexed separately.",
+    "distractor_notes": {
+      "A": "Joint resolution applied to Hawaii only.",
+      "B": "Filipino nationalists were fighting U.S. rule, not requesting annexation.",
+      "C": "The League of Nations did not exist until 1920."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.2",
+      "philippines"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Hawaii was annexed by joint resolution; the Philippines came by treaty.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both acquisitions happened in 1898, so students merge the methods and assume Congress simply annexed both.",
+      "how_to_avoid": "Match each territory to its method: Hawaii (Newlands Resolution), Philippines, Guam, and Puerto Rico (Treaty of Paris)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1898)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1898)",
+        "https://en.wikipedia.org/wiki/Overthrow_of_the_Hawaiian_Kingdom"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.2-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.2",
+    "topic_title": "Imperialism: Debates",
+    "learning_objective": "Explain the various military, economic, and cultural motivations for and debates about U.S. imperialism in the period from 1890 to 1945.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the opponents of imperialism in 1898–1900 is most accurate?",
+    "options": {
+      "A": "They held different motives, including defense of self-government and fear of incorporating nonwhite populations",
+      "B": "They all opposed expansion because they believed in racial equality",
+      "C": "They were drawn entirely from one political party",
+      "D": "They all opposed foreign trade and overseas commerce"
+    },
+    "correct": "A",
+    "explanation": "The coalition included Carnegie, Twain, and Jane Addams, as well as others who feared racial mixing or the costs of empire. Some who opposed annexation still supported expanding trade.",
+    "distractor_notes": {
+      "B": "Many opponents held racist views.",
+      "C": "The movement included Democrats and Republicans.",
+      "D": "Many opponents supported commerce."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.2",
+      "anti-imperialism"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "“All” wording makes a diverse movement sound uniform.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students romanticize anti-imperialism as uniformly egalitarian and overlook that some opponents had racial or economic motives.",
+      "how_to_avoid": "Be suspicious of “all” and “entirely”; recall that the League included Democrats, Republicans, labor leaders, and wealthy industrialists with varied reasons."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/American_Anti-Imperialist_League",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/American_Anti-Imperialist_League"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.2-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.2",
+    "topic_title": "Imperialism: Debates",
+    "learning_objective": "Explain the various military, economic, and cultural motivations for and debates about U.S. imperialism in the period from 1890 to 1945.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Supporters of annexing the Philippines in 1898–99 cited each of the following arguments EXCEPT that",
+    "options": {
+      "A": "the islands would provide a naval and commercial base near China",
+      "B": "Filipinos had voted in a plebiscite to accept U.S. rule",
+      "C": "Germany or Japan might seize the islands if the United States left",
+      "D": "the United States had a duty to “uplift” and Christianize Filipinos"
+    },
+    "correct": "B",
+    "explanation": "No plebiscite occurred, and Filipino nationalists under Aguinaldo had declared independence in 1899. The other arguments were common among supporters.",
+    "distractor_notes": {
+      "A": "Strategic and commercial arguments were frequently made.",
+      "C": "Fear of rival powers was common.",
+      "D": "Cultural-uplift arguments were common."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.2",
+      "philippines"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A NOT/EXCEPT stem with three real pro-annexation arguments.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students under time pressure pick whichever statement sounds like a reason and miss the EXCEPT.",
+      "how_to_avoid": "Cross out the three arguments you recognize as authentic; the remaining one is the answer."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War",
+        "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1898)"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.2-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.2",
+    "topic_title": "Imperialism: Debates",
+    "learning_objective": "Explain the various military, economic, and cultural motivations for and debates about U.S. imperialism in the period from 1890 to 1945.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“We hold that the policy known as imperialism is hostile to liberty and tends toward militarism, an evil from which it has been our glory to be free. We regret that it has become necessary in the land of Washington and Lincoln to reaffirm that all men, of whatever race or color, are entitled to life, liberty, and the pursuit of happiness. . . . We insist that the subjugation of any people is ‘criminal aggression’ and open disloyalty to the distinctive principles of our government.”",
+      "citation": "Platform of the American Anti-Imperialist League, October 17, 1899, as reproduced in The Writings of Carl Schurz (Wikisource)",
+      "asset_path": null
+    },
+    "question": "Based on the excerpt, the author would most likely support which position?",
+    "options": {
+      "A": "Banning all American commerce with foreign nations",
+      "B": "Requiring the United States to withdraw from all existing treaties and end all commercial agreements abroad",
+      "C": "Opposing the acquisition of colonies by force while still permitting peaceful international trade",
+      "D": "Supporting annexation of territories if the president approved"
+    },
+    "correct": "C",
+    "explanation": "The platform opposes subjugation without consent but does not call for ending trade or withdrawing from all agreements. Many League members supported peaceful commerce.",
+    "distractor_notes": {
+      "A": "The excerpt says nothing about banning commerce.",
+      "B": "The excerpt does not address treaties.",
+      "D": "The excerpt condemns subjugation."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.2",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The excerpt criticizes imperialism, not trade.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume opposition to imperialism means opposition to all foreign involvement.",
+      "how_to_avoid": "Read the claim narrowly: the platform objects to “subjugation of any people,” not to commerce."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikisource: The Writings of Carl Schurz, “The Policy of Imperialism” (reproducing the League’s 1899 platform)",
+      "url": "https://en.wikisource.org/wiki/The_Writings_of_Carl_Schurz/The_Policy_of_Imperialism",
+      "license": "Public domain (1899 organizational platform)",
+      "attribution": "Platform of the American Anti-Imperialist League, October 17, 1899, as reproduced in The Writings of Carl Schurz (Wikisource)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikisource.org/wiki/The_Writings_of_Carl_Schurz/The_Policy_of_Imperialism",
+        "https://en.wikipedia.org/wiki/American_Anti-Imperialist_League"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.3-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.3",
+    "topic_title": "The Spanish-American War",
+    "learning_objective": "Explain the causes and effects of the Spanish-American War and the resulting U.S. overseas expansion.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the explosion of the USS Maine in 1898 is most accurate?",
+    "options": {
+      "A": "A 1898 Navy inquiry proved that Spain deliberately blew up the ship with a submerged mine, a conclusion all later investigations confirmed",
+      "B": "Historians agree that Spanish agents planted a mine",
+      "C": "Its cause has been debated, with later investigations suggesting an accidental fire as one explanation",
+      "D": "The ship exploded in Manila Bay during Dewey’s attack"
+    },
+    "correct": "C",
+    "explanation": "A Navy board in 1898 reported an external explosion, but later studies, including a 1970s analysis, suggested that coal fires could have ignited the ammunition. The cause remains debated.",
+    "distractor_notes": {
+      "A": "The 1898 inquiry did not “prove” deliberate sabotage by Spain.",
+      "B": "Historians do not agree on a mine.",
+      "D": "The Maine exploded in Havana, not Manila."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.3",
+      "maine"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "“Remember the Maine!” suggests Spanish guilt, but the cause was never settled.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Popular memory repeats the slogan and treats the event as an act of Spanish aggression.",
+      "how_to_avoid": "Separate public belief in 1898 from later evidence; note that the Maine exploded in Havana harbor and that modern studies are inconclusive."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/USS_Maine_(1889)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/USS_Maine_(1889)",
+        "https://en.wikipedia.org/wiki/1918_influenza_pandemic"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.3-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.3",
+    "topic_title": "The Spanish-American War",
+    "learning_objective": "Explain the causes and effects of the Spanish-American War and the resulting U.S. overseas expansion.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in correct chronological order?",
+    "options": {
+      "A": "Teller Amendment, Maine explosion, Platt Amendment, Treaty of Paris",
+      "B": "Maine explosion, Treaty of Paris, Teller Amendment, Platt Amendment",
+      "C": "Treaty of Paris, Maine explosion, Platt Amendment, Teller Amendment",
+      "D": "Maine explosion, Teller Amendment, Treaty of Paris, Platt Amendment"
+    },
+    "correct": "D",
+    "explanation": "The Maine exploded in February 1898, the Teller Amendment was passed in April, the treaty was signed in December, and the Platt Amendment came in 1901.",
+    "distractor_notes": {
+      "A": "The Teller Amendment followed the Maine explosion.",
+      "B": "The Teller Amendment preceded the treaty.",
+      "C": "The treaty followed the Maine explosion, and Teller came before the treaty."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.3",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Two amendments about Cuba and a treaty are easily scrambled.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Because both amendments concern Cuba, students lump them together and do not place the treaty between them.",
+      "how_to_avoid": "Link each item to its date: Maine (Feb 1898), Teller (April 1898), Treaty of Paris (Dec 1898), Platt (1901)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/USS_Maine_(1889)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/USS_Maine_(1889)",
+        "https://en.wikipedia.org/wiki/Platt_Amendment",
+        "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1898)"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.3-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.3",
+    "topic_title": "The Spanish-American War",
+    "learning_objective": "Explain the causes and effects of the Spanish-American War and the resulting U.S. overseas expansion.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Where did Commodore George Dewey’s squadron destroy a Spanish fleet in 1898?",
+    "options": {
+      "A": "Manila Bay in the Philippines",
+      "B": "Santiago de Cuba harbor",
+      "C": "Havana harbor",
+      "D": "San Juan, Puerto Rico"
+    },
+    "correct": "A",
+    "explanation": "Dewey destroyed the Spanish squadron at Manila Bay on May 1, 1898. The Spanish Caribbean fleet was later destroyed at Santiago de Cuba in July.",
+    "distractor_notes": {
+      "B": "Santiago was the scene of the later Caribbean naval battle.",
+      "C": "The Maine exploded in Havana, but Dewey was not there.",
+      "D": "San Juan was bombarded but Dewey did not fight there."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.3",
+      "dewey"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Spain lost fleets in both the Pacific and the Caribbean.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students remember the Cuban campaign and assume the decisive naval battle occurred in Cuba.",
+      "how_to_avoid": "Link Dewey to Manila and the Pacific; link Sampson and Schley to Santiago."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Manila_Bay",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Battle_of_Manila_Bay",
+        "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.3-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.3",
+    "topic_title": "The Spanish-American War",
+    "learning_objective": "Explain the causes and effects of the Spanish-American War and the resulting U.S. overseas expansion.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The Treaty of Paris (1898) did each of the following EXCEPT",
+    "options": {
+      "A": "require Spain to give up its claim to Cuba",
+      "B": "grant the United States permanent sovereignty over Cuba",
+      "C": "transfer Puerto Rico and Guam to the United States",
+      "D": "transfer the Philippines to the United States for $20 million"
+    },
+    "correct": "B",
+    "explanation": "Spain relinquished claim to Cuba, but the United States did not annex it; Cuba became independent in 1902 under the Platt Amendment constraints.",
+    "distractor_notes": {
+      "A": "Spain did relinquish its claim.",
+      "C": "Puerto Rico and Guam were ceded.",
+      "D": "The Philippines were ceded for $20 million."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.3",
+      "treaty of paris"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Students confuse the Cuban occupation with annexation.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The U.S. occupied Cuba and later added the Platt Amendment, so it feels like Cuba was acquired.",
+      "how_to_avoid": "Remember the Teller Amendment: Cuba became nominally independent; the U.S. gained other territories."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1898)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1898)",
+        "https://en.wikipedia.org/wiki/Teller_Amendment"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.4-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.4",
+    "topic_title": "The Progressives",
+    "learning_objective": "Explain the causes, goals, and effects of the Progressive movement and its reforms.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best describes Theodore Roosevelt’s approach to large corporations?",
+    "options": {
+      "A": "He sought to break up every large corporation in the nation",
+      "B": "He distinguished between “good” trusts and “bad” trusts and prosecuted those he viewed as harmful to the public",
+      "C": "He opposed all federal regulation of business",
+      "D": "He believed corporations should be placed under direct public ownership and operated for the benefit of workers by elected boards"
+    },
+    "correct": "B",
+    "explanation": "Roosevelt filed suit against Northern Securities and others but accepted big business as efficient if regulated; he wanted government to act as umpire.",
+    "distractor_notes": {
+      "A": "Roosevelt did not seek to break up every corporation.",
+      "C": "Roosevelt supported federal regulation, such as the Hepburn Act.",
+      "D": "Public ownership was a socialist position."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.4",
+      "roosevelt",
+      "trusts"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The label “trustbuster” suggests that Roosevelt opposed all big business.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember his Northern Securities suit and overgeneralize.",
+      "how_to_avoid": "Watch for “every” and “all”; Roosevelt accepted large firms that he thought behaved responsibly."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Northern_Securities_Co._v._United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Northern_Securities_Co._v._United_States",
+        "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.4-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.4",
+    "topic_title": "The Progressives",
+    "learning_objective": "Explain the causes, goals, and effects of the Progressive movement and its reforms.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which constitutional amendment, ratified in 1913, provided for the direct election of United States senators?",
+    "options": {
+      "A": "The Sixteenth Amendment (1913)",
+      "B": "The Eighteenth Amendment",
+      "C": "The Seventeenth Amendment",
+      "D": "The Nineteenth Amendment"
+    },
+    "correct": "C",
+    "explanation": "The Seventeenth Amendment (1913) took the election of senators from state legislatures and gave it to voters. The Sixteenth (1913) authorized the income tax.",
+    "distractor_notes": {
+      "A": "The Sixteenth Amendment concerned the income tax.",
+      "B": "The Eighteenth Amendment (1919) was Prohibition.",
+      "D": "The Nineteenth (1920) gave women the vote."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.4",
+      "amendments"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Two Progressive amendments share the same year, 1913.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember that one of the 1913 amendments dealt with taxation and choose the wrong one.",
+      "how_to_avoid": "Pair them: 16th = income tax, 17th = Senate elections, 18th = Prohibition, 19th = women’s suffrage."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution",
+        "https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.4-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.4",
+    "topic_title": "The Progressives",
+    "learning_objective": "Explain the causes, goals, and effects of the Progressive movement and its reforms.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following was a goal or achievement of the Progressive movement EXCEPT",
+    "options": {
+      "A": "adopting direct primary elections to choose party candidates",
+      "B": "enacting laws to improve factory safety and limit hours",
+      "C": "regulating food and drugs sold in interstate commerce",
+      "D": "eliminating the federal government’s authority to regulate railroad rates"
+    },
+    "correct": "D",
+    "explanation": "The Hepburn Act (1906) expanded the Interstate Commerce Commission’s power to set maximum railroad rates, so Progressives expanded rather than eliminated rate regulation.",
+    "distractor_notes": {
+      "A": "Direct primaries were a Progressive reform.",
+      "B": "Factory safety laws were Progressive reforms.",
+      "C": "Food and drug regulation was Progressive."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.4",
+      "regulation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stems reverse the usual direction of question.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students look for the true statements and forget to select the false one.",
+      "how_to_avoid": "Mark each option T or F about Progressives; choose the false one."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Hepburn_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Hepburn_Act",
+        "https://en.wikipedia.org/wiki/Progressive_Era"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.4-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.4",
+    "topic_title": "The Progressives",
+    "learning_objective": "Explain the causes, goals, and effects of the Progressive movement and its reforms.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“There was never the least attention paid to what was cut up for sausage; there would come back from Europe old sausage that had been rejected, and that was moldy and white—it would be dosed with borax and glycerine, and dumped into the hoppers, and made over again for home consumption.”",
+      "citation": "Upton Sinclair, The Jungle (1906), Project Gutenberg",
+      "asset_path": null
+    },
+    "question": "The publication of The Jungle most immediately resulted in",
+    "options": {
+      "A": "federal laws to inspect meat and regulate food labeling",
+      "B": "laws protecting meatpacking workers’ wages and hours in Chicago plants",
+      "C": "the nationalization of the meatpacking industry",
+      "D": "a federal ban on the sale of sausage"
+    },
+    "correct": "A",
+    "explanation": "Congress passed the Meat Inspection Act and Pure Food and Drug Act in 1906. Sinclair’s hopes for workers and socialism were not realized.",
+    "distractor_notes": {
+      "B": "Worker protections did not follow immediately.",
+      "C": "Nationalization never occurred.",
+      "D": "No ban on sausage was enacted."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.4",
+      "jungle"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Sinclair wrote about workers, but the response targeted consumer safety.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students assume the author’s aim and the political result were the same.",
+      "how_to_avoid": "Ask what readers feared most: contaminated food affected every consumer, so legislators responded to that threat."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Project Gutenberg: Upton Sinclair, The Jungle (1906)",
+      "url": "https://www.gutenberg.org/cache/epub/140/pg140.txt",
+      "license": "Public domain",
+      "attribution": "Upton Sinclair, The Jungle (1906), Project Gutenberg"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/cache/epub/140/pg140.txt",
+        "https://en.wikipedia.org/wiki/Meat_Inspection_Act",
+        "https://en.wikipedia.org/wiki/The_Jungle"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.5-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.5",
+    "topic_title": "World War I: Military and Diplomacy",
+    "learning_objective": "Explain the causes and effects of U.S. involvement in World War I and the debate over the peace settlement.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence of events leading to U.S. entry into World War I is in correct chronological order?",
+    "options": {
+      "A": "Lusitania sinking, Sussex pledge, resumption of unrestricted submarine warfare, publication of the Zimmermann Telegram",
+      "B": "Sussex pledge, Lusitania sinking, publication of the Zimmermann Telegram, resumption of unrestricted submarine warfare",
+      "C": "Publication of the Zimmermann Telegram, Lusitania sinking, Sussex pledge, resumption of unrestricted submarine warfare",
+      "D": "Lusitania sinking, publication of the Zimmermann Telegram, Sussex pledge, resumption of unrestricted submarine warfare"
+    },
+    "correct": "A",
+    "explanation": "The Lusitania sank in 1915, Germany made the Sussex pledge in 1916, announced unrestricted submarine warfare in January 1917, and the telegram was published on March 1, 1917.",
+    "distractor_notes": {
+      "B": "The pledge followed the sinking.",
+      "C": "The telegram came after, not before, the sinking and pledge.",
+      "D": "The pledge came before the 1917 announcements."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.5",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Several 1915–1917 events appear in different orders.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students recall that the Zimmermann Telegram was dramatic and place it earlier or later than it belongs.",
+      "how_to_avoid": "Fix the endpoints: Lusitania (May 1915) is first; the telegram (published March 1917) comes just before the April 1917 declaration."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/RMS_Lusitania",
+        "https://en.wikipedia.org/wiki/Sussex_pledge",
+        "https://en.wikipedia.org/wiki/Zimmermann_Telegram"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.5-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.5",
+    "topic_title": "World War I: Military and Diplomacy",
+    "learning_objective": "Explain the causes and effects of U.S. involvement in World War I and the debate over the peace settlement.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "How did the United States respond to the sinking of the Lusitania in 1915?",
+    "options": {
+      "A": "It declared war on Germany within weeks and sent the first American troops to France before the summer of 1915 ended",
+      "B": "It sent diplomatic protests, and Germany later pledged to limit submarine attacks; war was not declared until 1917",
+      "C": "It closed all American ports to British ships",
+      "D": "It formed an alliance with Mexico"
+    },
+    "correct": "B",
+    "explanation": "Wilson sent strong notes, and Germany issued the Sussex pledge in 1916. Not until Germany resumed unrestricted submarine warfare in 1917 did the United States go to war.",
+    "distractor_notes": {
+      "A": "War came two years later.",
+      "C": "The U.S. did not close ports to Britain.",
+      "D": "Mexico was not a U.S. ally; Germany proposed an alliance to Mexico."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.5",
+      "lusitania"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Many students believe the Lusitania caused the immediate U.S. entry into the war.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The Lusitania is the most famous event, so students treat it as the declaration of war trigger.",
+      "how_to_avoid": "Check the dates: 1915 versus April 1917, and recall the Sussex pledge."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/RMS_Lusitania",
+        "https://en.wikipedia.org/wiki/American_entry_into_World_War_I"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.5-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.5",
+    "topic_title": "World War I: Military and Diplomacy",
+    "learning_objective": "Explain the causes and effects of U.S. involvement in World War I and the debate over the peace settlement.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Wilson’s Fourteen Points included all of the following EXCEPT",
+    "options": {
+      "A": "freedom of the seas",
+      "B": "self-determination for peoples of Austria-Hungary",
+      "C": "a requirement that Germany accept sole responsibility for the war and pay full reparations",
+      "D": "a general association of nations"
+    },
+    "correct": "C",
+    "explanation": "The Fourteen Points called for freedom of the seas, adjustment of national claims, and a league, but not a war-guilt clause or punitive reparations.",
+    "distractor_notes": {
+      "A": "Freedom of the seas was Point II.",
+      "B": "Self-determination for national groups was a theme of several points.",
+      "D": "A general association of nations was Point XIV."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.5",
+      "fourteen points"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Versailles terms are mistaken for Wilson’s program.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students conflate the idealistic Fourteen Points with the harsher peace treaty.",
+      "how_to_avoid": "Treat the Fourteen Points and Versailles separately: the war-guilt clause appears only in the treaty."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/20th_century/wilson14.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/20th_century/wilson14.asp",
+        "https://en.wikipedia.org/wiki/Treaty_of_Versailles"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.5-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.5",
+    "topic_title": "World War I: Military and Diplomacy",
+    "learning_objective": "Explain the causes and effects of U.S. involvement in World War I and the debate over the peace settlement.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "“We intend to begin on the first of February unrestricted submarine warfare. We shall endeavor in spite of this to keep the United States of America neutral. In the event of this not succeeding, we make Mexico a proposal of alliance on the following basis: make war together, make peace together, generous financial support and an understanding on our part that Mexico is to reconquer the lost territory in Texas, New Mexico, and Arizona.”",
+      "citation": "Zimmermann Telegram, January 1917 (English translation), Wikisource",
+      "asset_path": null
+    },
+    "question": "According to the excerpt, Germany’s plan regarding the United States was to",
+    "options": {
+      "A": "declare war on the United States on February 1 after announcing unrestricted submarine warfare",
+      "B": "invite the United States to join the Central Powers",
+      "C": "invade Texas with German troops",
+      "D": "try to keep the United States neutral, but offer Mexico an alliance if war came"
+    },
+    "correct": "D",
+    "explanation": "Germany said it would try to keep the United States neutral and proposed an alliance with Mexico only if that effort failed.",
+    "distractor_notes": {
+      "A": "Nothing in the excerpt declares war on the U.S.",
+      "B": "Germany did not invite the U.S. to join.",
+      "C": "No invasion plan is stated."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.5",
+      "zimmermann"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students read “unrestricted submarine warfare” as an immediate declaration of war on the U.S.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The surface impression of an aggressive telegram hides the conditional language.",
+      "how_to_avoid": "Read the conditionals carefully: “in spite of this to keep the United States neutral” and “in the event of this not succeeding.”"
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikisource: The Zimmermann Telegram, 1917",
+      "url": "https://en.wikisource.org/wiki/Zimmermann_Telegram",
+      "license": "Public domain (1917 diplomatic message)",
+      "attribution": "Zimmermann Telegram, January 1917 (English translation), Wikisource"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikisource.org/wiki/Zimmermann_Telegram",
+        "https://en.wikipedia.org/wiki/Zimmermann_Telegram"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.6-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.6",
+    "topic_title": "World War I: Home Front",
+    "learning_objective": "Explain how the United States mobilized for World War I and how the war affected civil liberties, labor, and society at home.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Supreme Court’s decision in Schenck v. United States (1919) is accurate?",
+    "options": {
+      "A": "The Court overturned the conviction because the First Amendment protects antiwar speech",
+      "B": "The Court ruled that the Espionage Act was unconstitutional",
+      "C": "The Court reversed the conviction because Schenck did not mail his leaflets",
+      "D": "The Court unanimously upheld Schenck’s conviction under the Espionage Act"
+    },
+    "correct": "D",
+    "explanation": "Holmes wrote for a unanimous Court that Schenck’s leaflets created a clear and present danger during wartime, so his conviction stood.",
+    "distractor_notes": {
+      "A": "The conviction was upheld.",
+      "B": "The Court did not strike down the act.",
+      "C": "Mailing was part of the charge."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.6",
+      "schenck"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "The phrase “clear and present danger” sounds like a rule protecting speech.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember the later use of the test to protect speech and assume it began that way.",
+      "how_to_avoid": "Recall that Schenck was convicted and that Holmes’s test initially permitted punishment of antiwar speech."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Schenck_v._United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Schenck_v._United_States",
+        "https://en.wikipedia.org/wiki/Espionage_Act_of_1917"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.6-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.6",
+    "topic_title": "World War I: Home Front",
+    "learning_objective": "Explain how the United States mobilized for World War I and how the war affected civil liberties, labor, and society at home.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Federal responses to dissent during World War I included each of the following EXCEPT",
+    "options": {
+      "A": "a constitutional amendment authorizing censorship of newspapers",
+      "B": "prosecution of Eugene Debs under the Espionage Act",
+      "C": "passage of the Sedition Act of 1918",
+      "D": "Post Office restrictions on mailing certain radical publications"
+    },
+    "correct": "A",
+    "explanation": "Wartime censorship was carried out through statutes, prosecutions, and Post Office rules. No constitutional amendment restricting the press was adopted.",
+    "distractor_notes": {
+      "B": "Debs was prosecuted.",
+      "C": "The Sedition Act passed in 1918.",
+      "D": "The Post Office censored mail."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.6",
+      "civil liberties"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT/EXCEPT with plausible but fictional option.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students may assume that sweeping measures needed a constitutional amendment.",
+      "how_to_avoid": "Only choose an option you can disprove from memory; ordinary statutes and executive action did the work."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Espionage_Act_of_1917",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Espionage_Act_of_1917",
+        "https://en.wikipedia.org/wiki/Sedition_Act_of_1918"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.6-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.6",
+    "topic_title": "World War I: Home Front",
+    "learning_objective": "Explain how the United States mobilized for World War I and how the war affected civil liberties, labor, and society at home.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which World War I agency, led by George Creel, promoted public support for the war through posters, films, and speakers?",
+    "options": {
+      "A": "The War Industries Board, led by Bernard Baruch",
+      "B": "The Committee on Public Information",
+      "C": "The Food Administration",
+      "D": "The Federal Trade Commission"
+    },
+    "correct": "B",
+    "explanation": "The CPI under George Creel directed propaganda. The WIB coordinated production, and the Food Administration managed conservation.",
+    "distractor_notes": {
+      "A": "Baruch led the War Industries Board.",
+      "C": "Hoover led the Food Administration.",
+      "D": "The FTC regulated business, created in 1914."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.6",
+      "agencies"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Several wartime agencies had similar-sounding purposes and leaders.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students recall Baruch and Hoover and confuse agencies and their leaders.",
+      "how_to_avoid": "Pair leaders with agencies: Creel – CPI, Baruch – WIB, Hoover – Food Administration."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Committee_on_Public_Information",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Committee_on_Public_Information",
+        "https://en.wikipedia.org/wiki/War_Industries_Board"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.6-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.6",
+    "topic_title": "World War I: Home Front",
+    "learning_objective": "Explain how the United States mobilized for World War I and how the war affected civil liberties, labor, and society at home.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which factor most directly created the wartime demand for Black workers in northern factories?",
+    "options": {
+      "A": "A federal requirement that factories hire Black workers",
+      "B": "A decision by labor unions to integrate all workplaces",
+      "C": "The sharp decline in European immigration during the war, combined with increased war production",
+      "D": "The abolition of segregation in the South"
+    },
+    "correct": "C",
+    "explanation": "European immigration dropped sharply during the war while factories needed workers, so employers recruited from the South. Executive Order 8802 did not come until 1941.",
+    "distractor_notes": {
+      "A": "No such requirement existed in 1917.",
+      "B": "Many unions excluded Black workers.",
+      "D": "Segregation continued in the South."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.6",
+      "great migration"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Several factors helped, but not all of the options are true.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students attribute the migration to government or union action, which reflect later developments.",
+      "how_to_avoid": "Ask what changed in the labor market: immigration fell as war production rose."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Great_Migration_(African_American)",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Great_Migration_(African_American)",
+        "https://en.wikipedia.org/wiki/Roaring_Twenties"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.7-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.7",
+    "topic_title": "1920s: Innovations in Communication and Technology",
+    "learning_objective": "Explain how new technologies, mass production, and consumer culture changed American life in the 1920s.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Henry Ford’s most important contribution to the American automobile industry was",
+    "options": {
+      "A": "inventing the first gasoline-powered automobile",
+      "B": "founding the first automobile company in the United States and building its first gasoline engine",
+      "C": "applying the moving assembly line to cut the cost of cars and make them affordable",
+      "D": "creating the first national highway system"
+    },
+    "correct": "C",
+    "explanation": "Ford did not invent the car; his innovation was mass production, which lowered prices.",
+    "distractor_notes": {
+      "A": "Gasoline cars existed before the Model T.",
+      "B": "Other companies existed before Ford.",
+      "D": "Highway systems were government projects."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.7",
+      "ford"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Ford is often credited with inventing the car.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students conflate Ford’s fame with invention of the automobile.",
+      "how_to_avoid": "Distinguish invention from production methods: cars existed before Ford."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Henry_Ford",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Henry_Ford",
+        "https://en.wikipedia.org/wiki/Ford_Model_T"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.7-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.7",
+    "topic_title": "1920s: Innovations in Communication and Technology",
+    "learning_objective": "Explain how new technologies, mass production, and consumer culture changed American life in the 1920s.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence of events is in correct chronological order?",
+    "options": {
+      "A": "Adoption of the moving assembly line, introduction of the Model T, release of The Jazz Singer, first broadcast by KDKA",
+      "B": "Introduction of the Model T, first broadcast by KDKA, adoption of the moving assembly line, release of The Jazz Singer",
+      "C": "First broadcast by KDKA, introduction of the Model T, release of The Jazz Singer, adoption of the moving assembly line",
+      "D": "Introduction of the Model T, adoption of the moving assembly line, first broadcast by KDKA, release of The Jazz Singer"
+    },
+    "correct": "D",
+    "explanation": "The Model T came in 1908, the assembly line in 1913, KDKA’s broadcasts in 1920, and The Jazz Singer in 1927.",
+    "distractor_notes": {
+      "A": "The assembly line was adopted after the Model T.",
+      "B": "The assembly line preceded KDKA.",
+      "C": "The Model T was first."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.7",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Technology milestones from 1908 to 1927 are easily reordered.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students tie all milestones to “the 1920s” and ignore earlier dates.",
+      "how_to_avoid": "Memorize anchor dates: 1908 Model T, 1913 assembly line, 1920 KDKA, 1927 Jazz Singer."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Ford_Model_T",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ford_Model_T",
+        "https://en.wikipedia.org/wiki/KDKA_(AM)",
+        "https://en.wikipedia.org/wiki/The_Jazz_Singer"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.7-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.7",
+    "topic_title": "1920s: Innovations in Communication and Technology",
+    "learning_objective": "Explain how new technologies, mass production, and consumer culture changed American life in the 1920s.",
+    "skill": "Making Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best describes the relationship between consumer credit in the 1920s and the Great Depression?",
+    "options": {
+      "A": "Heavy household debt was one of several weaknesses, along with unequal incomes and speculation, that left the economy vulnerable",
+      "B": "Consumer credit alone caused the stock market crash of 1929, and no other factor mattered to the collapse of banks, farms, and trade",
+      "C": "Consumer credit played no role in the economy of the 1920s",
+      "D": "Consumer credit was outlawed in 1928, which caused the crash"
+    },
+    "correct": "A",
+    "explanation": "Installment buying and margin loans increased risk, but the Depression resulted from multiple factors, including weak banks, farm distress, inequality, and trade collapse.",
+    "distractor_notes": {
+      "B": "Single-cause explanation is too simple.",
+      "C": "Credit was widely used.",
+      "D": "Credit was not outlawed."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.7",
+      "depression",
+      "causation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Students want a single cause for a complex event.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Credit is easy to blame, so they choose a one-cause explanation.",
+      "how_to_avoid": "Avoid single-cause answers for large events; look for the option that names multiple contributing factors."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Great_Depression",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Great_Depression",
+        "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.7-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.7",
+    "topic_title": "1920s: Innovations in Communication and Technology",
+    "learning_objective": "Explain how new technologies, mass production, and consumer culture changed American life in the 1920s.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about economic conditions in the 1920s is most accurate?",
+    "options": {
+      "A": "All Americans enjoyed rising incomes throughout the decade",
+      "B": "Industrial production and many urban incomes rose, while farmers and workers in older industries struggled",
+      "C": "The decade was a period of continuous economic depression",
+      "D": "Farmers were the chief beneficiaries of the decade’s prosperity"
+    },
+    "correct": "B",
+    "explanation": "Prosperity was real but uneven: farmers faced low prices, and many Black southerners, immigrants, and workers in coal and textiles earned little.",
+    "distractor_notes": {
+      "A": "Not all groups gained.",
+      "C": "The decade included strong growth.",
+      "D": "Farmers were hurt by low prices."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.7",
+      "economy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "“All Americans” overstates the reach of the boom.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The phrase “Roaring Twenties” suggests universal prosperity.",
+      "how_to_avoid": "Be wary of universal claims; ask who was left out."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Roaring_Twenties",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Roaring_Twenties",
+        "https://en.wikipedia.org/wiki/Great_Depression"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.8-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.8",
+    "topic_title": "1920s: Cultural and Political Controversies",
+    "learning_objective": "Explain the causes and effects of cultural and political conflict in the 1920s, including nativism, Prohibition, and the Harlem Renaissance.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The Eighteenth Amendment prohibited",
+    "options": {
+      "A": "the consumption of alcohol by individuals",
+      "B": "the manufacture, sale, and transportation of intoxicating liquors",
+      "C": "the possession of alcohol in private homes",
+      "D": "the production of beer and wine, but not distilled liquor such as whiskey or gin"
+    },
+    "correct": "B",
+    "explanation": "The Eighteenth Amendment did not ban consumption; the Volstead Act defined intoxicating liquors and set enforcement. Many people stocked alcohol before it took effect.",
+    "distractor_notes": {
+      "A": "Consumption was not banned.",
+      "C": "Private possession was not banned in the amendment.",
+      "D": "The ban covered beer, wine, and liquor above 0.5%."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.8",
+      "prohibition"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students assume Prohibition outlawed drinking itself.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The popular image of Prohibition is that “alcohol was illegal.”",
+      "how_to_avoid": "Read the amendment’s verbs: it banned manufacture, sale, and transport, not drinking."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Eighteenth_Amendment_to_the_United_States_Constitution",
+        "https://en.wikipedia.org/wiki/Volstead_Act"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.8-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.8",
+    "topic_title": "1920s: Cultural and Political Controversies",
+    "learning_objective": "Explain the causes and effects of cultural and political conflict in the 1920s, including nativism, Prohibition, and the Harlem Renaissance.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What was the outcome of the 1925 trial of John T. Scopes?",
+    "options": {
+      "A": "He was acquitted because the jury accepted the theory of evolution and cleared him of any fine",
+      "B": "He was sentenced to prison for violating federal law",
+      "C": "He was convicted and fined $100, but the verdict was later overturned on a technicality",
+      "D": "The trial ended with the Tennessee law being repealed"
+    },
+    "correct": "C",
+    "explanation": "Scopes was found guilty, fined $100, and the verdict was reversed on a technicality by the Tennessee Supreme Court. The Butler Act stayed on the books until 1967.",
+    "distractor_notes": {
+      "A": "The jury returned a guilty verdict.",
+      "B": "It was a state law and a fine.",
+      "D": "The Butler Act remained."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.8",
+      "scopes"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "The trial’s reputation as a victory for science hides the verdict.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Popular films and memory present the trial as a defeat for fundamentalists.",
+      "how_to_avoid": "Separate the legal outcome from the cultural reputation: the jury convicted Scopes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Scopes_Trial",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Scopes_Trial",
+        "https://en.wikipedia.org/wiki/Scottsboro_Boys"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.8-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.8",
+    "topic_title": "1920s: Cultural and Political Controversies",
+    "learning_objective": "Explain the causes and effects of cultural and political conflict in the 1920s, including nativism, Prohibition, and the Harlem Renaissance.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The Immigration Act of 1924 did each of the following EXCEPT",
+    "options": {
+      "A": "set quotas based on the 1890 census",
+      "B": "reduce immigration from southern and eastern Europe",
+      "C": "effectively bar immigration from Asia",
+      "D": "set quotas on immigration from Canada and Mexico"
+    },
+    "correct": "D",
+    "explanation": "Western Hemisphere countries were not subject to quotas, so Mexican and Canadian immigration continued, though the Border Patrol was created in 1924.",
+    "distractor_notes": {
+      "A": "The quotas used the 1890 census.",
+      "B": "The law sharply cut immigration from southern and eastern Europe.",
+      "C": "Asian immigrants were barred."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.8",
+      "immigration"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Students overgeneralize “quotas” to all immigrants.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The idea of “closing the border” suggests restrictions on all immigrants.",
+      "how_to_avoid": "Recall that the law exempted the Western Hemisphere, including Canada and Mexico."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Immigration_Act_of_1924",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Immigration_Act_of_1924",
+        "https://en.wikipedia.org/wiki/Roaring_Twenties"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.8-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.8",
+    "topic_title": "1920s: Cultural and Political Controversies",
+    "learning_objective": "Explain the causes and effects of cultural and political conflict in the 1920s, including nativism, Prohibition, and the Harlem Renaissance.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in correct chronological order?",
+    "options": {
+      "A": "Emergency Quota Act, Immigration Act of 1924, Scopes Trial, execution of Sacco and Vanzetti",
+      "B": "Immigration Act of 1924, Emergency Quota Act, execution of Sacco and Vanzetti, Scopes Trial",
+      "C": "Emergency Quota Act, Scopes Trial, Immigration Act of 1924, execution of Sacco and Vanzetti",
+      "D": "Scopes Trial, Emergency Quota Act, execution of Sacco and Vanzetti, Immigration Act of 1924"
+    },
+    "correct": "A",
+    "explanation": "The Emergency Quota Act was passed in 1921, the Immigration Act in 1924, the Scopes trial in 1925, and the executions in 1927.",
+    "distractor_notes": {
+      "B": "The 1924 act followed the 1921 act.",
+      "C": "Scopes came after the 1924 act.",
+      "D": "Scopes was in 1925, after both quota laws."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.8",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Famous 1920s events are easily scrambled.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students associate the events with the decade but not with specific years.",
+      "how_to_avoid": "Use anchors: 1921 quotas, 1924 act, 1925 Scopes, 1927 executions."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Emergency_Quota_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Emergency_Quota_Act",
+        "https://en.wikipedia.org/wiki/Immigration_Act_of_1924",
+        "https://en.wikipedia.org/wiki/Scopes_Trial",
+        "https://en.wikipedia.org/wiki/Sacco_and_Vanzetti"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.9-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.9",
+    "topic_title": "The Great Depression",
+    "learning_objective": "Explain the causes and effects of the Great Depression and responses to it.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best describes the relationship between the stock market crash of 1929 and the Great Depression?",
+    "options": {
+      "A": "The crash contributed to a crisis of confidence, but the Depression resulted from several interacting weaknesses",
+      "B": "The crash was the sole cause of the Depression",
+      "C": "The crash occurred after the Depression had ended",
+      "D": "The crash had no connection to the Depression"
+    },
+    "correct": "A",
+    "explanation": "Economists cite bank failures, monetary contraction, overproduction, farm distress, and trade collapse in addition to the crash.",
+    "distractor_notes": {
+      "B": "A single cause oversimplifies.",
+      "C": "The crash came before.",
+      "D": "The crash was connected."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.9",
+      "causation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Single-cause explanations of large events are tempting.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Because the crash is the most famous event, students treat it as the only cause.",
+      "how_to_avoid": "Look for options that acknowledge multiple causes, such as uneven income, bank weakness, and tariffs."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Great_Depression",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Great_Depression",
+        "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.9-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.9",
+    "topic_title": "The Great Depression",
+    "learning_objective": "Explain the causes and effects of the Great Depression and responses to it.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in correct chronological order?",
+    "options": {
+      "A": "Smoot–Hawley Tariff Act, stock market crash, Bonus Army march, creation of the RFC",
+      "B": "Stock market crash, Smoot–Hawley Tariff Act, creation of the RFC, Bonus Army march",
+      "C": "Stock market crash, creation of the RFC, Smoot–Hawley Tariff Act, Bonus Army march",
+      "D": "Bonus Army march, stock market crash, Smoot–Hawley Tariff Act, creation of the RFC"
+    },
+    "correct": "B",
+    "explanation": "The crash was in October 1929, Smoot–Hawley in 1930, the RFC in January 1932, and the Bonus March in summer 1932.",
+    "distractor_notes": {
+      "A": "The crash came before the tariff.",
+      "C": "The RFC was created after the tariff.",
+      "D": "The crash preceded the march."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.9",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Hoover-era events from 1929 to 1932 are easily scrambled.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students associate the events with “Hoover” but not specific years.",
+      "how_to_avoid": "Anchor: 1929 crash, 1930 tariff, early 1932 RFC, summer 1932 Bonus Army."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
+        "https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act",
+        "https://en.wikipedia.org/wiki/Reconstruction_Finance_Corporation",
+        "https://en.wikipedia.org/wiki/Bonus_Army"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.9-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.9",
+    "topic_title": "The Great Depression",
+    "learning_objective": "Explain the causes and effects of the Great Depression and responses to it.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about President Hoover’s response to the Depression is most accurate?",
+    "options": {
+      "A": "He took no action at all, believing the economy would heal itself",
+      "B": "He proposed a national system of unemployment insurance",
+      "C": "He supported some federal action, such as RFC loans, but opposed direct relief payments to individuals",
+      "D": "He called for the federal government to take over banks and factories during the early years of the crisis"
+    },
+    "correct": "C",
+    "explanation": "Hoover pursued voluntary cooperation, public works, and the RFC but resisted direct relief and large-scale intervention, which many saw as inadequate.",
+    "distractor_notes": {
+      "A": "He did act, but cautiously.",
+      "B": "He opposed unemployment insurance.",
+      "D": "He opposed government takeovers."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.9",
+      "hoover"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The claim that Hoover “did nothing” is popular but overstated.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The political legacy of the Hoovervilles suggests total inaction.",
+      "how_to_avoid": "Be wary of “no action at all”; recall the RFC, Federal Farm Board, and public works."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Herbert_Hoover",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Herbert_Hoover",
+        "https://en.wikipedia.org/wiki/Reconstruction_Finance_Corporation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.9-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.9",
+    "topic_title": "The Great Depression",
+    "learning_objective": "Explain the causes and effects of the Great Depression and responses to it.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "U.S. unemployment rate (percent of the civilian labor force, approximate)\n\nYear | Unemployment rate\n1929 | 3.2%\n1930 | 8.7%\n1931 | 15.9%\n1932 | 23.6%\n1933 | 24.9%\n1934 | 21.7%\n1935 | 20.1%\n1936 | 16.9%\n1937 | 14.3%",
+      "citation": "Author-prepared table of historical estimates (Lebergott series) as summarized in Wikipedia, “Great Depression” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement is best supported by the table?",
+    "options": {
+      "A": "Unemployment returned to normal by 1937",
+      "B": "Unemployment was highest in 1932",
+      "C": "Unemployment increased every year from 1929 to 1937 without any recovery at all",
+      "D": "Unemployment fell after 1933 but remained far above its 1929 level in 1937"
+    },
+    "correct": "D",
+    "explanation": "The rate peaked in 1933 at 24.9 percent and fell to 14.3 percent by 1937, still far above 3.2 percent in 1929.",
+    "distractor_notes": {
+      "A": "14.3% is not a normal rate.",
+      "B": "1933 was higher than 1932.",
+      "C": "The rate declined after 1933."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.9",
+      "unemployment"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students assume the New Deal ended the Depression by the mid-1930s.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Knowledge that the New Deal brought improvement leads to overestimating recovery.",
+      "how_to_avoid": "Read the numbers: 14.3% in 1937 was over four times the 1929 level."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Great Depression",
+      "url": "https://en.wikipedia.org/wiki/Great_Depression",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Author-prepared table of historical estimates (Lebergott series) as summarized in Wikipedia, “Great Depression” (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Great_Depression",
+        "https://en.wikipedia.org/wiki/Roaring_Twenties"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.10-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.10",
+    "topic_title": "The New Deal",
+    "learning_objective": "Explain the causes, programs, and effects of the New Deal and the debate over government's role.",
+    "skill": "Making Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the New Deal and the end of the Great Depression is most accurate?",
+    "options": {
+      "A": "The New Deal ended the Depression by the end of 1934",
+      "B": "The Depression ended because Congress repealed all New Deal programs in 1936",
+      "C": "The Depression ended in 1933 when the stock market recovered",
+      "D": "The New Deal reduced unemployment and reformed institutions, but the Depression ended fully only with the massive spending of World War II"
+    },
+    "correct": "D",
+    "explanation": "Unemployment was still high in the late 1930s; military mobilization in 1940–42 brought full employment.",
+    "distractor_notes": {
+      "A": "Unemployment remained high in 1934.",
+      "B": "Programs were not repealed.",
+      "C": "The market did not end the Depression in 1933."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.10",
+      "new deal"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students assume the New Deal fully cured the Depression.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The popular narrative credits FDR with ending the Depression.",
+      "how_to_avoid": "Recall 1937–38 and the wartime boom."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Great_Depression",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Great_Depression",
+        "https://en.wikipedia.org/wiki/Recession_of_1937%E2%80%931938"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.10-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.10",
+    "topic_title": "The New Deal",
+    "learning_objective": "Explain the causes, programs, and effects of the New Deal and the debate over government's role.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which 1935 law guaranteed workers the right to organize unions and bargain collectively?",
+    "options": {
+      "A": "The National Labor Relations (Wagner) Act",
+      "B": "The Fair Labor Standards Act of 1938, enacted later",
+      "C": "The Social Security Act",
+      "D": "The Taft–Hartley Act"
+    },
+    "correct": "A",
+    "explanation": "The Wagner Act protected collective bargaining. The FLSA (1938) set a minimum wage, and Taft–Hartley (1947) restricted unions.",
+    "distractor_notes": {
+      "B": "The FLSA set wages and hours.",
+      "C": "Social Security provided pensions.",
+      "D": "Taft–Hartley restricted unions in 1947."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.10",
+      "labor"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Several labor-related laws have similar names.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students mix the Wagner Act (1935), FLSA (1938), and Taft–Hartley (1947).",
+      "how_to_avoid": "Link laws to their effects and dates: Wagner = unions, FLSA = wages and hours, Taft–Hartley = restrictions."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/National_Labor_Relations_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/National_Labor_Relations_Act",
+        "https://en.wikipedia.org/wiki/Fair_Labor_Standards_Act_of_1938"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.10-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.10",
+    "topic_title": "The New Deal",
+    "learning_objective": "Explain the causes, programs, and effects of the New Deal and the debate over government's role.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in correct chronological order?",
+    "options": {
+      "A": "Social Security Act, Emergency Banking Act, Fair Labor Standards Act, court-packing proposal",
+      "B": "Emergency Banking Act, Social Security Act, court-packing proposal, Fair Labor Standards Act",
+      "C": "Emergency Banking Act, court-packing proposal, Social Security Act, Fair Labor Standards Act",
+      "D": "Court-packing proposal, Emergency Banking Act, Fair Labor Standards Act, Social Security Act"
+    },
+    "correct": "B",
+    "explanation": "The Emergency Banking Act was passed in March 1933, Social Security in 1935, the court plan in 1937, and the FLSA in 1938.",
+    "distractor_notes": {
+      "A": "Social Security came after banking.",
+      "C": "The court plan came after Social Security.",
+      "D": "The court plan followed both."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.10",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four New Deal events are easily reordered.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students remember them as “New Deal” without dates.",
+      "how_to_avoid": "Anchor: 1933 banking, 1935 Social Security, 1937 Court plan, 1938 FLSA."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Emergency_Banking_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Emergency_Banking_Act",
+        "https://en.wikipedia.org/wiki/Social_Security_Act",
+        "https://en.wikipedia.org/wiki/Fair_Labor_Standards_Act_of_1938"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.10-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.10",
+    "topic_title": "The New Deal",
+    "learning_objective": "Explain the causes, programs, and effects of the New Deal and the debate over government's role.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The New Deal included each of the following programs EXCEPT",
+    "options": {
+      "A": "the Tennessee Valley Authority, which built dams and generated electricity",
+      "B": "the Securities and Exchange Commission",
+      "C": "a national program of health insurance for all citizens",
+      "D": "the Civilian Conservation Corps"
+    },
+    "correct": "C",
+    "explanation": "Roosevelt did not obtain national health insurance; Medicare and Medicaid came in 1965.",
+    "distractor_notes": {
+      "A": "The TVA was created in 1933.",
+      "B": "The SEC was created in 1934.",
+      "D": "The CCC was created in 1933."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.10",
+      "new deal"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT/EXCEPT stem with a plausible but unenacted program.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students assume a major welfare state program was part of the New Deal.",
+      "how_to_avoid": "Test each option; national health insurance was considered but not enacted."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Social_Security_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Social_Security_Act",
+        "https://en.wikipedia.org/wiki/Tennessee_Valley_Authority"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.10-trap-0005",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.10",
+    "topic_title": "The New Deal",
+    "learning_objective": "Explain the causes, programs, and effects of the New Deal and the debate over government's role.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about critics of the New Deal is most accurate?",
+    "options": {
+      "A": "All critics were members of the Socialist Party",
+      "B": "There were no significant critics before 1938",
+      "C": "All critics believed that it expanded federal power too much",
+      "D": "Critics came from both the left and the right, with some claiming it did too little and others claiming it did too much"
+    },
+    "correct": "D",
+    "explanation": "Long, Coughlin, and Townsend urged more radical redistribution, while the Liberty League and the Supreme Court majority resisted federal expansion.",
+    "distractor_notes": {
+      "A": "Critics were not all socialists.",
+      "B": "Criticism began in 1933–35.",
+      "C": "Left critics wanted more."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.10",
+      "critics"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "“All critics” erases the left-wing critique.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students remember the Liberty League and forget Long, Coughlin, and Townsend.",
+      "how_to_avoid": "Watch for universal claims about groups; recall critics on both sides."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Huey_Long",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Huey_Long",
+        "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.11-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.11",
+    "topic_title": "Interwar Foreign Policy",
+    "learning_objective": "Explain the ways in which U.S. foreign policy between the world wars reflected internationalism, isolationism, and economic interests.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best describes U.S. foreign policy between the world wars?",
+    "options": {
+      "A": "The United States withdrew completely from all international affairs",
+      "B": "The United States joined the League of Nations in the 1930s",
+      "C": "The United States avoided binding alliances and the League but remained active economically and in arms-control diplomacy",
+      "D": "The United States maintained permanent military alliances with Britain and France throughout the entire period between 1919 and 1939"
+    },
+    "correct": "C",
+    "explanation": "The U.S. held the Washington Conference, supported the Dawes Plan, signed Kellogg–Briand, and had major overseas investments.",
+    "distractor_notes": {
+      "A": "The U.S. was engaged abroad.",
+      "B": "It never joined the League.",
+      "D": "No permanent alliances were formed until 1949."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.11",
+      "isolationism"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "“Completely” overstates the degree of isolationism.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The word “isolationism” suggests total withdrawal.",
+      "how_to_avoid": "Distinguish political-military isolationism from economic and diplomatic involvement."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Washington_Naval_Conference",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Washington_Naval_Conference",
+        "https://en.wikipedia.org/wiki/Dawes_Plan"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.11-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.11",
+    "topic_title": "Interwar Foreign Policy",
+    "learning_objective": "Explain the ways in which U.S. foreign policy between the world wars reflected internationalism, isolationism, and economic interests.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which agreement of 1928 renounced war as an instrument of national policy?",
+    "options": {
+      "A": "The Treaty of Versailles",
+      "B": "The Five-Power Naval Treaty",
+      "C": "The Dawes Plan",
+      "D": "The Kellogg–Briand Pact"
+    },
+    "correct": "D",
+    "explanation": "The Kellogg–Briand Pact of 1928 renounced war, while the others dealt with a peace settlement, naval tonnage, and reparations.",
+    "distractor_notes": {
+      "A": "Versailles ended World War I.",
+      "B": "The naval treaty limited fleets.",
+      "C": "The Dawes Plan restructured reparations."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.11",
+      "kellogg-briand"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Several interwar agreements dealt with peace and security.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students confuse naval arms limits and war reparations with the pact outlawing war.",
+      "how_to_avoid": "Match each agreement to its main subject: Versailles (peace settlement), Washington (navies), Dawes (reparations), Kellogg–Briand (renouncing war)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Kellogg%E2%80%93Briand_Pact",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Kellogg%E2%80%93Briand_Pact",
+        "https://en.wikipedia.org/wiki/Dawes_Plan"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.11-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.11",
+    "topic_title": "Interwar Foreign Policy",
+    "learning_objective": "Explain the ways in which U.S. foreign policy between the world wars reflected internationalism, isolationism, and economic interests.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in correct chronological order?",
+    "options": {
+      "A": "Washington Naval Conference, Dawes Plan, Kellogg–Briand Pact, Stimson Doctrine",
+      "B": "Dawes Plan, Washington Naval Conference, Stimson Doctrine, Kellogg–Briand Pact",
+      "C": "Washington Naval Conference, Kellogg–Briand Pact, Dawes Plan, Stimson Doctrine",
+      "D": "Kellogg–Briand Pact, Washington Naval Conference, Stimson Doctrine, Dawes Plan"
+    },
+    "correct": "A",
+    "explanation": "The conference was held in 1921–22, the Dawes Plan in 1924, the pact in 1928, and the Stimson Doctrine in 1932.",
+    "distractor_notes": {
+      "B": "The conference came before Dawes.",
+      "C": "The pact came after Dawes.",
+      "D": "The pact followed the conference and Dawes."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.11",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Interwar diplomacy events are easily mixed up.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students remember the 1920s as one block.",
+      "how_to_avoid": "Anchor: 1921–22 Washington, 1924 Dawes, 1928 Kellogg–Briand, 1932 Stimson."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Washington_Naval_Conference",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Washington_Naval_Conference",
+        "https://en.wikipedia.org/wiki/Dawes_Plan",
+        "https://en.wikipedia.org/wiki/Kellogg%E2%80%93Briand_Pact",
+        "https://en.wikipedia.org/wiki/Stimson_Doctrine"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.11-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.11",
+    "topic_title": "Interwar Foreign Policy",
+    "learning_objective": "Explain the ways in which U.S. foreign policy between the world wars reflected internationalism, isolationism, and economic interests.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "“The High Contracting Parties solemnly declare in the names of their respective peoples that they condemn recourse to war for the solution of international controversies, and renounce it, as an instrument of national policy in their relations with one another.”",
+      "citation": "General Treaty for Renunciation of War (Kellogg–Briand Pact), Article I, 1928, The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "Which statement is supported by the excerpt from the Kellogg–Briand Pact?",
+    "options": {
+      "A": "The signatories agreed to use collective military force against any aggressor, including sanctions, joint armies, and a permanent council",
+      "B": "The signatories renounced war as a tool of national policy but the excerpt does not provide any means of enforcement",
+      "C": "The signatories formed a permanent alliance",
+      "D": "The signatories agreed to disarm completely"
+    },
+    "correct": "B",
+    "explanation": "Article I contains a pledge but no sanctions or military commitments, which is why critics saw the pact as toothless.",
+    "distractor_notes": {
+      "A": "No collective force is mentioned.",
+      "C": "No alliance is mentioned.",
+      "D": "No disarmament is mentioned."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.11",
+      "kellogg-briand"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students assume that outlawing war includes a mechanism to enforce it.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "A strong statement of principle sounds like a binding security system.",
+      "how_to_avoid": "Read what the text says and does not say: it condemns and renounces war, with no enforcement clause."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "The Avalon Project, Yale Law School: Kellogg–Briand Pact, 1928",
+      "url": "https://avalon.law.yale.edu/20th_century/kbpact.asp",
+      "license": "Public domain (1928 treaty text)",
+      "attribution": "General Treaty for Renunciation of War (Kellogg–Briand Pact), Article I, 1928, The Avalon Project, Yale Law School"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/20th_century/kbpact.asp",
+        "https://en.wikipedia.org/wiki/Kellogg%E2%80%93Briand_Pact"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.12-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.12",
+    "topic_title": "World War II: Mobilization",
+    "learning_objective": "Explain how the United States mobilized its economy and society for World War II and how the war affected groups at home.",
+    "skill": "Sourcing and Situation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the “We Can Do It!” poster of 1943 is most accurate?",
+    "options": {
+      "A": "It was the main federal recruiting poster for women in 1943",
+      "B": "It was produced for Westinghouse workers and became widely associated with Rosie the Riveter decades later",
+      "C": "It was created by the Office of War Information to attract women to the army",
+      "D": "It was first published in 1980 as an anti-war image"
+    },
+    "correct": "B",
+    "explanation": "The poster was displayed briefly in Westinghouse plants and was rediscovered in the 1980s; wartime Rosie imagery included other works and the song “Rosie the Riveter.”",
+    "distractor_notes": {
+      "A": "It was a company poster.",
+      "C": "The OWI did not produce this poster.",
+      "D": "It was produced in 1943, not 1980."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.12",
+      "rosie"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "The poster is widely believed to have been a major wartime recruitment image.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Modern pop culture has attached the image to Rosie the Riveter.",
+      "how_to_avoid": "Ask who produced it, for whom, and when it became famous."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Rosie_the_Riveter",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Rosie_the_Riveter",
+        "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.12-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.12",
+    "topic_title": "World War II: Mobilization",
+    "learning_objective": "Explain how the United States mobilized its economy and society for World War II and how the war affected groups at home.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What did the Supreme Court decide in Korematsu v. United States (1944)?",
+    "options": {
+      "A": "It struck down the exclusion order as unconstitutional",
+      "B": "It ruled that the president had no authority to order exclusion of any citizens from the West Coast",
+      "C": "It upheld the exclusion of Japanese Americans from the West Coast on grounds of military necessity",
+      "D": "It ordered the immediate release of all detainees in 1944"
+    },
+    "correct": "C",
+    "explanation": "The Court upheld the exclusion order in a 6–3 decision; the same day, in Ex parte Endo, it ruled that loyal citizens could not be detained indefinitely.",
+    "distractor_notes": {
+      "A": "The Court upheld the order.",
+      "B": "The Court did not deny the authority.",
+      "D": "Release followed Endo, not Korematsu."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.12",
+      "korematsu"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Many assume the Court quickly corrected the internment policy.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Modern condemnation of the decision leads students to assume it was struck down.",
+      "how_to_avoid": "Remember the 6–3 vote and Murphy’s dissent; the Court sided with the military."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Korematsu_v._United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Korematsu_v._United_States",
+        "https://en.wikipedia.org/wiki/Internment_of_Japanese_Americans"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.12-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.12",
+    "topic_title": "World War II: Mobilization",
+    "learning_objective": "Explain how the United States mobilized its economy and society for World War II and how the war affected groups at home.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The American home front during World War II included each of the following EXCEPT",
+    "options": {
+      "A": "rationing of goods such as gasoline and meat",
+      "B": "the sale of war bonds to the public",
+      "C": "wage and price controls",
+      "D": "a federal draft of women into factory work"
+    },
+    "correct": "D",
+    "explanation": "Women entered factories voluntarily in response to labor shortages and propaganda; Congress did not draft women for factory work.",
+    "distractor_notes": {
+      "A": "Rationing was widespread.",
+      "B": "Bonds financed the war.",
+      "C": "OPA controlled prices."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.12",
+      "home front"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Students may think total mobilization included conscription of women.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The phrase “total war” suggests universal compulsion.",
+      "how_to_avoid": "Check each option against known programs; women were recruited, not drafted."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/American_home_front_during_World_War_II",
+        "https://en.wikipedia.org/wiki/Women_in_World_War_II"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.12-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.12",
+    "topic_title": "World War II: Mobilization",
+    "learning_objective": "Explain how the United States mobilized its economy and society for World War II and how the war affected groups at home.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Executive Order 8802 (1941) is best described as",
+    "options": {
+      "A": "banning employment discrimination in defense industries and government and creating the FEPC",
+      "B": "ordering the desegregation of the armed forces",
+      "C": "ending school segregation nationwide",
+      "D": "granting voting rights to all African Americans in the Southern states and ending poll taxes nationwide"
+    },
+    "correct": "A",
+    "explanation": "EO 8802 covered defense industries; Truman desegregated the military in 1948; Brown (1954) addressed schools; voting rights came in 1965.",
+    "distractor_notes": {
+      "B": "Armed forces desegregation was 1948.",
+      "C": "Schools were addressed in 1954.",
+      "D": "Voting rights came in 1965."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.12",
+      "eo 8802"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Two executive orders on race are often confused.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students confuse 8802 (1941, defense industry) with Truman’s Executive Order 9981 (1948, armed forces).",
+      "how_to_avoid": "Match each order to its date and subject."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Executive_Order_8802",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Executive_Order_8802",
+        "https://en.wikipedia.org/wiki/Fair_Employment_Practice_Committee"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.13-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.13",
+    "topic_title": "World War II: Military",
+    "learning_objective": "Explain the causes and effects of the major military and diplomatic decisions of the United States in World War II.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in correct chronological order?",
+    "options": {
+      "A": "Battle of Midway, Operation Torch, Normandy landings, Battle of the Bulge",
+      "B": "Operation Torch, Battle of Midway, Battle of the Bulge, Normandy landings",
+      "C": "Battle of Midway, Normandy landings, Operation Torch, Battle of the Bulge",
+      "D": "Normandy landings, Battle of the Bulge, Battle of Midway, Operation Torch"
+    },
+    "correct": "A",
+    "explanation": "Midway was in June 1942, Operation Torch in November 1942, Normandy in June 1944, and the Bulge in December 1944.",
+    "distractor_notes": {
+      "B": "Midway preceded Torch.",
+      "C": "Torch preceded Normandy.",
+      "D": "Midway and Torch were in 1942."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.13",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "The order of battles in different theaters is easy to confuse.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students mix events from the Pacific and Europe.",
+      "how_to_avoid": "Anchor: Midway (June 1942), Torch (Nov 1942), Normandy (June 1944), Bulge (Dec 1944)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Battle_of_Midway",
+        "https://en.wikipedia.org/wiki/Operation_Torch",
+        "https://en.wikipedia.org/wiki/Normandy_landings",
+        "https://en.wikipedia.org/wiki/Battle_of_the_Bulge"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.13-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.13",
+    "topic_title": "World War II: Military",
+    "learning_objective": "Explain the causes and effects of the major military and diplomatic decisions of the United States in World War II.",
+    "skill": "Making Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "How did the United States and Germany come to be at war in December 1941?",
+    "options": {
+      "A": "Congress declared war on Germany after a German attack on Hawaii",
+      "B": "After the attack on Pearl Harbor, Germany and Italy declared war on the United States, and Congress then reciprocated",
+      "C": "Germany attacked an American convoy on December 7, 1941",
+      "D": "The United States declared war on Germany before declaring war on Japan"
+    },
+    "correct": "B",
+    "explanation": "Hitler declared war on the United States on December 11, 1941, and Congress responded in kind the same day.",
+    "distractor_notes": {
+      "A": "Germany did not attack Hawaii.",
+      "C": "No attack on a convoy was involved.",
+      "D": "Japan was first."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.13",
+      "war entry"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students assume the Pearl Harbor attack led directly to war with Germany.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The popular narrative links Pearl Harbor to the whole war.",
+      "how_to_avoid": "Remember that Germany declared war on December 11 in line with the Tripartite Pact."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+        "https://en.wikipedia.org/wiki/Tripartite_Pact"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.13-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.13",
+    "topic_title": "World War II: Military",
+    "learning_objective": "Explain the causes and effects of the major military and diplomatic decisions of the United States in World War II.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which operation was the Allied invasion of Normandy in June 1944?",
+    "options": {
+      "A": "Operation Torch",
+      "B": "Operation Barbarossa",
+      "C": "Operation Overlord",
+      "D": "Operation Husky"
+    },
+    "correct": "C",
+    "explanation": "Overlord was the Normandy campaign. Torch invaded North Africa in 1942, Barbarossa was Germany’s 1941 invasion of the USSR, and Husky invaded Sicily in 1943.",
+    "distractor_notes": {
+      "A": "Torch was in North Africa.",
+      "B": "Barbarossa was a German operation.",
+      "D": "Husky was in Sicily."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.13",
+      "d-day"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Operation names are easily confused.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember Torch and Barbarossa as famous names.",
+      "how_to_avoid": "Pair each operation with its location: Torch (North Africa), Barbarossa (Soviet Union), Husky (Sicily), Overlord (Normandy)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Operation_Overlord",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Operation_Overlord",
+        "https://en.wikipedia.org/wiki/Operation_Torch"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.13-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.13",
+    "topic_title": "World War II: Military",
+    "learning_objective": "Explain the causes and effects of the major military and diplomatic decisions of the United States in World War II.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Supporters of using atomic bombs on Japan in 1945 made each of the following arguments EXCEPT that",
+    "options": {
+      "A": "the bombs might end the war quickly",
+      "B": "an invasion would likely cause very heavy casualties",
+      "C": "the bombs would demonstrate American power to the Soviet Union at the end of the war",
+      "D": "Japan had already surrendered unconditionally before the bombs were dropped"
+    },
+    "correct": "D",
+    "explanation": "Japan’s government had not surrendered; the formal surrender followed the bombs and Soviet declaration of war.",
+    "distractor_notes": {
+      "A": "That was a key argument.",
+      "B": "That was a key argument.",
+      "C": "Some historians cite demonstration to the USSR."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.13",
+      "atomic bomb"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A false statement mixed in with real arguments.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students sometimes recall that Japan was near defeat and assume it had formally surrendered.",
+      "how_to_avoid": "Remember Japan’s surrender followed the bombings and Soviet entry (August 1945)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+        "https://en.wikipedia.org/wiki/Harry_S._Truman"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.14-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.14",
+    "topic_title": "Postwar Diplomacy",
+    "learning_objective": "Explain how the Allied wartime and postwar agreements shaped the international order and the origins of the Cold War.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Yalta agreements on Eastern Europe is most accurate?",
+    "options": {
+      "A": "Roosevelt formally agreed that the Soviet Union could rule Eastern Europe without elections in the territories it occupied",
+      "B": "Stalin refused to sign any agreement about Eastern Europe",
+      "C": "The agreements gave the United States control of Poland",
+      "D": "The Allies pledged free elections, but Soviet military control and later actions produced communist-dominated governments"
+    },
+    "correct": "D",
+    "explanation": "The Declaration on Liberated Europe pledged democratic institutions and free elections; the Soviets did not honor the pledge.",
+    "distractor_notes": {
+      "A": "The agreement called for elections.",
+      "B": "Stalin signed the protocol.",
+      "C": "Poland remained under Soviet influence."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.14",
+      "yalta"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Critics claim Roosevelt “gave away” Eastern Europe at Yalta.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The later outcome is read back into the written agreement.",
+      "how_to_avoid": "Read the text of the agreement and separate promises from later events."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/wwii/yalta.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/wwii/yalta.asp",
+        "https://en.wikipedia.org/wiki/Yalta_Conference"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.14-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.14",
+    "topic_title": "Postwar Diplomacy",
+    "learning_objective": "Explain how the Allied wartime and postwar agreements shaped the international order and the origins of the Cold War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which 1944 conference established the International Monetary Fund and the World Bank?",
+    "options": {
+      "A": "Bretton Woods",
+      "B": "Dumbarton Oaks",
+      "C": "Tehran",
+      "D": "Casablanca"
+    },
+    "correct": "A",
+    "explanation": "Bretton Woods dealt with finance, Dumbarton Oaks (1944) drafted proposals for the UN, Tehran (1943) coordinated invasion plans, and Casablanca (1943) set strategy.",
+    "distractor_notes": {
+      "B": "Dumbarton Oaks planned the UN.",
+      "C": "Tehran dealt with military plans.",
+      "D": "Casablanca dealt with strategy."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.14",
+      "bretton woods"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Wartime conferences with similar profiles are mixed up.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students remember Dumbarton Oaks (UN planning) or Tehran as postwar planning.",
+      "how_to_avoid": "Link Bretton Woods to money, Dumbarton Oaks to the UN, Tehran and Casablanca to military strategy."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Bretton_Woods_Conference",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bretton_Woods_Conference",
+        "https://en.wikipedia.org/wiki/Dumbarton_Oaks_Conference"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.14-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.14",
+    "topic_title": "Postwar Diplomacy",
+    "learning_objective": "Explain how the Allied wartime and postwar agreements shaped the international order and the origins of the Cold War.",
+    "skill": "Developments and Processes",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence of conferences is in correct chronological order?",
+    "options": {
+      "A": "Bretton Woods, Tehran, Potsdam, Yalta",
+      "B": "Tehran, Bretton Woods, Yalta, Potsdam",
+      "C": "Tehran, Yalta, Bretton Woods, Potsdam",
+      "D": "Yalta, Tehran, Bretton Woods, Potsdam"
+    },
+    "correct": "B",
+    "explanation": "Tehran was in 1943, Bretton Woods in July 1944, Yalta in February 1945, and Potsdam in July–August 1945.",
+    "distractor_notes": {
+      "A": "Tehran preceded Bretton Woods.",
+      "C": "Bretton Woods came before Yalta.",
+      "D": "Tehran came before Yalta."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.14",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four conferences from 1943 to 1945 are easily scrambled.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The names are associated with the war but not with dates.",
+      "how_to_avoid": "Anchor: Tehran 1943, Bretton Woods July 1944, Yalta Feb 1945, Potsdam July 1945."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Bretton_Woods_Conference",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bretton_Woods_Conference",
+        "https://en.wikipedia.org/wiki/Yalta_Conference",
+        "https://en.wikipedia.org/wiki/Potsdam_Conference",
+        "https://en.wikipedia.org/wiki/Tehran_Conference"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.14-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.14",
+    "topic_title": "Postwar Diplomacy",
+    "learning_objective": "Explain how the Allied wartime and postwar agreements shaped the international order and the origins of the Cold War.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about U.S. membership in international organizations is most accurate?",
+    "options": {
+      "A": "The Senate approved the League but rejected the United Nations",
+      "B": "The Senate rejected both the League and the United Nations",
+      "C": "The Senate rejected the League of Nations in 1919–20 but approved U.S. membership in the United Nations in 1945",
+      "D": "The United States joined neither organization"
+    },
+    "correct": "C",
+    "explanation": "The Senate approved the UN Charter by an overwhelming majority in July 1945, unlike its rejection of Versailles and the League.",
+    "distractor_notes": {
+      "A": "The League was rejected.",
+      "B": "The UN was approved.",
+      "D": "The U.S. joined the UN."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.14",
+      "united nations",
+      "league"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "A statement is true about the League but not about the UN.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember the League’s failure and assume the UN faced the same fate.",
+      "how_to_avoid": "Check each organization separately, with its date."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/United_Nations",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/United_Nations",
+        "https://en.wikipedia.org/wiki/League_of_Nations"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.15-trap-0001",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.15",
+    "topic_title": "Comparison in Period 7",
+    "learning_objective": "Compare the ways in which Americans responded to changes in the period from 1890 to 1945 across time and across groups and regions.",
+    "skill": "Making Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the First Red Scare and the World War II internment of Japanese Americans is most accurate?",
+    "options": {
+      "A": "The First Red Scare targeted people by ancestry, while internment targeted political radicals, labor organizers, and immigrants",
+      "B": "Both were ordered by the Supreme Court",
+      "C": "Both involved fear of disloyalty, but the internment was ordered by an executive order and targeted people by ancestry",
+      "D": "Neither involved federal action"
+    },
+    "correct": "C",
+    "explanation": "The Palmer Raids targeted suspected radicals and immigrants, while EO 9066 removed people of Japanese ancestry regardless of loyalty.",
+    "distractor_notes": {
+      "A": "The groups are reversed.",
+      "B": "The Court did not order either.",
+      "D": "Federal action was central."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.15",
+      "civil liberties"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Both events involved fear of subversion, but the wrong option swaps who was targeted.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The pairing makes students remember the common theme and not the key difference.",
+      "how_to_avoid": "Check who was targeted and which institution acted."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/First_Red_Scare",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/First_Red_Scare",
+        "https://en.wikipedia.org/wiki/Japanese_Americans"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.15-trap-0002",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.15",
+    "topic_title": "Comparison in Period 7",
+    "learning_objective": "Compare the ways in which Americans responded to changes in the period from 1890 to 1945 across time and across groups and regions.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT a difference between Progressive Era reforms and the New Deal?",
+    "options": {
+      "A": "The New Deal created a national old-age insurance system",
+      "B": "The New Deal responded to mass unemployment",
+      "C": "Many Progressive reforms began at the state and local level before reaching Congress",
+      "D": "Both used federal power to address problems created by industrial capitalism"
+    },
+    "correct": "D",
+    "explanation": "The first option is a similarity; the others are real differences in scale, cause, and level of government.",
+    "distractor_notes": {
+      "A": "Social Security was new.",
+      "B": "Depression-era unemployment was unprecedented.",
+      "C": "Progressive reforms often began in states."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.15",
+      "progressivism",
+      "new deal"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT/EXCEPT wording makes students look for the true differences.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students choose a true difference instead of the sentence that shows similarity.",
+      "how_to_avoid": "Underline NOT and test each option as true or false."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Social_Security_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Social_Security_Act",
+        "https://en.wikipedia.org/wiki/Progressive_Era"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.15-trap-0003",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.15",
+    "topic_title": "Comparison in Period 7",
+    "learning_objective": "Compare the ways in which Americans responded to changes in the period from 1890 to 1945 across time and across groups and regions.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Compared with World War I, the United States in World War II",
+    "options": {
+      "A": "mobilized more of its economy and workforce, including large numbers of women, for war production",
+      "B": "never used a military draft",
+      "C": "avoided restrictions on civil liberties",
+      "D": "had no federal agency to control wartime production"
+    },
+    "correct": "A",
+    "explanation": "WWII involved a draft, the War Production Board, rationing, and internment, so each absolute claim is false.",
+    "distractor_notes": {
+      "B": "The draft existed.",
+      "C": "Internment restricted liberties.",
+      "D": "The WPB managed production."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.15",
+      "home front"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolute words (never, avoided, no) are tempting.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students assume war experiences were similar or opposite.",
+      "how_to_avoid": "Be suspicious of absolute words and test each against known examples."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/War_Production_Board",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/War_Production_Board",
+        "https://en.wikipedia.org/wiki/Selective_Training_and_Service_Act_of_1940"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u7-t7.15-trap-0004",
+    "subject": "apush",
+    "unit": 7,
+    "unit_title": "Progressive Era, Imperialism, World Wars and the Interwar Years (1890-1945)",
+    "topic": "7.15",
+    "topic_title": "Comparison in Period 7",
+    "learning_objective": "Compare the ways in which Americans responded to changes in the period from 1890 to 1945 across time and across groups and regions.",
+    "skill": "Making Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Home front comparison\n\nFeature | World War I | World War II\nPropaganda agency | Committee on Public Information | Office of War Information\nWar finance | Liberty Bonds | War Bonds\nDraft law | Selective Service Act (1917) | Selective Training and Service Act (1940)\nCivil liberties measure | Espionage Act (1917) | Executive Order 9066 (1942)\nMobilization agency | War Industries Board | War Production Board",
+      "citation": "Author-prepared table based on Wikipedia articles (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement about the table is most accurate?",
+    "options": {
+      "A": "The agencies in World War II were created before the agencies of World War I",
+      "B": "Each war had its own agencies, but the roles of those agencies were similar",
+      "C": "The table shows that the U.S. had no propaganda in World War II",
+      "D": "The Espionage Act was passed in 1942"
+    },
+    "correct": "B",
+    "explanation": "World War I came first; the CPI and the OWI served parallel functions; the Espionage Act was in 1917.",
+    "distractor_notes": {
+      "A": "WWII came later.",
+      "C": "The OWI was a propaganda agency.",
+      "D": "The date is 1917."
+    },
+    "tags": [
+      "apush",
+      "unit-7",
+      "topic-7.15",
+      "table reading"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Row labels can be misread as dates or orders.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume the order of columns means the chronology.",
+      "how_to_avoid": "Read column headings and verify dates."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Committee on Public Information (and related articles)",
+      "url": "https://en.wikipedia.org/wiki/Committee_on_Public_Information",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Author-prepared table based on Wikipedia articles (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Committee_on_Public_Information",
+        "https://en.wikipedia.org/wiki/Espionage_Act_of_1917",
+        "https://en.wikipedia.org/wiki/Liberty_bond",
+        "https://en.wikipedia.org/wiki/War_Industries_Board",
+        "https://en.wikipedia.org/wiki/War_Production_Board"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  }
+]

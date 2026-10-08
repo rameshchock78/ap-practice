@@ -1,0 +1,4252 @@
+[
+  {
+    "id": "apchem-u3-t3.1-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.1",
+    "topic_title": "Intermolecular and Interparticle Forces",
+    "learning_objective": "Explain the relationship between the chemical structures of molecules and the relative strength of their intermolecular forces when (i) the molecules are of the same chemical species and (ii) the molecules are of two different chemical species. (3.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Water boils at 100 °C and H2S boils at -60 °C. Which statement best explains this difference?",
+    "options": {
+      "A": "The O-H covalent bonds in water are stronger than the S-H bonds in H2S.",
+      "B": "Hydrogen bonding between water molecules is stronger than the forces between H2S molecules.",
+      "C": "Water has more electrons than H2S, so its dispersion forces are stronger.",
+      "D": "Water is polar and H2S is nonpolar."
+    },
+    "correct": "B",
+    "explanation": "Intermolecular forces, not bond strength, determine boiling points; H bonding in water outweighs dispersion and dipole forces in H2S.",
+    "distractor_notes": {
+      "A": "Boiling does not break covalent bonds.",
+      "C": "H2S has more electrons.",
+      "D": "H2S is also polar (bent)."
+    },
+    "tags": [
+      "hydrogen bonding"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students confuse intramolecular bond strength with intermolecular attraction.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Stronger O-H bonds sound like a reasonable cause of a high boiling point.",
+      "how_to_avoid": "Ask what is separated in boiling: molecules from each other, not atoms within a molecule."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/11%3A_Liquids_and_Intermolecular_Forces/11.02%3A_Intermolecular_Forces",
+        "https://en.wikipedia.org/wiki/Intermolecular_force"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.1-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.1",
+    "topic_title": "Intermolecular and Interparticle Forces",
+    "learning_objective": "Explain the relationship between the chemical structures of molecules and the relative strength of their intermolecular forces when (i) the molecules are of the same chemical species and (ii) the molecules are of two different chemical species. (3.1.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about London dispersion forces is correct?",
+    "options": {
+      "A": "They act only between nonpolar molecules.",
+      "B": "They are another name for all van der Waals forces.",
+      "C": "They exist only in molecules that contain a halogen.",
+      "D": "They act between all molecules, whether polar or nonpolar."
+    },
+    "correct": "D",
+    "explanation": "All matter has electrons that fluctuate, producing temporary dipoles, so dispersion forces are universal.",
+    "distractor_notes": {
+      "A": "Polar molecules also have dispersion forces.",
+      "B": "Dispersion forces are one component of van der Waals forces; the terms are not synonymous.",
+      "C": "They exist for every atom and molecule."
+    },
+    "tags": [
+      "dispersion"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "A distractor uses 'only' to restrict a universal force.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students link dispersion forces exclusively with nonpolar substances because they are often the only force there.",
+      "how_to_avoid": "Distinguish 'only force present in nonpolar substances' from 'present only in nonpolar substances'."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/11%3A_Liquids_and_Intermolecular_Forces/11.02%3A_Intermolecular_Forces",
+        "https://en.wikipedia.org/wiki/Intermolecular_force"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.1-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.1",
+    "topic_title": "Intermolecular and Interparticle Forces",
+    "learning_objective": "Explain the relationship between the chemical structures of molecules and the relative strength of their intermolecular forces when (i) the molecules are of the same chemical species and (ii) the molecules are of two different chemical species. (3.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following pure liquids has hydrogen bonding between its molecules EXCEPT",
+    "options": {
+      "A": "$\\mathrm{CH_3OCH_3}$",
+      "B": "$\\mathrm{NH_3}$",
+      "C": "$\\mathrm{HF}$",
+      "D": "$\\mathrm{H_2O_2}$"
+    },
+    "correct": "A",
+    "explanation": "CH3OCH3 has no H bonded to N, O, or F, so it cannot donate hydrogen bonds to a neighbor. The others each have N-H, F-H or O-H bonds.",
+    "distractor_notes": {
+      "B": "Has N-H bonds; hydrogen bonds do form.",
+      "C": "Has an H-F bond; hydrogen bonds do form.",
+      "D": "Has O-H bonds; hydrogen bonds do form."
+    },
+    "tags": [
+      "hydrogen bonding"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The EXCEPT stem asks for the substance lacking H bonding although it contains oxygen.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students see O and assume hydrogen bonding.",
+      "how_to_avoid": "H bonding needs an H bonded directly to N, O or F, not merely the presence of those atoms."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/11%3A_Liquids_and_Intermolecular_Forces/11.02%3A_Intermolecular_Forces",
+        "https://en.wikipedia.org/wiki/Intermolecular_force"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.1-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.1",
+    "topic_title": "Intermolecular and Interparticle Forces",
+    "learning_objective": "Explain the relationship between the chemical structures of molecules and the relative strength of their intermolecular forces when (i) the molecules are of the same chemical species and (ii) the molecules are of two different chemical species. (3.1.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Compound | Normal boiling point (°C)\n--- | ---\n$\\mathrm{HF}$ | 19.5\n$\\mathrm{HCl}$ | -85.0\n$\\mathrm{HBr}$ | -66.8\n$\\mathrm{HI}$ | -35.4",
+      "citation": "NIST Chemistry WebBook (public data).",
+      "asset_path": null
+    },
+    "question": "The table gives the normal boiling points of the hydrogen halides. Which compound has the weakest intermolecular forces in its liquid?",
+    "options": {
+      "A": "$\\mathrm{HF}$",
+      "B": "$\\mathrm{HBr}$",
+      "C": "$\\mathrm{HCl}$",
+      "D": "$\\mathrm{HI}$"
+    },
+    "correct": "C",
+    "explanation": "The lowest boiling point (-85 °C) indicates the weakest net intermolecular attraction: HCl. HF is anomalously high due to hydrogen bonding.",
+    "distractor_notes": {
+      "A": "Highest boiling point, so strongest forces.",
+      "B": "Boils higher than HCl, so stronger forces.",
+      "D": "Boils higher than HCl, so stronger forces."
+    },
+    "tags": [
+      "table"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "A student expects HF to be weakest because it has the fewest electrons and applies the dispersion trend only.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The usual 'smaller = weaker' heuristic suggests HF.",
+      "how_to_avoid": "Read the data: lowest boiling point means weakest forces; do not rely on a trend that hydrogen bonding overrides."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/11%3A_Liquids_and_Intermolecular_Forces/11.02%3A_Intermolecular_Forces",
+        "https://en.wikipedia.org/wiki/Intermolecular_force"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.1-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.1",
+    "topic_title": "Intermolecular and Interparticle Forces",
+    "learning_objective": "Explain the relationship between the chemical structures of molecules and the relative strength of their intermolecular forces when (i) the molecules are of the same chemical species and (ii) the molecules are of two different chemical species. (3.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which substance has hydrogen bonding as its strongest intermolecular force in the pure liquid?",
+    "options": {
+      "A": "$\\mathrm{CH_3F}$",
+      "B": "$\\mathrm{CH_3Cl}$",
+      "C": "$\\mathrm{CH_3CH_2CH_3}$",
+      "D": "$\\mathrm{CH_3NH_2}$"
+    },
+    "correct": "D",
+    "explanation": "CH3NH2 has H directly bonded to N. In CH3F the F is not bonded to H, so no hydrogen bonds can form between its molecules.",
+    "distractor_notes": {
+      "A": "Contains F, but H is bonded to C.",
+      "B": "Cl is not N, O or F and H is on carbon.",
+      "C": "Only dispersion forces."
+    },
+    "tags": [
+      "hydrogen bonding"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "A molecule contains F, but the H is not on the F.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Presence of N, O or F in the formula feels sufficient.",
+      "how_to_avoid": "Check that H is covalently bonded to N, O, or F in the Lewis structure."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/11%3A_Liquids_and_Intermolecular_Forces/11.02%3A_Intermolecular_Forces",
+        "https://en.wikipedia.org/wiki/Intermolecular_force"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.1-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.1",
+    "topic_title": "Intermolecular and Interparticle Forces",
+    "learning_objective": "Explain the relationship between the chemical structures of molecules and the relative strength of their intermolecular forces when (i) the molecules are of the same chemical species and (ii) the molecules are of two different chemical species. (3.1.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Pentane (bp 36 °C) boils higher than neopentane (bp 9.5 °C), though both are C5H12. Which reason is correct?",
+    "options": {
+      "A": "Pentane has a larger molar mass, so its dispersion forces are stronger.",
+      "B": "Pentane's elongated shape allows more surface contact and stronger dispersion forces.",
+      "C": "Pentane is more polar than neopentane.",
+      "D": "Pentane has hydrogen bonds between its CH2 groups."
+    },
+    "correct": "B",
+    "explanation": "Larger molecules usually have stronger dispersion forces, but here mass is equal; shape (surface contact) accounts for the difference.",
+    "distractor_notes": {
+      "A": "Both have the same molar mass.",
+      "C": "Both are nonpolar hydrocarbons.",
+      "D": "C-H groups do not hydrogen bond."
+    },
+    "tags": [
+      "dispersion",
+      "shape"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "'Bigger molecule = stronger dispersion' is true generally but irrelevant for isomers.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The rule is memorized without checking that the masses are identical.",
+      "how_to_avoid": "Check formula and molar mass first; if equal, compare shape/surface area."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/11%3A_Liquids_and_Intermolecular_Forces/11.02%3A_Intermolecular_Forces",
+        "https://en.wikipedia.org/wiki/Intermolecular_force"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.2-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.2",
+    "topic_title": "Properties of Solids",
+    "learning_objective": "Explain the relationship among the macroscopic properties of a substance, the particulate-level structure of the substance, and the interactions between these particles. (3.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Solid sodium chloride contains ions. Which statement best explains why a sample of solid NaCl does not conduct electricity?",
+    "options": {
+      "A": "The ions are held in fixed positions in the lattice and cannot move through the crystal.",
+      "B": "Ions cannot carry charge, so only electrons can conduct electricity.",
+      "C": "The Na+ and Cl- charges cancel, so the solid has no net charge to conduct.",
+      "D": "NaCl is a covalent compound whose electrons are shared tightly."
+    },
+    "correct": "A",
+    "explanation": "Conduction needs mobile charge carriers; in the solid the ions are locked in place.",
+    "distractor_notes": {
+      "B": "Mobile ions do carry charge (e.g., in molten or dissolved salts).",
+      "C": "Overall neutrality does not prevent conduction.",
+      "D": "NaCl is ionic."
+    },
+    "tags": [
+      "ionic solids"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "'Contains ions' is conflated with 'conducts'.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students recall that ionic compounds conduct in solution and generalize to the solid.",
+      "how_to_avoid": "Ask whether the charge carriers are free to move in the state described."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Network_covalent_bonding",
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Molecular_solid"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.2-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.2",
+    "topic_title": "Properties of Solids",
+    "learning_objective": "Explain the relationship among the macroscopic properties of a substance, the particulate-level structure of the substance, and the interactions between these particles. (3.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about solids with very high melting points is correct?",
+    "options": {
+      "A": "Only ionic solids have melting points above 1000 °C.",
+      "B": "Ionic solids, covalent network solids, and many metals can all have high melting points.",
+      "C": "Only covalent network solids have melting points above 1000 °C.",
+      "D": "A high melting point means that the solid is a metal."
+    },
+    "correct": "B",
+    "explanation": "A high melting point alone does not identify the solid type; conductivity and other properties are needed.",
+    "distractor_notes": {
+      "A": "Network solids such as SiO2 and diamond, and some metals, also exceed this.",
+      "C": "Ionic solids such as NaCl (801 °C) and MgO (2852 °C) are also high-melting.",
+      "D": "High melting point is not unique to metals."
+    },
+    "tags": [
+      "classification"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Distractors use 'only' for a property shared by several solid types.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students memorize 'ionic = high melting point' as a one-to-one rule.",
+      "how_to_avoid": "Be suspicious of 'only' and check each solid category against the property."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Network_covalent_bonding",
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Molecular_solid"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.2-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.2",
+    "topic_title": "Properties of Solids",
+    "learning_objective": "Explain the relationship among the macroscopic properties of a substance, the particulate-level structure of the substance, and the interactions between these particles. (3.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following is a typical property of a molecular solid EXCEPT",
+    "options": {
+      "A": "a low melting point",
+      "B": "brittleness or softness",
+      "C": "high electrical conductivity in the solid state",
+      "D": "poor electrical conductivity when molten"
+    },
+    "correct": "C",
+    "explanation": "Molecular solids lack mobile charge carriers, so they do not conduct electricity; they melt at low temperatures.",
+    "distractor_notes": {
+      "A": "Typical: weak intermolecular forces.",
+      "B": "Typical for many molecular solids.",
+      "D": "Typical: electrons are localized."
+    },
+    "tags": [
+      "molecular solid"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The EXCEPT stem inverts the usual direction of the question.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the first true property they see.",
+      "how_to_avoid": "Mark each option true/false for the described category and choose the false one."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Network_covalent_bonding",
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Molecular_solid"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.2-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.2",
+    "topic_title": "Properties of Solids",
+    "learning_objective": "Explain the relationship among the macroscopic properties of a substance, the particulate-level structure of the substance, and the interactions between these particles. (3.2.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Solid | Melting point (°C)\n--- | ---\nNaCl | 801\nCsI | 626",
+      "citation": "CRC/NIST public data, rounded.",
+      "asset_path": null
+    },
+    "question": "The table gives the melting points of two ionic solids. Which statement is supported by the data?",
+    "options": {
+      "A": "CsI has the higher melting point because its ions have more electrons.",
+      "B": "They have the same melting point because both ions are 1+ and 1-.",
+      "C": "CsI has the higher melting point because larger ions give stronger attractions.",
+      "D": "NaCl has the higher melting point; Na+ and Cl- are smaller than Cs+ and I-, so the ions are closer together."
+    },
+    "correct": "D",
+    "explanation": "With equal charges, a smaller interionic distance means a stronger attraction and a higher melting point: NaCl (801 °C) > CsI (626 °C).",
+    "distractor_notes": {
+      "A": "More electrons increases size, which weakens the Coulombic attraction.",
+      "B": "The charges are equal, but distances differ.",
+      "C": "Larger ions are farther apart, so attractions are weaker."
+    },
+    "tags": [
+      "ionic solids",
+      "table"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "The trend of dispersion forces (bigger = stronger) is wrongly applied to ionic lattices.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'Bigger particle means stronger forces' is a well-learned rule for molecular substances.",
+      "how_to_avoid": "For ionic solids, compare charges and interionic distance (Coulomb's law)."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Network_covalent_bonding",
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Molecular_solid"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.2-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.2",
+    "topic_title": "Properties of Solids",
+    "learning_objective": "Explain the relationship among the macroscopic properties of a substance, the particulate-level structure of the substance, and the interactions between these particles. (3.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best explains why SiO2 melts at about 1700 °C while CO2 sublimes at -78 °C?",
+    "options": {
+      "A": "SiO2 is a covalent network solid; CO2 is a molecular solid with weak dispersion forces between molecules.",
+      "B": "Si-O bonds are more polar than C=O bonds, giving much stronger dipole-dipole forces between SiO2 molecules.",
+      "C": "Silicon has more electrons than carbon, so dispersion forces between SiO2 molecules are stronger.",
+      "D": "SiO2 forms hydrogen bonds with itself, but CO2 cannot."
+    },
+    "correct": "A",
+    "explanation": "SiO2 forms a three-dimensional covalent network; CO2 forms discrete molecules.",
+    "distractor_notes": {
+      "B": "SiO2 does not consist of molecules; CO2 molecules are nonpolar.",
+      "C": "Dispersion forces cannot account for the huge difference.",
+      "D": "Neither compound has hydrogen bonds."
+    },
+    "tags": [
+      "network solid"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The formulas look analogous (group 14 dioxides), but their structures differ completely.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students assume similar formulas mean similar structures and compare 'molecular' forces.",
+      "how_to_avoid": "Check whether the substance exists as discrete molecules or as an extended network."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Network_covalent_bonding",
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Molecular_solid"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.2-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.2",
+    "topic_title": "Properties of Solids",
+    "learning_objective": "Explain the relationship among the macroscopic properties of a substance, the particulate-level structure of the substance, and the interactions between these particles. (3.2.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A solid is brittle, has a melting point of 1990 °C, and does not conduct electricity as a solid, but it conducts when melted. Which conclusion is best supported?",
+    "options": {
+      "A": "It is a covalent network solid.",
+      "B": "It is an ionic solid.",
+      "C": "It is a metallic solid.",
+      "D": "It is a molecular solid."
+    },
+    "correct": "B",
+    "explanation": "A very high mp and brittleness fit both ionic and network solids; conduction in the melt but not the solid distinguishes ionic compounds.",
+    "distractor_notes": {
+      "A": "A network solid would not conduct when melted.",
+      "C": "Metals conduct as solids.",
+      "D": "Molecular solids melt at far lower temperatures and do not conduct when molten."
+    },
+    "tags": [
+      "classification"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Two of the properties (high mp, brittleness) are shared by two solid types.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students stop reading after the high melting point and choose 'network'.",
+      "how_to_avoid": "Use all given data, especially conductivity in each state, to discriminate."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Network_covalent_bonding",
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Molecular_solid"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.3-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.3",
+    "topic_title": "Solids, Liquids, and Gases",
+    "learning_objective": "Represent the differences between solid, liquid, and gas phases using a particulate-level model. (3.3.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the particles in a solid is correct?",
+    "options": {
+      "A": "They are completely stationary because the solid has a fixed shape.",
+      "B": "They move freely through the solid, which is why solids can diffuse quickly.",
+      "C": "They vibrate about fixed positions but do not move past one another.",
+      "D": "They are moving only in a gas or liquid, not in a solid."
+    },
+    "correct": "C",
+    "explanation": "A solid's definite shape results from limited motion (vibration), not an absence of motion (CED 3.3.A.1).",
+    "distractor_notes": {
+      "A": "Particles in a solid vibrate; they are not at rest.",
+      "B": "Overall translation is limited.",
+      "D": "All phases have particle motion."
+    },
+    "tags": [
+      "solids"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "'Solids don't move' is a common oversimplification.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Fixed shape is incorrectly equated with absence of motion.",
+      "how_to_avoid": "Distinguish translational motion (absent) from vibrational motion (present)."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Amorphous_solid",
+        "https://en.wikipedia.org/wiki/Crystal_structure",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.3-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.3",
+    "topic_title": "Solids, Liquids, and Gases",
+    "learning_objective": "Represent the differences between solid, liquid, and gas phases using a particulate-level model. (3.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the densities of solid and liquid phases is correct?",
+    "options": {
+      "A": "The solid phase of any substance is always denser than the liquid phase.",
+      "B": "The solid and liquid of a substance usually have similar densities, but a few substances such as water are exceptions.",
+      "C": "The solid phase of any substance is always less dense than its liquid.",
+      "D": "A solid and its liquid always have exactly the same density."
+    },
+    "correct": "B",
+    "explanation": "Particles are in contact in both phases, so densities are close; hydrogen bonding makes water exceptional.",
+    "distractor_notes": {
+      "A": "Ice is less dense than liquid water.",
+      "C": "Most solids are slightly denser.",
+      "D": "Densities are similar but not identical."
+    },
+    "tags": [
+      "density"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Always' in two opposing distractors.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students overgeneralize either from water or from textbook particle drawings.",
+      "how_to_avoid": "Test each 'always' with a counterexample."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Amorphous_solid",
+        "https://en.wikipedia.org/wiki/Crystal_structure",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.3-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.3",
+    "topic_title": "Solids, Liquids, and Gases",
+    "learning_objective": "Represent the differences between solid, liquid, and gas phases using a particulate-level model. (3.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following is true of the particles in a gas at low pressure EXCEPT",
+    "options": {
+      "A": "their average spacing is similar to their diameters",
+      "B": "they are in constant, random motion",
+      "C": "they exert minimal forces on one another",
+      "D": "they have no fixed positions"
+    },
+    "correct": "A",
+    "explanation": "At low pressure, the spacing is many times the particle diameter; the statement given is true of liquids and solids, not gases.",
+    "distractor_notes": {
+      "B": "True of gases.",
+      "C": "True at low pressure.",
+      "D": "True of gases."
+    },
+    "tags": [
+      "gases"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stem: choose the false statement.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students read for the true statement and choose the first true option.",
+      "how_to_avoid": "Label each option T/F, then choose the F."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Amorphous_solid",
+        "https://en.wikipedia.org/wiki/Crystal_structure",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.3-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.3",
+    "topic_title": "Solids, Liquids, and Gases",
+    "learning_objective": "Represent the differences between solid, liquid, and gas phases using a particulate-level model. (3.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sample of gas at the same temperature has the greater average distance between its particles?",
+    "options": {
+      "A": "The sample at a pressure of 2.0 atm",
+      "B": "They are equal because the temperature is the same.",
+      "C": "The sample at 2.0 atm because particles collide more often",
+      "D": "The sample at a pressure of 1.0 atm"
+    },
+    "correct": "D",
+    "explanation": "At constant T and amount, a higher pressure corresponds to a smaller volume and a smaller average spacing.",
+    "distractor_notes": {
+      "A": "Higher pressure at the same T means a smaller volume per particle.",
+      "B": "Spacing depends on volume per particle.",
+      "C": "More collisions reflect a smaller spacing."
+    },
+    "tags": [
+      "gases",
+      "spacing"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Pressure and spacing relationships are reversed.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students associate 'more' (pressure) with 'more' (spacing).",
+      "how_to_avoid": "Use PV = nRT: at fixed n and T, V/n is inversely proportional to P."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Amorphous_solid",
+        "https://en.wikipedia.org/wiki/Crystal_structure",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.3-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.3",
+    "topic_title": "Solids, Liquids, and Gases",
+    "learning_objective": "Represent the differences between solid, liquid, and gas phases using a particulate-level model. (3.3.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement correctly distinguishes an amorphous solid from a crystalline solid?",
+    "options": {
+      "A": "An amorphous solid lacks a regular, repeating arrangement of its particles.",
+      "B": "The particles of an amorphous solid undergo overall translation, while those of a crystalline solid do not.",
+      "C": "An amorphous solid is not held together by interparticle forces.",
+      "D": "An amorphous solid has particles that are widely separated."
+    },
+    "correct": "A",
+    "explanation": "Both types of solids are rigid with particles in contact; only the crystalline type has long-range order.",
+    "distractor_notes": {
+      "B": "Particles in both kinds of solids have limited motion.",
+      "C": "Interparticle forces are present.",
+      "D": "Particles are in contact."
+    },
+    "tags": [
+      "amorphous"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "A true feature of liquids is attributed to amorphous solids.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The word 'amorphous' (shapeless) suggests fluid behavior.",
+      "how_to_avoid": "Both amorphous and crystalline solids have limited particle motion (CED 3.3.A.1)."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Amorphous_solid",
+        "https://en.wikipedia.org/wiki/Crystal_structure",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.3-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.3",
+    "topic_title": "Solids, Liquids, and Gases",
+    "learning_objective": "Represent the differences between solid, liquid, and gas phases using a particulate-level model. (3.3.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Sample | Order | Average spacing | Volume | Shape\n--- | --- | --- | --- | ---\n1 | regular | 0.31 nm | definite | definite\n2 | none | 0.31 nm | definite | definite\n3 | none | 0.31 nm | definite | takes container shape\n4 | none | 3.5 nm | not definite | fills container",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "The table lists observations for four samples. Which sample is a liquid?",
+    "options": {
+      "A": "Sample 1",
+      "B": "Sample 3",
+      "C": "Sample 2",
+      "D": "Sample 4"
+    },
+    "correct": "B",
+    "explanation": "Close-spaced particles, no order, and definite volume with a variable shape identify the liquid. Sample 2 is tempting because spacing is the same, but its shape is rigid.",
+    "distractor_notes": {
+      "A": "Has long-range order: crystalline solid.",
+      "C": "Has a rigid shape without order: amorphous solid.",
+      "D": "Has no definite volume: gas."
+    },
+    "tags": [
+      "table"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Three samples share the same spacing; shape and order distinguish them.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students key on spacing alone and select the first closely spaced, unordered sample.",
+      "how_to_avoid": "Use every column; the rigid shape of Sample 2 rules out a liquid."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Amorphous_solid",
+        "https://en.wikipedia.org/wiki/Crystal_structure",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.4-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.4",
+    "topic_title": "Ideal Gas Law",
+    "learning_objective": "Explain the relationship between the macroscopic properties of a sample of gas or mixture of gases using the ideal gas law. (3.4.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the pressure of 1.00 mol of an ideal gas in a 24.6 L container at 27 °C? ($R$ = 0.08206 L·atm/(mol·K))",
+    "options": {
+      "A": "0.0901 atm",
+      "B": "1.00 atm",
+      "C": "606 atm",
+      "D": "761 atm"
+    },
+    "correct": "B",
+    "explanation": "P = nRT/V = (1.00)(0.08206)(300.15)/24.6 = 1.001 atm.",
+    "distractor_notes": {
+      "A": "Used 27 instead of 300. K.",
+      "C": "Multiplied by V.",
+      "D": "Converted to torr but reported atm."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Temperature is given in °C.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The number 27 looks like a plausible temperature to substitute.",
+      "how_to_avoid": "Convert every temperature to kelvin before using PV = nRT."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/States_of_Matter/Properties_of_Gases/Gas_Laws/The_Ideal_Gas_Law",
+        "https://en.wikipedia.org/wiki/Ideal_gas_law",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.4-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.4",
+    "topic_title": "Ideal Gas Law",
+    "learning_objective": "Explain the relationship between the macroscopic properties of a sample of gas or mixture of gases using the ideal gas law. (3.4.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Samples of 1.0 g of $\\mathrm{H_2}$ and 1.0 g of $\\mathrm{O_2}$ are placed in separate flasks at the same temperature and pressure. Which statement is correct?",
+    "options": {
+      "A": "The H2 sample occupies a larger volume, because it contains more moles.",
+      "B": "The two samples occupy equal volumes, because equal masses of gases always occupy equal volumes.",
+      "C": "The O2 sample occupies a larger volume, because O2 molecules are larger.",
+      "D": "The two samples occupy equal volumes because the temperature and pressure are the same."
+    },
+    "correct": "A",
+    "explanation": "1.0 g H2 = 0.50 mol; 1.0 g O2 = 0.031 mol; at the same T and P, V ∝ n, so H2 occupies about 16 times the volume.",
+    "distractor_notes": {
+      "B": "Equal moles, not equal masses, occupy equal volumes.",
+      "C": "Molecular size is not relevant.",
+      "D": "Equal T and P give equal volumes only for equal moles."
+    },
+    "tags": [
+      "Avogadro"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Mass and moles are conflated.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "'Same T and P' triggers the memory that gases have equal volumes.",
+      "how_to_avoid": "Avogadro's law refers to equal numbers of moles (molecules)."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/States_of_Matter/Properties_of_Gases/Gas_Laws/The_Ideal_Gas_Law",
+        "https://en.wikipedia.org/wiki/Ideal_gas_law"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.4-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.4",
+    "topic_title": "Ideal Gas Law",
+    "learning_objective": "Explain the relationship between the macroscopic properties of a sample of gas or mixture of gases using the ideal gas law. (3.4.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "How many moles of ideal gas are in a 2.00 L container at 380. torr and 300. K? ($R$ = 0.08206 L·atm/(mol·K); 1 atm = 760 torr)",
+    "options": {
+      "A": "30.9 mol",
+      "B": "23463 mol",
+      "C": "0.0406 mol",
+      "D": "24.6 mol"
+    },
+    "correct": "C",
+    "explanation": "n = PV/RT = (380/760)(2.00)/[(0.08206)(300.)] = 0.0406 mol.",
+    "distractor_notes": {
+      "A": "Used torr with R in atm.",
+      "B": "Converted torr to atm by multiplying.",
+      "D": "Multiplied by RT instead of dividing."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Pressure is in torr but R is in L·atm.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The number 380 is substituted without a unit check.",
+      "how_to_avoid": "Check that each variable's unit matches R's units."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/States_of_Matter/Properties_of_Gases/Gas_Laws/The_Ideal_Gas_Law",
+        "https://en.wikipedia.org/wiki/Ideal_gas_law",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.4-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.4",
+    "topic_title": "Ideal Gas Law",
+    "learning_objective": "Explain the relationship between the macroscopic properties of a sample of gas or mixture of gases using the ideal gas law. (3.4.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The pressure on a fixed amount of gas at constant temperature is doubled. What happens to its volume?",
+    "options": {
+      "A": "It is doubled.",
+      "B": "It is unchanged.",
+      "C": "It is quadrupled.",
+      "D": "It is halved."
+    },
+    "correct": "D",
+    "explanation": "PV = constant at fixed n and T, so doubling P halves V.",
+    "distractor_notes": {
+      "A": "Increases P and V together would violate the inverse relation.",
+      "B": "Volume responds to pressure.",
+      "C": "Neither direction nor magnitude fits."
+    },
+    "tags": [
+      "Boyle"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Direct versus inverse proportionality.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume that increasing a variable increases the other.",
+      "how_to_avoid": "Write PV = nRT and solve for the variable in question."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/States_of_Matter/Properties_of_Gases/Gas_Laws/The_Ideal_Gas_Law",
+        "https://en.wikipedia.org/wiki/Ideal_gas_law"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.4-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.4",
+    "topic_title": "Ideal Gas Law",
+    "learning_objective": "Explain the relationship between the macroscopic properties of a sample of gas or mixture of gases using the ideal gas law. (3.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A mixture contains 8.0 g of He and 8.0 g of $\\mathrm{O_2}$. Which statement about the partial pressures is correct?",
+    "options": {
+      "A": "The partial pressures are equal, because the masses are equal.",
+      "B": "The partial pressure of $\\mathrm{O_2}$ is greater, because its molecules have more mass.",
+      "C": "The partial pressure of He is greater, because the mixture has more moles of He.",
+      "D": "The partial pressures cannot be compared without the total pressure."
+    },
+    "correct": "C",
+    "explanation": "n(He) = 8.0/4.0 = 2.0 mol; n(O2) = 8.0/32.0 = 0.25 mol; $P_i = X_i P_{total}$, so He has the larger share (about 89%).",
+    "distractor_notes": {
+      "A": "Partial pressure depends on moles, not mass.",
+      "B": "More moles of He give a higher partial pressure.",
+      "D": "The mole ratio fixes the ratio of partial pressures."
+    },
+    "tags": [
+      "Dalton"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Partial pressure depends on mole fraction, not mass fraction.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'Equal masses' is read as 'equal amounts'.",
+      "how_to_avoid": "Convert masses to moles before using mole fractions."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/States_of_Matter/Properties_of_Gases/Gas_Laws/The_Ideal_Gas_Law",
+        "https://en.wikipedia.org/wiki/Ideal_gas_law"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.4-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.4",
+    "topic_title": "Ideal Gas Law",
+    "learning_objective": "Explain the relationship between the macroscopic properties of a sample of gas or mixture of gases using the ideal gas law. (3.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The pressure of a fixed sample of ideal gas in a rigid, sealed container would increase in each of the following changes EXCEPT",
+    "options": {
+      "A": "cooling the container from 350 K to 300 K",
+      "B": "heating the container from 300 K to 350 K",
+      "C": "adding more gas to the container at constant temperature",
+      "D": "injecting additional gas while heating"
+    },
+    "correct": "A",
+    "explanation": "P = nRT/V: with fixed V, pressure rises with n and T; lowering T lowers P.",
+    "distractor_notes": {
+      "B": "Higher T increases P.",
+      "C": "More moles increases P.",
+      "D": "Both changes increase P."
+    },
+    "tags": [
+      "relationships"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT with several true statements.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students look for the change that raises pressure.",
+      "how_to_avoid": "Test each option against P = nRT/V."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/States_of_Matter/Properties_of_Gases/Gas_Laws/The_Ideal_Gas_Law",
+        "https://en.wikipedia.org/wiki/Ideal_gas_law"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.5-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.5",
+    "topic_title": "Kinetic Molecular Theory",
+    "learning_objective": "Explain the relationship between the motion of particles and the macroscopic properties of gases with (i) the kinetic molecular theory, (ii) a particulate model, and (iii) a graphical representation. (3.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Two gases, $\\mathrm{CH_4}$ and $\\mathrm{SO_2}$, are at the same temperature. Which statement is correct?",
+    "options": {
+      "A": "Their molecules have the same average speed and the same average kinetic energy.",
+      "B": "Their molecules have the same average speed but different average kinetic energies.",
+      "C": "Their molecules have different average kinetic energies because their molar masses differ.",
+      "D": "Their molecules have the same average kinetic energy but different average speeds."
+    },
+    "correct": "D",
+    "explanation": "KE(avg) = (3/2)RT per mole depends only on T; speed also depends on mass.",
+    "distractor_notes": {
+      "A": "Equal KE with unequal masses means unequal speeds.",
+      "B": "Average KE is set by T.",
+      "C": "Average KE depends only on T."
+    },
+    "tags": [
+      "KMT"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Equal temperature is taken to mean equal speed.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'Same T' feels like 'same motion'.",
+      "how_to_avoid": "Remember that T sets KE; speed also depends on mass."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/10%3A_Gases/10.07%3A_Kinetic-Molecular_Theory",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.5-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.5",
+    "topic_title": "Kinetic Molecular Theory",
+    "learning_objective": "Explain the relationship between the motion of particles and the macroscopic properties of gases with (i) the kinetic molecular theory, (ii) a particulate model, and (iii) a graphical representation. (3.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In a gas sample at 300 K, which statement is correct?",
+    "options": {
+      "A": "Every particle has the same kinetic energy at a given temperature.",
+      "B": "The average kinetic energy is fixed by the temperature, but individual particles have a range of kinetic energies.",
+      "C": "Every particle has a kinetic energy of exactly (3/2)kT.",
+      "D": "Particles of the lightest mass have no kinetic energy."
+    },
+    "correct": "B",
+    "explanation": "Temperature relates to the average of the Maxwell-Boltzmann distribution, not to each particle.",
+    "distractor_notes": {
+      "A": "Collisions produce a range of energies.",
+      "C": "Only the average is (3/2)kT.",
+      "D": "All particles move."
+    },
+    "tags": [
+      "Maxwell-Boltzmann"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Every particle' is used as a universal claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students treat the average as a property of each particle.",
+      "how_to_avoid": "Check whether the statement is about the average or each member of a distribution."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/10%3A_Gases/10.07%3A_Kinetic-Molecular_Theory",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.5-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.5",
+    "topic_title": "Kinetic Molecular Theory",
+    "learning_objective": "Explain the relationship between the motion of particles and the macroscopic properties of gases with (i) the kinetic molecular theory, (ii) a particulate model, and (iii) a graphical representation. (3.5.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "As the temperature of a gas sample is raised, how does the Maxwell-Boltzmann distribution change?",
+    "options": {
+      "A": "The peak moves to a higher speed and becomes taller and narrower.",
+      "B": "The peak stays at the same speed and the curve becomes taller.",
+      "C": "The peak moves to a higher speed and becomes lower and broader.",
+      "D": "The peak moves to a lower speed and becomes broader."
+    },
+    "correct": "C",
+    "explanation": "More particles are spread over a wider range of speeds, but the area under the curve is constant.",
+    "distractor_notes": {
+      "A": "The area must stay constant, so higher speed spread means a lower peak.",
+      "B": "The peak shifts right.",
+      "D": "Higher T shifts it to higher speeds."
+    },
+    "tags": [
+      "Maxwell-Boltzmann"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Peak position and peak height trends are confused.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students expect the peak to be 'bigger' when it shifts to a 'greater' speed.",
+      "how_to_avoid": "Remember that area is constant: shifting right and widening lowers the peak."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/10%3A_Gases/10.07%3A_Kinetic-Molecular_Theory",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.5-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.5",
+    "topic_title": "Kinetic Molecular Theory",
+    "learning_objective": "Explain the relationship between the motion of particles and the macroscopic properties of gases with (i) the kinetic molecular theory, (ii) a particulate model, and (iii) a graphical representation. (3.5.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For $\\mathrm{O_2}$ (M = 32.0 g/mol) at 300. K, $u_{rms}=\\sqrt{3RT/M}$. What is $u_{rms}$ in m/s? (R = 8.314 J/(mol·K))",
+    "options": {
+      "A": "484 m/s",
+      "B": "15.3 m/s",
+      "C": "0.484 m/s",
+      "D": "48.0 m/s"
+    },
+    "correct": "A",
+    "explanation": "M = 0.0320 kg/mol; $u_{rms}$ = 484 m/s.",
+    "distractor_notes": {
+      "B": "Used M in g/mol instead of kg/mol.",
+      "C": "Misplaced the unit conversion.",
+      "D": "Used R in L·atm/(mol·K)."
+    },
+    "tags": [
+      "rms speed",
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Molar mass must be in kg/mol when R is in J/(mol·K).",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students use the molar mass as printed on the periodic table.",
+      "how_to_avoid": "Check that J = kg·m²/s² is consistent with M in kg/mol."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/10%3A_Gases/10.07%3A_Kinetic-Molecular_Theory",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.5-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.5",
+    "topic_title": "Kinetic Molecular Theory",
+    "learning_objective": "Explain the relationship between the motion of particles and the macroscopic properties of gases with (i) the kinetic molecular theory, (ii) a particulate model, and (iii) a graphical representation. (3.5.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following is an assumption of the kinetic molecular theory for an ideal gas EXCEPT",
+    "options": {
+      "A": "the particles are in continuous, random motion",
+      "B": "the particles exert strong attractive forces on one another",
+      "C": "the volume of the particles is negligible compared with the container",
+      "D": "collisions between particles are elastic"
+    },
+    "correct": "B",
+    "explanation": "The ideal model assumes negligible attractions; strong attractions cause the deviations explored in Topic 3.6.",
+    "distractor_notes": {
+      "A": "This is an assumption of KMT.",
+      "C": "This is an assumption of KMT.",
+      "D": "This is an assumption of KMT."
+    },
+    "tags": [
+      "KMT"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The EXCEPT stem asks for the statement that violates KMT.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the first true statement they recognize.",
+      "how_to_avoid": "Evaluate each option as an assumption and pick the one that is not."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/10%3A_Gases/10.07%3A_Kinetic-Molecular_Theory",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.5-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.5",
+    "topic_title": "Kinetic Molecular Theory",
+    "learning_objective": "Explain the relationship between the motion of particles and the macroscopic properties of gases with (i) the kinetic molecular theory, (ii) a particulate model, and (iii) a graphical representation. (3.5.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "graph",
+      "content": "Curve P: tall, narrow, peak near 450 m/s. Curve Q: low, wide, peak near 900 m/s. Equal areas under both.",
+      "citation": "Original graph described in text for this item.",
+      "asset_path": null
+    },
+    "question": "A graph shows two Maxwell-Boltzmann curves for the same gas, one with a tall, narrow peak at about 450 m/s and one with a lower, wider peak at about 900 m/s. Both curves enclose the same area. Which statement is supported?",
+    "options": {
+      "A": "The wider, lower curve is for the higher temperature.",
+      "B": "The taller curve is for the higher temperature, because more particles have that speed.",
+      "C": "The two curves are at the same temperature and represent different amounts of gas.",
+      "D": "The taller curve is for the higher temperature, because its peak is narrower."
+    },
+    "correct": "A",
+    "explanation": "Higher temperature shifts the distribution to higher speeds and broadens it, lowering the peak height.",
+    "distractor_notes": {
+      "B": "The area is the same; a taller peak means a narrower spread.",
+      "C": "Equal area means equal numbers of particles.",
+      "D": "A narrower distribution corresponds to a lower temperature."
+    },
+    "tags": [
+      "graph"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The visually 'bigger' (taller) curve looks like the more energetic sample.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Height is read as quantity or intensity.",
+      "how_to_avoid": "Use the peak position (speed) and the constant-area constraint."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/10%3A_Gases/10.07%3A_Kinetic-Molecular_Theory",
+        "https://en.wikipedia.org/wiki/Kinetic_theory_of_gases"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.6-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.6",
+    "topic_title": "Deviation from Ideal Gas Law",
+    "learning_objective": "Explain the relationship among non-ideal behaviors of gases, interparticle forces, and/or volumes. (3.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "At very high pressure and moderate temperature, how does the actual volume of a real gas compare with the volume predicted by the ideal gas law?",
+    "options": {
+      "A": "The actual volume is smaller, because particles are compressed together.",
+      "B": "The actual volume is the same, because pressure and volume are inversely related.",
+      "C": "The actual volume is smaller, because attractions pull particles together at high pressure.",
+      "D": "The actual volume is greater, because the particles themselves occupy space."
+    },
+    "correct": "D",
+    "explanation": "At extremely high pressure the free volume is the container volume minus the particles' volume; the repulsive part of the interaction dominates, so Z > 1.",
+    "distractor_notes": {
+      "A": "Particles are not compressed; their own volume adds to the volume.",
+      "B": "Real gases deviate at high P.",
+      "C": "Attractions matter more at moderate pressure; at very high P, particle volume dominates."
+    },
+    "tags": [
+      "volume"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "'High pressure always compresses a gas below ideal volume' is a misconception.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students think of squeezing a gas and link it to smaller volumes.",
+      "how_to_avoid": "Recall that particles have a finite size that becomes significant at very high P."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Real_gas",
+        "https://en.wikipedia.org/wiki/Van_der_Waals_equation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.6-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.6",
+    "topic_title": "Deviation from Ideal Gas Law",
+    "learning_objective": "Explain the relationship among non-ideal behaviors of gases, interparticle forces, and/or volumes. (3.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Methane has a normal boiling point of 112 K. At the same pressure, at which temperature does methane deviate more from ideal behavior?",
+    "options": {
+      "A": "400 K",
+      "B": "200 K",
+      "C": "The deviation is the same at both temperatures.",
+      "D": "400 K, because the molecules move faster."
+    },
+    "correct": "B",
+    "explanation": "The closer the temperature is to the condensation point, the larger the deviation from ideal behavior.",
+    "distractor_notes": {
+      "A": "Farther from condensation; behaves more nearly ideal.",
+      "C": "Temperature affects the deviation.",
+      "D": "Faster molecules overcome attractions, reducing deviation."
+    },
+    "tags": [
+      "temperature"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Direction of the temperature effect on non-ideality.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'More motion = more chaotic = less ideal' is a tempting inference.",
+      "how_to_avoid": "Ideal behavior is best when attractions are small relative to kinetic energy (high T)."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Real_gas",
+        "https://en.wikipedia.org/wiki/Van_der_Waals_equation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.6-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.6",
+    "topic_title": "Deviation from Ideal Gas Law",
+    "learning_objective": "Explain the relationship among non-ideal behaviors of gases, interparticle forces, and/or volumes. (3.6.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the ideal gas law and real gases is correct?",
+    "options": {
+      "A": "The ideal gas law is exact for noble gases at any pressure.",
+      "B": "Real gases never obey the ideal gas law at any conditions.",
+      "C": "Real gases approach ideal behavior at low pressure and high temperature.",
+      "D": "Only polar gases ever deviate from the ideal gas law."
+    },
+    "correct": "C",
+    "explanation": "The ideal gas law is a limiting law; every real gas deviates at high pressure or low temperature.",
+    "distractor_notes": {
+      "A": "Even He deviates at extremely high P.",
+      "B": "They closely approximate it at low P and high T.",
+      "D": "All real gases deviate under some conditions."
+    },
+    "tags": [
+      "ideal behavior"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Any', 'never', 'only' in distractors.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students overgeneralize about noble gases or polarity.",
+      "how_to_avoid": "Look for counterexamples to absolute claims."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Real_gas",
+        "https://en.wikipedia.org/wiki/Van_der_Waals_equation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.6-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.6",
+    "topic_title": "Deviation from Ideal Gas Law",
+    "learning_objective": "Explain the relationship among non-ideal behaviors of gases, interparticle forces, and/or volumes. (3.6.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following would cause a real gas to deviate from ideal behavior EXCEPT",
+    "options": {
+      "A": "the gas particles being very far apart at low pressure",
+      "B": "strong attractions between the gas particles",
+      "C": "the volume of the gas particles being a large fraction of the container volume",
+      "D": "the sample being near its condensation point"
+    },
+    "correct": "A",
+    "explanation": "Wide separation of particles is the condition under which gases behave ideally.",
+    "distractor_notes": {
+      "B": "Causes deviations.",
+      "C": "Causes deviations.",
+      "D": "Causes deviations."
+    },
+    "tags": [
+      "ideal behavior"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stem.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students choose the first true cause of deviation.",
+      "how_to_avoid": "Decide which option does NOT cause deviation."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Real_gas",
+        "https://en.wikipedia.org/wiki/Van_der_Waals_equation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.6-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.6",
+    "topic_title": "Deviation from Ideal Gas Law",
+    "learning_objective": "Explain the relationship among non-ideal behaviors of gases, interparticle forces, and/or volumes. (3.6.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "P (atm) | Z = PV/nRT\n--- | ---\n1 | 0.99\n50 | 0.88\n200 | 0.78\n500 | 1.15\n1000 | 1.6",
+      "citation": "Hypothetical gas data for illustration.",
+      "asset_path": null
+    },
+    "question": "Using the table of Z = PV/nRT for a hypothetical gas at 250 K, at which pressure is the effect of attractions between particles the greatest?",
+    "options": {
+      "A": "1000 atm",
+      "B": "200 atm",
+      "C": "1 atm",
+      "D": "500 atm"
+    },
+    "correct": "B",
+    "explanation": "The lowest Z (0.78) indicates the largest effect of attractions; the highest Z means volume effects dominate.",
+    "distractor_notes": {
+      "A": "Z is largest here: volume effects dominate.",
+      "C": "Z ≈ 1: nearly ideal.",
+      "D": "Z > 1: volume effects dominate."
+    },
+    "tags": [
+      "table"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The row farthest from Z = 1 (1000 atm) looks like 'most non-ideal' but the question asks about attractions.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the largest deviation without separating the cause.",
+      "how_to_avoid": "Z < 1 reflects attractions; Z > 1 reflects particle volume."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Real_gas",
+        "https://en.wikipedia.org/wiki/Van_der_Waals_equation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.6-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.6",
+    "topic_title": "Deviation from Ideal Gas Law",
+    "learning_objective": "Explain the relationship among non-ideal behaviors of gases, interparticle forces, and/or volumes. (3.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Ne (M = 20 g/mol), CH4 (M = 16 g/mol), NH3 (M = 17 g/mol), and H2O (M = 18 g/mol) are compared at the same T and P. Which gas is expected to behave most ideally?",
+    "options": {
+      "A": "CH4",
+      "B": "NH3",
+      "C": "H2O",
+      "D": "Ne"
+    },
+    "correct": "D",
+    "explanation": "Ideal behavior depends on weak attractions and small particle volume; monatomic Ne has the weakest attractions and compact size, even though it has the highest molar mass of the group.",
+    "distractor_notes": {
+      "A": "Has the lowest molar mass but has more polarizable electrons and more atoms than Ne.",
+      "B": "Strong hydrogen bonding.",
+      "C": "Strong hydrogen bonding."
+    },
+    "tags": [
+      "ideal behavior"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "'Smaller molar mass behaves more ideally' is only partly true.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students apply a lighter-is-better heuristic.",
+      "how_to_avoid": "Compare intermolecular forces and particle size, not just molar mass."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Real_gas",
+        "https://en.wikipedia.org/wiki/Van_der_Waals_equation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.7-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.7",
+    "topic_title": "Solutions and Mixtures",
+    "learning_objective": "Calculate the number of solute particles, volume, or molarity of solutions. (3.7.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "How many moles of solute are in 25.0 mL of 0.40 M solution?",
+    "options": {
+      "A": "10.0 mol",
+      "B": "0.0100 mol",
+      "C": "16.0 mol",
+      "D": "0.0625 mol"
+    },
+    "correct": "B",
+    "explanation": "n = MV = (0.40 mol/L)(0.0250 L) = 0.0100 mol.",
+    "distractor_notes": {
+      "A": "Did not convert mL to L.",
+      "C": "Divided by the volume.",
+      "D": "Inverted the expression."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "The volume is given in mL, but M is in mol/L.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The numerical product 0.40 × 25.0 = 10.0 looks neat.",
+      "how_to_avoid": "Convert mL to L before multiplying."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.04%3A_Ways_of_Expressing_Concentration",
+        "https://en.wikipedia.org/wiki/Molar_concentration",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.7-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.7",
+    "topic_title": "Solutions and Mixtures",
+    "learning_objective": "Calculate the number of solute particles, volume, or molarity of solutions. (3.7.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student dissolves 0.250 mol of a solid in 1.00 L of water. After dissolving, the total volume of the solution is 1.05 L. What is the molarity of the solution?",
+    "options": {
+      "A": "0.238 M",
+      "B": "0.250 M",
+      "C": "0.263 M",
+      "D": "5.00 M"
+    },
+    "correct": "A",
+    "explanation": "Molarity = moles of solute per liter of solution = 0.250/1.05 = 0.238 M.",
+    "distractor_notes": {
+      "B": "Used the volume of water instead of the volume of solution.",
+      "C": "Multiplied instead of dividing.",
+      "D": "Used the volume change as the volume."
+    },
+    "tags": [
+      "molarity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Molarity is based on solution volume, not solvent volume.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "'1.00 L of water' is the first volume seen.",
+      "how_to_avoid": "Always use the total volume of solution."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.04%3A_Ways_of_Expressing_Concentration",
+        "https://en.wikipedia.org/wiki/Molar_concentration",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.7-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.7",
+    "topic_title": "Solutions and Mixtures",
+    "learning_objective": "Calculate the number of solute particles, volume, or molarity of solutions. (3.7.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A 100. mL sample of 1.0 M solution is diluted by adding 100. mL of water. Which statement about the amount of solute is correct?",
+    "options": {
+      "A": "The number of moles of solute is halved by the dilution.",
+      "B": "The number of moles of solute doubles because the volume doubles.",
+      "C": "The number of moles of solute is unchanged by the dilution.",
+      "D": "The number of moles of solute depends on how fast the water is added."
+    },
+    "correct": "C",
+    "explanation": "Dilution lowers the concentration, not the amount of solute; $M_1V_1 = M_2V_2$ equals the constant n.",
+    "distractor_notes": {
+      "A": "Only the concentration is halved.",
+      "B": "Adding solvent does not add solute.",
+      "D": "Moles are conserved."
+    },
+    "tags": [
+      "dilution"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Concentration and amount are conflated.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The concentration halves, so students assume the amount halves.",
+      "how_to_avoid": "Track moles separately from molarity."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.04%3A_Ways_of_Expressing_Concentration",
+        "https://en.wikipedia.org/wiki/Molar_concentration"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.7-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.7",
+    "topic_title": "Solutions and Mixtures",
+    "learning_objective": "Calculate the number of solute particles, volume, or molarity of solutions. (3.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following is a solution EXCEPT",
+    "options": {
+      "A": "brass, in which Cu and Zn atoms are uniformly mixed",
+      "B": "air, free of dust",
+      "C": "saltwater, in which the ions are dispersed uniformly",
+      "D": "muddy water, in which soil particles settle on standing"
+    },
+    "correct": "D",
+    "explanation": "Muddy water is a heterogeneous mixture; its properties vary with location.",
+    "distractor_notes": {
+      "A": "A solid solution.",
+      "B": "A gaseous solution.",
+      "C": "A liquid solution."
+    },
+    "tags": [
+      "definitions"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stem; two options are non-liquid solutions.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume that solutions must be liquids.",
+      "how_to_avoid": "Solutions may be solids, liquids, or gases."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.04%3A_Ways_of_Expressing_Concentration",
+        "https://en.wikipedia.org/wiki/Molar_concentration"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.7-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.7",
+    "topic_title": "Solutions and Mixtures",
+    "learning_objective": "Calculate the number of solute particles, volume, or molarity of solutions. (3.7.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement is correct?",
+    "options": {
+      "A": "Every mixture is a solution, because mixtures are always uniform.",
+      "B": "Solutions are always liquids, because solvents are always liquids.",
+      "C": "A solution is a pure substance because its composition is uniform.",
+      "D": "Every solution is a mixture, but not every mixture is a solution."
+    },
+    "correct": "D",
+    "explanation": "A solution is a homogeneous mixture; heterogeneous mixtures are not solutions.",
+    "distractor_notes": {
+      "A": "Heterogeneous mixtures are not uniform.",
+      "B": "Solutions can be solids or gases.",
+      "C": "Solutions have variable composition."
+    },
+    "tags": [
+      "definitions"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Every' and 'always' in distractors.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students overgeneralize categories.",
+      "how_to_avoid": "Test universal claims with counterexamples (muddy water, brass, air)."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.04%3A_Ways_of_Expressing_Concentration",
+        "https://en.wikipedia.org/wiki/Molar_concentration"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.7-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.7",
+    "topic_title": "Solutions and Mixtures",
+    "learning_objective": "Calculate the number of solute particles, volume, or molarity of solutions. (3.7.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the concentration of $\\mathrm{Na^+}$ in a 0.100 M solution of $\\mathrm{Na_3PO_4}$?",
+    "options": {
+      "A": "0.100 M",
+      "B": "0.200 M",
+      "C": "0.300 M",
+      "D": "0.400 M"
+    },
+    "correct": "C",
+    "explanation": "Na3PO4 → 3 Na⁺ + PO4³⁻; [Na⁺] = 3 × 0.100 = 0.300 M.",
+    "distractor_notes": {
+      "A": "Reported the formula unit concentration.",
+      "B": "Used 2 Na+ per formula unit.",
+      "D": "Counted all ions."
+    },
+    "tags": [
+      "ions"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The molarity of the salt is correct, but the question asks about an ion.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'0.100 M' is a stated number that looks like the answer.",
+      "how_to_avoid": "Use the formula to multiply by the ion count."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.04%3A_Ways_of_Expressing_Concentration",
+        "https://en.wikipedia.org/wiki/Molar_concentration",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.8-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.8",
+    "topic_title": "Representations of Solutions",
+    "learning_objective": "Using particulate models for mixtures, (i) represent interactions between components and (ii) represent concentrations of components. (3.8.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which particulate diagram best represents NaCl(aq)?",
+    "options": {
+      "A": "Pairs of Na and Cl atoms bonded together, dispersed in water",
+      "B": "A rigid lattice of Na+ and Cl- ions in the water",
+      "C": "Separated, hydrated Na+ and Cl- ions in water",
+      "D": "Na atoms and Cl2 molecules dispersed in the water"
+    },
+    "correct": "C",
+    "explanation": "Water's ion-dipole interactions separate the ions.",
+    "distractor_notes": {
+      "A": "NaCl is ionic and dissociates into hydrated ions in water.",
+      "B": "The lattice is the solid.",
+      "D": "No redox reaction occurs on dissolving."
+    },
+    "tags": [
+      "NaCl(aq)"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students picture ionic compounds as molecules in solution.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The formula 'NaCl' looks like a molecule.",
+      "how_to_avoid": "Remember that ionic compounds dissociate into ions on dissolving in water."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.01%3A_The_Solution_Process",
+        "https://en.wikipedia.org/wiki/Solvation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.8-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.8",
+    "topic_title": "Representations of Solutions",
+    "learning_objective": "Using particulate models for mixtures, (i) represent interactions between components and (ii) represent concentrations of components. (3.8.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Beaker 1 holds 20 solute particles in 500. mL; beaker 2 holds 12 solute particles in 200. mL. Which statement about concentration is correct?",
+    "options": {
+      "A": "Beaker 1 is more concentrated because it has more solute particles.",
+      "B": "The two beakers have the same concentration.",
+      "C": "Beaker 1 is more concentrated, with 4.0 particles per 100. mL compared with 6.0.",
+      "D": "Beaker 2 is more concentrated: 6.0 particles per 100. mL versus 4.0 per 100. mL."
+    },
+    "correct": "D",
+    "explanation": "Concentration = particles/volume: 20/500 mL = 0.040 per mL; 12/200 mL = 0.060 per mL.",
+    "distractor_notes": {
+      "A": "Volumes differ; compare particles per volume.",
+      "B": "4.0 per 100 mL versus 6.0 per 100 mL.",
+      "C": "4.0 is lower than 6.0."
+    },
+    "tags": [
+      "concentration"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The beaker with the larger particle count has the larger volume.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students compare absolute counts rather than counts per volume.",
+      "how_to_avoid": "Divide the number of particles by the volume of each solution."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.01%3A_The_Solution_Process",
+        "https://en.wikipedia.org/wiki/Solvation",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.8-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.8",
+    "topic_title": "Representations of Solutions",
+    "learning_objective": "Using particulate models for mixtures, (i) represent interactions between components and (ii) represent concentrations of components. (3.8.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In a particulate diagram of CaCl2(aq), how should the water molecules be oriented around a $\\mathrm{Ca^{2+}}$ ion?",
+    "options": {
+      "A": "The hydrogen (positive) ends point toward the calcium ion.",
+      "B": "The oxygen (negative) ends point toward the calcium ion.",
+      "C": "The oxygen ends point away from the calcium ion because it has a +2 charge.",
+      "D": "The water molecules have no preferred orientation around an ion."
+    },
+    "correct": "B",
+    "explanation": "A cation attracts the partial negative oxygen end of water; an anion attracts the hydrogen ends.",
+    "distractor_notes": {
+      "A": "Like charges repel.",
+      "C": "The cation attracts the negative end.",
+      "D": "Ion-dipole forces orient the molecules."
+    },
+    "tags": [
+      "ion-dipole"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The orientation is the reverse around cations and anions.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember 'hydrogen toward ion' from the anion case.",
+      "how_to_avoid": "Match opposite charges: cation to O, anion to H."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.01%3A_The_Solution_Process",
+        "https://en.wikipedia.org/wiki/Solvation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.8-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.8",
+    "topic_title": "Representations of Solutions",
+    "learning_objective": "Using particulate models for mixtures, (i) represent interactions between components and (ii) represent concentrations of components. (3.8.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "An accurate particulate diagram of KBr(aq) would NOT show",
+    "options": {
+      "A": "intact KBr units",
+      "B": "hydrated K+ ions",
+      "C": "hydrated Br- ions",
+      "D": "water molecules oriented around the ions"
+    },
+    "correct": "A",
+    "explanation": "KBr dissociates completely into ions in water, so no intact KBr formula units remain.",
+    "distractor_notes": {
+      "B": "Present in solution.",
+      "C": "Present in solution.",
+      "D": "Present in solution."
+    },
+    "tags": [
+      "particulate"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students pick the first option they recognize as present.",
+      "how_to_avoid": "Decide which species do and do not exist in the solution."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.01%3A_The_Solution_Process",
+        "https://en.wikipedia.org/wiki/Solvation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.8-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.8",
+    "topic_title": "Representations of Solutions",
+    "learning_objective": "Using particulate models for mixtures, (i) represent interactions between components and (ii) represent concentrations of components. (3.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the orientation of water molecules around a solute particle is correct?",
+    "options": {
+      "A": "The oxygen end of a water molecule always points toward the solute particle.",
+      "B": "The hydrogen end of a water molecule always points toward the solute particle.",
+      "C": "The orientation depends on the sign of the charge on the solute particle.",
+      "D": "Water molecules around a solute never have a preferred orientation."
+    },
+    "correct": "C",
+    "explanation": "Opposite charges attract: oxygen toward cations, hydrogen toward anions.",
+    "distractor_notes": {
+      "A": "Around anions, the hydrogen end points in.",
+      "B": "Around cations, the oxygen end points in.",
+      "D": "Polar water orients around ions."
+    },
+    "tags": [
+      "ion-dipole"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Always' and 'never' in distractors.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students memorize one orientation.",
+      "how_to_avoid": "Reason from the charges involved each time."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.01%3A_The_Solution_Process",
+        "https://en.wikipedia.org/wiki/Solvation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.8-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.8",
+    "topic_title": "Representations of Solutions",
+    "learning_objective": "Using particulate models for mixtures, (i) represent interactions between components and (ii) represent concentrations of components. (3.8.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each solute particle in a diagram represents 0.0100 mol, and the diagram shows 5 particles in a solution volume of 250. mL. What is the molarity of the solution?",
+    "options": {
+      "A": "$2.00 \\times 10^{-4}\\ \\mathrm{M}$",
+      "B": "0.200 M",
+      "C": "20.0 M",
+      "D": "0.0125 M"
+    },
+    "correct": "B",
+    "explanation": "n = 5 × 0.0100 = 0.0500 mol; M = 0.0500 mol / 0.250 L = 0.200 M.",
+    "distractor_notes": {
+      "A": "Used mL instead of L.",
+      "C": "Treated each particle as 1 mol.",
+      "D": "Multiplied by the volume."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Volume in mL and a per-particle scale.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The volume 250 is substituted directly.",
+      "how_to_avoid": "Convert mL to L and apply the scale for each particle."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.01%3A_The_Solution_Process",
+        "https://en.wikipedia.org/wiki/Solvation",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.9-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.9",
+    "topic_title": "Separation of Solutions and Mixtures",
+    "learning_objective": "Explain the results of a separation experiment based on intermolecular interactions. (3.9.A)",
+    "skill": "Question and Method",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student pours a salt-water solution through filter paper. What is collected in the filtrate?",
+    "options": {
+      "A": "Only the water, because filter paper traps the salt",
+      "B": "Only the salt, because the water stays on the paper",
+      "C": "Neither, because filtration removes both",
+      "D": "The water and the dissolved salt"
+    },
+    "correct": "D",
+    "explanation": "Filtration separates undissolved solids from liquids, not dissolved solutes.",
+    "distractor_notes": {
+      "A": "Dissolved ions pass through the pores.",
+      "B": "Water passes through.",
+      "C": "Both pass through the paper."
+    },
+    "tags": [
+      "filtration"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Filter paper is thought to remove anything that is a solid in the dry state.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The salt was a solid before dissolving.",
+      "how_to_avoid": "Ask whether the solute is dissolved (particle size ~ ions) or suspended."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chromatography",
+        "https://en.wikipedia.org/wiki/Thin-layer_chromatography"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.9-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.9",
+    "topic_title": "Separation of Solutions and Mixtures",
+    "learning_objective": "Explain the results of a separation experiment based on intermolecular interactions. (3.9.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "TLC is run on a polar silica plate with a nonpolar solvent. Three dyes have Rf values 0.80, 0.45, and 0.10. Which dye is the least polar?",
+    "options": {
+      "A": "The dye with Rf = 0.80",
+      "B": "The dye with Rf = 0.10",
+      "C": "The dye with Rf = 0.45",
+      "D": "All three have the same polarity."
+    },
+    "correct": "A",
+    "explanation": "Less polar compounds interact weakly with the polar silica and travel farther with the nonpolar solvent.",
+    "distractor_notes": {
+      "B": "Strongly held on the polar plate, so it is the most polar.",
+      "C": "Intermediate polarity.",
+      "D": "The Rf values differ."
+    },
+    "tags": [
+      "Rf",
+      "polarity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Direction of the polarity-Rf relationship reverses with the polarity of the stationary phase.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "'Higher Rf = more soluble in the solvent' is misread as 'more polar'.",
+      "how_to_avoid": "Identify which phase is polar before assigning polarity from the Rf value."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chromatography",
+        "https://en.wikipedia.org/wiki/Thin-layer_chromatography"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.9-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.9",
+    "topic_title": "Separation of Solutions and Mixtures",
+    "learning_objective": "Explain the results of a separation experiment based on intermolecular interactions. (3.9.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "On a TLC plate, the origin line is drawn 1.5 cm from the bottom edge. After development, a spot is 5.0 cm from the bottom edge, and the solvent front is 8.5 cm from the bottom edge. What is the $R_f$ of the spot?",
+    "options": {
+      "A": "0.59",
+      "B": "0.50",
+      "C": "2.00",
+      "D": "0.41"
+    },
+    "correct": "B",
+    "explanation": "Distances from the origin: spot 3.5 cm; front 7.0 cm; $R_f$ = 0.50.",
+    "distractor_notes": {
+      "A": "Measured from the bottom edge rather than the origin line.",
+      "C": "Inverted the ratio.",
+      "D": "Subtracted the origin from the spot only."
+    },
+    "tags": [
+      "Rf"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Distances are given from the plate's bottom edge rather than from the origin line.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The numbers 5.0 and 8.5 are given and look ready to divide.",
+      "how_to_avoid": "Measure both distances from the origin line."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chromatography",
+        "https://en.wikipedia.org/wiki/Thin-layer_chromatography",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.9-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.9",
+    "topic_title": "Separation of Solutions and Mixtures",
+    "learning_objective": "Explain the results of a separation experiment based on intermolecular interactions. (3.9.A)",
+    "skill": "Question and Method",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following is a correct practice in a paper chromatography experiment EXCEPT",
+    "options": {
+      "A": "marking the origin line lightly with pencil",
+      "B": "covering the chamber so the solvent vapor saturates the air",
+      "C": "placing the sample spot below the surface of the solvent in the chamber",
+      "D": "removing the paper when the solvent front nears the top and marking it immediately"
+    },
+    "correct": "C",
+    "explanation": "A spot below the solvent surface would dissolve into the solvent pool instead of moving up the paper.",
+    "distractor_notes": {
+      "A": "Correct practice.",
+      "B": "Correct practice.",
+      "D": "Correct practice."
+    },
+    "tags": [
+      "lab technique"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stem for a lab-practice question.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students choose a correct practice they do not recognize.",
+      "how_to_avoid": "Judge each option as correct or incorrect, then pick the incorrect one."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chromatography",
+        "https://en.wikipedia.org/wiki/Thin-layer_chromatography"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.9-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.9",
+    "topic_title": "Separation of Solutions and Mixtures",
+    "learning_objective": "Explain the results of a separation experiment based on intermolecular interactions. (3.9.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Two samples from different sources each give a single spot with Rf = 0.45 in the same solvent on the same type of plate. Which conclusion is best supported?",
+    "options": {
+      "A": "They must be the same compound.",
+      "B": "They must be different compounds because spots from different sources never match.",
+      "C": "They are the same compound, because Rf is a unique physical constant like density.",
+      "D": "They may be the same compound, but identical Rf in one system does not prove it."
+    },
+    "correct": "D",
+    "explanation": "Confirmation requires matching Rf values in more than one solvent system or other evidence.",
+    "distractor_notes": {
+      "A": "Different compounds can share an Rf in one solvent system.",
+      "B": "Matching is possible.",
+      "C": "Rf depends on the solvent system and is not unique."
+    },
+    "tags": [
+      "Rf",
+      "argument"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "A matching Rf is consistent with identity but not sufficient proof.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students treat a match as definitive.",
+      "how_to_avoid": "Distinguish 'consistent with' from 'proves'."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chromatography",
+        "https://en.wikipedia.org/wiki/Thin-layer_chromatography"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.9-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.9",
+    "topic_title": "Separation of Solutions and Mixtures",
+    "learning_objective": "Explain the results of a separation experiment based on intermolecular interactions. (3.9.A)",
+    "skill": "Question and Method",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student wants to recover the pure water from a sugar solution (the sugar is nonvolatile). Which technique should be used?",
+    "options": {
+      "A": "Evaporation in an open dish",
+      "B": "Filtration",
+      "C": "Distillation",
+      "D": "Decantation"
+    },
+    "correct": "C",
+    "explanation": "Distillation condenses the vapor and collects pure water, whereas evaporation loses the water to the air.",
+    "distractor_notes": {
+      "A": "The water vapor escapes and is lost; only the sugar remains.",
+      "B": "Dissolved sugar passes through.",
+      "D": "Used for separating settled solids or immiscible liquids."
+    },
+    "tags": [
+      "distillation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Evaporation and distillation both use heat but differ in whether the volatile component is collected.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both are thought of as 'boiling the water off'.",
+      "how_to_avoid": "Ask which component must be recovered."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chromatography",
+        "https://en.wikipedia.org/wiki/Thin-layer_chromatography"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.10-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.10",
+    "topic_title": "Solubility",
+    "learning_objective": "Explain the relationship between the solubility of ionic and molecular compounds in aqueous and nonaqueous solvents, and the intermolecular interactions between particles. (3.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best explains why ethanol dissolves in water?",
+    "options": {
+      "A": "Ethanol ionizes in water to produce ethyl and hydroxide ions.",
+      "B": "Ethanol and water have identical boiling points.",
+      "C": "Ethanol and water molecules form hydrogen bonds with each other.",
+      "D": "Ethanol and water are both nonpolar."
+    },
+    "correct": "C",
+    "explanation": "Ethanol dissolves as intact molecules that hydrogen bond with water.",
+    "distractor_notes": {
+      "A": "Ethanol is a nonelectrolyte.",
+      "B": "Their boiling points differ.",
+      "D": "Both are polar."
+    },
+    "tags": [
+      "hydrogen bonding"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "'OH' in ethanol is misread as hydroxide, suggesting ionization.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The OH group looks like the OH- ion.",
+      "how_to_avoid": "Remember that covalently bonded O-H groups do not ionize in alcohols."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.03%3A_Factors_Affecting_Solubility",
+        "https://en.wikipedia.org/wiki/Solubility"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.10-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.10",
+    "topic_title": "Solubility",
+    "learning_objective": "Explain the relationship between the solubility of ionic and molecular compounds in aqueous and nonaqueous solvents, and the intermolecular interactions between particles. (3.10.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the solubility of ionic compounds in water is correct?",
+    "options": {
+      "A": "Solubility depends on the balance between the strength of the ionic lattice and the ion-dipole attractions with water.",
+      "B": "All ionic compounds are soluble in water because water is polar.",
+      "C": "No ionic compound dissolves in water because ionic bonds are too strong.",
+      "D": "Only compounds containing sodium dissolve in water."
+    },
+    "correct": "A",
+    "explanation": "Strong lattices (high charges, small ions) can resist dissolution.",
+    "distractor_notes": {
+      "B": "Many ionic compounds are insoluble (e.g., MgO, CaCO3).",
+      "C": "NaCl and many others dissolve.",
+      "D": "Many other ionic compounds dissolve."
+    },
+    "tags": [
+      "ionic"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'All', 'no', 'only' are used.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students recall 'ionic dissolves in polar solvent' as a rule.",
+      "how_to_avoid": "Look for exceptions and think about both sides of the energy balance."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.03%3A_Factors_Affecting_Solubility",
+        "https://en.wikipedia.org/wiki/Solubility"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.10-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.10",
+    "topic_title": "Solubility",
+    "learning_objective": "Explain the relationship between the solubility of ionic and molecular compounds in aqueous and nonaqueous solvents, and the intermolecular interactions between particles. (3.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following is miscible with water EXCEPT",
+    "options": {
+      "A": "methanol, $\\mathrm{CH_3OH}$",
+      "B": "ethanol, $\\mathrm{CH_3CH_2OH}$",
+      "C": "1-propanol, $\\mathrm{CH_3CH_2CH_2OH}$",
+      "D": "1-hexanol, $\\mathrm{CH_3(CH_2)_5OH}$"
+    },
+    "correct": "D",
+    "explanation": "1-Hexanol's long hydrocarbon chain makes it only sparingly soluble (≈0.6 g/100 mL), though it has an O-H group.",
+    "distractor_notes": {
+      "A": "Miscible.",
+      "B": "Miscible.",
+      "C": "Miscible."
+    },
+    "tags": [
+      "hydrogen bonding",
+      "trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "All four are alcohols with an O-H group.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume that any alcohol is water soluble.",
+      "how_to_avoid": "Consider the length of the nonpolar chain relative to the polar group."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.03%3A_Factors_Affecting_Solubility",
+        "https://en.wikipedia.org/wiki/Solubility"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.10-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.10",
+    "topic_title": "Solubility",
+    "learning_objective": "Explain the relationship between the solubility of ionic and molecular compounds in aqueous and nonaqueous solvents, and the intermolecular interactions between particles. (3.10.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Alcohol | Solubility (g per 100 mL water, ≈20 °C)\n--- | ---\nmethanol | miscible\n1-butanol | 7.7\n1-pentanol | 2.2\n1-hexanol | 0.59",
+      "citation": "Approximate values from CRC Handbook / PubChem.",
+      "asset_path": null
+    },
+    "question": "Alcohols from methanol to 1-hexanol are examined. Which trend is observed in the solubility in water as the carbon chain gets longer?",
+    "options": {
+      "A": "Solubility increases because longer molecules have stronger dispersion forces with water.",
+      "B": "Solubility decreases.",
+      "C": "Solubility is unchanged because every alcohol has an O-H group.",
+      "D": "Solubility first increases, then decreases."
+    },
+    "correct": "B",
+    "explanation": "The nonpolar portion grows relative to the one O-H group.",
+    "distractor_notes": {
+      "A": "Dispersion forces with water do not offset the lost hydrogen bonds.",
+      "C": "The chain matters.",
+      "D": "The trend is monotonic decrease."
+    },
+    "tags": [
+      "table",
+      "trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Larger molecule = stronger forces = more soluble is a tempting inference.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The rule 'bigger = stronger dispersion' is overused.",
+      "how_to_avoid": "Compare the size of the nonpolar region against the single hydrogen-bonding group."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.03%3A_Factors_Affecting_Solubility",
+        "https://en.wikipedia.org/wiki/Solubility"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.10-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.10",
+    "topic_title": "Solubility",
+    "learning_objective": "Explain the relationship between the solubility of ionic and molecular compounds in aqueous and nonaqueous solvents, and the intermolecular interactions between particles. (3.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement best explains why $\\mathrm{CCl_4}$ is insoluble in water?",
+    "options": {
+      "A": "CCl4 molecules are polar because the C-Cl bonds are polar, but they are too large.",
+      "B": "CCl4 molecules react with water to form HCl.",
+      "C": "CCl4 molecules have a smaller molar mass than water.",
+      "D": "CCl4 molecules are nonpolar because the four C-Cl bond dipoles cancel in a tetrahedral shape."
+    },
+    "correct": "D",
+    "explanation": "Polar bonds do not make a molecule polar when the geometry cancels them.",
+    "distractor_notes": {
+      "A": "The molecule as a whole is nonpolar.",
+      "B": "Only slight hydrolysis at extreme conditions; not the reason for immiscibility.",
+      "C": "CCl4 is much heavier."
+    },
+    "tags": [
+      "polarity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Bond polarity is confused with molecular polarity.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The C-Cl bonds are indeed polar.",
+      "how_to_avoid": "Combine bond polarity with molecular geometry."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.03%3A_Factors_Affecting_Solubility",
+        "https://en.wikipedia.org/wiki/Solubility"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.10-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.10",
+    "topic_title": "Solubility",
+    "learning_objective": "Explain the relationship between the solubility of ionic and molecular compounds in aqueous and nonaqueous solvents, and the intermolecular interactions between particles. (3.10.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Temperature (°C) | Solubility of salt X (g per 100 g water)\n--- | ---\n20 | 32\n40 | 64\n60 | 110",
+      "citation": "Hypothetical solubility data written for this item.",
+      "asset_path": null
+    },
+    "question": "Using the solubility table for salt X, what mass of salt X remains undissolved when 150 g of salt X is added to 200 g of water at 40 °C and stirred until equilibrium? (Assume salt X solubility is proportional to the mass of water.)",
+    "options": {
+      "A": "86 g",
+      "B": "150 g",
+      "C": "22 g",
+      "D": "0 g"
+    },
+    "correct": "C",
+    "explanation": "In 200 g water, the capacity is 2 × 64 = 128 g; 150 − 128 = 22 g remains undissolved.",
+    "distractor_notes": {
+      "A": "Used the solubility for 100 g of water.",
+      "B": "Assumed nothing dissolved.",
+      "D": "Assumed all of the salt dissolves."
+    },
+    "tags": [
+      "table",
+      "saturation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The table is per 100 g of water but the sample has 200 g.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The table value is used directly.",
+      "how_to_avoid": "Scale the solubility by the mass of water."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.03%3A_Factors_Affecting_Solubility",
+        "https://en.wikipedia.org/wiki/Solubility",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.11-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.11",
+    "topic_title": "Spectroscopy and the Electromagnetic Spectrum",
+    "learning_objective": "Explain the relationship between a region of the electromagnetic spectrum and the types of molecular or electronic transitions associated with that region. (3.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What happens to the energy of a photon as its wavelength increases?",
+    "options": {
+      "A": "It increases.",
+      "B": "It stays the same because all photons travel at the speed of light.",
+      "C": "It decreases.",
+      "D": "It first increases and then decreases."
+    },
+    "correct": "C",
+    "explanation": "E = hc/λ: wavelength and energy are inversely related.",
+    "distractor_notes": {
+      "A": "Longer wavelength is lower energy.",
+      "B": "Photon energy depends on frequency.",
+      "D": "The relation is monotonic: E = hc/λ."
+    },
+    "tags": [
+      "photon energy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Direct versus inverse relation.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'Longer' suggests 'more'.",
+      "how_to_avoid": "Write E = hc/λ and check the direction."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electromagnetic_spectrum",
+        "https://en.wikipedia.org/wiki/Spectroscopy"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.11-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.11",
+    "topic_title": "Spectroscopy and the Electromagnetic Spectrum",
+    "learning_objective": "Explain the relationship between a region of the electromagnetic spectrum and the types of molecular or electronic transitions associated with that region. (3.11.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "When a molecule absorbs infrared radiation, which change occurs?",
+    "options": {
+      "A": "The molecule's electrons move to higher energy levels because infrared radiation is heat.",
+      "B": "The molecule's bonds vibrate with greater energy.",
+      "C": "The molecule's nuclei undergo a transition.",
+      "D": "The molecule splits into ions."
+    },
+    "correct": "B",
+    "explanation": "Infrared photons correspond to vibrational energy gaps.",
+    "distractor_notes": {
+      "A": "Electronic transitions need UV/visible photons.",
+      "C": "Not a molecular spectroscopy effect for IR.",
+      "D": "IR photons lack the energy to ionize."
+    },
+    "tags": [
+      "infrared"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "IR is called 'heat radiation', which suggests general energy input into electrons.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The popular name overrides the specific quantized transition.",
+      "how_to_avoid": "Match region to transition type: microwave–rotation, IR–vibration, UV/vis–electronic."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electromagnetic_spectrum",
+        "https://en.wikipedia.org/wiki/Spectroscopy"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.11-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.11",
+    "topic_title": "Spectroscopy and the Electromagnetic Spectrum",
+    "learning_objective": "Explain the relationship between a region of the electromagnetic spectrum and the types of molecular or electronic transitions associated with that region. (3.11.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following pairs of radiation and type of molecular transition is correctly matched EXCEPT",
+    "options": {
+      "A": "infrared radiation — vibrational transitions",
+      "B": "ultraviolet radiation — electronic transitions",
+      "C": "microwave radiation — rotational transitions",
+      "D": "microwave radiation — electronic transitions"
+    },
+    "correct": "D",
+    "explanation": "Microwave photons are associated with rotational transitions.",
+    "distractor_notes": {
+      "A": "Correctly matched.",
+      "B": "Correctly matched.",
+      "C": "Correctly matched."
+    },
+    "tags": [
+      "transitions"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stem with several nearly identical pairs.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students stop at the first pair that looks right.",
+      "how_to_avoid": "Verify each pair independently."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electromagnetic_spectrum",
+        "https://en.wikipedia.org/wiki/Spectroscopy"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.11-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.11",
+    "topic_title": "Spectroscopy and the Electromagnetic Spectrum",
+    "learning_objective": "Explain the relationship between a region of the electromagnetic spectrum and the types of molecular or electronic transitions associated with that region. (3.11.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which type of radiation is associated with transitions between rotational energy levels of molecules?",
+    "options": {
+      "A": "Microwave",
+      "B": "Infrared",
+      "C": "Visible",
+      "D": "Ultraviolet"
+    },
+    "correct": "A",
+    "explanation": "Rotational gaps are the smallest, so they match the lowest-energy of these photons.",
+    "distractor_notes": {
+      "B": "Associated with vibrations.",
+      "C": "Associated with electronic transitions.",
+      "D": "Associated with electronic transitions."
+    },
+    "tags": [
+      "microwave"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Infrared and microwave are neighbors in the spectrum.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students confuse the transition type assigned to each neighbor.",
+      "how_to_avoid": "Memorize the sequence microwave–rotational, IR–vibrational, UV/vis–electronic."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electromagnetic_spectrum",
+        "https://en.wikipedia.org/wiki/Spectroscopy"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.11-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.11",
+    "topic_title": "Spectroscopy and the Electromagnetic Spectrum",
+    "learning_objective": "Explain the relationship between a region of the electromagnetic spectrum and the types of molecular or electronic transitions associated with that region. (3.11.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Observation | Value\n--- | ---\nAbsorption maximum | 650 nm (red)\nAbsorption elsewhere in visible | weak",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "A solution has an absorption maximum at 650 nm (red light) and transmits the rest of the visible spectrum. What color does the solution appear?",
+    "options": {
+      "A": "Red",
+      "B": "Blue-green (cyan)",
+      "C": "Colorless",
+      "D": "Orange"
+    },
+    "correct": "B",
+    "explanation": "The observed color is the complement of the absorbed color: red absorbed gives blue-green.",
+    "distractor_notes": {
+      "A": "Red is the light absorbed, not transmitted.",
+      "C": "It absorbs visible light.",
+      "D": "Orange is next to red but is not complementary."
+    },
+    "tags": [
+      "color"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The question asks for the observed color, not the absorbed color.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The only color stated in the data is red.",
+      "how_to_avoid": "Distinguish absorbed from transmitted light."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electromagnetic_spectrum",
+        "https://en.wikipedia.org/wiki/Spectroscopy"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.11-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.11",
+    "topic_title": "Spectroscopy and the Electromagnetic Spectrum",
+    "learning_objective": "Explain the relationship between a region of the electromagnetic spectrum and the types of molecular or electronic transitions associated with that region. (3.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about molecular absorption of electromagnetic radiation is correct?",
+    "options": {
+      "A": "A molecule can absorb photons in only one region of the spectrum.",
+      "B": "A molecule absorbs in every region of the spectrum equally.",
+      "C": "A molecule never absorbs microwave and UV light in the same sample.",
+      "D": "A molecule can absorb in more than one region of the spectrum, because it has rotational, vibrational, and electronic energy levels."
+    },
+    "correct": "D",
+    "explanation": "Each type of transition has its own range of energy gaps, so a molecule can absorb in several regions.",
+    "distractor_notes": {
+      "A": "It has several kinds of energy levels.",
+      "B": "Absorption occurs only at matching energies.",
+      "C": "Both can occur in the same sample."
+    },
+    "tags": [
+      "transitions"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Only', 'every', and 'never' in distractors.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "A single memorized association per molecule is overgeneralized.",
+      "how_to_avoid": "Treat each transition type separately."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electromagnetic_spectrum",
+        "https://en.wikipedia.org/wiki/Spectroscopy"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.12-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.12",
+    "topic_title": "Properties of Photons",
+    "learning_objective": "Explain the properties of an absorbed or emitted photon in relationship to an electronic transition in an atom or molecule. (3.12.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the energy of one photon of light with wavelength 450 nm? (Use $h$ = 6.626 × 10$^{-34}$ J·s, $c$ = 3.00 × 10$^{8}$ m/s, $N_A$ = 6.022 × 10$^{23}$ mol$^{-1}$.)",
+    "options": {
+      "A": "$4.42 \\times 10^{-28}\\ \\mathrm{J}$",
+      "B": "$8.95 \\times 10^{-32}\\ \\mathrm{J}$",
+      "C": "$4.42 \\times 10^{-16}\\ \\mathrm{J}$",
+      "D": "$4.42 \\times 10^{-19}\\ \\mathrm{J}$"
+    },
+    "correct": "D",
+    "explanation": "Convert 450 nm = 4.50×10$^{-7}$ m: E = hc/λ = 4.417e-19 J.",
+    "distractor_notes": {
+      "A": "Used 450 as meters.",
+      "B": "Multiplied by λ.",
+      "C": "Used a wrong exponent."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Wavelength is given in nm.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "450 looks like a ready-to-use number.",
+      "how_to_avoid": "Convert nm to m before using c = 3.00×10⁸ m/s."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.02%3A_Quantized_Energy_and_Photons",
+        "https://en.wikipedia.org/wiki/Planck%E2%80%93Einstein_relation",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.12-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.12",
+    "topic_title": "Properties of Photons",
+    "learning_objective": "Explain the properties of an absorbed or emitted photon in relationship to an electronic transition in an atom or molecule. (3.12.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which light has the greater frequency: 400 nm or 700 nm?",
+    "options": {
+      "A": "700 nm",
+      "B": "Both have the same frequency because both are visible.",
+      "C": "400 nm",
+      "D": "It depends on the intensity of the light."
+    },
+    "correct": "C",
+    "explanation": "ν = c/λ: shorter wavelength means higher frequency.",
+    "distractor_notes": {
+      "A": "Longer wavelength means lower frequency.",
+      "B": "Frequency varies across the visible range.",
+      "D": "Intensity does not change the frequency."
+    },
+    "tags": [
+      "c = λν"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Inverse relation.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Larger numbers are associated with 'more'.",
+      "how_to_avoid": "Use ν = c/λ."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.02%3A_Quantized_Energy_and_Photons",
+        "https://en.wikipedia.org/wiki/Planck%E2%80%93Einstein_relation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.12-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.12",
+    "topic_title": "Properties of Photons",
+    "learning_objective": "Explain the properties of an absorbed or emitted photon in relationship to an electronic transition in an atom or molecule. (3.12.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The intensity of a beam of monochromatic light is doubled without changing its wavelength. What happens to the energy of each photon?",
+    "options": {
+      "A": "It remains the same.",
+      "B": "It doubles because the beam is brighter.",
+      "C": "It is halved because the photons are shared.",
+      "D": "It increases by a factor of 4."
+    },
+    "correct": "A",
+    "explanation": "Photon energy depends only on frequency (E = hν); a brighter beam has more photons per second.",
+    "distractor_notes": {
+      "B": "Intensity depends on photon number.",
+      "C": "Energy per photon is unchanged.",
+      "D": "No effect on photon energy."
+    },
+    "tags": [
+      "photons"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Brightness is confused with photon energy.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "'More energy' is read as 'brighter'.",
+      "how_to_avoid": "Remember E = hν; intensity = number of photons per time and area."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.02%3A_Quantized_Energy_and_Photons",
+        "https://en.wikipedia.org/wiki/Planck%E2%80%93Einstein_relation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.12-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.12",
+    "topic_title": "Properties of Photons",
+    "learning_objective": "Explain the properties of an absorbed or emitted photon in relationship to an electronic transition in an atom or molecule. (3.12.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the energy of one mole of photons of wavelength 400. nm? (Use $h$ = 6.626 × 10$^{-34}$ J·s, $c$ = 3.00 × 10$^{8}$ m/s, $N_A$ = 6.022 × 10$^{23}$ mol$^{-1}$.)",
+    "options": {
+      "A": "$4.97 \\times 10^{-19}\\ \\mathrm{kJ/mol}$",
+      "B": "299 kJ/mol",
+      "C": "$2.99 \\times 10^{5}\\ \\mathrm{kJ/mol}$",
+      "D": "$4.97 \\times 10^{-22}\\ \\mathrm{kJ/mol}$"
+    },
+    "correct": "B",
+    "explanation": "Per photon: 4.969e-19 J; per mole: ×N_A = 299 kJ/mol.",
+    "distractor_notes": {
+      "A": "Gave the energy per photon (in J) and labeled it per mole.",
+      "C": "Left in J/mol.",
+      "D": "Divided by NA."
+    },
+    "tags": [
+      "per mole"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Energy per photon is confused with energy per mole of photons.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both are called 'energy of the light'.",
+      "how_to_avoid": "Check the requested unit and multiply by N_A for per-mole values."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.02%3A_Quantized_Energy_and_Photons",
+        "https://en.wikipedia.org/wiki/Planck%E2%80%93Einstein_relation",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.12-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.12",
+    "topic_title": "Properties of Photons",
+    "learning_objective": "Explain the properties of an absorbed or emitted photon in relationship to an electronic transition in an atom or molecule. (3.12.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "As the frequency of electromagnetic radiation increases, each of the following also increases EXCEPT",
+    "options": {
+      "A": "photon energy",
+      "B": "wavelength",
+      "C": "energy per mole of photons",
+      "D": "energy needed to be absorbed in an electronic transition by the matching photon"
+    },
+    "correct": "B",
+    "explanation": "λ = c/ν decreases as ν increases.",
+    "distractor_notes": {
+      "A": "Increases with frequency.",
+      "C": "Increases with frequency.",
+      "D": "Higher-energy transitions need higher-frequency photons."
+    },
+    "tags": [
+      "relationships"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stem.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the first statement that matches the direct relationship.",
+      "how_to_avoid": "Evaluate each quantity's relation to ν."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.02%3A_Quantized_Energy_and_Photons",
+        "https://en.wikipedia.org/wiki/Planck%E2%80%93Einstein_relation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.12-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.12",
+    "topic_title": "Properties of Photons",
+    "learning_objective": "Explain the properties of an absorbed or emitted photon in relationship to an electronic transition in an atom or molecule. (3.12.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Transition | Energy of emitted photon (J)\n--- | ---\nA | 4.09e-19\nB | 3.03e-19\nC | 2.04e-19",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "The table gives the energy released in three electronic transitions of an atom. Which transition emits light of the longest wavelength?",
+    "options": {
+      "A": "Transition C",
+      "B": "Transition A",
+      "C": "Transition B",
+      "D": "All emit the same wavelength because they are in the same atom."
+    },
+    "correct": "A",
+    "explanation": "λ = hc/E: the smallest energy (C) gives the longest wavelength (≈975 nm).",
+    "distractor_notes": {
+      "B": "Largest energy, so the shortest wavelength.",
+      "C": "Intermediate energy.",
+      "D": "Different gaps give different wavelengths."
+    },
+    "tags": [
+      "table"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Largest number looks like the 'largest' wavelength.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students equate the largest energy with the largest wavelength.",
+      "how_to_avoid": "Use the inverse relation between energy and wavelength."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.02%3A_Quantized_Energy_and_Photons",
+        "https://en.wikipedia.org/wiki/Planck%E2%80%93Einstein_relation",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.13-trap-0001",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.13",
+    "topic_title": "Beer-Lambert Law",
+    "learning_objective": "Explain the amount of light absorbed by a solution of molecules or ions in relationship to the concentration, path length, and molar absorptivity. (3.13.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A solute has ε = 1.00 × 10$^4$ L/(mol·cm). The cuvette has a path length of 10.0 mm and the solution concentration is 2.00 × 10$^{-5}$ M. What is the absorbance?",
+    "options": {
+      "A": "2.00",
+      "B": "20.0",
+      "C": "0.200",
+      "D": "0.0200"
+    },
+    "correct": "C",
+    "explanation": "b = 10.0 mm = 1.00 cm; A = εbc = (1.00×10$^4$)(1.00)(2.00×10$^{-5}$) = 0.200.",
+    "distractor_notes": {
+      "A": "Used 10.0 mm as the path length in cm.",
+      "B": "Converted mm to cm by multiplying by 10.",
+      "D": "Divided by an extra 10."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Path length is in mm while ε uses cm.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "10.0 is a convenient number to substitute directly.",
+      "how_to_avoid": "Convert the path length to cm."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law",
+        "https://en.wikipedia.org/wiki/Spectrophotometry",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.13-trap-0002",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.13",
+    "topic_title": "Beer-Lambert Law",
+    "learning_objective": "Explain the amount of light absorbed by a solution of molecules or ions in relationship to the concentration, path length, and molar absorptivity. (3.13.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about a solution with a high absorbance at a given wavelength is correct?",
+    "options": {
+      "A": "It transmits a large fraction of the light at that wavelength.",
+      "B": "It transmits all of the light but changes its wavelength.",
+      "C": "It transmits the same fraction of light as a solution with low absorbance.",
+      "D": "It transmits a small fraction of the light at that wavelength."
+    },
+    "correct": "D",
+    "explanation": "A = −log(T): large A means small T.",
+    "distractor_notes": {
+      "A": "High absorbance means low transmittance.",
+      "B": "Absorption removes photons.",
+      "C": "Absorbance and transmittance are inversely related."
+    },
+    "tags": [
+      "transmittance"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "'High' is read as 'more light gets through'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The word 'absorbance' is linked to 'light present' rather than 'light removed'.",
+      "how_to_avoid": "Relate absorbance to the fraction of light absorbed."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law",
+        "https://en.wikipedia.org/wiki/Spectrophotometry"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.13-trap-0003",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.13",
+    "topic_title": "Beer-Lambert Law",
+    "learning_objective": "Explain the amount of light absorbed by a solution of molecules or ions in relationship to the concentration, path length, and molar absorptivity. (3.13.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "When the absorbance of a solution doubles from 0.30 to 0.60, what happens to the percent transmittance? (Use $A = -\\log_{10}T$.)",
+    "options": {
+      "A": "It doubles from about 50% to about 100%.",
+      "B": "It falls from about 50% to about 25% (is halved).",
+      "C": "It falls from about 50% to about 13%.",
+      "D": "It falls from about 50% to about 0%."
+    },
+    "correct": "B",
+    "explanation": "T = 10^(−A): 10^(−0.30) = 0.501 (50.1%); 10^(−0.60) = 0.251 (25.1%).",
+    "distractor_notes": {
+      "A": "Transmittance falls as absorbance rises.",
+      "C": "This would require A ≈ 0.90, not 0.60.",
+      "D": "T never reaches zero."
+    },
+    "tags": [
+      "transmittance"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Transmittance is a logarithmic function of absorbance.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume a linear inverse relationship.",
+      "how_to_avoid": "Convert with T = 10^−A rather than guessing linear changes."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law",
+        "https://en.wikipedia.org/wiki/Spectrophotometry",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.13-trap-0004",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.13",
+    "topic_title": "Beer-Lambert Law",
+    "learning_objective": "Explain the amount of light absorbed by a solution of molecules or ions in relationship to the concentration, path length, and molar absorptivity. (3.13.A)",
+    "skill": "Question and Method",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Each of the following would cause the measured absorbance of a solution to be higher than its true value EXCEPT",
+    "options": {
+      "A": "blanking the spectrophotometer with the solvent in a clean, matched cuvette",
+      "B": "a fingerprint on the light-transmitting face of the cuvette",
+      "C": "bubbles in the light path",
+      "D": "a cuvette scratched in the light path"
+    },
+    "correct": "A",
+    "explanation": "Blanking with clean solvent corrects for the cuvette and solvent and does not bias A upward.",
+    "distractor_notes": {
+      "B": "Absorbs/scatters light; raises A.",
+      "C": "Scatter light; raise A.",
+      "D": "Scatters light; raises A."
+    },
+    "tags": [
+      "error analysis"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stem for a lab error question.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students look for 'an error' and choose an unfamiliar item.",
+      "how_to_avoid": "Decide for each option whether it biases A upward."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law",
+        "https://en.wikipedia.org/wiki/Spectrophotometry"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.13-trap-0005",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.13",
+    "topic_title": "Beer-Lambert Law",
+    "learning_objective": "Explain the amount of light absorbed by a solution of molecules or ions in relationship to the concentration, path length, and molar absorptivity. (3.13.A)",
+    "skill": "Question and Method",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Why is the wavelength of maximum absorbance usually chosen for a Beer-Lambert analysis?",
+    "options": {
+      "A": "The solution is most transparent at that wavelength, so the measurement is simplest.",
+      "B": "The absorbance is independent of concentration at that wavelength.",
+      "C": "The wavelength is the one at which the molar absorptivity is zero.",
+      "D": "The absorbance changes the most for a given change in concentration, which maximizes sensitivity."
+    },
+    "correct": "D",
+    "explanation": "A larger ε gives a larger slope in the calibration plot, improving sensitivity.",
+    "distractor_notes": {
+      "A": "The solution absorbs most strongly there.",
+      "B": "A still depends on c.",
+      "C": "ε is greatest, not zero."
+    },
+    "tags": [
+      "λmax"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "'Maximum absorbance' is mistaken for 'maximum transmittance'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse the association between absorbance and transparency.",
+      "how_to_avoid": "Link max absorbance with max ε and max slope."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law",
+        "https://en.wikipedia.org/wiki/Spectrophotometry"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apchem-u3-t3.13-trap-0006",
+    "subject": "apchem",
+    "unit": 3,
+    "unit_title": "Intermolecular Forces and Properties",
+    "topic": "3.13",
+    "topic_title": "Beer-Lambert Law",
+    "learning_objective": "Explain the amount of light absorbed by a solution of molecules or ions in relationship to the concentration, path length, and molar absorptivity. (3.13.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Concentration (mM) | Absorbance at λmax (b = 1.00 cm)\n--- | ---\n2.0 | 0.1\n4.0 | 0.2\n6.0 | 0.3\n8.0 | 0.4",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "The calibration data below were collected for a dye in a 1.00 cm cuvette. An unknown has an absorbance of 0.255. What is the dye concentration in mol/L?",
+    "options": {
+      "A": "5.10 M",
+      "B": "0.00510 M",
+      "C": "$5.10 \\times 10^{-6}\\ \\mathrm{M}$",
+      "D": "0.0510 M"
+    },
+    "correct": "B",
+    "explanation": "Slope = 0.100/2.0 mM = 0.050 per mM; c = 0.255/0.050 = 5.10 mM = 0.00510 M.",
+    "distractor_notes": {
+      "A": "Left the answer in mM but labeled it M.",
+      "C": "Divided by 1000 twice.",
+      "D": "Used the wrong calibration point."
+    },
+    "tags": [
+      "table",
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The table gives concentration in mM but the question asks for mol/L.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The unit label in the column header is overlooked.",
+      "how_to_avoid": "Check the column units and convert to the requested unit."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law",
+        "https://en.wikipedia.org/wiki/Spectrophotometry",
+        "Computed with Python (apchem/scripts/unit03_gen.py); constants per NIST CODATA https://physics.nist.gov/cuu/Constants/"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  }
+]

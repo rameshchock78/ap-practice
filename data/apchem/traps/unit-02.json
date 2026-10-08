@@ -1,0 +1,3281 @@
+[
+  {
+    "id": "apchem-u2-t2.1-trap-0001",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.1",
+    "topic_title": "Types of Chemical Bonds",
+    "learning_objective": "Explain the relationship between the type of bonding and the properties of the elements participating in the bond. (2.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the bond in $\\mathrm{O_2}$ is correct?",
+    "options": {
+      "A": "It is polar because oxygen is a highly electronegative element.",
+      "B": "It is nonpolar because both atoms have the same electronegativity.",
+      "C": "It is ionic because oxygen is a nonmetal that attracts electrons strongly.",
+      "D": "It is polar because it contains a double bond."
+    },
+    "correct": "B",
+    "explanation": "In O=O the two atoms are identical (ΔEN = 0), so the electrons are shared equally.",
+    "distractor_notes": {
+      "A": "High electronegativity alone does not make a bond polar; ΔEN does.",
+      "C": "Identical atoms share electrons equally.",
+      "D": "Bond order does not determine polarity."
+    },
+    "tags": [
+      "nonpolar"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "High electronegativity of the atoms is mistaken for polarity of the bond.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students associate 'very electronegative' with 'polar'.",
+      "how_to_avoid": "Polarity depends on the difference in electronegativity between the bonded atoms."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electronegativity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Chemical_Bonds"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.1-trap-0002",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.1",
+    "topic_title": "Types of Chemical Bonds",
+    "learning_objective": "Explain the relationship between the type of bonding and the properties of the elements participating in the bond. (2.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Consider the bonds C–H, N–H, and O–H. Which statement is true?",
+    "options": {
+      "A": "The C–H bond is the most polar, because carbon has the smallest electronegativity.",
+      "B": "All three bonds are equally polar because hydrogen is common to all.",
+      "C": "The O–H bond is the most polar, and the C–H bond is the least polar.",
+      "D": "The N–H bond is the most polar, since nitrogen forms the most bonds."
+    },
+    "correct": "C",
+    "explanation": "ΔEN: C–H 0.35, N–H 0.84, O–H 1.24, so polarity increases C–H < N–H < O–H.",
+    "distractor_notes": {
+      "A": "A smaller EN of one atom is not the same as a large ΔEN.",
+      "B": "ΔEN differs: 0.35, 0.84, 1.24.",
+      "D": "Number of bonds does not determine polarity."
+    },
+    "tags": [
+      "bond polarity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The shared atom (H) distracts from the changing partner atom.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume bonds with the same atom are alike.",
+      "how_to_avoid": "Compute ΔEN for each bond, not just look at the common atom."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electronegativity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Chemical_Bonds",
+        "https://en.wikipedia.org/wiki/Electronegativities_of_the_elements_(data_page)",
+        "https://en.wikipedia.org/wiki/Chemical_polarity",
+        "Independent audit (apchem/scripts/unit02_audit2.py): ΔEN with H: C 0.35, N 0.84, O 1.24 | claims: Bond polarity increases as the electronegativity difference increases"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.1-trap-0003",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.1",
+    "topic_title": "Types of Chemical Bonds",
+    "learning_objective": "Explain the relationship between the type of bonding and the properties of the elements participating in the bond. (2.1.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A compound is made of a metal and a nonmetal. Which claim about its bonding is the most defensible?",
+    "options": {
+      "A": "It must be purely ionic, because it contains a metal, since any compound that contains a metal is made only of ions and nothing else.",
+      "B": "It must be metallic, because it contains a metal, since every compound that contains a metal has a sea of delocalized electrons.",
+      "C": "It must be nonpolar covalent, because all compounds share electrons, since every compound shares all of its valence electrons equally between atoms.",
+      "D": "The bonding is likely ionic only if ΔEN is large; metal–nonmetal pairs with small ΔEN have more covalent character."
+    },
+    "correct": "D",
+    "explanation": "Bonding is a continuum controlled by ΔEN; metal–nonmetal compounds with moderate ΔEN (e.g., some metal chlorides) show significant covalent character.",
+    "distractor_notes": {
+      "A": "Bond type depends on ΔEN, not just element class.",
+      "B": "Metallic bonding occurs among metal atoms.",
+      "C": "Large ΔEN leads to electron transfer."
+    },
+    "tags": [
+      "continuum"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The tempting option states that a metal always implies an ionic compound.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students memorize 'metal + nonmetal = ionic' as a rule with no exceptions.",
+      "how_to_avoid": "Check ΔEN and treat bond type as a continuum."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electronegativity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Chemical_Bonds"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.1-trap-0004",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.1",
+    "topic_title": "Types of Chemical Bonds",
+    "learning_objective": "Explain the relationship between the type of bonding and the properties of the elements participating in the bond. (2.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the polarity of the bond in HF is NOT correct?",
+    "options": {
+      "A": "The electrons in H–F are shared equally between the two atoms.",
+      "B": "Fluorine carries a partial negative charge.",
+      "C": "The H–F bond has a large bond dipole.",
+      "D": "Hydrogen carries a partial positive charge."
+    },
+    "correct": "A",
+    "explanation": "ΔEN = 1.78, so F is δ− and H is δ+; the electrons are not shared equally.",
+    "distractor_notes": {
+      "B": "This is correct, so it is not the answer.",
+      "C": "This is correct, so it is not the answer.",
+      "D": "This is correct, so it is not the answer."
+    },
+    "tags": [
+      "NOT stem"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem: three true statements precede the false one.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students choose the first familiar true statement.",
+      "how_to_avoid": "Mark each option true/false before choosing the one that is false."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electronegativity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Chemical_Bonds",
+        "https://en.wikipedia.org/wiki/Electronegativities_of_the_elements_(data_page)",
+        "https://en.wikipedia.org/wiki/Chemical_polarity",
+        "Independent audit (apchem/scripts/unit02_audit2.py): ΔEN(H–F)=1.78; μ(HF)=1.86 D (Wikipedia): the 'shared equally' statement is the false one | claims: Bond polarity increases as the electronegativity difference increases"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.1-trap-0005",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.1",
+    "topic_title": "Types of Chemical Bonds",
+    "learning_objective": "Explain the relationship between the type of bonding and the properties of the elements participating in the bond. (2.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "As ΔEN for a bond increases from 0.4 to 1.6, what happens to the polarity of the bond?",
+    "options": {
+      "A": "It decreases, and the bond has more covalent character.",
+      "B": "It stays the same, because bond type depends only on bond length.",
+      "C": "It decreases, because larger ΔEN means the electrons are shared more equally.",
+      "D": "It increases, and the bond has more ionic character."
+    },
+    "correct": "D",
+    "explanation": "Bond polarity rises with ΔEN; the bond moves along the continuum toward ionic.",
+    "distractor_notes": {
+      "A": "The trend is reversed.",
+      "B": "Polarity depends on ΔEN.",
+      "C": "Larger ΔEN means more unequal sharing."
+    },
+    "tags": [
+      "trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Direction of the ΔEN–polarity relationship.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students confuse 'difference' with 'similarity' and reverse the trend.",
+      "how_to_avoid": "Greater difference gives greater polarity."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electronegativity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Chemical_Bonds",
+        "https://en.wikipedia.org/wiki/Electronegativities_of_the_elements_(data_page)",
+        "https://en.wikipedia.org/wiki/Chemical_polarity",
+        "Independent audit (apchem/scripts/unit02_audit2.py): polarity grows as ΔEN grows from 0.4 to 1.6 | claims: Bond polarity increases as the electronegativity difference increases"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.1-trap-0006",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.1",
+    "topic_title": "Types of Chemical Bonds",
+    "learning_objective": "Explain the relationship between the type of bonding and the properties of the elements participating in the bond. (2.1.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Bond | ΔEN\n--- | ---\nS–C | 0.03\nH–C | 0.35\nN–O | 0.40\nH–S | 0.38",
+      "citation": "Original data table written for this item (values rounded).",
+      "asset_path": null
+    },
+    "question": "The data table shows ΔEN for four bonds. Which bond has the SMALLEST bond dipole?",
+    "options": {
+      "A": "H–C",
+      "B": "H–S",
+      "C": "S–C",
+      "D": "N–O"
+    },
+    "correct": "C",
+    "explanation": "Compare the ΔEN values in the table: S–C (0.03) is the smallest, so its bond dipole is smallest.",
+    "distractor_notes": {
+      "A": "ΔEN = 0.35, larger than S–C.",
+      "B": "ΔEN = 0.38, larger than S–C.",
+      "D": "ΔEN = 0.40, larger than S–C."
+    },
+    "tags": [
+      "table"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Bonds between different elements are assumed to be more polar than bonds that include hydrogen.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume atoms of two different elements always make a clearly polar bond.",
+      "how_to_avoid": "Compare the actual ΔEN values rather than the identities of the atoms."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electronegativity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Chemical_Bonds",
+        "https://en.wikipedia.org/wiki/Electronegativities_of_the_elements_(data_page)",
+        "Independent audit (apchem/scripts/unit02_audit2.py): smallest ΔEN row in table"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.1-trap-0007",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.1",
+    "topic_title": "Types of Chemical Bonds",
+    "learning_objective": "Explain the relationship between the type of bonding and the properties of the elements participating in the bond. (2.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement is the best explanation for why the C–H bond is considered effectively nonpolar?",
+    "options": {
+      "A": "The electronegativity values of C (2.55) and H (2.20) are close, so the shared electrons are nearly equally shared.",
+      "B": "Carbon and hydrogen are the same size, so the electrons are shared equally.",
+      "C": "Carbon is slightly more electronegative, so the C–H bond has a zero ΔEN.",
+      "D": "Hydrogen and carbon are in the same period, so they share electrons equally."
+    },
+    "correct": "A",
+    "explanation": "ΔEN = 0.35 is small; the CED treats C–H bonds as effectively nonpolar even though carbon is slightly more electronegative.",
+    "distractor_notes": {
+      "B": "The atoms differ greatly in size.",
+      "C": "ΔEN is 0.35, not zero.",
+      "D": "They are in different periods and have different EN."
+    },
+    "tags": [
+      "C-H"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Right idea (nearly equal sharing) but wrong reason offered in distractors.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students think 'effectively nonpolar' means exactly zero ΔEN.",
+      "how_to_avoid": "State the ΔEN value and compare it with polar bonds."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electronegativity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Chemical_Bonds"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.1-trap-0008",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.1",
+    "topic_title": "Types of Chemical Bonds",
+    "learning_objective": "Explain the relationship between the type of bonding and the properties of the elements participating in the bond. (2.1.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Solid X conducts electricity as a solid and as a liquid. Solid Y does not conduct as a solid but does as a liquid. Which claim is best supported?",
+    "options": {
+      "A": "X is likely ionic and Y is likely metallic.",
+      "B": "X is likely metallic and Y is likely ionic.",
+      "C": "Both X and Y are likely metallic.",
+      "D": "Both X and Y are likely ionic."
+    },
+    "correct": "B",
+    "explanation": "Solid-state conduction signals delocalized electrons (metallic). Conduction only in the liquid indicates ions that become mobile on melting (ionic).",
+    "distractor_notes": {
+      "A": "Metallic solids conduct in the solid state.",
+      "C": "Y does not conduct as a solid.",
+      "D": "X conducts as a solid, so it has mobile electrons."
+    },
+    "tags": [
+      "conductivity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Conduction when molten is true for both metals and ionic compounds.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students use a single observation; both substances conduct as liquids.",
+      "how_to_avoid": "Use the solid-state result to separate the two types."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Electronegativity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Chemical_Bonds"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.2-trap-0001",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.2",
+    "topic_title": "Intramolecular Force and Potential Energy",
+    "learning_objective": "Represent the relationship between potential energy and distance between atoms, based on factors that influence the interaction strength. (2.2.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For the reaction $\\mathrm{2\\,H_2(g) + O_2(g) \\rightarrow 2\\,H_2O(g)}$, use bond energies (H–H 432, O=O 495, O–H 467 kJ/mol) to estimate ΔH.",
+    "options": {
+      "A": "-509 kJ",
+      "B": "+509 kJ",
+      "C": "425 kJ",
+      "D": "-941 kJ"
+    },
+    "correct": "A",
+    "explanation": "Break 2 H–H (864) and 1 O=O (495): 1359 kJ absorbed; form 4 O–H: 1868 kJ released. ΔH = 1359 − 1868 = −509 kJ.",
+    "distractor_notes": {
+      "B": "Reversed the sign: bonds formed minus bonds broken.",
+      "C": "Counted only 2 O–H bonds formed instead of 4.",
+      "D": "Counted only one H–H bond broken."
+    },
+    "tags": [
+      "enthalpy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Sign convention ΔH = bonds broken − bonds formed.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students subtract in the wrong order or forget the bond count in H$_2$O.",
+      "how_to_avoid": "Write energy in (broken) and energy out (formed) separately, then subtract."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bond_length",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Bond_Energies",
+        "https://chem.libretexts.org/Courses/University_of_California_Davis/Chem_107A%3A_Physical_Chemistry_for_Life_Scientists/03%3A_First_Law_of_Thermodynamics/3.06%3A_Bond_Energies_Bond_Enthalpies",
+        "https://chem.libretexts.org/Courses/University_of_Alberta_Augustana_Campus/AUCHE_112_-_General_Chemistry_II_(Elizabeth_McGinitie)/01%3A_Thermochemistry/1.06%3A_Bond_Energies",
+        "Independent audit (apchem/scripts/unit02_audit2.py): ΔH = Σbroken − Σformed = -509 kJ using LibreTexts T3"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.2-trap-0002",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.2",
+    "topic_title": "Intramolecular Force and Potential Energy",
+    "learning_objective": "Represent the relationship between potential energy and distance between atoms, based on factors that influence the interaction strength. (2.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student states that a longer bond is a stronger bond because the atoms are farther apart and repel less. Which response is correct?",
+    "options": {
+      "A": "Correct: longer bonds are stronger because there is less repulsion between nuclei.",
+      "B": "Incorrect: for the same pair of atoms, longer bonds have shallower wells and are weaker.",
+      "C": "Correct: strength depends only on distance, not on the number of shared electrons.",
+      "D": "Incorrect: bond strength and bond length are unrelated, since each is controlled by different properties of the atoms."
+    },
+    "correct": "B",
+    "explanation": "Within a series (e.g., C–C, C=C, C≡C) shorter bonds have greater bond energy.",
+    "distractor_notes": {
+      "A": "Repulsion at equilibrium is balanced, and longer bonds have lower overlap and attraction.",
+      "C": "Bond order matters.",
+      "D": "They are inversely related for a given pair of atoms."
+    },
+    "tags": [
+      "trend"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Longer is assumed stronger.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students think distance reduces repulsion and therefore means stability.",
+      "how_to_avoid": "Use the PE curve: deeper wells appear at shorter distances for higher-order bonds."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bond_length",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Bond_Energies"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.2-trap-0003",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.2",
+    "topic_title": "Intramolecular Force and Potential Energy",
+    "learning_objective": "Represent the relationship between potential energy and distance between atoms, based on factors that influence the interaction strength. (2.2.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In a potential energy diagram, which statement about the lowest point on the curve is correct?",
+    "options": {
+      "A": "The atoms exert no force on each other, so the potential energy is zero.",
+      "B": "The atoms are separated by an infinite distance and no longer interact with each other in any way.",
+      "C": "The atoms have the maximum potential energy of any separation on the curve, so they are at their least stable.",
+      "D": "The atoms are bonded and the energy is lower than that of the separated atoms."
+    },
+    "correct": "D",
+    "explanation": "At the minimum the net force is zero (attractions balance repulsions) but the energy is lower than at infinite separation by the bond energy.",
+    "distractor_notes": {
+      "A": "PE is negative relative to separated atoms; the force is zero but the energy is not.",
+      "B": "Infinite separation is the zero of PE.",
+      "C": "The minimum is the lowest PE."
+    },
+    "tags": [
+      "potential energy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Net force is zero at the minimum, but the PE is not zero.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students merge 'zero net force' with 'zero potential energy'.",
+      "how_to_avoid": "Separate the force (slope) from the energy (height) on the graph."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bond_length",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Bond_Energies"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.2-trap-0004",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.2",
+    "topic_title": "Intramolecular Force and Potential Energy",
+    "learning_objective": "Represent the relationship between potential energy and distance between atoms, based on factors that influence the interaction strength. (2.2.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The bond energy of Cl–Cl is 239 kJ/mol. How much energy is released when 0.500 mol of Cl–Cl bonds form from Cl atoms?",
+    "options": {
+      "A": "−119.5 kJ",
+      "B": "478 kJ",
+      "C": "119.5 kJ",
+      "D": "239 kJ"
+    },
+    "correct": "C",
+    "explanation": "Energy released = 0.500 mol × 239 kJ/mol = 119.5 kJ (ΔH = −119.5 kJ).",
+    "distractor_notes": {
+      "A": "Energy released is reported as a positive amount here.",
+      "B": "Divided by 0.500 instead of multiplying.",
+      "D": "Ignored the mole amount."
+    },
+    "tags": [
+      "bond energy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Question asks for energy released (a positive magnitude), not ΔH.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students attach a sign to a quantity that is asked as a released amount.",
+      "how_to_avoid": "Read 'released' as a magnitude; use ΔH for signed values."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bond_length",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Bond_Energies",
+        "https://chem.libretexts.org/Courses/University_of_California_Davis/Chem_107A%3A_Physical_Chemistry_for_Life_Scientists/03%3A_First_Law_of_Thermodynamics/3.06%3A_Bond_Energies_Bond_Enthalpies",
+        "https://chem.libretexts.org/Courses/University_of_Alberta_Augustana_Campus/AUCHE_112_-_General_Chemistry_II_(Elizabeth_McGinitie)/01%3A_Thermochemistry/1.06%3A_Bond_Energies",
+        "Independent audit (apchem/scripts/unit02_audit2.py): 0.500×239=119.5 ; also re-solved by unit02_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.2-trap-0005",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.2",
+    "topic_title": "Intramolecular Force and Potential Energy",
+    "learning_objective": "Represent the relationship between potential energy and distance between atoms, based on factors that influence the interaction strength. (2.2.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "graph",
+      "content": "Minimum potential energy (kJ/mol) and distance at minimum for four atom pairs.\nPair | Minimum PE (kJ/mol) | r at minimum (pm)\n--- | --- | ---\nPair M | -520 | 95\nPair N | -310 | 120\nPair O | -250 | 150\nPair P | -180 | 170",
+      "citation": "Original data written for this item.",
+      "asset_path": null
+    },
+    "question": "In the table, which pair of atoms has the strongest bond?",
+    "options": {
+      "A": "Pair N",
+      "B": "Pair M",
+      "C": "Pair O",
+      "D": "Pair P"
+    },
+    "correct": "B",
+    "explanation": "The deepest minimum (most negative PE) indicates the greatest bond energy; compare depths, not distances or signs.",
+    "distractor_notes": {
+      "A": "PE minimum is −310, less negative than pair M's.",
+      "C": "PE minimum is −250, the weakest bond.",
+      "D": "Its minimum occurs at the largest r, but its depth is only −180 kJ/mol."
+    },
+    "tags": [
+      "potential energy",
+      "table"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Negative PE values can be misread as 'smaller means weaker'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the largest number (−180) as the strongest.",
+      "how_to_avoid": "Bond energy is the magnitude of the well depth: the most negative PE is the strongest."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bond_length",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Bond_Energies",
+        "https://chem.libretexts.org/Courses/University_of_California_Davis/Chem_107A%3A_Physical_Chemistry_for_Life_Scientists/03%3A_First_Law_of_Thermodynamics/3.06%3A_Bond_Energies_Bond_Enthalpies",
+        "https://chem.libretexts.org/Courses/SUNY_Potsdam/Book%3A_Organic_Chemistry_I_(Walker)/01%3A_Introduction/1.03%3A_Basics_of_bonding",
+        "Independent audit (apchem/scripts/unit02_audit2.py): most negative minimum PE = strongest bond"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.2-trap-0006",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.2",
+    "topic_title": "Intramolecular Force and Potential Energy",
+    "learning_objective": "Represent the relationship between potential energy and distance between atoms, based on factors that influence the interaction strength. (2.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the energy required to break bonds is correct?",
+    "options": {
+      "A": "Breaking a bond releases energy, because stored energy is let go.",
+      "B": "Breaking a bond is exothermic if the products are more stable.",
+      "C": "Breaking any chemical bond is endothermic; energy is absorbed.",
+      "D": "Breaking a bond neither absorbs nor releases energy."
+    },
+    "correct": "C",
+    "explanation": "Atoms in a bond are at lower PE than when separated, so energy must be added to pull them apart.",
+    "distractor_notes": {
+      "A": "Bond breaking requires energy input.",
+      "B": "Overall exothermic reactions arise from net bonds formed, not from breaking.",
+      "D": "Energy is required to separate the atoms."
+    },
+    "tags": [
+      "bond energy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Energy is thought to be 'released' when bonds break.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Everyday language ('releasing' energy from fuel) obscures that bond breaking requires energy.",
+      "how_to_avoid": "Remember: break = absorb; make = release."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bond_length",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Bond_Energies"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.2-trap-0007",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.2",
+    "topic_title": "Intramolecular Force and Potential Energy",
+    "learning_objective": "Represent the relationship between potential energy and distance between atoms, based on factors that influence the interaction strength. (2.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which is the strongest ionic attraction (Coulombic) among the following ion pairs? (Radii in pm: Na$^+$ 102, Mg$^{2+}$ 72, F$^-$ 133, O$^{2-}$ 140)",
+    "options": {
+      "A": "Mg$^{2+}$–O$^{2-}$",
+      "B": "Na$^+$–F$^-$",
+      "C": "Mg$^{2+}$–F$^-$",
+      "D": "Na$^+$–O$^{2-}$"
+    },
+    "correct": "A",
+    "explanation": "Strength ∝ q₁q₂/d: Mg–O 0.0189, Mg–F 0.0098, Na–O 0.0083, Na–F 0.0043 per pm. Mg–O is the largest.",
+    "distractor_notes": {
+      "B": "The pair with the smallest separation is not automatically the strongest: charges matter.",
+      "C": "Charge product is 2, which is below Mg–O's 4.",
+      "D": "Charge product is 2, below Mg–O's 4."
+    },
+    "tags": [
+      "Coulomb"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Size alone suggests Na–F; charge product dominates.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students consider only the distance and ignore the doubled charges.",
+      "how_to_avoid": "Compute q₁q₂/d for each pair."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bond_length",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Bond_Energies",
+        "https://en.wikipedia.org/wiki/Ionic_radius",
+        "https://en.wikipedia.org/wiki/Lattice_energy",
+        "Independent audit (apchem/scripts/unit02_audit2.py): q1q2/d with Wikipedia effective ionic radii (stem radii equal sourced values)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.2-trap-0008",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.2",
+    "topic_title": "Intramolecular Force and Potential Energy",
+    "learning_objective": "Represent the relationship between potential energy and distance between atoms, based on factors that influence the interaction strength. (2.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "At which distance is the potential energy of two bonded atoms equal to zero?",
+    "options": {
+      "A": "At the bond length, where the net force on each atom is zero and the atoms are bonded",
+      "B": "At the distance where repulsion first appears as the atoms are brought closer and closer together from far away",
+      "C": "At the distance where the nuclei touch and the electron clouds fully merge into one cloud",
+      "D": "At infinite separation, when the atoms no longer interact"
+    },
+    "correct": "D",
+    "explanation": "Zero PE is defined for separated, non-interacting atoms; the bond length has PE = −(bond energy).",
+    "distractor_notes": {
+      "A": "PE is at its lowest (negative) at the bond length.",
+      "B": "This is a distance on the rising wall, where PE is not zero by definition.",
+      "C": "PE is very large and positive here."
+    },
+    "tags": [
+      "potential energy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Confuses 'lowest energy' with 'zero energy'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students think the stable position must have zero energy.",
+      "how_to_avoid": "On the graph, mark the reference (separated atoms) and compare."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bond_length",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Bond_Energies"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.2-trap-0009",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.2",
+    "topic_title": "Intramolecular Force and Potential Energy",
+    "learning_objective": "Represent the relationship between potential energy and distance between atoms, based on factors that influence the interaction strength. (2.2.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The C=O bond energy is 745 kJ/mol. Which expression gives the energy required to break one C=O bond in a single molecule, in joules?",
+    "options": {
+      "A": "745 J/mol ÷ 6.022 × 10$^{23}$ mol$^{-1}$",
+      "B": "745 × 10$^3$ J/mol × 6.022 × 10$^{23}$ mol$^{-1}$",
+      "C": "745 kJ/mol × 10$^{3}$ ÷ 6.022 × 10$^{-23}$",
+      "D": "745 × 10$^3$ J/mol ÷ 6.022 × 10$^{23}$ mol$^{-1}$"
+    },
+    "correct": "D",
+    "explanation": "kJ → J (×10³), then divide by Avogadro's number to get energy per bond: 745×10³/6.022×10²³ = 1.24×10⁻¹⁸ J.",
+    "distractor_notes": {
+      "A": "Forgot to convert kJ to J.",
+      "B": "Multiplied by N$_A$ instead of dividing.",
+      "C": "Used the wrong power of ten for N$_A$."
+    },
+    "tags": [
+      "units"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Unit conversions kJ→J and per mole→per molecule.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students miss one of the two conversions.",
+      "how_to_avoid": "Track units: kJ/mol → J/mol → J/bond."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bond_length",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Bond_Energies",
+        "https://physics.nist.gov/cgi-bin/cuu/Value?na",
+        "https://physics.nist.gov/cuu/Constants/",
+        "Independent audit (apchem/scripts/unit02_audit2.py): 745e3/N_A = 1.237e-18 J; each option expression evaluated"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.3-trap-0001",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.3",
+    "topic_title": "Structure of Ionic Solids",
+    "learning_objective": "Represent an ionic solid with a particulate model that is consistent with Coulomb's law and the properties of the constituent ions. (2.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which compound has the higher melting point, MgO or NaF? (Ionic radii in pm: Mg$^{2+}$ 72, O$^{2-}$ 140, Na$^+$ 102, F$^-$ 133)",
+    "options": {
+      "A": "MgO",
+      "B": "NaF",
+      "C": "They are equal because the ions are isoelectronic.",
+      "D": "It cannot be determined without data."
+    },
+    "correct": "A",
+    "explanation": "q₁q₂/d: MgO = 4/212 = 0.0189; NaF = 1/235 = 0.0043 per pm. MgO is stronger (MP 2852 vs 993 °C).",
+    "distractor_notes": {
+      "B": "Its ions are smaller in anion size (133 vs 140), but the charge product is only 1.",
+      "C": "Charges differ, so the attractions differ.",
+      "D": "Coulomb's law gives a clear prediction."
+    },
+    "tags": [
+      "melting point"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Anion size looks decisive, but the charge product is 4× larger for MgO.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students focus on the smaller anion F$^-$ and ignore the doubled charges.",
+      "how_to_avoid": "Compute q₁q₂/d with both factors."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lattice_energy",
+        "https://en.wikipedia.org/wiki/Ionic_bonding",
+        "https://en.wikipedia.org/wiki/Ionic_radius",
+        "https://en.wikipedia.org/wiki/Magnesium_oxide",
+        "Independent audit (apchem/scripts/unit02_audit2.py): q1q2/d: MgO 0.0189 vs NaF 0.0043; MPs 2852 vs 993 (Wikipedia)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.3-trap-0002",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.3",
+    "topic_title": "Structure of Ionic Solids",
+    "learning_objective": "Represent an ionic solid with a particulate model that is consistent with Coulomb's law and the properties of the constituent ions. (2.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following are properties typically associated with ionic compounds EXCEPT",
+    "options": {
+      "A": "high melting point",
+      "B": "brittleness",
+      "C": "electrical conductivity when molten",
+      "D": "high electrical conductivity in the solid state"
+    },
+    "correct": "D",
+    "explanation": "Ionic solids do not conduct because the ions are fixed in the lattice; they conduct when molten or dissolved.",
+    "distractor_notes": {
+      "A": "This is a typical ionic property, not the answer.",
+      "B": "This is a typical ionic property, not the answer.",
+      "C": "This is a typical ionic property, not the answer."
+    },
+    "tags": [
+      "properties"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stem with three true properties.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students may select 'conductivity' without noting 'solid state'.",
+      "how_to_avoid": "Evaluate each property with its state: solid vs molten."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lattice_energy",
+        "https://en.wikipedia.org/wiki/Ionic_bonding"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.3-trap-0003",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.3",
+    "topic_title": "Structure of Ionic Solids",
+    "learning_objective": "Represent an ionic solid with a particulate model that is consistent with Coulomb's law and the properties of the constituent ions. (2.3.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student says that because NaCl conducts electricity when dissolved in water, solid NaCl must also conduct. Which response is best?",
+    "options": {
+      "A": "The claim is correct: ions are present in the solid, so it conducts.",
+      "B": "The claim is incorrect: in the solid the ions cannot move, so it does not conduct.",
+      "C": "The claim is correct: electrons flow through the solid just as in a metal.",
+      "D": "The claim is incorrect: NaCl contains no ions until it is dissolved."
+    },
+    "correct": "B",
+    "explanation": "Conduction needs mobile charge carriers; ions in the lattice are fixed.",
+    "distractor_notes": {
+      "A": "Presence of ions is not enough; they must be mobile.",
+      "C": "No delocalized electrons exist in NaCl.",
+      "D": "The ions exist in the crystal."
+    },
+    "tags": [
+      "conductivity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Ions are present, but they are not free to move.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students equate 'contains ions' with 'conducts'.",
+      "how_to_avoid": "Ask whether charge carriers can move."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lattice_energy",
+        "https://en.wikipedia.org/wiki/Ionic_bonding"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.3-trap-0004",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.3",
+    "topic_title": "Structure of Ionic Solids",
+    "learning_objective": "Represent an ionic solid with a particulate model that is consistent with Coulomb's law and the properties of the constituent ions. (2.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "The lattice energy of NaCl (786 kJ/mol) is much less than that of MgO (3795 kJ/mol). A student explains this by saying that Mg is more electronegative than Na. Which statement is best?",
+    "options": {
+      "A": "The explanation is correct: higher electronegativity of Mg produces a larger lattice energy, since the more electronegative metal attracts the anions more strongly.",
+      "B": "The explanation is flawed: MgO has larger ions than NaCl, so it has a larger lattice energy, because bigger ions carry more charge around the nucleus.",
+      "C": "The explanation is flawed: the larger charges on Mg$^{2+}$ and O$^{2-}$ and their small separation account for the larger lattice energy.",
+      "D": "The explanation is correct: Mg has more electrons than Na, so its ions attract each other more strongly than those of NaCl."
+    },
+    "correct": "C",
+    "explanation": "Coulomb's law uses charges and distance; MgO: 2+/2− and d = 212 pm; NaCl: 1+/1− and d = 283 pm.",
+    "distractor_notes": {
+      "A": "Electronegativity is not used in Coulomb's law.",
+      "B": "MgO has smaller ions.",
+      "D": "Both ions are isoelectronic with Ne; the ionic charges differ."
+    },
+    "tags": [
+      "lattice energy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Attributes lattice energy to electronegativity rather than to charges and radii.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Electronegativity is the dominant idea in the preceding topic.",
+      "how_to_avoid": "Use q₁q₂/d for ionic lattice questions."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lattice_energy",
+        "https://en.wikipedia.org/wiki/Ionic_bonding",
+        "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Crystal_Lattices/Thermodynamics_of_Lattices/Lattice_Energy",
+        "https://en.wikipedia.org/wiki/Coulomb_s_law",
+        "Independent audit (apchem/scripts/unit02_audit2.py): LE MgO 3795 vs NaCl 786; charges (2,2) vs (1,1); r(Mg2+)=72.0 < r(Na+)=102.0 pm: charge and distance, not the metal's EN, set the lattice energy | claims: Electrostatic attraction is proportional to the product of the charges and inversely proportional to the square of the distance; lattice energy depends on ion charges and sizes"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.3-trap-0005",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.3",
+    "topic_title": "Structure of Ionic Solids",
+    "learning_objective": "Represent an ionic solid with a particulate model that is consistent with Coulomb's law and the properties of the constituent ions. (2.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the relative sizes of an ion and its parent atom is correct?",
+    "options": {
+      "A": "Both cations and anions are smaller than their parent atoms.",
+      "B": "A cation is smaller than its parent atom, and an anion is larger than its parent atom.",
+      "C": "Both cations and anions are larger than their parent atoms.",
+      "D": "A cation is larger than its parent atom, and an anion is smaller than its parent atom."
+    },
+    "correct": "B",
+    "explanation": "Cations lose electrons (often a whole shell) and shrink; anions gain electrons, increasing repulsion, and expand.",
+    "distractor_notes": {
+      "A": "Anions are larger because of added electron repulsion.",
+      "C": "Cations are smaller.",
+      "D": "The relationships are reversed."
+    },
+    "tags": [
+      "ionic radius"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Reversal of ion–atom size relationship.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students link 'positive' with 'bigger'.",
+      "how_to_avoid": "Think in terms of electrons per proton."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lattice_energy",
+        "https://en.wikipedia.org/wiki/Ionic_bonding"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.3-trap-0006",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.3",
+    "topic_title": "Structure of Ionic Solids",
+    "learning_objective": "Represent an ionic solid with a particulate model that is consistent with Coulomb's law and the properties of the constituent ions. (2.3.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Compound | Lattice energy (kJ/mol)\n--- | ---\nLiF | 1036\nNaF | 923\nKF | 821",
+      "citation": "LibreTexts, 'Lattice Energy' (table of salts).",
+      "asset_path": null
+    },
+    "question": "The table gives lattice energies. Which statement is supported by the data?",
+    "options": {
+      "A": "KF has a smaller lattice energy than NaF because K$^+$ is larger than Na$^+$.",
+      "B": "KF has a larger lattice energy than NaF because K has more protons.",
+      "C": "NaF and KF have equal lattice energies because both are alkali metal fluorides.",
+      "D": "KF has a smaller lattice energy than NaF because K$^+$ has a smaller charge."
+    },
+    "correct": "A",
+    "explanation": "Same charges; larger cation increases the distance between ion centers, so the lattice energy decreases.",
+    "distractor_notes": {
+      "B": "Lattice energy depends on distance and charge, not just protons.",
+      "C": "Values differ (923 vs 821).",
+      "D": "Both have a charge of +1."
+    },
+    "tags": [
+      "lattice energy",
+      "table"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Right trend, but the reason offered in distractors misattributes it.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students remember that K has more protons and confuse it with strength.",
+      "how_to_avoid": "Tie the trend to d in Coulomb's law."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lattice_energy",
+        "https://en.wikipedia.org/wiki/Ionic_bonding",
+        "https://en.wikipedia.org/wiki/Ionic_radius",
+        "https://en.wikipedia.org/wiki/Coulomb_s_law",
+        "Independent audit (apchem/scripts/unit02_audit2.py): table values equal the sourced values; r(K+)=138.0 > r(Na+)=102.0 pm; both +1 | claims: Electrostatic attraction is proportional to the product of the charges and inversely proportional to the square of the distance; lattice energy depends on ion charges and sizes"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.3-trap-0007",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.3",
+    "topic_title": "Structure of Ionic Solids",
+    "learning_objective": "Represent an ionic solid with a particulate model that is consistent with Coulomb's law and the properties of the constituent ions. (2.3.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which particulate diagram description best represents solid sodium oxide?",
+    "options": {
+      "A": "Equal numbers of Na$^+$ and O$^{2-}$ ions in an alternating array",
+      "B": "Twice as many O$^{2-}$ ions as Na$^+$ ions in an alternating array",
+      "C": "Twice as many Na$^+$ ions as O$^{2-}$ ions in an alternating array",
+      "D": "Na$_2$O molecules held together by shared electron pairs"
+    },
+    "correct": "C",
+    "explanation": "Na$_2$O requires two Na$^+$ for each O$^{2-}$ for neutrality.",
+    "distractor_notes": {
+      "A": "Charges would not balance.",
+      "B": "Ratio inverted.",
+      "D": "The solid is ionic."
+    },
+    "tags": [
+      "formula",
+      "particulate"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Particle counts are matched by number rather than by charge balance.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students draw equal numbers of cations and anions.",
+      "how_to_avoid": "Balance total charge."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lattice_energy",
+        "https://en.wikipedia.org/wiki/Ionic_bonding",
+        "https://en.wikipedia.org/wiki/Ionic_compound",
+        "Independent audit (apchem/scripts/unit02_audit2.py): charge balance Na+1/O-2 -> 2:1"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.3-trap-0008",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.3",
+    "topic_title": "Structure of Ionic Solids",
+    "learning_objective": "Represent an ionic solid with a particulate model that is consistent with Coulomb's law and the properties of the constituent ions. (2.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which compound is likely to be the HARDEST to melt: CaO, KCl, or NaBr?",
+    "options": {
+      "A": "KCl",
+      "B": "NaBr",
+      "C": "All three melt at the same temperature because all are ionic.",
+      "D": "CaO"
+    },
+    "correct": "D",
+    "explanation": "CaO has 2+/2− charges and a moderate separation, so its lattice is the strongest.",
+    "distractor_notes": {
+      "A": "Larger ions with a ±1 charge.",
+      "B": "Larger anion with a ±1 charge.",
+      "C": "Interionic attraction depends on charges and radii."
+    },
+    "tags": [
+      "melting point"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Distractor claims all ionic compounds behave the same.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students over-generalize 'ionic compounds have high melting points'.",
+      "how_to_avoid": "Compare q₁q₂/d."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lattice_energy",
+        "https://en.wikipedia.org/wiki/Ionic_bonding",
+        "https://en.wikipedia.org/wiki/Ionic_radius",
+        "Independent audit (apchem/scripts/unit02_audit2.py): q1q2/d with Wikipedia radii"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.4-trap-0001",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.4",
+    "topic_title": "Structure of Metals and Alloys",
+    "learning_objective": "Represent a metallic solid and/or alloy using a model to show essential characteristics of the structure and interactions present in the substance. (2.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about alloys is correct?",
+    "options": {
+      "A": "An alloy must be made only of metals.",
+      "B": "An alloy can contain a nonmetallic element, as in steel, which contains carbon.",
+      "C": "An alloy is a compound with a fixed ratio of atoms.",
+      "D": "An alloy has ionic bonding because it contains different elements."
+    },
+    "correct": "B",
+    "explanation": "Alloys are metallic mixtures; steel is Fe with a small amount of C.",
+    "distractor_notes": {
+      "A": "Steel contains carbon, a nonmetal.",
+      "C": "Alloys are mixtures whose composition can vary.",
+      "D": "Bonding is metallic."
+    },
+    "tags": [
+      "alloy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Must be only metals' sounds like a definition.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students associate alloy with 'mixture of metals'.",
+      "how_to_avoid": "Recall steel (Fe + C)."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Alloy"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.4-trap-0002",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.4",
+    "topic_title": "Structure of Metals and Alloys",
+    "learning_objective": "Represent a metallic solid and/or alloy using a model to show essential characteristics of the structure and interactions present in the substance. (2.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following would NOT be expected for a typical metal?",
+    "options": {
+      "A": "It shatters when struck with a hammer.",
+      "B": "It conducts electricity as a solid.",
+      "C": "It can be drawn into a wire.",
+      "D": "It transfers heat quickly."
+    },
+    "correct": "A",
+    "explanation": "Metals are malleable because the electron sea maintains bonding when layers shift; shattering is typical of ionic crystals.",
+    "distractor_notes": {
+      "B": "This is typical of metals.",
+      "C": "This is typical of metals.",
+      "D": "This is typical of metals."
+    },
+    "tags": [
+      "properties"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students fail to invert the stem.",
+      "how_to_avoid": "Mark each property as typical or not typical."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Alloy"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.4-trap-0003",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.4",
+    "topic_title": "Structure of Metals and Alloys",
+    "learning_objective": "Represent a metallic solid and/or alloy using a model to show essential characteristics of the structure and interactions present in the substance. (2.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement correctly describes the particles that carry electric current in a solid metal?",
+    "options": {
+      "A": "Metal cations moving through the lattice",
+      "B": "Metal anions and cations moving in opposite directions",
+      "C": "Neutral atoms exchanging positions",
+      "D": "Delocalized valence electrons"
+    },
+    "correct": "D",
+    "explanation": "In metals the electrons move; in molten ionic compounds the ions move.",
+    "distractor_notes": {
+      "A": "Cations are fixed in lattice positions.",
+      "B": "Metals do not contain anions.",
+      "C": "Atoms do not exchange positions to conduct."
+    },
+    "tags": [
+      "conductivity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Conduction by ions in metals.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students generalise from aqueous solutions where ions carry current.",
+      "how_to_avoid": "Identify the mobile species in each state."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Alloy"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.4-trap-0004",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.4",
+    "topic_title": "Structure of Metals and Alloys",
+    "learning_objective": "Represent a metallic solid and/or alloy using a model to show essential characteristics of the structure and interactions present in the substance. (2.4.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Element | Atomic radius (pm)\n--- | ---\nFe | 126\nCr | 128",
+      "citation": "Radius (pm): metallic radii for the metals; covalent (single-bond) radii for H, B, C, N and Sn. Source: Wikipedia, 'Atomic radii of the elements (data page)'.",
+      "asset_path": null
+    },
+    "question": "The table gives atomic radii. A student claims that an alloy of Fe and Cr is an interstitial alloy because chromium is a different element. Which response is best?",
+    "options": {
+      "A": "The claim is correct: any alloy of two different elements is interstitial, since the second element must fit between the first element's atoms.",
+      "B": "The claim is correct: Cr is much smaller than Fe and fits into the gaps between the iron atoms.",
+      "C": "The claim is incorrect: Fe (126 pm) and Cr (128 pm) have nearly equal radii, so the alloy is substitutional.",
+      "D": "The claim is incorrect: Fe and Cr form an ionic compound in the alloy, with electrons transferred between the two kinds of atoms."
+    },
+    "correct": "C",
+    "explanation": "Radius ratio = 126/128 = 0.98; atoms of comparable size substitute for one another.",
+    "distractor_notes": {
+      "A": "Different elements can substitute if radii are comparable.",
+      "B": "Cr is about the same size as Fe.",
+      "D": "The bonding is metallic."
+    },
+    "tags": [
+      "alloy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Different elements are present, but the type is set by size.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students equate 'different atoms' with 'fill gaps'.",
+      "how_to_avoid": "Compare radii."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Alloy",
+        "https://en.wikipedia.org/wiki/Atomic_radii_of_the_elements_(data_page)",
+        "Independent audit (apchem/scripts/unit02_audit2.py): Fe/Cr ratio 0.98"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.4-trap-0005",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.4",
+    "topic_title": "Structure of Metals and Alloys",
+    "learning_objective": "Represent a metallic solid and/or alloy using a model to show essential characteristics of the structure and interactions present in the substance. (2.4.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A bronze sample is 90.0% Cu and 10.0% Sn by mass. Which ratio of Cu atoms to Sn atoms is closest? (Molar masses: Cu 63.55, Sn 118.71 g/mol)",
+    "options": {
+      "A": "16.8 : 1",
+      "B": "9.0 : 1",
+      "C": "0.059 : 1",
+      "D": "4.8 : 1"
+    },
+    "correct": "A",
+    "explanation": "n(Cu) = 90.0/63.55 = 1.416 mol; n(Sn) = 10.0/118.71 = 0.0842 mol; ratio = 16.8.",
+    "distractor_notes": {
+      "B": "Used the mass ratio rather than mole ratio.",
+      "C": "Inverted the ratio.",
+      "D": "Applied the molar masses to the wrong elements."
+    },
+    "tags": [
+      "alloy",
+      "calculation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Mass percent is used as if it were an atom ratio.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students use the mass ratio 9 : 1.",
+      "how_to_avoid": "Convert masses to moles first."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Alloy",
+        "Computed with Python (apchem/scripts/unit02_gen.py via unit02_engine.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.4-trap-0006",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.4",
+    "topic_title": "Structure of Metals and Alloys",
+    "learning_objective": "Represent a metallic solid and/or alloy using a model to show essential characteristics of the structure and interactions present in the substance. (2.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about melting points of metals is correct?",
+    "options": {
+      "A": "Na melts at a higher temperature than Mg because Na atoms are larger and hold their valence electrons more strongly in the lattice.",
+      "B": "Mg melts at a higher temperature than Na because Mg contributes more delocalized electrons and has a higher core charge.",
+      "C": "Na and Mg melt at similar temperatures because both are in period 3 and form ions in a similar way, so their melting points differ little.",
+      "D": "Mg melts lower than Na because it has a smaller atomic mass."
+    },
+    "correct": "B",
+    "explanation": "Melting points reflect the strength of metallic bonding, which increases with the number of delocalized electrons and core charge.",
+    "distractor_notes": {
+      "A": "Larger atoms generally lower melting points; and Mg has more electrons.",
+      "C": "Their melting points differ greatly (98 vs 650 °C).",
+      "D": "Mass is not the key factor."
+    },
+    "tags": [
+      "melting point"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Atomic mass or size is used in place of electron count/charge.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students think larger atoms bind more strongly.",
+      "how_to_avoid": "Count delocalized electrons and core charge."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Alloy"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.4-trap-0007",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.4",
+    "topic_title": "Structure of Metals and Alloys",
+    "learning_objective": "Represent a metallic solid and/or alloy using a model to show essential characteristics of the structure and interactions present in the substance. (2.4.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about a piece of solid iron is NOT correct?",
+    "options": {
+      "A": "It consists of Fe cations in a lattice surrounded by delocalized electrons.",
+      "B": "It can conduct electricity.",
+      "C": "It consists of Fe$^{2+}$ cations and Fe$^{2-}$ anions in alternating positions.",
+      "D": "It is malleable."
+    },
+    "correct": "C",
+    "explanation": "Pure metals contain only cations of one kind in an electron sea; they contain no anions.",
+    "distractor_notes": {
+      "A": "This is correct.",
+      "B": "This is correct.",
+      "D": "This is correct."
+    },
+    "tags": [
+      "metal",
+      "NOT"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem; false option mimics an ionic lattice.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students conflate metallic and ionic models.",
+      "how_to_avoid": "Metals have no anions."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Alloy"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.4-trap-0008",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.4",
+    "topic_title": "Structure of Metals and Alloys",
+    "learning_objective": "Represent a metallic solid and/or alloy using a model to show essential characteristics of the structure and interactions present in the substance. (2.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Alloy A is formed from atoms with radii of 126 pm and 75 pm. Alloy B is formed from atoms with radii of 128 pm and 134 pm. Which is correct?",
+    "options": {
+      "A": "Alloy A is substitutional and alloy B is interstitial.",
+      "B": "Both alloys are interstitial because they contain two different elements.",
+      "C": "Both alloys are substitutional because they are metallic mixtures.",
+      "D": "Alloy A is interstitial and alloy B is substitutional."
+    },
+    "correct": "D",
+    "explanation": "Radius ratios: A = 0.60 (small atoms fit in gaps); B = 0.96 (atoms substitute).",
+    "distractor_notes": {
+      "A": "The types are swapped.",
+      "B": "Alloy B has comparable radii.",
+      "C": "Alloy A has a much smaller second atom."
+    },
+    "tags": [
+      "alloy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Names of the two alloy types are easily swapped.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember the terms but not which size relationship goes with which.",
+      "how_to_avoid": "Interstitial = inserted in gaps; substitutional = swapped for atoms."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Metallic_bonding",
+        "https://en.wikipedia.org/wiki/Alloy",
+        "https://en.wikipedia.org/wiki/Atomic_radii_of_the_elements_(data_page)",
+        "Independent audit (apchem/scripts/unit02_audit2.py): ratios 0.60, 0.96"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.5-trap-0001",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.5",
+    "topic_title": "Lewis Diagrams",
+    "learning_objective": "Represent a molecule with a Lewis diagram. (2.5.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "How many valence electrons are in the Lewis diagram of the sulfite ion, $\\mathrm{SO_3^{2-}}$?",
+    "options": {
+      "A": "26",
+      "B": "22",
+      "C": "24",
+      "D": "28"
+    },
+    "correct": "A",
+    "explanation": "S 6 + 3 O 18 + 2 for the 2− charge = 26.",
+    "distractor_notes": {
+      "B": "Subtracted the charge instead of adding it.",
+      "C": "Ignored the charge.",
+      "D": "Added the charge twice."
+    },
+    "tags": [
+      "valence electrons"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Sign of the charge correction for anions.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students subtract the magnitude of a negative charge.",
+      "how_to_avoid": "Anions have extra electrons; cations have fewer."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lewis_structure",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Covalent_Bonds",
+        "https://en.wikipedia.org/wiki/Octet_rule",
+        "Independent audit (apchem/scripts/unit02_audit2.py): group-number sum = 26"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.5-trap-0002",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.5",
+    "topic_title": "Lewis Diagrams",
+    "learning_objective": "Represent a molecule with a Lewis diagram. (2.5.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which Lewis diagram correctly represents HCN?",
+    "options": {
+      "A": "H–N≡C with one lone pair on C",
+      "B": "H–C≡N with two lone pairs on N",
+      "C": "H=C=N with one lone pair on N",
+      "D": "H–C≡N with one lone pair on N"
+    },
+    "correct": "D",
+    "explanation": "C is less electronegative than N and is central; H and N attach to C.",
+    "distractor_notes": {
+      "A": "This has the atoms connected H–N–C; H is bonded to N rather than C.",
+      "B": "This has 14 electrons rather than 10.",
+      "C": "H cannot form a double bond."
+    },
+    "tags": [
+      "connectivity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Isomeric connectivity (HNC) has the same electron count.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students see matching bond types and ignore connectivity.",
+      "how_to_avoid": "Choose the central atom by electronegativity and the known atom order in the formula."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lewis_structure",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Covalent_Bonds",
+        "https://en.wikipedia.org/wiki/Octet_rule",
+        "Independent audit (apchem/scripts/unit02_audit2.py): each option parsed; octet/duet on every atom and total electrons = 10"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.5-trap-0003",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.5",
+    "topic_title": "Lewis Diagrams",
+    "learning_objective": "Represent a molecule with a Lewis diagram. (2.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following molecules can be drawn with an octet around every atom EXCEPT",
+    "options": {
+      "A": "$\\mathrm{CCl_4}$",
+      "B": "$\\mathrm{BF_3}$",
+      "C": "$\\mathrm{NH_3}$",
+      "D": "$\\mathrm{H_2O}$"
+    },
+    "correct": "B",
+    "explanation": "B in BF$_3$ has only six electrons around it.",
+    "distractor_notes": {
+      "A": "All atoms satisfy the octet.",
+      "C": "All atoms satisfy the octet (H has a duet).",
+      "D": "All atoms satisfy the octet (H has a duet)."
+    },
+    "tags": [
+      "octet exception"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stem.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students read it as 'which can be drawn with an octet'.",
+      "how_to_avoid": "Check each molecule's central atom."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lewis_structure",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Covalent_Bonds",
+        "https://en.wikipedia.org/wiki/Octet_rule",
+        "Independent audit (apchem/scripts/unit02_audit2.py): electrons around central atom compared with 8"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.5-trap-0004",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.5",
+    "topic_title": "Lewis Diagrams",
+    "learning_objective": "Represent a molecule with a Lewis diagram. (2.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the octet rule is correct?",
+    "options": {
+      "A": "Every atom in every stable molecule has exactly eight electrons around it.",
+      "B": "Only hydrogen is an exception to the octet rule.",
+      "C": "Many molecules have central atoms with fewer or more than eight electrons, so the rule is a useful guideline, not a law.",
+      "D": "Elements in period 2 can have expanded octets just like elements in period 3."
+    },
+    "correct": "C",
+    "explanation": "BF$_3$, PCl$_5$, SF$_6$ and odd-electron molecules illustrate exceptions.",
+    "distractor_notes": {
+      "A": "Hydrogen has two and many others differ.",
+      "B": "B, Be, P, S, Xe and others are also exceptions.",
+      "D": "Period 2 elements cannot exceed eight."
+    },
+    "tags": [
+      "octet"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolute statements about the octet rule.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The rule is often taught as universal.",
+      "how_to_avoid": "Look for exceptions: incomplete, expanded, and odd-electron cases."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lewis_structure",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Covalent_Bonds"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.5-trap-0005",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.5",
+    "topic_title": "Lewis Diagrams",
+    "learning_objective": "Represent a molecule with a Lewis diagram. (2.5.A)",
+    "skill": "Models and Representations",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about lone pairs in $\\mathrm{NH_3}$ is correct?",
+    "options": {
+      "A": "There are three lone pairs on N, one for each N–H bond.",
+      "B": "There is one lone pair on N and none on H.",
+      "C": "There are no lone pairs because N has formed all its bonds.",
+      "D": "There is one lone pair on each H atom."
+    },
+    "correct": "B",
+    "explanation": "Valence electrons: 8; three N–H bonds use 6; the remaining 2 are one lone pair on N.",
+    "distractor_notes": {
+      "A": "Bonds are shared pairs, not lone pairs.",
+      "C": "N has 5 valence electrons; only 3 are used in bonds.",
+      "D": "H has only one valence electron, shared in the bond."
+    },
+    "tags": [
+      "lone pairs"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Confuses bonds with lone pairs.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students count the three bonds as lone pairs.",
+      "how_to_avoid": "Subtract the 2 × bonds from the total to find the lone pair electrons."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lewis_structure",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Covalent_Bonds",
+        "https://en.wikipedia.org/wiki/Lone_pair",
+        "https://en.wikipedia.org/wiki/Ammonia",
+        "Independent audit (apchem/scripts/unit02_audit2.py): lone pairs on N = (5−3)/2 = 1; each H has 1 valence e⁻, used in its bond | claims: VSEPR: lone pairs count as electron domains; NH3 has four domains (tetrahedral arrangement) and a trigonal pyramidal shape"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.5-trap-0006",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.5",
+    "topic_title": "Lewis Diagrams",
+    "learning_objective": "Represent a molecule with a Lewis diagram. (2.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In the Lewis diagram of $\\mathrm{SO_2}$ drawn with a central sulfur atom, which statement is most accurate?",
+    "options": {
+      "A": "Sulfur is the central atom because it is less electronegative than oxygen.",
+      "B": "Sulfur is the central atom because it has more valence electrons than oxygen.",
+      "C": "Oxygen is the central atom because it is more electronegative.",
+      "D": "Either atom could be central; the choice has no basis."
+    },
+    "correct": "A",
+    "explanation": "S (2.58) < O (3.44), so S is central.",
+    "distractor_notes": {
+      "B": "Both S and O have 6 valence electrons.",
+      "C": "The more electronegative atom is placed outside.",
+      "D": "Electronegativity guides the choice."
+    },
+    "tags": [
+      "central atom"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "S and O have the same number of valence electrons; electronegativity decides.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students apply 'more electrons means central'.",
+      "how_to_avoid": "Use electronegativity for the central atom."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lewis_structure",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Covalent_Bonds",
+        "https://en.wikipedia.org/wiki/Octet_rule",
+        "https://en.wikipedia.org/wiki/Electronegativities_of_the_elements_(data_page)",
+        "Independent audit (apchem/scripts/unit02_audit2.py): central atom = least electronegative non-H atom (S); relation evaluated from EN"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.5-trap-0007",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.5",
+    "topic_title": "Lewis Diagrams",
+    "learning_objective": "Represent a molecule with a Lewis diagram. (2.5.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Species | Valence electrons (student claim)\n--- | ---\nNH4+ | 8\nCN− | 9\nNO3− | 23\nH3O+ | 9",
+      "citation": "Original data table written for this item (values rounded).",
+      "asset_path": null
+    },
+    "question": "The table lists species and valence electron totals. Which species is listed with the CORRECT total?",
+    "options": {
+      "A": "$\\mathrm{CN^{-}}$ — 9",
+      "B": "$\\mathrm{NO_3^{-}}$ — 23",
+      "C": "$\\mathrm{H_3O^{+}}$ — 9",
+      "D": "$\\mathrm{NH_4^{+}}$ — 8"
+    },
+    "correct": "D",
+    "explanation": "NH$_4^+$: 5 + 4 − 1 = 8. The other totals each ignore the charge correction.",
+    "distractor_notes": {
+      "A": "CN$^-$ has 10 electrons (4 + 5 + 1).",
+      "B": "NO$_3^-$ has 24 electrons (5 + 18 + 1).",
+      "C": "H$_3$O$^+$ has 8 electrons (3 + 6 − 1)."
+    },
+    "tags": [
+      "valence electrons"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Options restate claimed totals from the table; only one is right.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume the first claim in a table is right.",
+      "how_to_avoid": "Recompute each total."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lewis_structure",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Covalent_Bonds",
+        "https://en.wikipedia.org/wiki/Octet_rule",
+        "Independent audit (apchem/scripts/unit02_audit2.py): valence electrons recomputed for each listed species"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.5-trap-0008",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.5",
+    "topic_title": "Lewis Diagrams",
+    "learning_objective": "Represent a molecule with a Lewis diagram. (2.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the expanded octet is correct?",
+    "options": {
+      "A": "Atoms in period 2, such as N and O, can have more than eight electrons.",
+      "B": "Atoms with expanded octets can only be found in ionic compounds.",
+      "C": "Atoms in period 3 or below, such as P and S, can have more than eight electrons in their Lewis diagrams.",
+      "D": "Hydrogen can have an expanded octet."
+    },
+    "correct": "C",
+    "explanation": "P in PCl$_5$ has 10 electrons and S in SF$_6$ has 12.",
+    "distractor_notes": {
+      "A": "Period 2 atoms lack d orbitals/size; they do not exceed eight.",
+      "B": "PCl$_5$ and SF$_6$ are molecular.",
+      "D": "H holds only two electrons."
+    },
+    "tags": [
+      "octet exception"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Period-2 vs period-3 expansion capability reversed.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students think any central atom can expand.",
+      "how_to_avoid": "Remember the second period limit of eight."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Lewis_structure",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Chemical_Bonding/Fundamentals_of_Chemical_Bonding/Covalent_Bonds"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.6-trap-0001",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.6",
+    "topic_title": "Resonance and Formal Charge",
+    "learning_objective": "Represent a molecule with a Lewis diagram that accounts for resonance between equivalent structures or that uses formal charge to select between nonequivalent structures. (2.6.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the formal charge on sulfur in a Lewis diagram of $\\mathrm{SO_2}$ with S=O, S–O, and one lone pair on S?",
+    "options": {
+      "A": "+1",
+      "B": "0",
+      "C": "−1",
+      "D": "+2"
+    },
+    "correct": "A",
+    "explanation": "FC(S) = 6 − 2 − 3 = +1.",
+    "distractor_notes": {
+      "B": "S has four bonding electrons shared with the double bond: V = 6, lone pair 2, bonds 3 (6/2): 6 − 2 − 3 = +1.",
+      "C": "Sign error.",
+      "D": "Used the number of bonds (3) without halving the electrons."
+    },
+    "tags": [
+      "formal charge"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Forgetting to halve the bonding electrons or counting only the double bond.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students may treat bonds as electrons.",
+      "how_to_avoid": "Use FC = V − N − B/2 with B counted in electrons."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Formal_charge",
+        "https://en.wikipedia.org/wiki/Resonance_(chemistry)",
+        "Computed with Python (apchem/scripts/unit02_gen.py via unit02_engine.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.6-trap-0002",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.6",
+    "topic_title": "Resonance and Formal Charge",
+    "learning_objective": "Represent a molecule with a Lewis diagram that accounts for resonance between equivalent structures or that uses formal charge to select between nonequivalent structures. (2.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about resonance in $\\mathrm{O_3}$ is correct?",
+    "options": {
+      "A": "Ozone flips back and forth between two forms, so each bond is sometimes double.",
+      "B": "One O–O bond is double and the other is single in the real molecule.",
+      "C": "The O–O bonds are single bonds because oxygen is nonmetallic.",
+      "D": "The O–O bonds are identical in length because the electrons are delocalized."
+    },
+    "correct": "D",
+    "explanation": "Resonance forms are models; the real molecule is a single hybrid structure with equal bonds.",
+    "distractor_notes": {
+      "A": "This is the common misconception; the real molecule is a hybrid.",
+      "B": "Both bonds have the same measured length.",
+      "C": "The bond length is shorter than a single bond."
+    },
+    "tags": [
+      "resonance"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Resonance is mistaken for rapid interconversion.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Textbook diagrams show a double-headed arrow, which resembles an equilibrium.",
+      "how_to_avoid": "Remember the hybrid analogy: a mule, not a horse that changes into a donkey."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Formal_charge",
+        "https://en.wikipedia.org/wiki/Resonance_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.6-trap-0003",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.6",
+    "topic_title": "Resonance and Formal Charge",
+    "learning_objective": "Represent a molecule with a Lewis diagram that accounts for resonance between equivalent structures or that uses formal charge to select between nonequivalent structures. (2.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For a neutral molecule, the formal charges on all atoms in a Lewis diagram sum to which value?",
+    "options": {
+      "A": "Equal to the number of lone pairs",
+      "B": "Equal to the number of double bonds",
+      "C": "Zero",
+      "D": "Equal to the number of valence electrons"
+    },
+    "correct": "C",
+    "explanation": "Formal charges always sum to the total charge of the species (0 for a neutral molecule).",
+    "distractor_notes": {
+      "A": "Not related.",
+      "B": "Not related.",
+      "D": "Formal charges sum to the overall charge."
+    },
+    "tags": [
+      "formal charge"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Right concept (sum equals charge), but similar-sounding alternatives.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students confuse sums of charge with sums of electrons.",
+      "how_to_avoid": "Remember: ΣFC = overall charge."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Formal_charge",
+        "https://en.wikipedia.org/wiki/Resonance_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.6-trap-0004",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.6",
+    "topic_title": "Resonance and Formal Charge",
+    "learning_objective": "Represent a molecule with a Lewis diagram that accounts for resonance between equivalent structures or that uses formal charge to select between nonequivalent structures. (2.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement is NOT true of resonance structures for $\\mathrm{NO_3^-}$?",
+    "options": {
+      "A": "They differ only in the placement of electrons.",
+      "B": "They differ in the position of the nitrogen and oxygen atoms.",
+      "C": "They each have the same number of valence electrons.",
+      "D": "The real ion is a hybrid of them."
+    },
+    "correct": "B",
+    "explanation": "Resonance structures differ only in electron placement; atoms remain in the same positions.",
+    "distractor_notes": {
+      "A": "This is true.",
+      "C": "This is true.",
+      "D": "This is true."
+    },
+    "tags": [
+      "resonance"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem; the false option swaps atoms.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students treat resonance as atom rearrangement.",
+      "how_to_avoid": "Atoms stay; electrons move."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Formal_charge",
+        "https://en.wikipedia.org/wiki/Resonance_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.6-trap-0005",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.6",
+    "topic_title": "Resonance and Formal Charge",
+    "learning_objective": "Represent a molecule with a Lewis diagram that accounts for resonance between equivalent structures or that uses formal charge to select between nonequivalent structures. (2.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which Lewis diagram of $\\mathrm{CO_2}$ would result in the lowest formal charges?",
+    "options": {
+      "A": "O=C=O",
+      "B": "O≡C–O with one lone pair on the triple-bonded O",
+      "C": "O–C–O with three lone pairs on each O",
+      "D": "O=C–O with two lone pairs on the double-bonded O"
+    },
+    "correct": "A",
+    "explanation": "O=C=O has formal charges all zero.",
+    "distractor_notes": {
+      "B": "This gives formal charges +1 and −1.",
+      "C": "Violates the carbon octet.",
+      "D": "Gives an inconsistent electron count."
+    },
+    "tags": [
+      "formal charge"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The tempting diagram also satisfies the octet.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Octet satisfaction seems sufficient.",
+      "how_to_avoid": "Compute FC for each candidate."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Formal_charge",
+        "https://en.wikipedia.org/wiki/Resonance_(chemistry)",
+        "https://en.wikipedia.org/wiki/Lewis_structure",
+        "Independent audit (apchem/scripts/unit02_audit2.py): sum|FC| = {'O=C=O': 0, 'O≡C–O': 2, 'O–C–O': 4, 'O=C–O': 2}"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.6-trap-0006",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.6",
+    "topic_title": "Resonance and Formal Charge",
+    "learning_objective": "Represent a molecule with a Lewis diagram that accounts for resonance between equivalent structures or that uses formal charge to select between nonequivalent structures. (2.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following statements about bond lengths in $\\mathrm{NO_3^-}$ is correct?",
+    "options": {
+      "A": "One N–O bond is shorter than the other two, because only one of the bonds is a double bond.",
+      "B": "All three N–O bonds are the same length as an N–O single bond, because each of the bonds is a single bond.",
+      "C": "All three N–O bonds are the same length as an N=O double bond, because each of the bonds is a double bond.",
+      "D": "All three N–O bonds are the same length, between that of an N–O single and an N=O double bond."
+    },
+    "correct": "D",
+    "explanation": "Delocalization gives each N–O bond an order of 4/3.",
+    "distractor_notes": {
+      "A": "All three are equal.",
+      "B": "They are shorter.",
+      "C": "They are longer."
+    },
+    "tags": [
+      "resonance"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "A single drawn structure shows one double and two single bonds.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students trust the drawing over the hybrid concept.",
+      "how_to_avoid": "Combine all resonance forms to find the average."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Formal_charge",
+        "https://en.wikipedia.org/wiki/Resonance_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.6-trap-0007",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.6",
+    "topic_title": "Resonance and Formal Charge",
+    "learning_objective": "Represent a molecule with a Lewis diagram that accounts for resonance between equivalent structures or that uses formal charge to select between nonequivalent structures. (2.6.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the formal charge on each hydrogen atom in $\\mathrm{NH_4^+}$?",
+    "options": {
+      "A": "+1",
+      "B": "−1",
+      "C": "0",
+      "D": "+0.25"
+    },
+    "correct": "C",
+    "explanation": "FC(H) = 1 − 0 − 2/2 = 0; the +1 charge is on N.",
+    "distractor_notes": {
+      "A": "The ion's charge is placed on N, not on H.",
+      "B": "H shares its electron; no extra electron.",
+      "D": "The ion's charge is not divided among the hydrogens in formal charge."
+    },
+    "tags": [
+      "formal charge"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "The overall charge is assumed to belong to a particular atom's formal charge.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students distribute the ion's charge.",
+      "how_to_avoid": "Compute each atom's FC separately."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Formal_charge",
+        "https://en.wikipedia.org/wiki/Resonance_(chemistry)",
+        "Computed with Python (apchem/scripts/unit02_gen.py via unit02_engine.py)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.6-trap-0008",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.6",
+    "topic_title": "Resonance and Formal Charge",
+    "learning_objective": "Represent a molecule with a Lewis diagram that accounts for resonance between equivalent structures or that uses formal charge to select between nonequivalent structures. (2.6.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student claims that, for $\\mathrm{N_2O}$, the diagram N≡N–O (negative formal charge on O) is the one and only correct representation. Which response is correct?",
+    "options": {
+      "A": "The claim is incorrect: the diagram N=N=O is the only valid diagram valid diagram, because it has no triple bond to strain the structure.",
+      "B": "The claim is overstated: N≡N–O is the major contributor, but the real molecule is a hybrid that also includes N=N=O.",
+      "C": "The claim is incorrect: formal charges must all be zero for a valid diagram.",
+      "D": "The claim is correct: resonance structures do not contribute to the real structure."
+    },
+    "correct": "B",
+    "explanation": "N≡N+–O⁻ puts the negative charge on O (more electronegative); N=N+=O contributes less.",
+    "distractor_notes": {
+      "A": "Both are valid contributors.",
+      "C": "Zero for all atoms is not always achievable.",
+      "D": "Resonance forms all contribute."
+    },
+    "tags": [
+      "formal charge",
+      "resonance"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Always the best' conflicts with the hybrid model.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students over-apply a ranking criterion.",
+      "how_to_avoid": "Treat the best diagram as the major contributor."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Formal_charge",
+        "https://en.wikipedia.org/wiki/Resonance_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.7-trap-0001",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.7",
+    "topic_title": "VSEPR and Hybridization",
+    "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about $\\mathrm{NH_3}$ is correct?",
+    "options": {
+      "A": "Its molecular geometry is tetrahedral because nitrogen forms four domains.",
+      "B": "Its molecular geometry is trigonal planar because it has three bonds.",
+      "C": "Its electron-domain geometry is trigonal pyramidal.",
+      "D": "Its electron-domain geometry is tetrahedral, but its molecular geometry is trigonal pyramidal."
+    },
+    "correct": "D",
+    "explanation": "Four domains (3 bonding + 1 lone pair) arrange tetrahedrally; the atoms form a trigonal pyramid.",
+    "distractor_notes": {
+      "A": "This is the electron-domain geometry; one domain is a lone pair.",
+      "B": "Ignoring the lone pair would give planar geometry.",
+      "C": "Electron-domain geometry counts all four domains."
+    },
+    "tags": [
+      "VSEPR"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Electron-domain vs molecular geometry.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students name the shape from the domain count.",
+      "how_to_avoid": "Name the shape from the atoms' positions only."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/VSEPR_theory",
+        "https://phet.colorado.edu/en/simulations/molecule-shapes",
+        "https://en.wikipedia.org/wiki/Ammonia",
+        "https://en.wikipedia.org/wiki/Lone_pair",
+        "Independent audit (apchem/scripts/unit02_audit2.py): NH3: 4 domains (3 bonding + 1 lone pair): tetrahedral electron-domain geometry, trigonal pyramidal shape | claims: VSEPR: lone pairs count as electron domains; NH3 has four domains (tetrahedral arrangement) and a trigonal pyramidal shape"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.7-trap-0002",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.7",
+    "topic_title": "VSEPR and Hybridization",
+    "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the polarity of $\\mathrm{CO_2}$ is correct?",
+    "options": {
+      "A": "The molecule is polar because each C=O bond is polar, so the bond dipoles must add up.",
+      "B": "The C=O bonds are polar, but the molecule is nonpolar because of its linear geometry.",
+      "C": "The molecule is nonpolar because the C=O bonds are nonpolar.",
+      "D": "The molecule is polar because oxygen is more electronegative than carbon."
+    },
+    "correct": "B",
+    "explanation": "Equal and opposite bond dipoles cancel in a linear molecule.",
+    "distractor_notes": {
+      "A": "Polar bonds do not guarantee a polar molecule.",
+      "C": "The bonds are polar.",
+      "D": "The bond dipoles cancel by symmetry."
+    },
+    "tags": [
+      "polarity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Polar bonds are equated with a polar molecule.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students stop at electronegativity.",
+      "how_to_avoid": "Check geometry and vector addition."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/VSEPR_theory",
+        "https://phet.colorado.edu/en/simulations/molecule-shapes",
+        "https://en.wikipedia.org/wiki/Electronegativities_of_the_elements_(data_page)",
+        "https://en.wikipedia.org/wiki/Electronegativity",
+        "https://en.wikipedia.org/wiki/Chemical_polarity",
+        "https://en.wikipedia.org/wiki/Carbon_dioxide",
+        "Independent audit (apchem/scripts/unit02_audit2.py): ΔEN(C–O)=0.89; μ(CO2)=0.0 D (Wikipedia chembox); linear | claims: Polar bonds give a nonpolar molecule when the bond dipoles cancel by symmetry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.7-trap-0003",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.7",
+    "topic_title": "VSEPR and Hybridization",
+    "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following molecules are polar EXCEPT",
+    "options": {
+      "A": "$\\mathrm{SF_4}$",
+      "B": "$\\mathrm{BrF_5}$",
+      "C": "$\\mathrm{SF_6}$",
+      "D": "$\\mathrm{SO_2}$"
+    },
+    "correct": "C",
+    "explanation": "SF$_6$ is octahedral; all six dipoles cancel.",
+    "distractor_notes": {
+      "A": "Seesaw; polar.",
+      "B": "Square pyramidal; polar.",
+      "D": "Bent; polar."
+    },
+    "tags": [
+      "polarity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "EXCEPT stem with sulfur-containing options.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students mix up the S–F species.",
+      "how_to_avoid": "Determine geometry first."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/VSEPR_theory",
+        "https://phet.colorado.edu/en/simulations/molecule-shapes",
+        "https://en.wikipedia.org/wiki/Molecular_geometry",
+        "Independent audit (apchem/scripts/unit02_audit2.py): symmetric geometry (zero net dipole) from VSEPR; bonds are polar by ΔEN"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.7-trap-0004",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.7",
+    "topic_title": "VSEPR and Hybridization",
+    "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about bond angles is correct?",
+    "options": {
+      "A": "The H–O–H angle in H$_2$O is smaller than the H–N–H angle in NH$_3$ because H$_2$O has two lone pairs.",
+      "B": "The H–O–H angle in H$_2$O is larger than the H–N–H angle in NH$_3$ because oxygen is more electronegative.",
+      "C": "The two angles are equal because both central atoms have four electron domains.",
+      "D": "The H–O–H angle in H$_2$O is larger because there are two bonds instead of three."
+    },
+    "correct": "A",
+    "explanation": "H–N–H ≈ 107° (1 lone pair); H–O–H ≈ 104.5° (2 lone pairs).",
+    "distractor_notes": {
+      "B": "More lone pairs compress the angle more.",
+      "C": "Lone-pair count differs.",
+      "D": "The angle is compressed by lone pairs."
+    },
+    "tags": [
+      "bond angle"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Order of angle compression with lone pairs.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students think a more electronegative atom spreads the bonds apart.",
+      "how_to_avoid": "Count lone pairs: more lone pairs → smaller bond angle."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/VSEPR_theory",
+        "https://phet.colorado.edu/en/simulations/molecule-shapes"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.7-trap-0005",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.7",
+    "topic_title": "VSEPR and Hybridization",
+    "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the number of σ and π bonds in $\\mathrm{C_2H_2}$ (H–C≡C–H) is correct?",
+    "options": {
+      "A": "5 σ bonds and 0 π bonds",
+      "B": "2 σ bonds and 3 π bonds",
+      "C": "1 σ bond and 4 π bonds",
+      "D": "3 σ bonds and 2 π bonds"
+    },
+    "correct": "D",
+    "explanation": "Each bond has one σ bond; the triple bond contributes two π bonds; total σ = 3 (2 C–H + 1 C–C).",
+    "distractor_notes": {
+      "A": "Counted every shared pair as σ.",
+      "B": "Counted the triple bond as three π.",
+      "C": "Misassigned σ/π."
+    },
+    "tags": [
+      "sigma",
+      "pi"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Counting the shared pairs rather than bonds.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students equate pairs with σ bonds.",
+      "how_to_avoid": "Each bond is one σ; extra pairs are π."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/VSEPR_theory",
+        "https://phet.colorado.edu/en/simulations/molecule-shapes",
+        "https://en.wikipedia.org/wiki/Orbital_hybridisation",
+        "https://en.wikipedia.org/wiki/Acetylene",
+        "Independent audit (apchem/scripts/unit02_audit2.py): σ/π counts for H–C≡C–H: 3σ + 2π"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.7-trap-0006",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.7",
+    "topic_title": "VSEPR and Hybridization",
+    "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student says that because the carbon atoms in ethene are sp$^2$ hybridized, the molecule must be bent. Which response is best?",
+    "options": {
+      "A": "The claim is incorrect: each carbon has three domains in a trigonal planar arrangement, making the molecule planar.",
+      "B": "The claim is correct: sp$^2$ always means a bent shape molecular shape, as in SO$_2$.",
+      "C": "The claim is correct: the double bond forces the carbon atoms to bend away from each other.",
+      "D": "The claim is incorrect: ethene is tetrahedral around each carbon because each carbon forms four bonds."
+    },
+    "correct": "A",
+    "explanation": "Three domains → trigonal planar around each carbon with ~120° angles.",
+    "distractor_notes": {
+      "B": "sp$^2$ corresponds to trigonal planar.",
+      "C": "The C=C bond is planar.",
+      "D": "Tetrahedral requires sp$^3$."
+    },
+    "tags": [
+      "hybridization"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Hybridization names are associated with the wrong shape.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students memorize 'sp$^2$ is bent' from SO$_2$ (bent due to a lone pair).",
+      "how_to_avoid": "Link sp$^2$ to three domains."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/VSEPR_theory",
+        "https://phet.colorado.edu/en/simulations/molecule-shapes"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.7-trap-0007",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.7",
+    "topic_title": "VSEPR and Hybridization",
+    "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Molecule | Dipole moment (D)\n--- | ---\nCO$_2$ | 0.0\nSO$_2$ | 1.62\nH$_2$O | 1.85",
+      "citation": "Wikipedia infoboxes: Carbon dioxide (0 D), Sulfur dioxide (1.62 D), Water (1.8546 D, rounded).",
+      "asset_path": null
+    },
+    "question": "The table lists measured dipole moments. Which conclusion is best supported?",
+    "options": {
+      "A": "CO$_2$ is bent because its dipole moment is zero and the bond dipoles add together.",
+      "B": "SO$_2$ is linear because its dipole moment is large.",
+      "C": "CO$_2$ is linear because its dipole moment is zero despite having polar bonds.",
+      "D": "H$_2$O is linear because its dipole moment is large and a linear molecule always has a large dipole."
+    },
+    "correct": "C",
+    "explanation": "A zero dipole moment with polar bonds requires symmetrical cancellation (linear for triatomics).",
+    "distractor_notes": {
+      "A": "A bent molecule would have a dipole.",
+      "B": "A linear SO$_2$ would be nonpolar.",
+      "D": "A linear H$_2$O would be nonpolar."
+    },
+    "tags": [
+      "dipole",
+      "data"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The zero value is misread as 'no polar bonds'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students think zero dipole means nonpolar bonds.",
+      "how_to_avoid": "Separate bond polarity from molecular polarity."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/VSEPR_theory",
+        "https://phet.colorado.edu/en/simulations/molecule-shapes",
+        "https://en.wikipedia.org/wiki/Carbon_dioxide",
+        "https://en.wikipedia.org/wiki/Sulfur_dioxide",
+        "Independent audit (apchem/scripts/unit02_audit2.py): CO2 dipole 0 D with polar C=O bonds (Wikipedia infoboxes)"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.7-trap-0008",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.7",
+    "topic_title": "VSEPR and Hybridization",
+    "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which molecule has a central atom with exactly two lone pairs?",
+    "options": {
+      "A": "$\\mathrm{NH_3}$",
+      "B": "$\\mathrm{H_2O}$",
+      "C": "$\\mathrm{CH_4}$",
+      "D": "$\\mathrm{BF_3}$"
+    },
+    "correct": "B",
+    "explanation": "O in H$_2$O has 6 − 2 = 4 non-bonding electrons = 2 lone pairs.",
+    "distractor_notes": {
+      "A": "One lone pair.",
+      "C": "No lone pairs.",
+      "D": "No lone pairs."
+    },
+    "tags": [
+      "lone pairs"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Neighbouring hydrides differ by one lone pair each.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students confuse NH$_3$ and H$_2$O.",
+      "how_to_avoid": "Count valence electrons minus bonds."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/VSEPR_theory",
+        "https://phet.colorado.edu/en/simulations/molecule-shapes",
+        "https://en.wikipedia.org/wiki/Lone_pair",
+        "Independent audit (apchem/scripts/unit02_audit2.py): lone pairs on central atom = (V_central − ligands)/2"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.7-trap-0009",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.7",
+    "topic_title": "VSEPR and Hybridization",
+    "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about XeF$_2$ is correct?",
+    "options": {
+      "A": "It is bent and polar because Xe has three lone pairs.",
+      "B": "It is trigonal planar because it has three lone pairs.",
+      "C": "It is linear and nonpolar even though Xe has three lone pairs.",
+      "D": "It is tetrahedral because Xe has four atoms and lone pairs."
+    },
+    "correct": "C",
+    "explanation": "Five domains (2 bonds + 3 lone pairs): lone pairs occupy the equatorial positions, leaving F–Xe–F at 180°.",
+    "distractor_notes": {
+      "A": "The three lone pairs sit in the equatorial plane.",
+      "B": "Only the atoms define the shape.",
+      "D": "Xe has five electron domains."
+    },
+    "tags": [
+      "VSEPR"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Lone pairs are assumed always to make a molecule bent or polar.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students over-apply NH$_3$ and H$_2$O patterns.",
+      "how_to_avoid": "Count domains and locate lone pairs for the specific geometry."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/VSEPR_theory",
+        "https://phet.colorado.edu/en/simulations/molecule-shapes",
+        "https://en.wikipedia.org/wiki/Xenon_difluoride",
+        "https://en.wikipedia.org/wiki/Molecular_geometry",
+        "https://en.wikipedia.org/wiki/Chemical_polarity",
+        "https://en.wikipedia.org/wiki/Carbon_dioxide",
+        "Independent audit (apchem/scripts/unit02_audit2.py): XeF2: lone pairs on Xe = (8−2)/2 = 3; domains = 5 (trigonal bipyramid, lone pairs equatorial) -> linear and symmetric | claims: XeF2 is linear (three equatorial lone pairs on Xe); Polar bonds give a nonpolar molecule when the bond dipoles cancel by symmetry"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u2-t2.7-trap-0010",
+    "subject": "apchem",
+    "unit": 2,
+    "unit_title": "Molecular and Ionic Compound Structure and Properties",
+    "topic": "2.7",
+    "topic_title": "VSEPR and Hybridization",
+    "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following has the greatest bond angle between adjacent bonds?",
+    "options": {
+      "A": "$\\mathrm{BF_3}$",
+      "B": "$\\mathrm{CH_4}$",
+      "C": "$\\mathrm{H_2O}$",
+      "D": "$\\mathrm{CO_2}$"
+    },
+    "correct": "D",
+    "explanation": "CO$_2$ is linear (180°); BF$_3$ is 120°, CH$_4$ 109.5°, H$_2$O ≈ 104.5°.",
+    "distractor_notes": {
+      "A": "120°.",
+      "B": "109.5°.",
+      "C": "About 104.5°."
+    },
+    "tags": [
+      "bond angle"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "'Greatest' stem with numerical angles.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students choose the most symmetrical-looking molecule (CH$_4$).",
+      "how_to_avoid": "Associate the angle with the domain count and lone pairs."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/VSEPR_theory",
+        "https://phet.colorado.edu/en/simulations/molecule-shapes"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  }
+]

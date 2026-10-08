@@ -1,0 +1,746 @@
+{
+  "subject": "apchem",
+  "name": "AP Chemistry",
+  "ced_source": "College Board AP Chemistry Course and Exam Description (CED), https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf (Unit 1 fetched Oct 2026; CED updates effective Fall 2024 applied: topic 1.2 'Mass Spectra of Elements', topic 1.8 LO wording)",
+  "skills": [
+    "Models and Representations",
+    "Question and Method",
+    "Representing Data and Phenomena",
+    "Model Analysis",
+    "Mathematical Routines",
+    "Argumentation"
+  ],
+  "targets": {
+    "min_standard_per_unit": 250,
+    "min_traps_per_unit": 40,
+    "min_per_topic_standard": 15,
+    "min_traps_per_topic": 5
+  },
+  "units": [
+    {
+      "unit": 1,
+      "title": "Atomic Structure and Properties",
+      "topics": [
+        {
+          "id": "1.1",
+          "title": "Moles and Molar Mass",
+          "learning_objective": "Calculate quantities of a substance or its relative number of particles using dimensional analysis and the mole concept. (1.1.A)",
+          "standard_count": 34,
+          "trap_count": 7
+        },
+        {
+          "id": "1.2",
+          "title": "Mass Spectra of Elements",
+          "learning_objective": "Explain the quantitative relationship between the mass spectrum of an element and the masses of the element's isotopes. (1.2.A)",
+          "standard_count": 34,
+          "trap_count": 6
+        },
+        {
+          "id": "1.3",
+          "title": "Elemental Composition of Pure Substances",
+          "learning_objective": "Explain the quantitative relationship between the elemental composition by mass and the empirical formula of a pure substance. (1.3.A)",
+          "standard_count": 36,
+          "trap_count": 7
+        },
+        {
+          "id": "1.4",
+          "title": "Composition of Mixtures",
+          "learning_objective": "Explain the quantitative relationship between the elemental composition by mass and the composition of substances in a mixture. (1.4.A)",
+          "standard_count": 34,
+          "trap_count": 7
+        },
+        {
+          "id": "1.5",
+          "title": "Atomic Structure and Electron Configuration",
+          "learning_objective": "Represent the ground-state electron configuration of an atom of an element or its ions using the Aufbau principle. (1.5.A)",
+          "standard_count": 36,
+          "trap_count": 7
+        },
+        {
+          "id": "1.6",
+          "title": "Photoelectron Spectroscopy",
+          "learning_objective": "Explain the relationship between the photoelectron spectrum of an atom or ion and (i) the ground-state electron configuration of the species and (ii) the interactions between the electrons and the nucleus. (1.6.A)",
+          "standard_count": 34,
+          "trap_count": 7
+        },
+        {
+          "id": "1.7",
+          "title": "Periodic Trends",
+          "learning_objective": "Explain the relationship between trends in atomic properties of elements and electronic structure and periodicity. (1.7.A)",
+          "standard_count": 35,
+          "trap_count": 8
+        },
+        {
+          "id": "1.8",
+          "title": "Valence Electrons and Ionic Compounds",
+          "learning_objective": "Explain the relationship between trends in the reactivity of elements and periodicity. (1.8.A)",
+          "standard_count": 34,
+          "trap_count": 6
+        }
+      ],
+      "standard_count": 277,
+      "trap_count": 55,
+      "exam_weighting_mc": "7%-9%"
+    },
+    {
+      "unit": 2,
+      "title": "Molecular and Ionic Compound Structure and Properties",
+      "topics": [
+        {
+          "id": "2.1",
+          "title": "Types of Chemical Bonds",
+          "learning_objective": "Explain the relationship between the type of bonding and the properties of the elements participating in the bond. (2.1.A)",
+          "standard_count": 45,
+          "trap_count": 8
+        },
+        {
+          "id": "2.2",
+          "title": "Intramolecular Force and Potential Energy",
+          "learning_objective": "Represent the relationship between potential energy and distance between atoms, based on factors that influence the interaction strength. (2.2.A)",
+          "standard_count": 41,
+          "trap_count": 9
+        },
+        {
+          "id": "2.3",
+          "title": "Structure of Ionic Solids",
+          "learning_objective": "Represent an ionic solid with a particulate model that is consistent with Coulomb's law and the properties of the constituent ions. (2.3.A)",
+          "standard_count": 35,
+          "trap_count": 8
+        },
+        {
+          "id": "2.4",
+          "title": "Structure of Metals and Alloys",
+          "learning_objective": "Represent a metallic solid and/or alloy using a model to show essential characteristics of the structure and interactions present in the substance. (2.4.A)",
+          "standard_count": 36,
+          "trap_count": 8
+        },
+        {
+          "id": "2.5",
+          "title": "Lewis Diagrams",
+          "learning_objective": "Represent a molecule with a Lewis diagram. (2.5.A)",
+          "standard_count": 50,
+          "trap_count": 8
+        },
+        {
+          "id": "2.6",
+          "title": "Resonance and Formal Charge",
+          "learning_objective": "Represent a molecule with a Lewis diagram that accounts for resonance between equivalent structures or that uses formal charge to select between nonequivalent structures. (2.6.A)",
+          "standard_count": 43,
+          "trap_count": 8
+        },
+        {
+          "id": "2.7",
+          "title": "VSEPR and Hybridization",
+          "learning_objective": "Based on the relationship between Lewis diagrams, VSEPR theory, bond orders, and bond polarities: (i) explain structural properties of molecules; (ii) explain electron properties of molecules. (2.7.A)",
+          "standard_count": 75,
+          "trap_count": 10
+        }
+      ],
+      "standard_count": 325,
+      "trap_count": 59
+    },
+    {
+      "unit": 3,
+      "title": "Intermolecular Forces and Properties",
+      "topics": [
+        {
+          "id": "3.1",
+          "title": "Intermolecular and Interparticle Forces",
+          "learning_objective": "Explain the relationship between the chemical structures of molecules and the relative strength of their intermolecular forces when (i) the molecules are of the same chemical species and (ii) the molecules are of two different chemical species. (3.1.A)",
+          "standard_count": 23,
+          "trap_count": 6
+        },
+        {
+          "id": "3.2",
+          "title": "Properties of Solids",
+          "learning_objective": "Explain the relationship among the macroscopic properties of a substance, the particulate-level structure of the substance, and the interactions between these particles. (3.2.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "3.3",
+          "title": "Solids, Liquids, and Gases",
+          "learning_objective": "Represent the differences between solid, liquid, and gas phases using a particulate-level model. (3.3.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "3.4",
+          "title": "Ideal Gas Law",
+          "learning_objective": "Explain the relationship between the macroscopic properties of a sample of gas or mixture of gases using the ideal gas law. (3.4.A)",
+          "standard_count": 25,
+          "trap_count": 6
+        },
+        {
+          "id": "3.5",
+          "title": "Kinetic Molecular Theory",
+          "learning_objective": "Explain the relationship between the motion of particles and the macroscopic properties of gases with (i) the kinetic molecular theory, (ii) a particulate model, and (iii) a graphical representation. (3.5.A)",
+          "standard_count": 23,
+          "trap_count": 6
+        },
+        {
+          "id": "3.6",
+          "title": "Deviation from Ideal Gas Law",
+          "learning_objective": "Explain the relationship among non-ideal behaviors of gases, interparticle forces, and/or volumes. (3.6.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "3.7",
+          "title": "Solutions and Mixtures",
+          "learning_objective": "Calculate the number of solute particles, volume, or molarity of solutions. (3.7.A)",
+          "standard_count": 20,
+          "trap_count": 6
+        },
+        {
+          "id": "3.8",
+          "title": "Representations of Solutions",
+          "learning_objective": "Using particulate models for mixtures, (i) represent interactions between components and (ii) represent concentrations of components. (3.8.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "3.9",
+          "title": "Separation of Solutions and Mixtures",
+          "learning_objective": "Explain the results of a separation experiment based on intermolecular interactions. (3.9.A)",
+          "standard_count": 22,
+          "trap_count": 6
+        },
+        {
+          "id": "3.10",
+          "title": "Solubility",
+          "learning_objective": "Explain the relationship between the solubility of ionic and molecular compounds in aqueous and nonaqueous solvents, and the intermolecular interactions between particles. (3.10.A)",
+          "standard_count": 22,
+          "trap_count": 6
+        },
+        {
+          "id": "3.11",
+          "title": "Spectroscopy and the Electromagnetic Spectrum",
+          "learning_objective": "Explain the relationship between a region of the electromagnetic spectrum and the types of molecular or electronic transitions associated with that region. (3.11.A)",
+          "standard_count": 22,
+          "trap_count": 6
+        },
+        {
+          "id": "3.12",
+          "title": "Properties of Photons",
+          "learning_objective": "Explain the properties of an absorbed or emitted photon in relationship to an electronic transition in an atom or molecule. (3.12.A)",
+          "standard_count": 20,
+          "trap_count": 6
+        },
+        {
+          "id": "3.13",
+          "title": "Beer-Lambert Law",
+          "learning_objective": "Explain the amount of light absorbed by a solution of molecules or ions in relationship to the concentration, path length, and molar absorptivity. (3.13.A)",
+          "standard_count": 22,
+          "trap_count": 6
+        }
+      ],
+      "standard_count": 283,
+      "trap_count": 78
+    },
+    {
+      "unit": 4,
+      "title": "Chemical Reactions",
+      "topics": [
+        {
+          "id": "4.1",
+          "title": "Introduction for Reactions",
+          "learning_objective": "Identify evidence of chemical and physical changes in matter. (4.1.A)",
+          "standard_count": 39,
+          "trap_count": 7
+        },
+        {
+          "id": "4.2",
+          "title": "Net Ionic Equations",
+          "learning_objective": "Represent changes in matter with a balanced chemical or net ionic equation: (i) for physical changes; (ii) for given information about the identity of the reactants and/or product; (iii) for ions in a given chemical reaction. (4.2.A)",
+          "standard_count": 42,
+          "trap_count": 7
+        },
+        {
+          "id": "4.3",
+          "title": "Representations of Reactions",
+          "learning_objective": "Represent a given chemical reaction or physical process with a consistent particulate model. (4.3.A)",
+          "standard_count": 27,
+          "trap_count": 6
+        },
+        {
+          "id": "4.4",
+          "title": "Physical and Chemical Changes",
+          "learning_objective": "Explain the relationship between macroscopic characteristics and bond interactions for: (i) chemical processes; (ii) physical processes. (4.4.A)",
+          "standard_count": 28,
+          "trap_count": 6
+        },
+        {
+          "id": "4.5",
+          "title": "Stoichiometry",
+          "learning_objective": "Explain changes in the amounts of reactants and products based on the balanced reaction equation for a chemical process. (4.5.A)",
+          "standard_count": 44,
+          "trap_count": 6
+        },
+        {
+          "id": "4.6",
+          "title": "Introduction to Titration",
+          "learning_objective": "Identify the equivalence point in a titration based on experimental data. (4.6.A)",
+          "standard_count": 28,
+          "trap_count": 7
+        },
+        {
+          "id": "4.7",
+          "title": "Types of Chemical Reactions",
+          "learning_objective": "Identify a reaction as acid-base, oxidation-reduction, or precipitation. (4.7.A)",
+          "standard_count": 36,
+          "trap_count": 6
+        },
+        {
+          "id": "4.8",
+          "title": "Introduction to Acid-Base Reactions",
+          "learning_objective": "Identify species as Bronsted-Lowry acids, bases, and/or conjugate acid-base pairs, based on proton-transfer involving those species. (4.8.A)",
+          "standard_count": 37,
+          "trap_count": 7
+        },
+        {
+          "id": "4.9",
+          "title": "Oxidation-Reduction (Redox) Reactions",
+          "learning_objective": "Represent a balanced redox reaction equation using half-reactions. (4.9.A)",
+          "standard_count": 35,
+          "trap_count": 7
+        }
+      ],
+      "standard_count": 316,
+      "trap_count": 59
+    },
+    {
+      "unit": 5,
+      "title": "Kinetics",
+      "topics": [
+        {
+          "id": "5.1",
+          "title": "Reaction Rates",
+          "learning_objective": "Explain the relationship between the rate of a chemical reaction and experimental parameters. (5.1.A)",
+          "standard_count": 33,
+          "trap_count": 7
+        },
+        {
+          "id": "5.2",
+          "title": "Introduction to Rate Law",
+          "learning_objective": "Represent experimental data with a consistent rate law expression. (5.2.A)",
+          "standard_count": 47,
+          "trap_count": 7
+        },
+        {
+          "id": "5.3",
+          "title": "Concentration Changes Over Time",
+          "learning_objective": "Identify the rate law expression of a chemical reaction using data that show how the concentrations of reaction species change over time. (5.3.A)",
+          "standard_count": 31,
+          "trap_count": 7
+        },
+        {
+          "id": "5.4",
+          "title": "Elementary Reactions",
+          "learning_objective": "Represent an elementary reaction as a rate law expression using stoichiometry. (5.4.A)",
+          "standard_count": 32,
+          "trap_count": 7
+        },
+        {
+          "id": "5.5",
+          "title": "Collision Model",
+          "learning_objective": "Explain the relationship between the rate of an elementary reaction and the frequency, energy, and orientation of molecular collisions. (5.5.A)",
+          "standard_count": 26,
+          "trap_count": 7
+        },
+        {
+          "id": "5.6",
+          "title": "Reaction Energy Profile",
+          "learning_objective": "Represent the activation energy and overall energy change in an elementary reaction using a reaction energy profile. (5.6.A)",
+          "standard_count": 28,
+          "trap_count": 7
+        },
+        {
+          "id": "5.7",
+          "title": "Introduction to Reaction Mechanisms",
+          "learning_objective": "Identify the components of a reaction mechanism. (5.7.A)",
+          "standard_count": 30,
+          "trap_count": 7
+        },
+        {
+          "id": "5.8",
+          "title": "Reaction Mechanism and Rate Law",
+          "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is rate limiting. (5.8.A)",
+          "standard_count": 26,
+          "trap_count": 7
+        },
+        {
+          "id": "5.9",
+          "title": "Pre-Equilibrium Approximation",
+          "learning_objective": "Identify the rate law for a reaction from a mechanism in which the first step is not rate limiting. (5.9.A)",
+          "standard_count": 25,
+          "trap_count": 7
+        },
+        {
+          "id": "5.10",
+          "title": "Multistep Reaction Energy Profile",
+          "learning_objective": "Represent the activation energy and overall energy change in a multistep reaction with a reaction energy profile. (5.10.A)",
+          "standard_count": 25,
+          "trap_count": 8
+        },
+        {
+          "id": "5.11",
+          "title": "Catalysis",
+          "learning_objective": "Explain the relationship between the effect of a catalyst on a reaction and changes in the reaction mechanism. (5.11.A)",
+          "standard_count": 25,
+          "trap_count": 7
+        }
+      ],
+      "standard_count": 328,
+      "trap_count": 78
+    },
+    {
+      "unit": 6,
+      "title": "Thermodynamics",
+      "topics": [
+        {
+          "id": "6.1",
+          "title": "Endothermic and Exothermic Processes",
+          "learning_objective": "Explain the relationship between experimental observations and energy changes associated with a chemical or physical transformation. (6.1.A)",
+          "standard_count": 35,
+          "trap_count": 7
+        },
+        {
+          "id": "6.2",
+          "title": "Energy Diagrams",
+          "learning_objective": "Represent a chemical or physical transformation with an energy diagram. (6.2.A)",
+          "standard_count": 31,
+          "trap_count": 8
+        },
+        {
+          "id": "6.3",
+          "title": "Heat Transfer and Thermal Equilibrium",
+          "learning_objective": "Explain the relationship between the transfer of thermal energy and molecular collisions. (6.3.A)",
+          "standard_count": 29,
+          "trap_count": 7
+        },
+        {
+          "id": "6.4",
+          "title": "Heat Capacity and Calorimetry",
+          "learning_objective": "Calculate the heat q absorbed or released by a system undergoing heating/cooling based on the amount of the substance, the heat capacity, and the change in temperature. (6.4.A)",
+          "standard_count": 38,
+          "trap_count": 8
+        },
+        {
+          "id": "6.5",
+          "title": "Energy of Phase Changes",
+          "learning_objective": "Explain changes in the heat q absorbed or released by a system undergoing a phase transition based on the amount of the substance in moles and the molar enthalpy of the phase transition. (6.5.A)",
+          "standard_count": 30,
+          "trap_count": 6
+        },
+        {
+          "id": "6.6",
+          "title": "Introduction to Enthalpy of Reaction",
+          "learning_objective": "Calculate the heat q absorbed or released by a system undergoing a chemical reaction in relation to the amount of the reactant in moles and the molar enthalpy of reaction. (6.6.A)",
+          "standard_count": 27,
+          "trap_count": 6
+        },
+        {
+          "id": "6.7",
+          "title": "Bond Enthalpies",
+          "learning_objective": "Calculate the enthalpy change of a reaction based on the average bond energies of bonds broken and formed in the reaction. (6.7.A)",
+          "standard_count": 29,
+          "trap_count": 7
+        },
+        {
+          "id": "6.8",
+          "title": "Enthalpy of Formation",
+          "learning_objective": "Calculate the enthalpy change for a chemical or physical process based on the standard enthalpies of formation. (6.8.A)",
+          "standard_count": 29,
+          "trap_count": 7
+        },
+        {
+          "id": "6.9",
+          "title": "Hess's Law",
+          "learning_objective": "Represent a chemical or physical process as a sequence of steps (6.9.A) and explain the relationship between the enthalpy of the overall process and the sum of the enthalpies of the individual steps (6.9.B).",
+          "standard_count": 27,
+          "trap_count": 7
+        }
+      ],
+      "standard_count": 275,
+      "trap_count": 63
+    },
+    {
+      "unit": 7,
+      "title": "Equilibrium",
+      "topics": [
+        {
+          "id": "7.1",
+          "title": "Introduction to Equilibrium",
+          "learning_objective": "Explain the relationship between the occurrence of a reversible chemical or physical process and the establishment of equilibrium. (7.1.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "7.2",
+          "title": "Direction of Reversible Reactions",
+          "learning_objective": "Explain the relationship between the direction in which a reversible reaction proceeds and the relative rates of the forward and reverse reactions. (7.2.A)",
+          "standard_count": 20,
+          "trap_count": 6
+        },
+        {
+          "id": "7.3",
+          "title": "Reaction Quotient and Equilibrium Constant",
+          "learning_objective": "Represent a system undergoing a reversible reaction with a particulate model; write the reaction quotient Q and equilibrium constant K expressions and compare Q with K. (7.3.A)",
+          "standard_count": 23,
+          "trap_count": 6
+        },
+        {
+          "id": "7.4",
+          "title": "Calculating the Equilibrium Constant",
+          "learning_objective": "Calculate the equilibrium constant, K, from equilibrium concentrations or partial pressures. (7.4.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "7.5",
+          "title": "Magnitude of the Equilibrium Constant",
+          "learning_objective": "Explain the relationship between the magnitude of K and the thermodynamic favorability of the forward and reverse reactions. (7.5.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "7.6",
+          "title": "Properties of the Equilibrium Constant",
+          "learning_objective": "Represent a multistep process with a single net reaction and the corresponding equilibrium constant, and relate K to the way the reaction is written. (7.6.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "7.7",
+          "title": "Calculating Equilibrium Concentrations",
+          "learning_objective": "Identify the concentrations or partial pressures of the species at equilibrium, or the equilibrium constant, from a data set or ICE-style analysis. (7.7.A)",
+          "standard_count": 22,
+          "trap_count": 6
+        },
+        {
+          "id": "7.8",
+          "title": "Representations of Equilibrium",
+          "learning_objective": "Represent a system at equilibrium using particulate models, graphs of concentration versus time, and tables. (7.8.A)",
+          "standard_count": 20,
+          "trap_count": 6
+        },
+        {
+          "id": "7.9",
+          "title": "Introduction to Le Chatelier's Principle",
+          "learning_objective": "Identify the response of a system at equilibrium to an external stress using Le Chatelier's principle. (7.9.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "7.10",
+          "title": "Reaction Quotient and Le Chatelier's Principle",
+          "learning_objective": "Explain the relationship between Q, K, and the direction of shift of a system at equilibrium after a disturbance. (7.10.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "7.11",
+          "title": "Introduction to Solubility Equilibria",
+          "learning_objective": "Calculate the solubility of a salt from Ksp, and Ksp from solubility, for sparingly soluble ionic compounds. (7.11.A)",
+          "standard_count": 23,
+          "trap_count": 6
+        },
+        {
+          "id": "7.12",
+          "title": "Common-Ion Effect",
+          "learning_objective": "Explain the relationship between the solubility of a salt and the presence of a common ion in solution. (7.12.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "7.13",
+          "title": "pH and Solubility",
+          "learning_objective": "Identify the solubility of a salt in solution as a function of pH, and the effect of adding a strong acid or base. (7.13.A)",
+          "standard_count": 22,
+          "trap_count": 6
+        },
+        {
+          "id": "7.14",
+          "title": "Free Energy of Dissolution",
+          "learning_objective": "Explain the relationship between the solubility of a salt and changes in the enthalpy and entropy that occur in the dissolution process, including the sign of the free-energy change. (7.14.A)",
+          "standard_count": 22,
+          "trap_count": 6
+        }
+      ],
+      "standard_count": 299,
+      "trap_count": 84
+    },
+    {
+      "unit": 8,
+      "title": "Acids and Bases",
+      "topics": [
+        {
+          "id": "8.1",
+          "title": "Introduction to Acids and Bases",
+          "learning_objective": "Calculate the values of pH and pOH, based on Kw and the concentration of all species present in a neutral solution of water. (8.1.A)",
+          "standard_count": 34,
+          "trap_count": 6
+        },
+        {
+          "id": "8.2",
+          "title": "pH and pOH of Strong Acids and Bases",
+          "learning_objective": "Calculate pH and pOH based on concentrations of all species in a solution of a strong acid or a strong base. (8.2.A)",
+          "standard_count": 28,
+          "trap_count": 6
+        },
+        {
+          "id": "8.3",
+          "title": "Weak Acid and Base Equilibria",
+          "learning_objective": "Explain the relationship among pH, pOH, and concentrations of all species in a solution of a monoprotic weak acid or weak base. (8.3.A)",
+          "standard_count": 32,
+          "trap_count": 6
+        },
+        {
+          "id": "8.4",
+          "title": "Acid-Base Reactions and Buffers",
+          "learning_objective": "Explain the relationship among the concentrations of major species in a mixture of weak and strong acids and bases. (8.4.A)",
+          "standard_count": 24,
+          "trap_count": 6
+        },
+        {
+          "id": "8.5",
+          "title": "Acid-Base Titrations",
+          "learning_objective": "Explain results from the titration of a mono- or polyprotic acid or base solution, in relation to the properties of the solution and its components. (8.5.A)",
+          "standard_count": 27,
+          "trap_count": 6
+        },
+        {
+          "id": "8.6",
+          "title": "Molecular Structure of Acids and Bases",
+          "learning_objective": "Explain the relationship between the strength of an acid or base and the structure of the molecule or ion. (8.6.A)",
+          "standard_count": 24,
+          "trap_count": 6
+        },
+        {
+          "id": "8.7",
+          "title": "pH and pKa",
+          "learning_objective": "Explain the relationship between the predominant form of a weak acid or base in solution at a given pH and the pKa of the conjugate acid or the pKb of the conjugate base. (8.7.A)",
+          "standard_count": 23,
+          "trap_count": 6
+        },
+        {
+          "id": "8.8",
+          "title": "Properties of Buffers",
+          "learning_objective": "Explain the relationship between the ability of a buffer to stabilize pH and the reactions that occur when an acid or a base is added to a buffered solution. (8.8.A)",
+          "standard_count": 22,
+          "trap_count": 6
+        },
+        {
+          "id": "8.9",
+          "title": "Henderson-Hasselbalch Equation",
+          "learning_objective": "Identify the pH of a buffer solution based on the identity and concentrations of the conjugate acid-base pair used to create the buffer. (8.9.A)",
+          "standard_count": 22,
+          "trap_count": 6
+        },
+        {
+          "id": "8.10",
+          "title": "Buffer Capacity",
+          "learning_objective": "Explain the relationship between the buffer capacity of a solution and the relative concentrations of the conjugate acid and conjugate base components of the solution. (8.10.A)",
+          "standard_count": 21,
+          "trap_count": 6
+        },
+        {
+          "id": "8.11",
+          "title": "pH and Solubility",
+          "learning_objective": "Identify the qualitative effect of changes in pH on the solubility of a salt. (8.11.A)",
+          "standard_count": 23,
+          "trap_count": 6
+        }
+      ],
+      "standard_count": 280,
+      "trap_count": 66
+    },
+    {
+      "unit": 9,
+      "title": "Applications of Thermodynamics (Thermodynamics and Electrochemistry)",
+      "topics": [
+        {
+          "id": "9.1",
+          "title": "Introduction to Entropy",
+          "learning_objective": "Predict the sign and relative magnitude of the entropy change associated with chemical or physical processes. (9.1.A)",
+          "standard_count": 24,
+          "trap_count": 6
+        },
+        {
+          "id": "9.2",
+          "title": "Absolute Entropy and Entropy Change",
+          "learning_objective": "Calculate the standard entropy change for a chemical or physical process based on the absolute entropies (standard molar entropies) of the species involved in the process. (9.2.A)",
+          "standard_count": 24,
+          "trap_count": 6
+        },
+        {
+          "id": "9.3",
+          "title": "Gibbs Free Energy and Thermodynamic Favorability",
+          "learning_objective": "Explain whether a physical or chemical process is thermodynamically favored based on an evaluation of \u0394G\u00b0. (9.3.A)",
+          "standard_count": 27,
+          "trap_count": 6
+        },
+        {
+          "id": "9.4",
+          "title": "Thermodynamic and Kinetic Control",
+          "learning_objective": "Explain, in terms of kinetics, why a thermodynamically favored reaction might not occur at a measurable rate. (9.4.A)",
+          "standard_count": 23,
+          "trap_count": 6
+        },
+        {
+          "id": "9.5",
+          "title": "Free Energy and Equilibrium",
+          "learning_objective": "Explain whether a process is thermodynamically favored using the relationships between K, \u0394G\u00b0, and T. (9.5.A)",
+          "standard_count": 26,
+          "trap_count": 6
+        },
+        {
+          "id": "9.6",
+          "title": "Free Energy of Dissolution",
+          "learning_objective": "Explain the relationship between the solubility of a salt and changes in the enthalpy and entropy that occur in the dissolution process. (9.6.A)",
+          "standard_count": 23,
+          "trap_count": 6
+        },
+        {
+          "id": "9.7",
+          "title": "Coupled Reactions",
+          "learning_objective": "Explain the relationship between external sources of energy or coupled reactions and their ability to drive thermodynamically unfavorable processes. (9.7.A)",
+          "standard_count": 23,
+          "trap_count": 6
+        },
+        {
+          "id": "9.8",
+          "title": "Galvanic (Voltaic) and Electrolytic Cells",
+          "learning_objective": "Explain the relationship between the physical components of an electrochemical cell and the overall operational principles of the cell. (9.8.A)",
+          "standard_count": 25,
+          "trap_count": 6
+        },
+        {
+          "id": "9.9",
+          "title": "Cell Potential and Free Energy",
+          "learning_objective": "Explain whether an electrochemical cell is thermodynamically favored, based on its standard cell potential and the constituent half-reactions within the cell. (9.9.A)",
+          "standard_count": 26,
+          "trap_count": 6
+        },
+        {
+          "id": "9.10",
+          "title": "Cell Potential Under Nonstandard Conditions",
+          "learning_objective": "Explain the relationship between deviations from standard cell conditions and changes in the cell potential. (9.10.A)",
+          "standard_count": 23,
+          "trap_count": 6
+        },
+        {
+          "id": "9.11",
+          "title": "Electrolysis and Faraday's Law",
+          "learning_objective": "Calculate the amount of charge flow based on changes in the amounts of reactants and products in an electrochemical cell. (9.11.A)",
+          "standard_count": 26,
+          "trap_count": 6
+        }
+      ],
+      "standard_count": 270,
+      "trap_count": 66
+    }
+  ],
+  "pilot": "Unit 1 populated (pilot); units 2-9 pending."
+}

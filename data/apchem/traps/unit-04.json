@@ -1,0 +1,3154 @@
+[
+  {
+    "id": "apchem-u4-t4.1-trap-0001",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.1",
+    "topic_title": "Introduction for Reactions",
+    "learning_objective": "Identify evidence of chemical and physical changes in matter. (4.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Water in a pot is heated until bubbles rise vigorously through the liquid. Which statement is correct?",
+    "options": {
+      "A": "The bubbles are a new gas, so this is a chemical change.",
+      "B": "The bubbles are hydrogen and oxygen, so this is a chemical change.",
+      "C": "The bubbles are air, so no change of state occurs.",
+      "D": "The bubbles are water vapor, so this is a physical change."
+    },
+    "correct": "D",
+    "explanation": "Boiling converts liquid water to gaseous water; composition stays $\\mathrm{H_2O}$.",
+    "distractor_notes": {
+      "A": "Bubbles suggest gas formation, but the gas is water vapor.",
+      "B": "Water does not decompose when boiled.",
+      "C": "Boiling is a phase change."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Gas bubbles are usually evidence of chemical change, but boiling gives bubbles of vapor.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students memorize 'bubbles = chemical change'.",
+      "how_to_avoid": "Ask whether the gas is a new substance or the same substance in a different phase."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Physical_change",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.1-trap-0002",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.1",
+    "topic_title": "Introduction for Reactions",
+    "learning_objective": "Identify evidence of chemical and physical changes in matter. (4.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about evidence for chemical change is correct?",
+    "options": {
+      "A": "Any color change always proves that a chemical change has occurred.",
+      "B": "A color change never indicates a chemical change because color is physical.",
+      "C": "A color change is possible evidence of chemical change, but not conclusive alone.",
+      "D": "A color change proves a chemical change only if the temperature also changes."
+    },
+    "correct": "C",
+    "explanation": "The CED calls color change a 'possible' evidence; dilution or dissolution can change color physically.",
+    "distractor_notes": {
+      "A": "Dissolving a colored solid in water changes apparent color without a reaction.",
+      "B": "Color changes frequently accompany reactions.",
+      "D": "Temperature change is not required."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Always proves' is too strong.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Rule lists emphasize color change.",
+      "how_to_avoid": "Watch for always/never; ask for a physical process that could explain the same observation."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Physical_change",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.1-trap-0003",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.1",
+    "topic_title": "Introduction for Reactions",
+    "learning_objective": "Identify evidence of chemical and physical changes in matter. (4.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT evidence that a chemical change has occurred?",
+    "options": {
+      "A": "A flask becomes hot, and a colorless gas that relights a glowing splint is released.",
+      "B": "Solid naphthalene on a closet shelf slowly disappears and leaves a mothball smell.",
+      "C": "Two clear solutions are combined and a cloudy solid collects at the bottom.",
+      "D": "A clear solution turns dark brown and gives off bubbles after a metal strip is added."
+    },
+    "correct": "B",
+    "explanation": "Naphthalene sublimes (a physical change), so the disappearance of the solid is not evidence of reaction.",
+    "distractor_notes": {
+      "A": "Heat and a new gas are evidence of a reaction.",
+      "C": "Precipitate is evidence of a reaction.",
+      "D": "Color change with gas indicates reaction."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem; 'disappearing solid' sounds like a reaction.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students see a solid vanish and assume a reaction.",
+      "how_to_avoid": "Identify the one option that can be explained by a phase change."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Physical_change",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.1-trap-0004",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.1",
+    "topic_title": "Introduction for Reactions",
+    "learning_objective": "Identify evidence of chemical and physical changes in matter. (4.1.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Two students observe iron filings and sulfur powder. Student 1 stirs them together and sees a gray-yellow mixture that a magnet can separate. Student 2 heats the mixture strongly and obtains a dark solid that a magnet cannot separate into iron and sulfur. Which conclusion is best?",
+    "options": {
+      "A": "Stirring was physical; heating was chemical and formed iron sulfide.",
+      "B": "Both procedures were chemical changes because both started with two different elements.",
+      "C": "Both procedures were physical changes because no gas, light, or precipitate formed.",
+      "D": "Stirring was a chemical change because the powders changed color when combined."
+    },
+    "correct": "A",
+    "explanation": "A mixture retains component properties and is separable by physical means; the heated product has new properties.",
+    "distractor_notes": {
+      "B": "Mixing does not alter composition.",
+      "C": "Absence of those signs does not prove a physical change; the dark non-magnetic solid is new.",
+      "D": "The mixture looks different but each component retains its properties."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Both procedures start with the same two elements.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Same reactants suggest same type of change.",
+      "how_to_avoid": "Compare product properties with those of the starting materials."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Physical_change",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.1-trap-0005",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.1",
+    "topic_title": "Introduction for Reactions",
+    "learning_objective": "Identify evidence of chemical and physical changes in matter. (4.1.A)",
+    "skill": "Models and Representations",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student states: 'The density of a sample changes when it is heated, so heating it must be a chemical change.' Which response is most accurate?",
+    "options": {
+      "A": "The statement is justified because density is a chemical property.",
+      "B": "The statement is justified because a changing property always indicates a new substance.",
+      "C": "Density changes with temperature in physical changes too, so the claim is unjustified.",
+      "D": "The statement is not justified because density never changes upon heating."
+    },
+    "correct": "C",
+    "explanation": "Density depends on temperature; only changes in characteristic properties of an isolated substance indicate a new substance.",
+    "distractor_notes": {
+      "A": "Density is a physical property.",
+      "B": "Many physical properties change with temperature.",
+      "D": "Density generally decreases for heated liquids."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "A property change does not prove a chemical change.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "'Properties changed' resembles the definition.",
+      "how_to_avoid": "Ask whether the change in property could occur for the same substance at a new temperature."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Physical_change",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.1-trap-0006",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.1",
+    "topic_title": "Introduction for Reactions",
+    "learning_objective": "Identify evidence of chemical and physical changes in matter. (4.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student sees a hot copper wire turn from shiny orange-brown to black in a flame. Another student then plunges it into ethanol and it becomes shiny orange-brown again. What is the most accurate conclusion?",
+    "options": {
+      "A": "Both are chemical changes: copper is oxidized, and then the oxide is reduced back.",
+      "B": "Both observations involve physical changes because the wire returns to its original appearance.",
+      "C": "The first is chemical and the second is physical because the wire looks the same afterward.",
+      "D": "Neither is a chemical change because no gas bubbles or flame appear on the wire."
+    },
+    "correct": "A",
+    "explanation": "A reversible process is not automatically physical; the surface compound CuO forms and is then converted back to Cu.",
+    "distractor_notes": {
+      "B": "Appearing the same does not make it physical; chemical changes can be reversed.",
+      "C": "The second step also involves a reaction.",
+      "D": "Surface oxidation does not require bubbles."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Reversibility is not a criterion for physical change.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students think chemical changes cannot be undone.",
+      "how_to_avoid": "Check composition, not reversibility."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Physical_change",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.1-trap-0007",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.1",
+    "topic_title": "Introduction for Reactions",
+    "learning_objective": "Identify evidence of chemical and physical changes in matter. (4.1.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "| Stage | Appearance | Mass of solid |\n|---|---|---|\n| Initial | Silvery metal ribbon | 0.243 g |\n| After burning in open crucible | White powder | 0.403 g |",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "The table lists observations for a solid heated in air. Which interpretation is best?",
+    "options": {
+      "A": "The mass increase indicates a physical change because mass can increase when a sample absorbs heat.",
+      "B": "The solid reacted with a component of air, so a chemical change occurred.",
+      "C": "The mass increase must be an error because heating always lowers mass.",
+      "D": "The mass increase shows no chemical change because mass cannot change in a chemical change."
+    },
+    "correct": "B",
+    "explanation": "Magnesium burning in air gains mass because oxygen combines with the metal; mass is conserved when oxygen's mass is included.",
+    "distractor_notes": {
+      "A": "Heat does not add measurable mass.",
+      "C": "Mass can increase when a solid combines with oxygen.",
+      "D": "Mass is conserved in a closed system, including the gas consumed."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Heating usually reduces mass; here it increases.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume 'burning = mass loss'.",
+      "how_to_avoid": "Account for gaseous reactants as well as gaseous products."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Physical_change",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.2-trap-0001",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.2",
+    "topic_title": "Net Ionic Equations",
+    "learning_objective": "Represent changes in matter with a balanced chemical or net ionic equation: (i) for physical changes; (ii) for given information about the identity of the reactants and/or product; (iii) for ions in a given chemical reaction. (4.2.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student mixes $\\mathrm{Pb(NO_{3})_{2}}$(aq) with $\\mathrm{KI}$(aq) and writes the complete ionic equation $\\mathrm{Pb^{2+}(aq)\\ +\\ 2\\ NO_{3}^{-}(aq)\\ +\\ 2\\ K^{+}(aq)\\ +\\ 2\\ I^{-}(aq)\\ \\rightarrow\\ PbI_{2}(s)\\ +\\ 2\\ K^{+}(aq)\\ +\\ 2\\ NO_{3}^{-}(aq)}$. After removing the spectator ions, which is the balanced net ionic equation?",
+    "options": {
+      "A": "$\\mathrm{Pb^{2+}(aq)\\ +\\ I^{-}(aq)\\ \\rightarrow\\ PbI_{2}(s)}$",
+      "B": "$\\mathrm{Pb^{2+}(aq)\\ +\\ 2\\ NO_{3}^{-}(aq)\\ +\\ 2\\ K^{+}(aq)\\ +\\ 2\\ I^{-}(aq)\\ \\rightarrow\\ PbI_{2}(s)\\ +\\ 2\\ K^{+}(aq)\\ +\\ 2\\ NO_{3}^{-}(aq)}$",
+      "C": "$\\mathrm{Pb^{2+}(aq)\\ +\\ 2\\ I^{-}(aq)\\ \\rightarrow\\ PbI_{2}(s)}$",
+      "D": "$\\mathrm{Pb(NO_{3})_{2}(aq)\\ +\\ 2\\ KI(aq)\\ \\rightarrow\\ PbI_{2}(s)\\ +\\ 2\\ KNO_{3}(aq)}$"
+    },
+    "correct": "C",
+    "explanation": "Two iodide ions are needed for each lead(II) ion; the charge is 2+ on the left (2+ + 2(1-) = 0) and 0 on the right.",
+    "distractor_notes": {
+      "A": "Atoms and charge not balanced.",
+      "B": "Includes spectators.",
+      "D": "Molecular equation."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "The tempting option balances atoms in appearance but not charge.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students forget that the charge must balance too.",
+      "how_to_avoid": "Count both atoms and total charge on each side."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ionic_equation",
+        "https://en.wikipedia.org/wiki/Spectator_ion",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.2-trap-0002",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.2",
+    "topic_title": "Net Ionic Equations",
+    "learning_objective": "Represent changes in matter with a balanced chemical or net ionic equation: (i) for physical changes; (ii) for given information about the identity of the reactants and/or product; (iii) for ions in a given chemical reaction. (4.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "$\\mathrm{FeCl_{3}}$(aq) and $\\mathrm{NaOH}$(aq) are mixed. Which statement about spectator ions is correct?",
+    "options": {
+      "A": "$\\mathrm{Fe^{3+}}$ is a spectator ion because it is in both reactants.",
+      "B": "All ions are spectators because the $\\mathrm{FeCl_{3}}$ and $\\mathrm{NaOH}$ are both aqueous.",
+      "C": "$\\mathrm{OH^{-}}$ is a spectator ion because it is a polyatomic ion.",
+      "D": "$\\mathrm{Na^{+}}$ and $\\mathrm{Cl^{-}}$ do not appear in the net ionic equation."
+    },
+    "correct": "D",
+    "explanation": "Spectators are the ions that do not form the precipitate.",
+    "distractor_notes": {
+      "A": "It becomes part of the precipitate.",
+      "B": "Aqueous reactants can still react.",
+      "C": "Polyatomic ions can react as well."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Spectator = any ion that is in solution.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students believe all aqueous ions are spectators.",
+      "how_to_avoid": "Identify the ions that end up in the solid."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ionic_equation",
+        "https://en.wikipedia.org/wiki/Spectator_ion",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.2-trap-0003",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.2",
+    "topic_title": "Net Ionic Equations",
+    "learning_objective": "Represent changes in matter with a balanced chemical or net ionic equation: (i) for physical changes; (ii) for given information about the identity of the reactants and/or product; (iii) for ions in a given chemical reaction. (4.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which equation is a correct net ionic equation for the reaction of aqueous silver nitrate with aqueous sodium chloride?",
+    "options": {
+      "A": "$\\mathrm{Ag^{+}(aq)\\ +\\ NO_{3}^{-}(aq)\\ +\\ Na^{+}(aq)\\ +\\ Cl^{-}(aq)\\ \\rightarrow\\ AgCl(s)\\ +\\ Na^{+}(aq)\\ +\\ NO_{3}^{-}(aq)}$",
+      "B": "$\\mathrm{Ag^{+}(aq)\\ +\\ Cl^{-}(aq)\\ \\rightarrow\\ AgCl(s)}$",
+      "C": "$\\mathrm{AgNO_{3}(aq)\\ +\\ NaCl(aq)\\ \\rightarrow\\ AgCl(s)\\ +\\ NaNO_{3}(aq)}$",
+      "D": "$\\mathrm{Na^{+}(aq)\\ +\\ NO_{3}^{-}(aq)\\ \\rightarrow\\ NaNO_{3}(s)}$"
+    },
+    "correct": "B",
+    "explanation": "Silver chloride is the precipitate; sodium nitrate remains dissolved.",
+    "distractor_notes": {
+      "A": "Complete ionic equation.",
+      "C": "Molecular equation.",
+      "D": "Writes a precipitate of the spectators instead."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Option writes NaNO3 as solid.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students confuse which product is the precipitate.",
+      "how_to_avoid": "Use the stem: 'precipitate forms'; sodium and nitrate salts are soluble."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ionic_equation",
+        "https://en.wikipedia.org/wiki/Spectator_ion",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.2-trap-0004",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.2",
+    "topic_title": "Net Ionic Equations",
+    "learning_objective": "Represent changes in matter with a balanced chemical or net ionic equation: (i) for physical changes; (ii) for given information about the identity of the reactants and/or product; (iii) for ions in a given chemical reaction. (4.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about writing net ionic equations is correct?",
+    "options": {
+      "A": "Weak acids are written as molecules, not as ions.",
+      "B": "All acids should be written as separate ions in net ionic equations.",
+      "C": "Insoluble solids should be written as ions if they are in the reaction.",
+      "D": "Gases should be written as ions when the reaction is in water."
+    },
+    "correct": "A",
+    "explanation": "Only strong electrolytes dissociate fully; weak acids, solids, and gases are written unsplit.",
+    "distractor_notes": {
+      "B": "Weak acids are mostly molecular.",
+      "C": "Solids are written as formula units.",
+      "D": "Gases are written as molecules."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'All acids' rule.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students memorize strong acids and overgeneralize.",
+      "how_to_avoid": "Check strength before splitting into ions."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ionic_equation",
+        "https://en.wikipedia.org/wiki/Spectator_ion",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.2-trap-0005",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.2",
+    "topic_title": "Net Ionic Equations",
+    "learning_objective": "Represent changes in matter with a balanced chemical or net ionic equation: (i) for physical changes; (ii) for given information about the identity of the reactants and/or product; (iii) for ions in a given chemical reaction. (4.2.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which is the net ionic equation for aqueous hydrofluoric acid (HF, weak) reacting with aqueous potassium hydroxide?",
+    "options": {
+      "A": "$\\mathrm{H^{+}(aq)\\ +\\ OH^{-}(aq)\\ \\rightarrow\\ H_{2}O(l)}$",
+      "B": "$\\mathrm{HF(aq)\\ +\\ KOH(aq)\\ \\rightarrow\\ KF(aq)\\ +\\ H_{2}O(l)}$",
+      "C": "$\\mathrm{HF(aq)\\ +\\ OH^{-}(aq)\\ \\rightarrow\\ F^{-}(aq)\\ +\\ H_{2}O(l)}$",
+      "D": "$\\mathrm{H^{+}(aq)\\ +\\ F^{-}(aq)\\ +\\ K^{+}(aq)\\ +\\ OH^{-}(aq)\\ \\rightarrow\\ K^{+}(aq)\\ +\\ F^{-}(aq)\\ +\\ H_{2}O(l)}$"
+    },
+    "correct": "C",
+    "explanation": "HF is weak, so it stays as HF in the net ionic equation.",
+    "distractor_notes": {
+      "A": "Treats HF as strong.",
+      "B": "Molecular equation.",
+      "D": "Writes HF as ions; also not net ionic."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The strong acid/strong base net equation is a classic but doesn't apply.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students apply $\\mathrm{H^+ + OH^-}$ to every neutralization.",
+      "how_to_avoid": "Determine whether each reactant is a strong or weak electrolyte."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ionic_equation",
+        "https://en.wikipedia.org/wiki/Spectator_ion",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.2-trap-0006",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.2",
+    "topic_title": "Net Ionic Equations",
+    "learning_objective": "Represent changes in matter with a balanced chemical or net ionic equation: (i) for physical changes; (ii) for given information about the identity of the reactants and/or product; (iii) for ions in a given chemical reaction. (4.2.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student balances $\\mathrm{C_{3}H_{8}\\ +\\ O_{2}\\ \\rightarrow\\ CO_{2}\\ +\\ H_{2}O}$ and reports the coefficient of $\\mathrm{O_2}$ as 10. Which statement is correct?",
+    "options": {
+      "A": "The coefficient of $\\mathrm{O_2}$ is 5; the 10 is the count of O atoms, which need 5 $\\mathrm{O_2}$.",
+      "B": "The coefficient of $\\mathrm{O_2}$ is 10 because there are 10 oxygen atoms in the products.",
+      "C": "The coefficient of $\\mathrm{O_2}$ is 3 because $\\mathrm{C_3}$ has three carbons.",
+      "D": "The coefficient of $\\mathrm{O_2}$ is 7 because 3 + 4 = 7."
+    },
+    "correct": "A",
+    "explanation": "Balanced: $\\mathrm{C_3H_8 + 5\\,O_2 \\rightarrow 3\\,CO_2 + 4\\,H_2O}$; 10 O atoms need 5 $\\mathrm{O_2}$ molecules.",
+    "distractor_notes": {
+      "B": "Oxygen in 3 CO2 (6) and 4 H2O (4) is 10 atoms, but O2 supplies 2 each, so coefficient 5.",
+      "C": "Matches carbon count, not oxygen atoms.",
+      "D": "Adds CO2 and H2O coefficients; not a balancing method."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "10 oxygen atoms vs 5 O2 molecules.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students equate O atoms with O2 coefficient.",
+      "how_to_avoid": "Divide the O atoms needed by 2 for diatomic O2."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ionic_equation",
+        "https://en.wikipedia.org/wiki/Spectator_ion",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.2-trap-0007",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.2",
+    "topic_title": "Net Ionic Equations",
+    "learning_objective": "Represent changes in matter with a balanced chemical or net ionic equation: (i) for physical changes; (ii) for given information about the identity of the reactants and/or product; (iii) for ions in a given chemical reaction. (4.2.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which equation is NOT balanced?",
+    "options": {
+      "A": "$\\mathrm{2\\ Fe^{3+}(aq)\\ +\\ Sn^{2+}(aq)\\ \\rightarrow\\ 2\\ Fe^{2+}(aq)\\ +\\ Sn^{4+}(aq)}$",
+      "B": "$\\mathrm{Zn(s)\\ +\\ 2\\ H^{+}(aq)\\ \\rightarrow\\ Zn^{2+}(aq)\\ +\\ H_{2}(g)}$",
+      "C": "$\\mathrm{Cl_{2}(g)\\ +\\ 2\\ Br^{-}(aq)\\ \\rightarrow\\ 2\\ Cl^{-}(aq)\\ +\\ Br_{2}(l)}$",
+      "D": "$\\mathrm{Fe^{3+}(aq)\\ +\\ Sn^{2+}(aq)\\ \\rightarrow\\ Fe^{2+}(aq)\\ +\\ Sn^{4+}(aq)}$"
+    },
+    "correct": "D",
+    "explanation": "In the first, charge is 5+ on the left and 6+ on the right, even though atoms match.",
+    "distractor_notes": {
+      "A": "Balanced: 8+ on each side.",
+      "B": "Balanced.",
+      "C": "Balanced."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT-stem; atoms balance but charge does not.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students check atoms and stop.",
+      "how_to_avoid": "Always add up total charge too."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ionic_equation",
+        "https://en.wikipedia.org/wiki/Spectator_ion",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.3-trap-0001",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.3",
+    "topic_title": "Representations of Reactions",
+    "learning_objective": "Represent a given chemical reaction or physical process with a consistent particulate model. (4.3.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Initial particles (molecules): 3 $\\mathrm{N_{2}}$ and 6 $\\mathrm{H_{2}}$.",
+      "citation": "Original description written for this item.",
+      "asset_path": null
+    },
+    "question": "A container holds 3 $\\mathrm{N_{2}}$ and 6 $\\mathrm{H_{2}}$ molecules. The reaction $\\mathrm{N_{2}\\ +\\ 3\\ H_{2}\\ \\rightarrow\\ 2\\ NH_{3}}$ goes to completion. Which represents the particles present afterward?",
+    "options": {
+      "A": "6 $\\mathrm{NH_{3}}$ and 3 $\\mathrm{H_{2}}$",
+      "B": "4 $\\mathrm{NH_{3}}$ and 1 $\\mathrm{N_{2}}$",
+      "C": "4 $\\mathrm{NH_{3}}$",
+      "D": "4 $\\mathrm{NH_{3}}$, 2 $\\mathrm{N_{2}}$, and 1 $\\mathrm{H_{2}}$"
+    },
+    "correct": "B",
+    "explanation": "Limiting reactant sets the extent (2); the excess reactant remains.",
+    "distractor_notes": {
+      "A": "Used a 1:1 ratio; coefficients ignored.",
+      "C": "Shows only products, as if the reactants were in exact stoichiometric ratio.",
+      "D": "Shows an extra reactant molecule that was not available to remain."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Option showing 1:1 reaction appears reasonable.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students assume reactants are present in stoichiometric proportion.",
+      "how_to_avoid": "Find the limiting reactant by dividing each count by its coefficient."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_equation",
+        "https://en.wikipedia.org/wiki/Conservation_of_mass",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.3-trap-0002",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.3",
+    "topic_title": "Representations of Reactions",
+    "learning_objective": "Represent a given chemical reaction or physical process with a consistent particulate model. (4.3.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Initial particles (molecules): 5 $\\mathrm{CO}$ and 4 $\\mathrm{O_{2}}$.",
+      "citation": "Original description written for this item.",
+      "asset_path": null
+    },
+    "question": "A container holds 5 $\\mathrm{CO}$ and 4 $\\mathrm{O_{2}}$ molecules. The reaction $\\mathrm{2\\ CO\\ +\\ O_{2}\\ \\rightarrow\\ 2\\ CO_{2}}$ goes to completion. Which represents the particles present afterward?",
+    "options": {
+      "A": "8 $\\mathrm{CO_{2}}$ and 1 $\\mathrm{CO}$",
+      "B": "4 $\\mathrm{CO_{2}}$",
+      "C": "4 $\\mathrm{CO_{2}}$, 2 $\\mathrm{CO}$, and 3 $\\mathrm{O_{2}}$",
+      "D": "4 $\\mathrm{CO_{2}}$, 1 $\\mathrm{CO}$, and 2 $\\mathrm{O_{2}}$"
+    },
+    "correct": "D",
+    "explanation": "Limiting reactant sets the extent (2); the excess reactant remains.",
+    "distractor_notes": {
+      "A": "Used a 1:1 ratio; coefficients ignored.",
+      "B": "Shows only products, as if the reactants were in exact stoichiometric ratio.",
+      "C": "Shows an extra reactant molecule that was not available to remain."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Leftover reactant forgotten.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students assume reactants are present in stoichiometric proportion.",
+      "how_to_avoid": "Find the limiting reactant by dividing each count by its coefficient."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_equation",
+        "https://en.wikipedia.org/wiki/Conservation_of_mass",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.3-trap-0003",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.3",
+    "topic_title": "Representations of Reactions",
+    "learning_objective": "Represent a given chemical reaction or physical process with a consistent particulate model. (4.3.A)",
+    "skill": "Models and Representations",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "Initial particles (molecules): 4 $\\mathrm{SO_{2}}$ and 3 $\\mathrm{O_{2}}$.",
+      "citation": "Original description written for this item.",
+      "asset_path": null
+    },
+    "question": "A container holds 4 $\\mathrm{SO_{2}}$ and 3 $\\mathrm{O_{2}}$ molecules. The reaction $\\mathrm{2\\ SO_{2}\\ +\\ O_{2}\\ \\rightarrow\\ 2\\ SO_{3}}$ goes to completion. Which represents the particles present afterward?",
+    "options": {
+      "A": "4 $\\mathrm{SO_{3}}$ and 1 $\\mathrm{O_{2}}$",
+      "B": "6 $\\mathrm{SO_{3}}$ and 1 $\\mathrm{SO_{2}}$",
+      "C": "4 $\\mathrm{SO_{3}}$",
+      "D": "4 $\\mathrm{SO_{3}}$, 1 $\\mathrm{SO_{2}}$, and 2 $\\mathrm{O_{2}}$"
+    },
+    "correct": "A",
+    "explanation": "Limiting reactant sets the extent (2); the excess reactant remains.",
+    "distractor_notes": {
+      "B": "Used a 1:1 ratio; coefficients ignored.",
+      "C": "Shows only products, as if the reactants were in exact stoichiometric ratio.",
+      "D": "Shows an extra reactant molecule that was not available to remain."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Option shows only products.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students assume reactants are present in stoichiometric proportion.",
+      "how_to_avoid": "Find the limiting reactant by dividing each count by its coefficient."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_equation",
+        "https://en.wikipedia.org/wiki/Conservation_of_mass",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.3-trap-0004",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.3",
+    "topic_title": "Representations of Reactions",
+    "learning_objective": "Represent a given chemical reaction or physical process with a consistent particulate model. (4.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement is correct about the number of molecules in the reaction $\\mathrm{N_2 + 3\\,H_2 \\rightarrow 2\\,NH_3}$?",
+    "options": {
+      "A": "The total number of molecules stays the same, because atoms are conserved.",
+      "B": "The total number of atoms decreases, because the number of molecules decreases.",
+      "C": "The total number of molecules decreases, but the total number of atoms stays the same.",
+      "D": "The total number of atoms increases, because new bonds form."
+    },
+    "correct": "C",
+    "explanation": "4 reactant molecules → 2 product molecules; atoms: 8 before, 8 after.",
+    "distractor_notes": {
+      "A": "Molecules are not conserved; 4 molecules become 2.",
+      "B": "Atoms are conserved.",
+      "D": "Forming bonds does not create atoms."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Mass conservation misapplied to molecules.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students conflate 'conserved' atoms with conserved molecule count.",
+      "how_to_avoid": "Conserved quantities are atoms (mass) and charge, not molecules."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_equation",
+        "https://en.wikipedia.org/wiki/Conservation_of_mass",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.3-trap-0005",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.3",
+    "topic_title": "Representations of Reactions",
+    "learning_objective": "Represent a given chemical reaction or physical process with a consistent particulate model. (4.3.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "| Time (arb.) | X2 | Y | Z |\n|---|---|---|---|\n| 0 | 8 | 8 | 0 |\n| 1 | 6 | 4 | 4 |\n| 2 | 4 | 0 | 8 |",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "The table gives the numbers of particles present at three times as a reaction runs to completion. Which statement is correct?",
+    "options": {
+      "A": "$\\mathrm{X_2}$ is consumed at twice the rate that $\\mathrm{Y}$ is consumed.",
+      "B": "$\\mathrm{X_2}$ and $\\mathrm{Y}$ are consumed at equal rates because both reach zero.",
+      "C": "$\\mathrm{X_2}$ is consumed at half the rate that $\\mathrm{Y}$ is consumed.",
+      "D": "$\\mathrm{Z}$ is produced at half the rate that $\\mathrm{X_2}$ is consumed."
+    },
+    "correct": "C",
+    "explanation": "From the table: X2 drops by 4 while Y drops by 8; Z rises by 8. Ratio X2 : Y : Z = 1 : 2 : 2.",
+    "distractor_notes": {
+      "A": "Ratio is inverted from the data.",
+      "B": "Reaching zero does not mean equal consumption.",
+      "D": "Data show Z formed at twice the rate X2 is consumed."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Table shows both X2 and Y having values that move; students compare counts rather than changes.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students read final counts instead of changes.",
+      "how_to_avoid": "Use the change in each column between rows."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_equation",
+        "https://en.wikipedia.org/wiki/Conservation_of_mass",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.3-trap-0006",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.3",
+    "topic_title": "Representations of Reactions",
+    "learning_objective": "Represent a given chemical reaction or physical process with a consistent particulate model. (4.3.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the particulate representation of melting ice is correct?",
+    "options": {
+      "A": "The $\\mathrm{H_2O}$ molecules remain intact and move more freely past one another.",
+      "B": "The $\\mathrm{H_2O}$ molecules break into H and O atoms that move freely.",
+      "C": "The covalent O-H bonds within each molecule weaken enough to separate hydrogen atoms.",
+      "D": "The number of molecules increases as the solid melts and fills the container."
+    },
+    "correct": "A",
+    "explanation": "Only intermolecular attractions change in melting.",
+    "distractor_notes": {
+      "B": "That would be a chemical change.",
+      "C": "Covalent bonds are unchanged.",
+      "D": "The number of molecules is unchanged."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Phase change breaks molecules.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students think melting breaks bonds.",
+      "how_to_avoid": "Distinguish intramolecular bonds from intermolecular forces."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_equation",
+        "https://en.wikipedia.org/wiki/Conservation_of_mass",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.4-trap-0001",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.4",
+    "topic_title": "Physical and Chemical Changes",
+    "learning_objective": "Explain the relationship between macroscopic characteristics and bond interactions for: (i) chemical processes; (ii) physical processes. (4.4.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement correctly describes the boiling of water?",
+    "options": {
+      "A": "O-H bonds are broken, forming separate H and O atoms in the vapor.",
+      "B": "Hydrogen bonds are broken, forming new O-H bonds inside each molecule.",
+      "C": "O-H bonds are broken and re-formed in a different arrangement.",
+      "D": "O-H bonds stay intact while hydrogen bonds between molecules are overcome."
+    },
+    "correct": "D",
+    "explanation": "Boiling is a phase change.",
+    "distractor_notes": {
+      "A": "Water vapor is $\\mathrm{H_2O}$.",
+      "B": "Covalent bonds are not formed or broken.",
+      "C": "No bonds are broken."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "'Hydrogen bond' includes the word 'bond', which is confused with covalent bonds.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students think bubbles of steam come from breaking O-H bonds.",
+      "how_to_avoid": "Hydrogen 'bonds' are intermolecular forces."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Phase_transition",
+        "https://en.wikipedia.org/wiki/Solvation"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.4-trap-0002",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.4",
+    "topic_title": "Physical and Chemical Changes",
+    "learning_objective": "Explain the relationship between macroscopic characteristics and bond interactions for: (i) chemical processes; (ii) physical processes. (4.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about breaking bonds is correct?",
+    "options": {
+      "A": "Breaking bonds releases energy.",
+      "B": "Breaking bonds requires energy input.",
+      "C": "Breaking bonds releases energy only when covalent bonds are broken.",
+      "D": "Breaking bonds neither absorbs nor releases energy when intermolecular forces are broken."
+    },
+    "correct": "B",
+    "explanation": "Energy must be supplied to separate attracting particles.",
+    "distractor_notes": {
+      "A": "Bond breaking is endothermic.",
+      "C": "No.",
+      "D": "It absorbs energy."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students think bond breaking gives off energy (as ATP myth).",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Common everyday phrasing.",
+      "how_to_avoid": "Remember: forming bonds releases energy; breaking absorbs."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Phase_transition",
+        "https://en.wikipedia.org/wiki/Solvation"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.4-trap-0003",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.4",
+    "topic_title": "Physical and Chemical Changes",
+    "learning_objective": "Explain the relationship between macroscopic characteristics and bond interactions for: (i) chemical processes; (ii) physical processes. (4.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the dissolution of ionic solids in water is the most accurate?",
+    "options": {
+      "A": "It is always a physical change because no new compound is formed in the water.",
+      "B": "It is always a chemical change because the ionic bonds of the solid are broken.",
+      "C": "It breaks ionic bonds and forms ion-dipole attractions, so either label can be argued.",
+      "D": "It is neither physical nor chemical because ions are involved in the process."
+    },
+    "correct": "C",
+    "explanation": "Dissolving an ionic solid breaks ionic attractions and forms ion-dipole attractions with water. Because it involves breaking bonds (a chemical-looking feature) but no new substance is formed (a physical-looking feature), the dissolution can be argued to be either a physical or a chemical change. The 'always' and 'neither' options claim a single decisive answer that the evidence does not support.",
+    "distractor_notes": {
+      "A": "'Always' ignores the bond changes.",
+      "B": "'Always' ignores the lack of a new substance.",
+      "D": "Every process is classified as one or both."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Options with 'always' look decisive.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students want a definitive classification.",
+      "how_to_avoid": "Read CED language: arguments can be made for both."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Phase_transition",
+        "https://en.wikipedia.org/wiki/Solvation"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.4-trap-0004",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.4",
+    "topic_title": "Physical and Chemical Changes",
+    "learning_objective": "Explain the relationship between macroscopic characteristics and bond interactions for: (i) chemical processes; (ii) physical processes. (4.4.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT a process that primarily involves changes in intermolecular forces?",
+    "options": {
+      "A": "Hydrogen peroxide decomposing to water and oxygen.",
+      "B": "Liquid ethanol evaporating from an open dish.",
+      "C": "Ice melting on a warm countertop in the room.",
+      "D": "Dry ice sublimating into cold carbon dioxide gas."
+    },
+    "correct": "A",
+    "explanation": "Decomposition changes the identity of the molecules.",
+    "distractor_notes": {
+      "B": "Intermolecular.",
+      "C": "Intermolecular.",
+      "D": "Intermolecular."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem; three options are phase changes.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students skim for 'physical' and pick one of the three.",
+      "how_to_avoid": "Re-read NOT stems; mark each option P or C."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Phase_transition",
+        "https://en.wikipedia.org/wiki/Solvation"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.4-trap-0005",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.4",
+    "topic_title": "Physical and Chemical Changes",
+    "learning_objective": "Explain the relationship between macroscopic characteristics and bond interactions for: (i) chemical processes; (ii) physical processes. (4.4.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "| Process | Energy (kJ/mol) | Identity check |\n|---|---|---|\n| A | 6.0 | Identical on refreezing |\n| B | 927 | Different substances |\n| C | 40.7 | Identical on condensing |\n| D | 25 | Identical on recondensing |",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "Table: process, energy per mole, and identity check. Which process should be classified as chemical?",
+    "options": {
+      "A": "Process A: 6.0 kJ/mol; the product is identical to the reactant.",
+      "B": "Process C: 40.7 kJ/mol; the product is identical to the reactant.",
+      "C": "Process D: 25 kJ/mol; the product is identical when recondensed.",
+      "D": "Process B: 927 kJ/mol; a different substance forms."
+    },
+    "correct": "D",
+    "explanation": "Only B has bond-breaking-scale energy and a new substance.",
+    "distractor_notes": {
+      "A": "Small energy and same product indicate physical.",
+      "B": "Vaporization energy; physical.",
+      "C": "Sublimation; physical."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Bigger number tempts, but options use identity as well.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick the largest or smallest energy and ignore the identity check.",
+      "how_to_avoid": "Use both energy and identity columns."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Phase_transition",
+        "https://en.wikipedia.org/wiki/Solvation"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.4-trap-0006",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.4",
+    "topic_title": "Physical and Chemical Changes",
+    "learning_objective": "Explain the relationship between macroscopic characteristics and bond interactions for: (i) chemical processes; (ii) physical processes. (4.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student says that because salt dissolves in water and disappears from view, a chemical change has occurred. Which response is best?",
+    "options": {
+      "A": "The student is correct, because a substance that disappears has been destroyed.",
+      "B": "Disappearing does not show chemical change; the salt can be recovered by evaporation.",
+      "C": "The student is correct, because a clear solution is a new compound.",
+      "D": "The student is incorrect, because no energy is exchanged when salt dissolves."
+    },
+    "correct": "B",
+    "explanation": "Recovering the salt by evaporation shows the same substance was present.",
+    "distractor_notes": {
+      "A": "Matter is conserved.",
+      "C": "A solution is a homogeneous mixture.",
+      "D": "Energy exchange occurs; this is not the reasoning."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Dissolving may be argued chemical, but the student's reason (disappearance) is invalid.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Visual disappearance suggests a reaction.",
+      "how_to_avoid": "Judge reasoning, not just conclusions."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_change",
+        "https://en.wikipedia.org/wiki/Phase_transition",
+        "https://en.wikipedia.org/wiki/Solvation"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.5-trap-0001",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.5",
+    "topic_title": "Stoichiometry",
+    "learning_objective": "Explain changes in the amounts of reactants and products based on the balanced reaction equation for a chemical process. (4.5.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For $\\mathrm{CaCO_3 \\rightarrow CaO + CO_2}$, what mass of $\\mathrm{CO_2}$ forms from 25.0 mg of $\\mathrm{CaCO_3}$?",
+    "options": {
+      "A": "10993 mg",
+      "B": "11.0 g",
+      "C": "0.0250 g",
+      "D": "11.0 mg"
+    },
+    "correct": "D",
+    "explanation": "25.0 mg = 0.0250 g; ratio 1:1; 0.0250/100.09 x 44.01 = 0.01099 g = 11.0 mg.",
+    "distractor_notes": {
+      "A": "Converted mg to g in the wrong direction.",
+      "B": "Treated 25.0 as grams and reported grams.",
+      "C": "Reported the mass of $\\mathrm{CaCO_3}$."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "mg vs g.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Answer options differ only by powers of 10.",
+      "how_to_avoid": "Convert to grams first, then convert back."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Stoichiometry",
+        "https://en.wikipedia.org/wiki/Limiting_reagent",
+        "https://en.wikipedia.org/wiki/Yield_(chemistry)",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.5-trap-0002",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.5",
+    "topic_title": "Stoichiometry",
+    "learning_objective": "Explain changes in the amounts of reactants and products based on the balanced reaction equation for a chemical process. (4.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A mixture contains 10.0 g of $\\mathrm{H_2}$ and 50.0 g of $\\mathrm{O_2}$. Which reactant is limiting in $\\mathrm{2\\,H_2 + O_2 \\rightarrow 2\\,H_2O}$?",
+    "options": {
+      "A": "$\\mathrm{H_2}$, because it has the smaller mass of the two reactants.",
+      "B": "$\\mathrm{O_2}$, because 1.56 mol of it can react with only 3.13 mol of $\\mathrm{H_2}$.",
+      "C": "$\\mathrm{H_2}$, because it has the larger coefficient in the balanced equation.",
+      "D": "Neither, because 10.0 g and 50.0 g are in the same ratio as 2 mol and 1 mol."
+    },
+    "correct": "B",
+    "explanation": "n(H2) = 4.960 mol, needs 2.480 mol O2; n(O2) = 1.563 mol < 2.480 mol required, so O2 limits.",
+    "distractor_notes": {
+      "A": "Masses cannot be compared directly; moles and coefficients matter.",
+      "C": "A larger coefficient alone does not make a reactant limiting.",
+      "D": "Coefficients give mole ratios, not mass ratios."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "The reactant with the smaller mass is not always limiting.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students compare grams.",
+      "how_to_avoid": "Convert to moles and divide by coefficients."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Stoichiometry",
+        "https://en.wikipedia.org/wiki/Limiting_reagent",
+        "https://en.wikipedia.org/wiki/Yield_(chemistry)",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.5-trap-0003",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.5",
+    "topic_title": "Stoichiometry",
+    "learning_objective": "Explain changes in the amounts of reactants and products based on the balanced reaction equation for a chemical process. (4.5.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In $\\mathrm{2\\,H_2 + O_2 \\rightarrow 2\\,H_2O}$, which statement is correct?",
+    "options": {
+      "A": "2 g of $\\mathrm{H_2}$ reacts with 1 g of $\\mathrm{O_2}$ because the coefficients are 2 and 1.",
+      "B": "2 mol of $\\mathrm{H_2}$ reacts with 2 mol of $\\mathrm{O_2}$ since both have the subscript 2.",
+      "C": "2 mol of $\\mathrm{H_2}$ reacts with 1 mol of $\\mathrm{O_2}$, which is 4.03 g of $\\mathrm{H_2}$ with 32.0 g of $\\mathrm{O_2}$.",
+      "D": "1 mol of $\\mathrm{H_2}$ reacts with 1 mol of $\\mathrm{O_2}$ because the elements are in the same group."
+    },
+    "correct": "C",
+    "explanation": "Coefficients are particle (mole) ratios; the mass ratio is 4.03:32.0.",
+    "distractor_notes": {
+      "A": "Coefficients are mole ratios.",
+      "B": "Coefficients, not subscripts, give mole ratios.",
+      "D": "Mole ratios come from the equation."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Coefficients applied to grams.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Confuses coefficients with masses.",
+      "how_to_avoid": "Convert through moles."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Stoichiometry",
+        "https://en.wikipedia.org/wiki/Limiting_reagent",
+        "https://en.wikipedia.org/wiki/Yield_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.5-trap-0004",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.5",
+    "topic_title": "Stoichiometry",
+    "learning_objective": "Explain changes in the amounts of reactants and products based on the balanced reaction equation for a chemical process. (4.5.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student heats 20.0 g of $\\mathrm{CaCO_3}$ and collects 9.50 g of CaO. Which gives the percent yield?",
+    "options": {
+      "A": "84.8%",
+      "B": "118%",
+      "C": "47.5%",
+      "D": "52.5%"
+    },
+    "correct": "A",
+    "explanation": "Theoretical = 11.21 g; percent yield = 84.8%.",
+    "distractor_notes": {
+      "B": "Inverted.",
+      "C": "Used the mass of $\\mathrm{CaCO_3}$ rather than theoretical yield of CaO.",
+      "D": "Used loss of mass."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Dividing by the starting mass looks like a % yield.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Starting mass is available.",
+      "how_to_avoid": "Always divide by theoretical yield of the same substance."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Stoichiometry",
+        "https://en.wikipedia.org/wiki/Limiting_reagent",
+        "https://en.wikipedia.org/wiki/Yield_(chemistry)",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.5-trap-0005",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.5",
+    "topic_title": "Stoichiometry",
+    "learning_objective": "Explain changes in the amounts of reactants and products based on the balanced reaction equation for a chemical process. (4.5.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "1.00 g of $\\mathrm{CaCO_3}$ decomposes completely: $\\mathrm{CaCO_3 \\rightarrow CaO + CO_2}$. What volume of $\\mathrm{CO_2}$ is collected at 298 K and 1.00 atm?",
+    "options": {
+      "A": "0.224 L",
+      "B": "0.244 L",
+      "C": "244 L",
+      "D": "0.556 L"
+    },
+    "correct": "B",
+    "explanation": "n = 1.00/100.09 = 0.00999 mol; V = nRT/P = 0.2443 L.",
+    "distractor_notes": {
+      "A": "Used the 22.4 L/mol molar volume (valid only at 273 K, 1 atm).",
+      "C": "Multiplied by 1000 unnecessarily.",
+      "D": "Used the molar mass of $\\mathrm{CO_2}$ for the mass of $\\mathrm{CaCO_3}$."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "STP molar volume at 298 K.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students memorize 22.4 L/mol.",
+      "how_to_avoid": "Use PV = nRT with the stated T and P."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Stoichiometry",
+        "https://en.wikipedia.org/wiki/Limiting_reagent",
+        "https://en.wikipedia.org/wiki/Yield_(chemistry)",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.5-trap-0006",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.5",
+    "topic_title": "Stoichiometry",
+    "learning_objective": "Explain changes in the amounts of reactants and products based on the balanced reaction equation for a chemical process. (4.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Equal masses (10.0 g each) of $\\mathrm{Al}$ and $\\mathrm{Fe_2O_3}$ are mixed: $\\mathrm{2\\,Al + Fe_2O_3 \\rightarrow Al_2O_3 + 2\\,Fe}$. Which reactant is limiting?",
+    "options": {
+      "A": "Neither, because the masses are equal and the equation is balanced.",
+      "B": "Al, because 0.371 mol is more than the 0.0626 mol of $\\mathrm{Fe_2O_3}$ and so it runs out first.",
+      "C": "$\\mathrm{Fe_2O_3}$, because 0.0626 mol is less than the 0.185 mol needed to react with 0.371 mol of Al.",
+      "D": "Al, because it is the first reactant listed in the equation."
+    },
+    "correct": "C",
+    "explanation": "n(Al) = 10.0/26.98 = 0.371 mol; n(Fe2O3) = 10.0/159.69 = 0.0626 mol. Al needs 0.371/2 = 0.185 mol Fe2O3 > 0.0626 mol, so Fe2O3 is limiting.",
+    "distractor_notes": {
+      "A": "Equal masses do not mean stoichiometric amounts.",
+      "B": "The larger number of moles does not run out first; Al is in excess.",
+      "D": "Order of listing is irrelevant."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Equal masses suggest a balanced mixture.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Equal grams looks stoichiometric.",
+      "how_to_avoid": "Convert to moles."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Stoichiometry",
+        "https://en.wikipedia.org/wiki/Limiting_reagent",
+        "https://en.wikipedia.org/wiki/Yield_(chemistry)",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.6-trap-0001",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.6",
+    "topic_title": "Introduction to Titration",
+    "learning_objective": "Identify the equivalence point in a titration based on experimental data. (4.6.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A 25.00 mL sample of $\\mathrm{H_2SO_4}$ is titrated with 0.100 M NaOH, requiring 20.00 mL to reach the equivalence point. What is [$\\mathrm{H_2SO_4}$]?",
+    "options": {
+      "A": "0.0800 M",
+      "B": "0.160 M",
+      "C": "0.125 M",
+      "D": "0.0400 M"
+    },
+    "correct": "D",
+    "explanation": "Each mole of H2SO4 needs 2 mol NaOH: n = 0.00200/2 = 0.00100 mol; M = 0.0400 M.",
+    "distractor_notes": {
+      "A": "Used a 1:1 ratio.",
+      "B": "Multiplied by 2.",
+      "C": "Inverted the volumes."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Diprotic acid.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume titrations are always 1:1.",
+      "how_to_avoid": "Write the balanced equation."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.6-trap-0002",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.6",
+    "topic_title": "Introduction to Titration",
+    "learning_objective": "Identify the equivalence point in a titration based on experimental data. (4.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the pH at the equivalence point is correct?",
+    "options": {
+      "A": "It is 7 only for a strong acid-strong base titration; other titrations differ.",
+      "B": "The pH at equivalence is always 7 for any acid-base titration.",
+      "C": "The pH at equivalence is always 7 when equal volumes of acid and base have been mixed.",
+      "D": "The pH at equivalence is never 7 because the solution is neutral only before titration begins."
+    },
+    "correct": "A",
+    "explanation": "Salts of weak acids or bases hydrolyze, shifting the pH.",
+    "distractor_notes": {
+      "B": "A weak acid-strong base titration reaches equivalence at pH above 7.",
+      "C": "Equal volumes may not be equivalent amounts.",
+      "D": "Strong acid-strong base gives pH 7 at equivalence."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Always 7'.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students memorize the strong-strong curve.",
+      "how_to_avoid": "Check strengths of acid and base."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.6-trap-0003",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.6",
+    "topic_title": "Introduction to Titration",
+    "learning_objective": "Identify the equivalence point in a titration based on experimental data. (4.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A buret reads 3.20 mL at the start of a titration and 28.75 mL at the end. What volume of titrant was delivered?",
+    "options": {
+      "A": "31.95 mL",
+      "B": "25.55 mL",
+      "C": "28.75 mL",
+      "D": "24.45 mL"
+    },
+    "correct": "B",
+    "explanation": "Delivered volume = final - initial = 25.55 mL.",
+    "distractor_notes": {
+      "A": "Added the readings.",
+      "C": "Used only the final reading.",
+      "D": "Mistook the buret scale as reading from the bottom up."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Using the final reading only.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students forget the initial reading is not zero.",
+      "how_to_avoid": "Always subtract the initial reading."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.6-trap-0004",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.6",
+    "topic_title": "Introduction to Titration",
+    "learning_objective": "Identify the equivalence point in a titration based on experimental data. (4.6.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student titrates 25.0 mL of 0.100 M HCl with 0.100 M NaOH, and the indicator changes color permanently at 25.4 mL. Which statement is correct?",
+    "options": {
+      "A": "The equivalence point is at 25.4 mL because that is where the color changed.",
+      "B": "The equivalence point and endpoint are always at exactly the same volume.",
+      "C": "Equivalence is at 25.0 mL; the endpoint (25.4 mL) is slightly past it.",
+      "D": "The equivalence point is at 12.5 mL, half of the endpoint volume."
+    },
+    "correct": "C",
+    "explanation": "n(HCl) = 2.50 mmol = n(NaOH) at 25.0 mL; the indicator signaled slightly late.",
+    "distractor_notes": {
+      "A": "The color change is the endpoint.",
+      "B": "Indicators approximate equivalence.",
+      "D": "Half-equivalence is a different point."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Endpoint and equivalence point are close and used interchangeably.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Same word 'point'.",
+      "how_to_avoid": "Calculate the equivalence volume from stoichiometry."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.6-trap-0005",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.6",
+    "topic_title": "Introduction to Titration",
+    "learning_objective": "Identify the equivalence point in a titration based on experimental data. (4.6.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "| Volume of NaOH added (mL) | pH |\n|---|---|\n| 0.0 | 1.00 |\n| 10.0 | 1.37 |\n| 20.0 | 1.95 |\n| 24.9 | 3.70 |\n| 25.1 | 10.30 |\n| 30.0 | 11.96 |",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "The data below were collected in a titration of 25.0 mL of HCl with 0.100 M NaOH. Which statement about the equivalence point is best supported?",
+    "options": {
+      "A": "It lies at 20.0 mL, where the pH has already reached 1.95 and is still rising.",
+      "B": "It lies at 30.0 mL, because the pH there is the highest value in the table.",
+      "C": "It lies between 24.9 and 25.1 mL, where the pH jumps from 3.7 to 10.3.",
+      "D": "It lies at 10.0 mL, because the change in pH per mL is greatest there."
+    },
+    "correct": "C",
+    "explanation": "Largest change of pH per mL occurs near 25.0 mL.",
+    "distractor_notes": {
+      "A": "A pH of 1.95 is still strongly acidic.",
+      "B": "The highest pH is not the equivalence point.",
+      "D": "The change per mL is greatest near 25 mL."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Highest pH value tempts.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students pick the extreme value.",
+      "how_to_avoid": "Look for the steepest region."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.6-trap-0006",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.6",
+    "topic_title": "Introduction to Titration",
+    "learning_objective": "Identify the equivalence point in a titration based on experimental data. (4.6.A)",
+    "skill": "Question and Method",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Air bubble trapped in the tip of the buret is released during a titration. How is the calculated analyte concentration affected?",
+    "options": {
+      "A": "Too low, because the volume read appears larger than the volume that reacted.",
+      "B": "Too low, because the bubble reduces the total moles of titrant.",
+      "C": "Not affected, because gases dissolve in the titrant.",
+      "D": "Too high, because the volume read exceeds the volume that reacted."
+    },
+    "correct": "D",
+    "explanation": "The bubble's volume is counted as delivered titrant although none reacted.",
+    "distractor_notes": {
+      "A": "An apparent larger volume leads to a higher calculation.",
+      "B": "Moles are computed from volume read.",
+      "C": "A bubble leaves the tip."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Direction of error.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students reverse the direction.",
+      "how_to_avoid": "Track how the apparent volume affects $C_a = C_tV_t/V_a$."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.6-trap-0007",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.6",
+    "topic_title": "Introduction to Titration",
+    "learning_objective": "Identify the equivalence point in a titration based on experimental data. (4.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "25.0 mL of 0.100 M HCl and 25.0 mL of 0.100 M $\\mathrm{Ba(OH)_2}$ are mixed. Which statement is correct?",
+    "options": {
+      "A": "The mixture is neutral because the volumes and concentrations are equal.",
+      "B": "The mixture is basic: 5.00 mmol of $\\mathrm{OH^-}$ exceeds 2.50 mmol of $\\mathrm{H^+}$.",
+      "C": "The mixture is acidic because HCl is a strong acid.",
+      "D": "The mixture is neutral because 2.50 mmol of $\\mathrm{H^+}$ and 2.50 mmol of $\\mathrm{OH^-}$ are present."
+    },
+    "correct": "B",
+    "explanation": "n(OH-) = 2 x 2.50 = 5.00 mmol > n(H+) = 2.50 mmol.",
+    "distractor_notes": {
+      "A": "Ba(OH)2 supplies two OH- per formula unit.",
+      "C": "Strength does not decide; moles of H+ and OH- do.",
+      "D": "The hydroxide amount is 5.00 mmol."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Equal volumes and concentrations look neutral.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Ignoring the 2 OH- per Ba(OH)2.",
+      "how_to_avoid": "Count moles of H+ and OH- explicitly."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/09%3A_Titrimetric_Methods",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.7-trap-0001",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.7",
+    "topic_title": "Types of Chemical Reactions",
+    "learning_objective": "Identify a reaction as acid-base, oxidation-reduction, or precipitation. (4.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which classification best fits $\\mathrm{2\\ Mg(s)\\ +\\ O_{2}(g)\\ \\rightarrow\\ 2\\ MgO(s)}$?",
+    "options": {
+      "A": "Oxidation-reduction: electrons are transferred between species",
+      "B": "Precipitation: an insoluble ionic solid forms from aqueous ions",
+      "C": "Acid-base: a proton ($\\mathrm{H^+}$) is transferred between species",
+      "D": "No reaction: the species stay as dissolved ions or intact molecules"
+    },
+    "correct": "A",
+    "explanation": "Mg: 0 to +2, O: 0 to -2.",
+    "distractor_notes": {
+      "B": "A solid forms, but not from aqueous ions.",
+      "C": "No protons are transferred.",
+      "D": "A reaction clearly occurs."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "A solid product suggests precipitation.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students link 'solid forms' with precipitation.",
+      "how_to_avoid": "Precipitation requires aqueous ions combining; check oxidation numbers."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_reaction",
+        "https://en.wikipedia.org/wiki/Precipitation_(chemistry)",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution/4.02%3A_Precipitation_Reactions",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.7-trap-0002",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.7",
+    "topic_title": "Types of Chemical Reactions",
+    "learning_objective": "Identify a reaction as acid-base, oxidation-reduction, or precipitation. (4.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which classification best fits $\\mathrm{Zn(s)\\ +\\ CuSO_{4}(aq)\\ \\rightarrow\\ ZnSO_{4}(aq)\\ +\\ Cu(s)}$?",
+    "options": {
+      "A": "Precipitation: an insoluble ionic solid forms from aqueous ions",
+      "B": "Acid-base: a proton ($\\mathrm{H^+}$) is transferred between species",
+      "C": "No reaction: the species stay as dissolved ions or intact molecules",
+      "D": "Oxidation-reduction: electrons are transferred between species"
+    },
+    "correct": "D",
+    "explanation": "Zn: 0 to +2 (oxidized); Cu: +2 to 0 (reduced). Electrons are transferred.",
+    "distractor_notes": {
+      "A": "A solid (Cu) forms, but it comes from reduction of Cu2+, not from combining aqueous ions.",
+      "B": "No protons are transferred.",
+      "C": "A reaction clearly occurs."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "A solid forms from aqueous reactants, which suggests precipitation.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students link 'solid forms' with precipitation.",
+      "how_to_avoid": "Precipitation joins aqueous ions into an insoluble salt; check oxidation numbers for changes."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_reaction",
+        "https://en.wikipedia.org/wiki/Precipitation_(chemistry)",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution/4.02%3A_Precipitation_Reactions",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.7-trap-0003",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.7",
+    "topic_title": "Types of Chemical Reactions",
+    "learning_objective": "Identify a reaction as acid-base, oxidation-reduction, or precipitation. (4.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT an oxidation-reduction reaction?",
+    "options": {
+      "A": "$\\mathrm{CH_{4}(g)\\ +\\ 2\\ O_{2}(g)\\ \\rightarrow\\ CO_{2}(g)\\ +\\ 2\\ H_{2}O(g)}$",
+      "B": "$\\mathrm{CaCl_{2}(aq)\\ +\\ Na_{2}CO_{3}(aq)\\ \\rightarrow\\ CaCO_{3}(s)\\ +\\ 2\\ NaCl(aq)}$",
+      "C": "$\\mathrm{Zn(s)\\ +\\ 2\\ HCl(aq)\\ \\rightarrow\\ ZnCl_{2}(aq)\\ +\\ H_{2}(g)}$",
+      "D": "$\\mathrm{2\\ H_{2}O_{2}(aq)\\ \\rightarrow\\ 2\\ H_{2}O(l)\\ +\\ O_{2}(g)}$"
+    },
+    "correct": "B",
+    "explanation": "No change in oxidation numbers in the precipitation reaction.",
+    "distractor_notes": {
+      "A": "Combustion is redox.",
+      "C": "Redox.",
+      "D": "Redox: O changes from -1 to -2 and 0."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem, options include well-known redox types.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Some students choose the reaction that does not look like combustion or metal reaction, but options include decomposition that is redox.",
+      "how_to_avoid": "Test each reaction for oxidation-number changes."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_reaction",
+        "https://en.wikipedia.org/wiki/Precipitation_(chemistry)",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution/4.02%3A_Precipitation_Reactions",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.7-trap-0004",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.7",
+    "topic_title": "Types of Chemical Reactions",
+    "learning_objective": "Identify a reaction as acid-base, oxidation-reduction, or precipitation. (4.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the reaction $\\mathrm{2\\,KClO_3(s) \\rightarrow 2\\,KCl(s) + 3\\,O_2(g)}$ is correct?",
+    "options": {
+      "A": "It is not a redox reaction because there is only one reactant.",
+      "B": "It is an acid-base reaction because a gas forms.",
+      "C": "It is redox even though only one reactant is present.",
+      "D": "It is a precipitation reaction because KCl is a solid."
+    },
+    "correct": "C",
+    "explanation": "Cl: +5 to -1; O: -2 to 0.",
+    "distractor_notes": {
+      "A": "Redox does not need two reactants.",
+      "B": "No proton transfer.",
+      "D": "No aqueous ions mix."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "A single reactant decomposition.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students expect two reactants for redox.",
+      "how_to_avoid": "Assign oxidation numbers."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_reaction",
+        "https://en.wikipedia.org/wiki/Precipitation_(chemistry)",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution/4.02%3A_Precipitation_Reactions",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.7-trap-0005",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.7",
+    "topic_title": "Types of Chemical Reactions",
+    "learning_objective": "Identify a reaction as acid-base, oxidation-reduction, or precipitation. (4.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following statements is correct for a reaction in which a clear solution of $\\mathrm{NaOH}$ is added to a clear solution of $\\mathrm{HNO_3}$?",
+    "options": {
+      "A": "It is a precipitation reaction because two aqueous reactants combine.",
+      "B": "It is an acid-base reaction in which water forms and no solid is produced.",
+      "C": "It is a redox reaction because electrons are transferred from sodium to nitrogen.",
+      "D": "It cannot be classified because all species are aqueous."
+    },
+    "correct": "B",
+    "explanation": "A clear solution of an acid and a base forms water through H+ + OH- -> H2O, with no insoluble solid and no change in oxidation numbers, so the reaction is acid-base only.",
+    "distractor_notes": {
+      "A": "The products are soluble.",
+      "C": "No oxidation numbers change.",
+      "D": "Reaction type is identified by what changes."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Two aqueous reactants.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Double replacement is wrongly linked to precipitation.",
+      "how_to_avoid": "Identify the driving force: proton transfer or insoluble solid."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_reaction",
+        "https://en.wikipedia.org/wiki/Precipitation_(chemistry)",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution/4.02%3A_Precipitation_Reactions"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.7-trap-0006",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.7",
+    "topic_title": "Types of Chemical Reactions",
+    "learning_objective": "Identify a reaction as acid-base, oxidation-reduction, or precipitation. (4.7.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student classifies $\\mathrm{Cu(s) + 2\\,AgNO_3(aq) \\rightarrow Cu(NO_3)_2(aq) + 2\\,Ag(s)}$ as precipitation because a solid ($\\mathrm{Ag}$) forms. What is the best evaluation?",
+    "options": {
+      "A": "Correct: any reaction that forms a solid is precipitation.",
+      "B": "Incorrect: no solid actually forms in this reaction.",
+      "C": "Correct: because the $\\mathrm{Ag^+}$ ions combine with $\\mathrm{NO_3^-}$ to form the solid.",
+      "D": "Incorrect: the solid is formed by reduction of $\\mathrm{Ag^+}$, so the reaction is redox."
+    },
+    "correct": "D",
+    "explanation": "Ag+ (+1) becomes Ag(s) (0); Cu (0) becomes Cu2+ (+2).",
+    "distractor_notes": {
+      "A": "Precipitation is formation of an insoluble ionic compound from ions.",
+      "B": "Silver metal does form.",
+      "C": "The solid is silver metal, not a nitrate."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'any reaction that forms a solid'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Solid formation heuristics.",
+      "how_to_avoid": "Precipitates are ionic compounds formed from aqueous ions without electron transfer."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Chemical_reaction",
+        "https://en.wikipedia.org/wiki/Precipitation_(chemistry)",
+        "https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/04%3A_Reactions_in_Aqueous_Solution/4.02%3A_Precipitation_Reactions"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.8-trap-0001",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.8",
+    "topic_title": "Introduction to Acid-Base Reactions",
+    "learning_objective": "Identify species as Bronsted-Lowry acids, bases, and/or conjugate acid-base pairs, based on proton-transfer involving those species. (4.8.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the conjugate base of $\\mathrm{HPO_4^{2-}}$?",
+    "options": {
+      "A": "$\\mathrm{H_{2}PO_{4}^{-}}$",
+      "B": "$\\mathrm{HPO_{3}^{2-}}$",
+      "C": "$\\mathrm{PO_{4}^{3-}}$",
+      "D": "$\\mathrm{OH^{-}}$"
+    },
+    "correct": "C",
+    "explanation": "A conjugate base forms when the acid donates one proton: $\\mathrm{HPO_4^{2-} \\rightarrow PO_4^{3-} + H^+}$.",
+    "distractor_notes": {
+      "A": "That is the conjugate acid (a proton added).",
+      "B": "Differs by an oxygen atom, not a proton.",
+      "D": "Not derived from hydrogen phosphate by loss of one proton."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Hydrogen phosphate is amphiprotic: it has both a conjugate acid and a conjugate base.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students add a proton because they expect phosphate species to behave only as bases.",
+      "how_to_avoid": "Conjugate base = remove H+; conjugate acid = add H+."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://en.wikipedia.org/wiki/Neutralization_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.8-trap-0002",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.8",
+    "topic_title": "Introduction to Acid-Base Reactions",
+    "learning_objective": "Identify species as Bronsted-Lowry acids, bases, and/or conjugate acid-base pairs, based on proton-transfer involving those species. (4.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Brønsted-Lowry bases is correct?",
+    "options": {
+      "A": "A base must contain hydroxide ions in its formula.",
+      "B": "A base must donate protons to water.",
+      "C": "A base must be a compound that has a metal ion.",
+      "D": "A base does not need to contain hydroxide; ammonia is a base."
+    },
+    "correct": "D",
+    "explanation": "The Brønsted-Lowry definition is about accepting protons.",
+    "distractor_notes": {
+      "A": "That is the Arrhenius definition for hydroxide bases.",
+      "B": "That describes an acid.",
+      "C": "Many bases (e.g., ammonia) have no metal."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'must contain hydroxide'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students link bases to the OH group.",
+      "how_to_avoid": "Use the proton-acceptor definition."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://en.wikipedia.org/wiki/Neutralization_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.8-trap-0003",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.8",
+    "topic_title": "Introduction to Acid-Base Reactions",
+    "learning_objective": "Identify species as Bronsted-Lowry acids, bases, and/or conjugate acid-base pairs, based on proton-transfer involving those species. (4.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about HCl and its conjugate base is correct?",
+    "options": {
+      "A": "HCl is a strong acid, so $\\mathrm{Cl^-}$ is an extremely weak base.",
+      "B": "HCl is a strong acid, so $\\mathrm{Cl^-}$ is also an extremely strong base.",
+      "C": "HCl is a strong acid, so $\\mathrm{Cl^-}$ is a strong acid.",
+      "D": "HCl is a weak acid, so $\\mathrm{Cl^-}$ is a strong base."
+    },
+    "correct": "A",
+    "explanation": "Inverse relation of conjugate strengths.",
+    "distractor_notes": {
+      "B": "Strong acids have weak conjugate bases.",
+      "C": "Chloride does not donate protons.",
+      "D": "HCl is a strong acid."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Strong acid/strong conjugate base.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students think 'strong' carries over.",
+      "how_to_avoid": "Remember the inverse relation."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://en.wikipedia.org/wiki/Neutralization_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.8-trap-0004",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.8",
+    "topic_title": "Introduction to Acid-Base Reactions",
+    "learning_objective": "Identify species as Bronsted-Lowry acids, bases, and/or conjugate acid-base pairs, based on proton-transfer involving those species. (4.8.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "| Acid | $K_a$ (25 C) |\n|---|---|\n| HF | $6.8 \\times 10^{-4}$ |\n| $\\mathrm{CH_3COOH}$ | $1.8 \\times 10^{-5}$ |\n| HCN | $6.2 \\times 10^{-10}$ |\n| $\\mathrm{HNO_2}$ | $4.5 \\times 10^{-4}$ |",
+      "citation": "Typical tabulated values at 25 C (e.g., LibreTexts / CRC-type tables).",
+      "asset_path": null
+    },
+    "question": "Which statement is supported by the table of $K_a$ values?",
+    "options": {
+      "A": "HCN is the strongest acid, because its $K_a$ has the largest magnitude exponent.",
+      "B": "HCN is the weakest acid, so $\\mathrm{CN^-}$ is the strongest base.",
+      "C": "HF is the weakest acid, because its $K_a$ is the largest number.",
+      "D": "$\\mathrm{CH_3COOH}$ is a stronger acid than $\\mathrm{HNO_2}$ because it has the smaller exponent."
+    },
+    "correct": "B",
+    "explanation": "Smaller $K_a$ means weaker acid.",
+    "distractor_notes": {
+      "A": "A larger negative exponent means a smaller $K_a$.",
+      "C": "The largest $K_a$ means strongest acid.",
+      "D": "$1.8 \\times 10^{-5}$ is smaller than $4.5 \\times 10^{-4}$."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Exponent -10 looks 'bigger'.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students read the larger exponent magnitude as bigger.",
+      "how_to_avoid": "Compare the full numbers: $10^{-10}$ is very small."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://en.wikipedia.org/wiki/Neutralization_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.8-trap-0005",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.8",
+    "topic_title": "Introduction to Acid-Base Reactions",
+    "learning_objective": "Identify species as Bronsted-Lowry acids, bases, and/or conjugate acid-base pairs, based on proton-transfer involving those species. (4.8.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which pair is NOT a conjugate acid-base pair?",
+    "options": {
+      "A": "$\\mathrm{H_{2}SO_{4}\\ /\\ HSO_{4}^{-}}$",
+      "B": "$\\mathrm{HSO_{4}^{-}\\ /\\ SO_{4}^{2-}}$",
+      "C": "$\\mathrm{NH_{4}^{+}\\ /\\ NH_{3}}$",
+      "D": "$\\mathrm{H_{2}SO_{4}\\ /\\ SO_{4}^{2-}}$"
+    },
+    "correct": "D",
+    "explanation": "H2SO4 and SO4 2- differ by two protons.",
+    "distractor_notes": {
+      "A": "A conjugate pair.",
+      "B": "A conjugate pair.",
+      "C": "A conjugate pair."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The unfamiliar two-proton difference is overlooked.",
+      "how_to_avoid": "Check that exactly one proton differs."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://en.wikipedia.org/wiki/Neutralization_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.8-trap-0006",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.8",
+    "topic_title": "Introduction to Acid-Base Reactions",
+    "learning_objective": "Identify species as Bronsted-Lowry acids, bases, and/or conjugate acid-base pairs, based on proton-transfer involving those species. (4.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In the reaction $\\mathrm{NH_3(aq) + H_2O(l) \\rightleftharpoons NH_4^+(aq) + OH^-(aq)}$, water acts as",
+    "options": {
+      "A": "a Brønsted-Lowry base, because it is the solvent.",
+      "B": "a spectator, because water is the solvent.",
+      "C": "a Brønsted-Lowry acid, because it donates a proton to ammonia.",
+      "D": "neither an acid nor a base, because it is neutral."
+    },
+    "correct": "C",
+    "explanation": "Water gives H+ to NH3, forming NH4+ and OH-.",
+    "distractor_notes": {
+      "A": "Being the solvent does not determine its role.",
+      "B": "Water donates a proton.",
+      "D": "Neutral species can act as acids or bases."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Water is only a solvent.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students treat water as inert.",
+      "how_to_avoid": "Track the proton."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://en.wikipedia.org/wiki/Neutralization_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.8-trap-0007",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.8",
+    "topic_title": "Introduction to Acid-Base Reactions",
+    "learning_objective": "Identify species as Bronsted-Lowry acids, bases, and/or conjugate acid-base pairs, based on proton-transfer involving those species. (4.8.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement is the best evaluation of the claim 'a species that acts as an acid in one reaction can never act as a base in another'?",
+    "options": {
+      "A": "It is false; $\\mathrm{HCO_3^-}$ acts as an acid with $\\mathrm{OH^-}$ and as a base with $\\mathrm{H_3O^+}$.",
+      "B": "It is true; acids and bases are fixed categories.",
+      "C": "It is true; only water can act as both.",
+      "D": "It is false; but only because bases can also be acids when they are strong."
+    },
+    "correct": "A",
+    "explanation": "Amphiprotic species donate or accept depending on the partner.",
+    "distractor_notes": {
+      "B": "Amphiprotic species exist.",
+      "C": "Water is not the only amphiprotic species.",
+      "D": "Strength is not the reason."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'never'.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Fixed categories.",
+      "how_to_avoid": "Test the claim with a known amphiprotic ion."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://en.wikipedia.org/wiki/Neutralization_(chemistry)"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.9-trap-0001",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.9",
+    "topic_title": "Oxidation-Reduction (Redox) Reactions",
+    "learning_objective": "Represent a balanced redox reaction equation using half-reactions. (4.9.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the oxidation number of sulfur in $\\mathrm{SO_4^{2-}}$?",
+    "options": {
+      "A": "-2",
+      "B": "+4",
+      "C": "-6",
+      "D": "+6"
+    },
+    "correct": "D",
+    "explanation": "S + 4(-2) = -2, so S = +6.",
+    "distractor_notes": {
+      "A": "The ion's charge, not the oxidation number of S.",
+      "B": "Forgot the 2- charge when solving.",
+      "C": "Wrong sign."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Charge of the ion vs oxidation number.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students report the ion charge.",
+      "how_to_avoid": "Solve: sum of oxidation numbers = charge."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Redox",
+        "https://en.wikipedia.org/wiki/Oxidation_state",
+        "https://en.wikipedia.org/wiki/Half-reaction",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.9-trap-0002",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.9",
+    "topic_title": "Oxidation-Reduction (Redox) Reactions",
+    "learning_objective": "Represent a balanced redox reaction equation using half-reactions. (4.9.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the oxidation number of oxygen in sodium peroxide, $\\mathrm{Na_2O_2}$?",
+    "options": {
+      "A": "-2",
+      "B": "-1",
+      "C": "+1",
+      "D": "0"
+    },
+    "correct": "B",
+    "explanation": "Na is +1, so the two O atoms must total -2; each O is -1 (peroxide).",
+    "distractor_notes": {
+      "A": "The usual value, but not for peroxides.",
+      "C": "Wrong sign.",
+      "D": "Only the element $\\mathrm{O_2}$ has 0."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Peroxide exception.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students always assign -2 to oxygen.",
+      "how_to_avoid": "Check for O-O bonds in peroxides."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Redox",
+        "https://en.wikipedia.org/wiki/Oxidation_state",
+        "https://en.wikipedia.org/wiki/Half-reaction",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.9-trap-0003",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.9",
+    "topic_title": "Oxidation-Reduction (Redox) Reactions",
+    "learning_objective": "Represent a balanced redox reaction equation using half-reactions. (4.9.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In $\\mathrm{Fe^{3+}(aq) + Sn^{2+}(aq) \\rightarrow Fe^{2+}(aq) + Sn^{4+}(aq)}$, which statement is correct?",
+    "options": {
+      "A": "The equation is balanced because atoms match.",
+      "B": "The equation is balanced because one electron is lost and one gained.",
+      "C": "The equation is not balanced in charge: 5+ on the left and 6+ on the right.",
+      "D": "The equation is not balanced because Fe is oxidized."
+    },
+    "correct": "C",
+    "explanation": "Balanced: 2 Fe3+ + Sn2+ → 2 Fe2+ + Sn4+.",
+    "distractor_notes": {
+      "A": "Charge must be balanced too.",
+      "B": "Sn loses 2 electrons while Fe gains 1.",
+      "D": "Fe is reduced."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Atoms match but charge does not.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students stop at atom counts.",
+      "how_to_avoid": "Add up charges."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Redox",
+        "https://en.wikipedia.org/wiki/Oxidation_state",
+        "https://en.wikipedia.org/wiki/Half-reaction",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.9-trap-0004",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.9",
+    "topic_title": "Oxidation-Reduction (Redox) Reactions",
+    "learning_objective": "Represent a balanced redox reaction equation using half-reactions. (4.9.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about reduction is correct?",
+    "options": {
+      "A": "A species that is reduced gains electrons and its oxidation number decreases.",
+      "B": "A species that is reduced loses electrons and its oxidation number decreases.",
+      "C": "A species that is reduced gains electrons and its oxidation number increases.",
+      "D": "A species that is reduced loses oxygen and its oxidation number increases."
+    },
+    "correct": "A",
+    "explanation": "Reduction is gain of electrons ('reduction in charge').",
+    "distractor_notes": {
+      "B": "Loss of electrons increases the number.",
+      "C": "Gaining electrons decreases it.",
+      "D": "Oxygen loss goes with decreasing number."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Direction of electron flow versus oxidation number.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students mix 'reduction' with decreasing electrons.",
+      "how_to_avoid": "Use a mnemonic such as OIL RIG."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Redox",
+        "https://en.wikipedia.org/wiki/Oxidation_state",
+        "https://en.wikipedia.org/wiki/Half-reaction"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.9-trap-0005",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.9",
+    "topic_title": "Oxidation-Reduction (Redox) Reactions",
+    "learning_objective": "Represent a balanced redox reaction equation using half-reactions. (4.9.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which is the correct balanced half-reaction for the oxidation of $\\mathrm{Fe^{2+}}$ to $\\mathrm{Fe^{3+}}$?",
+    "options": {
+      "A": "$\\mathrm{Fe^{2+}(aq)\\ +\\ e^{-}\\ \\rightarrow\\ Fe^{3+}(aq)}$",
+      "B": "$\\mathrm{Fe^{2+}(aq)\\ \\rightarrow\\ Fe^{3+}(aq)\\ +\\ 2\\ e^{-}}$",
+      "C": "$\\mathrm{Fe^{3+}(aq)\\ \\rightarrow\\ Fe^{2+}(aq)\\ +\\ e^{-}}$",
+      "D": "$\\mathrm{Fe^{2+}(aq)\\ \\rightarrow\\ Fe^{3+}(aq)\\ +\\ e^{-}}$"
+    },
+    "correct": "D",
+    "explanation": "Charge: 2+ = 3+ + (-1).",
+    "distractor_notes": {
+      "A": "Electron on the wrong side.",
+      "B": "Charge not balanced.",
+      "C": "Reverse; charge not balanced."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Electron on the wrong side.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Reduction/oxidation sides reversed.",
+      "how_to_avoid": "Oxidation produces electrons on the right."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Redox",
+        "https://en.wikipedia.org/wiki/Oxidation_state",
+        "https://en.wikipedia.org/wiki/Half-reaction",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.9-trap-0006",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.9",
+    "topic_title": "Oxidation-Reduction (Redox) Reactions",
+    "learning_objective": "Represent a balanced redox reaction equation using half-reactions. (4.9.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT a redox reaction?",
+    "options": {
+      "A": "$\\mathrm{Zn(s)\\ +\\ 2\\ H^{+}(aq)\\ \\rightarrow\\ Zn^{2+}(aq)\\ +\\ H_{2}(g)}$",
+      "B": "$\\mathrm{2\\ H_{2}(g)\\ +\\ O_{2}(g)\\ \\rightarrow\\ 2\\ H_{2}O(l)}$",
+      "C": "$\\mathrm{HCl(aq)\\ +\\ NaOH(aq)\\ \\rightarrow\\ NaCl(aq)\\ +\\ H_{2}O(l)}$",
+      "D": "$\\mathrm{Cu(s)\\ +\\ 2\\ Ag^{+}(aq)\\ \\rightarrow\\ Cu^{2+}(aq)\\ +\\ 2\\ Ag(s)}$"
+    },
+    "correct": "C",
+    "explanation": "In neutralization no oxidation numbers change.",
+    "distractor_notes": {
+      "A": "Redox.",
+      "B": "Redox.",
+      "D": "Redox."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students overlook the acid-base reaction since it forms water, as in the combustion option.",
+      "how_to_avoid": "Assign oxidation numbers to each element."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Redox",
+        "https://en.wikipedia.org/wiki/Oxidation_state",
+        "https://en.wikipedia.org/wiki/Half-reaction",
+        "Computed with Python (apchem/scripts/unit04_gen.py); independently re-solved by unit04_audit.py"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  },
+  {
+    "id": "apchem-u4-t4.9-trap-0007",
+    "subject": "apchem",
+    "unit": 4,
+    "unit_title": "Chemical Reactions",
+    "topic": "4.9",
+    "topic_title": "Oxidation-Reduction (Redox) Reactions",
+    "learning_objective": "Represent a balanced redox reaction equation using half-reactions. (4.9.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "| Metal | Solution | Observation |\n|---|---|---|\n| Cu strip | $\\mathrm{Zn^{2+}}$ | No change |\n| Zn strip | $\\mathrm{Cu^{2+}}$ | Reddish solid forms on strip |",
+      "citation": "Original data table written for this item.",
+      "asset_path": null
+    },
+    "question": "A student mixes Cu strip with $\\mathrm{Zn^{2+}}$ solution and Zn strip with $\\mathrm{Cu^{2+}}$ solution. Based on the table, which conclusion is correct?",
+    "options": {
+      "A": "Cu is more easily oxidized than Zn, because it is placed in the Zn solution.",
+      "B": "Zn is more easily oxidized than Cu, because only the Zn strip reacts.",
+      "C": "Both metals are equally easily oxidized, because both strips are in 0.1 M solutions.",
+      "D": "Neither metal is oxidized, because both are metals."
+    },
+    "correct": "B",
+    "explanation": "Zn reacts (Zn → Zn2+); Cu does not.",
+    "distractor_notes": {
+      "A": "The Cu strip shows no reaction.",
+      "C": "Only one strip reacts.",
+      "D": "Zn is oxidized."
+    },
+    "tags": [],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Which strip is in which solution.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students mix up metal and ion.",
+      "how_to_avoid": "Read metal first, ion second."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.93,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Redox",
+        "https://en.wikipedia.org/wiki/Oxidation_state",
+        "https://en.wikipedia.org/wiki/Half-reaction"
+      ]
+    },
+    "created_at": "2026-10-07T19:00:00Z"
+  }
+]

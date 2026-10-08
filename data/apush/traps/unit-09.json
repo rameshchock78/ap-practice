@@ -1,0 +1,3473 @@
+[
+  {
+    "id": "apush-u9-t9.1-trap-0001",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.1",
+    "topic_title": "Contextualizing Period 9",
+    "learning_objective": "Explain the context in which the United States faced international and domestic challenges after 1980.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Reagan election of 1980 is most accurate?",
+    "options": {
+      "A": "Reagan won in an electoral landslide, and Republicans gained control of the Senate",
+      "B": "Reagan won the election because Congress was dominated by his party from 1977 through 1980 and into 1981",
+      "C": "Reagan lost the popular vote but won the Electoral College",
+      "D": "Reagan won only because Ross Perot split the vote with Carter"
+    },
+    "correct": "A",
+    "explanation": "Reagan won 489 electoral votes to Carter's 49 and also won a majority of the popular vote. Perot did not run until 1992.",
+    "distractor_notes": {
+      "B": "Democrats controlled Congress before 1981.",
+      "C": "Reagan won the popular vote.",
+      "D": "Perot ran in 1992 and 1996."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.1",
+      "election-1980"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The second option sounds familiar from 2000 and 2016 but misstates 1980.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students remember elections in which the popular-vote winner lost and apply that pattern here.",
+      "how_to_avoid": "Match the details to the election: in 1980 Reagan won both the popular vote and the Electoral College by a wide margin."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/1980_United_States_presidential_election",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/1980_United_States_presidential_election",
+        "https://en.wikipedia.org/wiki/Ronald_Reagan"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.1-trap-0002",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.1",
+    "topic_title": "Contextualizing Period 9",
+    "learning_objective": "Explain the context in which the United States faced international and domestic challenges after 1980.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT part of the context for Reagan's election in 1980?",
+    "options": {
+      "A": "Rising inflation combined with slow economic growth",
+      "B": "A period of falling prices and rising real wages in the 1970s",
+      "C": "The Iranian hostage crisis and the Soviet invasion of Afghanistan",
+      "D": "Growing political mobilization of evangelical Christians"
+    },
+    "correct": "B",
+    "explanation": "The 1970s saw inflation and stagnation, not falling prices and rising real wages.",
+    "distractor_notes": {
+      "A": "Inflation and weak growth were widespread.",
+      "C": "Both crises occurred before the election.",
+      "D": "The Moral Majority was founded in 1979."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.1",
+      "not-except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Students may skip the NOT and pick a listed factor.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Many students read the stem quickly and choose a true context item.",
+      "how_to_avoid": "Circle NOT, then test every option against the evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Stagflation",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Stagflation",
+        "https://en.wikipedia.org/wiki/Iran_hostage_crisis"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.1-trap-0003",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.1",
+    "topic_title": "Contextualizing Period 9",
+    "learning_objective": "Explain the context in which the United States faced international and domestic challenges after 1980.",
+    "skill": "Making Connections",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the conservative movement of the 1980s is most accurate?",
+    "options": {
+      "A": "It was a single unified movement with no internal disagreements and its constituencies shared identical goals on every issue",
+      "B": "It was concerned only with lowering taxes",
+      "C": "It combined economic, social, and foreign-policy concerns, and different groups within it sometimes disagreed",
+      "D": "It was led exclusively by religious organizations"
+    },
+    "correct": "C",
+    "explanation": "The movement united free-market advocates, social conservatives, and anti-communists, who did not always agree.",
+    "distractor_notes": {
+      "A": "The movement had tensions.",
+      "B": "It also addressed social and foreign policy.",
+      "D": "It included secular business groups."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.1",
+      "absolute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Options use words like “no,” “only,” and “exclusively.”",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students may simplify the movement into one idea.",
+      "how_to_avoid": "Treat absolute words skeptically; history is usually more complicated."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Conservatism_in_the_United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Conservatism_in_the_United_States",
+        "https://en.wikipedia.org/wiki/New_Right"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.1-trap-0004",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.1",
+    "topic_title": "Contextualizing Period 9",
+    "learning_objective": "Explain the context in which the United States faced international and domestic challenges after 1980.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence of events is in the correct chronological order?",
+    "options": {
+      "A": "Election of Reagan, Soviet invasion of Afghanistan, announcement of the Strategic Defense Initiative",
+      "B": "Announcement of the Strategic Defense Initiative, election of Reagan, Soviet invasion of Afghanistan",
+      "C": "Soviet invasion of Afghanistan, announcement of the Strategic Defense Initiative, election of Reagan",
+      "D": "Soviet invasion of Afghanistan, election of Reagan, announcement of the Strategic Defense Initiative"
+    },
+    "correct": "D",
+    "explanation": "The Soviets invaded in December 1979, Reagan won in November 1980, and he announced SDI in March 1983.",
+    "distractor_notes": {
+      "A": "Reagan's election followed the invasion.",
+      "B": "SDI was announced in 1983.",
+      "C": "SDI came after the election."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.1",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "The options use the same three events in different orders.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember the events but not their order.",
+      "how_to_avoid": "Place each event on a quick timeline: 1979, 1980, 1983."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War",
+        "https://en.wikipedia.org/wiki/Strategic_Defense_Initiative"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.1-trap-0005",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.1",
+    "topic_title": "Contextualizing Period 9",
+    "learning_objective": "Explain the context in which the United States faced international and domestic challenges after 1980.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Selected developments, 1973–1981 (author-prepared timeline)\n| Year | Development |\n| 1973–74 | OPEC oil embargo and sharply higher energy prices; inflation and slow growth continue through the decade |\n| 1978 | California voters approve Proposition 13, cutting and capping property taxes |\n| 1979 | Iranian revolution; Iranian students seize the U.S. embassy in Tehran (November); Soviet troops enter Afghanistan (December) |\n| 1980 | Ronald Reagan defeats President Jimmy Carter in the presidential election |\n| 1981 | The American hostages in Iran are released as Reagan takes office |",
+      "citation": "Author-prepared timeline; facts drawn from Wikipedia articles on stagflation, Proposition 13, the Iran hostage crisis, the Soviet–Afghan War, and the 1980 election (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Based on the timeline, which statement is the most accurate?",
+    "options": {
+      "A": "The hostages were released as Reagan took office in 1981, after the 1980 election",
+      "B": "The Soviet invasion of Afghanistan occurred in 1973",
+      "C": "Proposition 13 was approved during the Reagan presidency",
+      "D": "The hostages were released before the 1980 election, which helped Carter win in a late-campaign surprise"
+    },
+    "correct": "A",
+    "explanation": "The table shows the hostages were released in 1981, after Carter had lost.",
+    "distractor_notes": {
+      "B": "The invasion was in 1979.",
+      "C": "Prop. 13 passed in 1978.",
+      "D": "Carter lost."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.1",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The first option sounds plausible because the crisis is tied to Carter.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students assume the crisis was resolved before the election.",
+      "how_to_avoid": "Check the year of each event in the table."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Author-prepared stimulus (facts verified against the Wikipedia pages in verification.citations)",
+      "url": "https://en.wikipedia.org/wiki/Iran_hostage_crisis",
+      "license": "Original summary; underlying facts from CC BY-SA 4.0 Wikipedia articles",
+      "attribution": "Author-prepared timeline; facts drawn from Wikipedia articles on stagflation, Proposition 13, the Iran hostage crisis, the Soviet–Afghan War, and the 1980 election (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Iran_hostage_crisis",
+        "https://en.wikipedia.org/wiki/Jimmy_Carter"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.1-trap-0006",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.1",
+    "topic_title": "Contextualizing Period 9",
+    "learning_objective": "Explain the context in which the United States faced international and domestic challenges after 1980.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about immigration after 1965 is most accurate?",
+    "options": {
+      "A": "The 1965 act ended all limits on immigration to the United States",
+      "B": "The 1965 act replaced national-origin quotas, and most new immigrants came from Latin America and Asia rather than Europe",
+      "C": "The 1965 act was passed to restrict immigration from Asia",
+      "D": "The 1965 act increased quotas for Europeans, so most new immigrants came from Europe rather than from Latin America or Asia, as had been predicted"
+    },
+    "correct": "B",
+    "explanation": "The Hart-Celler Act ended the national-origins system, though it kept numerical limits.",
+    "distractor_notes": {
+      "A": "Limits still existed.",
+      "C": "It opened, not closed, Asian immigration.",
+      "D": "It ended the preference for Europeans."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.1",
+      "immigration"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The options misstate what the 1965 law did.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students confuse the 1965 act with earlier restrictions.",
+      "how_to_avoid": "Remember that 1965 ended quotas; the 1920s laws created them."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Immigration_and_Nationality_Act_of_1965",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Immigration_and_Nationality_Act_of_1965",
+        "https://en.wikipedia.org/wiki/Immigration_to_the_United_States"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.1-trap-0007",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.1",
+    "topic_title": "Contextualizing Period 9",
+    "learning_objective": "Explain the context in which the United States faced international and domestic challenges after 1980.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student argues that the conservative resurgence of the 1980s was caused only by Reagan's personal popularity. Which evidence best qualifies that claim?",
+    "options": {
+      "A": "Reagan was a former actor who gave persuasive speeches",
+      "B": "Reagan was governor of California before running for president and was elected to that office before the tax revolts in other states ever began",
+      "C": "Conservative organizations, tax revolts, and evangelical mobilization were growing in the 1970s before Reagan took office",
+      "D": "Reagan won reelection in 1984 by a large margin"
+    },
+    "correct": "C",
+    "explanation": "Developments before 1981 show that other forces helped create conservative strength.",
+    "distractor_notes": {
+      "A": "His oratory supports the claim.",
+      "B": "His governorship supports the claim.",
+      "D": "His 1984 win supports the claim."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.1",
+      "causation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Options describe Reagan's success but do not address causes.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The listed facts seem relevant but support the claim being tested.",
+      "how_to_avoid": "Ask whether each piece of evidence supports or complicates the claim."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Conservatism_in_the_United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Conservatism_in_the_United_States",
+        "https://en.wikipedia.org/wiki/Moral_Majority"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.1-trap-0008",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.1",
+    "topic_title": "Contextualizing Period 9",
+    "learning_objective": "Explain the context in which the United States faced international and domestic challenges after 1980.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Moral Majority is most accurate?",
+    "options": {
+      "A": "It was a labor union representing industrial workers",
+      "B": "It was created by the Reagan administration in 1981",
+      "C": "It was founded in 1960 to support the civil rights movement and was led by labor unions and northern liberal Democrats",
+      "D": "It was founded in 1979 and encouraged conservative Christians to become politically active"
+    },
+    "correct": "D",
+    "explanation": "The group was founded by Jerry Falwell and Paul Weyrich in 1979, before Reagan took office.",
+    "distractor_notes": {
+      "A": "It was not a union.",
+      "B": "It was independent of the administration.",
+      "C": "It was not a civil rights group."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.1",
+      "religious-right"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The Moral Majority supported Reagan, so some students think it was created by his administration.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The group backed Reagan in 1980.",
+      "how_to_avoid": "Distinguish allies from creations of the administration."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Moral_Majority",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Moral_Majority",
+        "https://en.wikipedia.org/wiki/Christian_right"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.2-trap-0001",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.2",
+    "topic_title": "Reagan and Conservatism",
+    "learning_objective": "Explain the causes and effects of continuing policy debates about the role of the federal government over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Reagan administration's economic policies is most accurate?",
+    "options": {
+      "A": "Reagan balanced the federal budget in each year of his presidency and reduced the national debt",
+      "B": "Reagan abolished the federal income tax in 1986",
+      "C": "Reagan reduced spending on the military to pay for tax cuts",
+      "D": "Taxes were cut in 1981 but the national debt still rose sharply during the decade"
+    },
+    "correct": "D",
+    "explanation": "Large deficits resulted from the tax cuts and the military buildup, and the national debt rose from about $997 billion to $2.85 trillion.",
+    "distractor_notes": {
+      "A": "Deficits were large.",
+      "B": "The income tax remained.",
+      "C": "Military spending rose."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.2",
+      "deficit"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "The first option reflects the popular belief that tax cuts and a smaller government meant balanced budgets.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Reagan's rhetoric stressed fiscal restraint.",
+      "how_to_avoid": "Compare the rhetoric with the budget figures."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Economic_policy_of_the_Ronald_Reagan_administration",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Economic_policy_of_the_Ronald_Reagan_administration",
+        "https://en.wikipedia.org/wiki/Reaganomics"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.2-trap-0002",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.2",
+    "topic_title": "Reagan and Conservatism",
+    "learning_objective": "Explain the causes and effects of continuing policy debates about the role of the federal government over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Tax Reform Act of 1986 is most accurate?",
+    "options": {
+      "A": "It lowered the top rate to 28 percent while eliminating many deductions",
+      "B": "It lowered the top rate from 70 percent to 50 percent",
+      "C": "It raised the top rate to 70 percent",
+      "D": "It created the first federal income tax in American history and a ban on state taxes"
+    },
+    "correct": "A",
+    "explanation": "The 1981 act cut the top rate from 70 to 50 percent. The 1986 law reduced it to 28 percent in exchange for fewer loopholes.",
+    "distractor_notes": {
+      "B": "That describes the 1981 act.",
+      "C": "The act cut rates.",
+      "D": "The income tax dated from earlier."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.2",
+      "taxes"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The 70-to-50 percent cut belongs to the 1981 law, not the 1986 act.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both laws were tax cuts of the 1980s and are easy to blur.",
+      "how_to_avoid": "Link 1981 with 50 percent and 1986 with 28 percent."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Tax_Reform_Act_of_1986",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Tax_Reform_Act_of_1986",
+        "https://en.wikipedia.org/wiki/Economic_Recovery_Tax_Act_of_1981"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.2-trap-0003",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.2",
+    "topic_title": "Reagan and Conservatism",
+    "learning_objective": "Explain the causes and effects of continuing policy debates about the role of the federal government over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT accomplished by conservatives during the 1980s?",
+    "options": {
+      "A": "Cutting the top income tax rate",
+      "B": "Abolishing Social Security and Medicare",
+      "C": "Increasing military spending",
+      "D": "Appointing conservative judges to federal courts"
+    },
+    "correct": "B",
+    "explanation": "Conservatives won tax cuts and a military buildup and appointed conservative judges, but Social Security and Medicare continued.",
+    "distractor_notes": {
+      "A": "Rates were cut.",
+      "C": "Spending rose.",
+      "D": "Judges were appointed."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.2",
+      "not-except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The stem asks for what was NOT done, but three options were done.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick an accomplishment because they skim the stem.",
+      "how_to_avoid": "Underline NOT and test each option."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Ronald_Reagan",
+        "https://en.wikipedia.org/wiki/Reaganomics"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.2-trap-0004",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.2",
+    "topic_title": "Reagan and Conservatism",
+    "learning_objective": "Explain the causes and effects of continuing policy debates about the role of the federal government over time.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence of events is in the correct chronological order?",
+    "options": {
+      "A": "Welfare reform law, Contract with America, impeachment of Bill Clinton",
+      "B": "Impeachment of Bill Clinton, Contract with America, welfare reform law",
+      "C": "Contract with America, welfare reform law, impeachment of Bill Clinton",
+      "D": "Contract with America, impeachment of Bill Clinton, welfare reform law"
+    },
+    "correct": "C",
+    "explanation": "The Contract was a 1994 campaign document, welfare reform became law in 1996, and the House impeached Clinton in 1998.",
+    "distractor_notes": {
+      "A": "Welfare reform came after 1994.",
+      "B": "Impeachment came last.",
+      "D": "Welfare reform came before impeachment."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.2",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Welfare reform and impeachment both occurred in Clinton's second term.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The 1996 and 1998 events sound close in time.",
+      "how_to_avoid": "Anchor events to dates: 1994, 1996, 1998."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Contract_with_America",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Contract_with_America",
+        "https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.2-trap-0005",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.2",
+    "topic_title": "Reagan and Conservatism",
+    "learning_objective": "Explain the causes and effects of continuing policy debates about the role of the federal government over time.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "“We know big Government does not have all the answers. We know there's not a program for every problem. . . . The era of big Government is over. But we cannot go back to the time when our citizens were left to fend for themselves.”",
+      "citation": "Bill Clinton, State of the Union Address, January 23, 1996 – American Presidency Project: Clinton, State of the Union Address (January 23, 1996)",
+      "asset_path": null
+    },
+    "question": "Which statement best interprets the full excerpt?",
+    "options": {
+      "A": "Clinton said the federal government should take over private industry and end all federal welfare benefits",
+      "B": "Clinton said big government would grow even larger",
+      "C": "Clinton said the federal government should end all aid to citizens",
+      "D": "Clinton said the government should be smaller but still help people who needed assistance"
+    },
+    "correct": "D",
+    "explanation": "The next sentence says Americans “cannot go back to the time when our citizens were left to fend for themselves.”",
+    "distractor_notes": {
+      "A": "He did not call for takeover.",
+      "B": "He said the era was over.",
+      "C": "He rejected that idea."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.2",
+      "stimulus",
+      "clinton"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The first sentence “The era of big Government is over” can be read alone.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Quoting one line without the next gives a misleading impression.",
+      "how_to_avoid": "Read the sentences that follow a striking claim."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "American Presidency Project: Clinton, State of the Union Address (January 23, 1996)",
+      "url": "https://www.presidency.ucsb.edu/documents/address-before-joint-session-the-congress-the-state-the-union-10",
+      "license": "Public domain (U.S. government work / court opinion)",
+      "attribution": "Bill Clinton, State of the Union Address, January 23, 1996 – American Presidency Project: Clinton, State of the Union Address (January 23, 1996)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://www.presidency.ucsb.edu/documents/address-before-joint-session-the-congress-the-state-the-union-10",
+        "https://en.wikipedia.org/wiki/Bill_Clinton"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.2-trap-0006",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.2",
+    "topic_title": "Reagan and Conservatism",
+    "learning_objective": "Explain the causes and effects of continuing policy debates about the role of the federal government over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Citizens United decision is most accurate?",
+    "options": {
+      "A": "It held that the government may not limit independent political spending by corporations, and it did not decide that corporations are human beings",
+      "B": "It abolished all limits on direct contributions to candidates",
+      "C": "It struck down all disclosure requirements for political ads",
+      "D": "It held that corporations are human beings with all constitutional rights, and that all limits on political donations were therefore unconstitutional in every case"
+    },
+    "correct": "A",
+    "explanation": "The ruling concerned independent expenditures and upheld disclosure requirements; limits on direct contributions to candidates remained.",
+    "distractor_notes": {
+      "B": "Limits on contributions remained.",
+      "C": "Disclosure requirements were upheld.",
+      "D": "The Court did not say that."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.2",
+      "citizens-united"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The first option reflects a popular summary of the decision.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The phrase “corporations are people” appears in political debate and is repeated in summaries.",
+      "how_to_avoid": "Read what the Court actually held."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.law.cornell.edu/supct/html/08-205.ZS.html",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://www.law.cornell.edu/supct/html/08-205.ZS.html",
+        "https://en.wikipedia.org/wiki/Citizens_United_v._FEC"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.2-trap-0007",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.2",
+    "topic_title": "Reagan and Conservatism",
+    "learning_objective": "Explain the causes and effects of continuing policy debates about the role of the federal government over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In the 2000 presidential election",
+    "options": {
+      "A": "Al Gore won the Electoral College but lost the popular vote",
+      "B": "Al Gore won the national popular vote, and George W. Bush won the Electoral College 271 to 266",
+      "C": "Ralph Nader won enough electoral votes to throw the election to Congress",
+      "D": "George W. Bush won both the popular vote and the Electoral College by a large margin in Florida and nationwide"
+    },
+    "correct": "B",
+    "explanation": "Gore received more popular votes, but Bush carried Florida after the Court's decision and won 271 electoral votes.",
+    "distractor_notes": {
+      "A": "Gore lost the Electoral College.",
+      "C": "Nader won no electoral votes.",
+      "D": "Gore had more votes."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.2",
+      "election-2000"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Students assume the winner of the presidency also won the popular vote.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Many assume that the Supreme Court decision gave Bush the win by a large margin.",
+      "how_to_avoid": "Separate the popular vote from the Electoral College."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/2000_United_States_presidential_election",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/2000_United_States_presidential_election",
+        "https://en.wikipedia.org/wiki/Bush_v._Gore"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.2-trap-0008",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.2",
+    "topic_title": "Reagan and Conservatism",
+    "learning_objective": "Explain the causes and effects of continuing policy debates about the role of the federal government over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Affordable Care Act is most accurate?",
+    "options": {
+      "A": "It eliminated Medicare and Medicaid",
+      "B": "It was passed with substantial Republican support in Congress",
+      "C": "It expanded insurance coverage but kept private insurance and Medicare in place",
+      "D": "It created a single-payer system that replaced private insurance and ended employer-sponsored coverage"
+    },
+    "correct": "C",
+    "explanation": "The ACA used insurance exchanges, subsidies, and Medicaid expansion; Medicare continued and few Republicans voted for it.",
+    "distractor_notes": {
+      "A": "It expanded Medicaid.",
+      "B": "It passed without Republican votes.",
+      "D": "It was not a single-payer system."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.2",
+      "aca"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Opponents often called the law a government takeover.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Rhetoric during the debate described the law as a government takeover.",
+      "how_to_avoid": "Read the law's structure, not the political slogans."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Affordable_Care_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Affordable_Care_Act",
+        "https://en.wikipedia.org/wiki/Barack_Obama"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.3-trap-0001",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.3",
+    "topic_title": "The End of the Cold War",
+    "learning_objective": "Explain the causes and effects of the end of the Cold War and its legacy.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Reagan and the Soviet Union is most accurate?",
+    "options": {
+      "A": "Reagan refused to meet with any Soviet leader during his presidency and signed no arms-control agreement with the Soviets",
+      "B": "Reagan ended the Cold War by invading the Soviet Union",
+      "C": "Reagan combined harsh rhetoric and a military buildup with arms-control negotiations with Gorbachev",
+      "D": "Reagan opposed all arms-control agreements"
+    },
+    "correct": "C",
+    "explanation": "Reagan met Gorbachev at Geneva, Reykjavik, Washington, and Moscow, and signed the INF Treaty.",
+    "distractor_notes": {
+      "A": "He met Gorbachev several times.",
+      "B": "The Cold War did not end by invasion.",
+      "D": "He signed the INF Treaty."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.3",
+      "reagan",
+      "summitry"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The wrong options use absolutes, such as “any,” “all.”",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Reagan's anti-communist rhetoric leads students to ignore his diplomacy.",
+      "how_to_avoid": "Look for the middle position when rhetoric and policy differ."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Reykjavik_Summit",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reykjavik_Summit",
+        "https://en.wikipedia.org/wiki/Intermediate-Range_Nuclear_Forces_Treaty"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.3-trap-0002",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.3",
+    "topic_title": "The End of the Cold War",
+    "learning_objective": "Explain the causes and effects of the end of the Cold War and its legacy.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in the correct chronological order?",
+    "options": {
+      "A": "Opening of the Berlin Wall, Reagan's Berlin speech, German reunification",
+      "B": "German reunification, Reagan's Berlin speech, opening of the Berlin Wall",
+      "C": "Reagan's Berlin speech, German reunification, opening of the Berlin Wall",
+      "D": "Reagan's Berlin speech, opening of the Berlin Wall, German reunification"
+    },
+    "correct": "D",
+    "explanation": "Reagan spoke in June 1987, the Wall opened in November 1989, and Germany reunified in October 1990.",
+    "distractor_notes": {
+      "A": "The speech came first.",
+      "B": "Reunification came last.",
+      "C": "The Wall opened before reunification."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.3",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "The Wall opened after the speech but students often reverse the order.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The speech is often described as causing the Wall's fall, which suggests it happened earlier but obscures the date.",
+      "how_to_avoid": "Place the events: 1987, 1989, 1990."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.reaganlibrary.gov/archives/speech/remarks-east-west-relations-brandenburg-gate-west-berlin",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://www.reaganlibrary.gov/archives/speech/remarks-east-west-relations-brandenburg-gate-west-berlin",
+        "https://en.wikipedia.org/wiki/German_reunification"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.3-trap-0003",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.3",
+    "topic_title": "The End of the Cold War",
+    "learning_objective": "Explain the causes and effects of the end of the Cold War and its legacy.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT a factor in the end of the Cold War?",
+    "options": {
+      "A": "A Soviet military victory in Afghanistan",
+      "B": "Soviet economic stagnation",
+      "C": "Gorbachev's reform policies",
+      "D": "Nationalist movements in Eastern Europe and Soviet republics"
+    },
+    "correct": "A",
+    "explanation": "The Soviets withdrew from Afghanistan in 1989 after a costly war; it was not a victory.",
+    "distractor_notes": {
+      "B": "Stagnation was important.",
+      "C": "Reforms were important.",
+      "D": "Nationalism was important."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.3",
+      "not-except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "Students may overlook the NOT in the stem.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students select a factor they know was important.",
+      "how_to_avoid": "Circle NOT and evaluate each option against evidence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War",
+        "https://en.wikipedia.org/wiki/End_of_the_Cold_War"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.3-trap-0004",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.3",
+    "topic_title": "The End of the Cold War",
+    "learning_objective": "Explain the causes and effects of the end of the Cold War and its legacy.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Gulf War of 1991 is most accurate?",
+    "options": {
+      "A": "The United States occupied Iraq and removed Saddam Hussein in 1991 and a new democratic government took power there at once",
+      "B": "A coalition authorized by the United Nations drove Iraq from Kuwait, and Saddam Hussein remained in power",
+      "C": "The United States fought the war without any allies",
+      "D": "The war began after Iraq attacked the United States"
+    },
+    "correct": "B",
+    "explanation": "The 1991 war liberated Kuwait but did not topple Saddam, who remained in power until 2003.",
+    "distractor_notes": {
+      "A": "He was removed in 2003.",
+      "C": "Dozens of nations joined.",
+      "D": "Iraq invaded Kuwait."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.3",
+      "gulf-war"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The 2003 Iraq War removed Saddam, but not the 1991 Gulf War.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The two wars are often confused.",
+      "how_to_avoid": "Differentiate Desert Storm (1991) from the 2003 invasion."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Gulf_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Gulf_War",
+        "https://en.wikipedia.org/wiki/Saddam_Hussein"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.3-trap-0005",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.3",
+    "topic_title": "The End of the Cold War",
+    "learning_objective": "Explain the causes and effects of the end of the Cold War and its legacy.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "“General Secretary Gorbachev, if you seek peace, if you seek prosperity for the Soviet Union and Eastern Europe, if you seek liberalization: Come here to this gate! Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!”",
+      "citation": "Ronald Reagan, Remarks at the Brandenburg Gate, June 12, 1987 – Reagan Library (NARA): Remarks at the Brandenburg Gate in West Berlin (June 12, 1987)",
+      "asset_path": null
+    },
+    "question": "Which statement about the Reagan speech at the Brandenburg Gate is most accurate?",
+    "options": {
+      "A": "The speech announced that the Soviet Union had dissolved",
+      "B": "The speech was given in East Berlin",
+      "C": "The speech challenged Gorbachev, but the Wall remained until November 1989",
+      "D": "The speech was followed immediately by the opening of the Wall, and German unification followed within a year"
+    },
+    "correct": "C",
+    "explanation": "The Wall opened more than two years later, after events in Eastern Europe and a decision by East German officials.",
+    "distractor_notes": {
+      "A": "The USSR dissolved in 1991.",
+      "B": "He spoke in West Berlin.",
+      "D": "It did not follow immediately."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.3",
+      "berlin"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students conflate the speech with the Wall's opening.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The speech is often described as bringing down the Wall.",
+      "how_to_avoid": "Check the dates: June 1987 and November 1989."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Reagan Library (NARA): Remarks at the Brandenburg Gate in West Berlin (June 12, 1987)",
+      "url": "https://www.reaganlibrary.gov/archives/speech/remarks-east-west-relations-brandenburg-gate-west-berlin",
+      "license": "Public domain (U.S. government work / court opinion)",
+      "attribution": "Ronald Reagan, Remarks at the Brandenburg Gate, June 12, 1987 – Reagan Library (NARA): Remarks at the Brandenburg Gate in West Berlin (June 12, 1987)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://www.reaganlibrary.gov/archives/speech/remarks-east-west-relations-brandenburg-gate-west-berlin",
+        "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.3-trap-0006",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.3",
+    "topic_title": "The End of the Cold War",
+    "learning_objective": "Explain the causes and effects of the end of the Cold War and its legacy.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student argues that Reagan's military buildup alone ended the Cold War. Which statement best qualifies the claim?",
+    "options": {
+      "A": "Reagan did not negotiate with Gorbachev",
+      "B": "The Soviet Union ended the Cold War by invading Western Europe and sent Soviet troops to occupy Poland and Hungary again",
+      "C": "The United States had no military buildup in the 1980s",
+      "D": "Soviet economic problems, Gorbachev's reforms, and popular movements in Eastern Europe also contributed"
+    },
+    "correct": "D",
+    "explanation": "Historians cite several causes, so a single-cause claim oversimplifies.",
+    "distractor_notes": {
+      "A": "He did negotiate.",
+      "B": "There was no invasion.",
+      "C": "There was a buildup."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.3",
+      "causation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "The buildup occurred before the Cold War ended, which suggests it caused the end.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Sequence is mistaken for cause.",
+      "how_to_avoid": "Look for other contributing factors."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/End_of_the_Cold_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/End_of_the_Cold_War",
+        "https://en.wikipedia.org/wiki/Mikhail_Gorbachev"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.3-trap-0007",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.3",
+    "topic_title": "The End of the Cold War",
+    "learning_objective": "Explain the causes and effects of the end of the Cold War and its legacy.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Iran-Contra affair is most accurate?",
+    "options": {
+      "A": "Funds from arms sales to Iran were used to aid the Contras despite congressional restrictions",
+      "B": "The affair involved the sale of weapons to the Soviet Union",
+      "C": "The affair resulted in the impeachment of President Reagan",
+      "D": "Funds from arms sales to Iran were used to aid the mujahideen in Afghanistan in the early 1980s, with approval from Congress"
+    },
+    "correct": "A",
+    "explanation": "The Contras fought the Sandinista government of Nicaragua; the mujahideen fought the Soviets in Afghanistan. Reagan was not impeached.",
+    "distractor_notes": {
+      "B": "No Soviet sales.",
+      "C": "Reagan was not impeached.",
+      "D": "Different program."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.3",
+      "iran-contra"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The mujahideen also received U.S. aid, so the option sounds plausible.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students confuse two covert aid programs.",
+      "how_to_avoid": "Match the program with its region: Contras with Nicaragua, mujahideen with Afghanistan."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+        "https://en.wikipedia.org/wiki/Operation_Cyclone"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.3-trap-0008",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.3",
+    "topic_title": "The End of the Cold War",
+    "learning_objective": "Explain the causes and effects of the end of the Cold War and its legacy.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the dissolution of the Soviet Union is most accurate?",
+    "options": {
+      "A": "It occurred because the United States invaded Moscow",
+      "B": "It followed years of reform, nationalist movements, and an attempted coup in August 1991",
+      "C": "It occurred before Gorbachev became leader",
+      "D": "It occurred suddenly after a military defeat by NATO and ended the Cold War in a single day of fighting in Moscow"
+    },
+    "correct": "B",
+    "explanation": "The Soviet Union dissolved peacefully; no NATO war or invasion took place.",
+    "distractor_notes": {
+      "A": "No invasion occurred.",
+      "C": "It came after 1985.",
+      "D": "No NATO war occurred."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.3",
+      "ussr"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students think of the end of the USSR as an event caused by outside force.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Popular narratives credit the West alone.",
+      "how_to_avoid": "Consider internal causes as well as external pressure."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+        "https://en.wikipedia.org/wiki/1991_Soviet_coup_attempt"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.4-trap-0001",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.4",
+    "topic_title": "A Changing Economy",
+    "learning_objective": "Explain the causes and effects of economic and technological change over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about NAFTA is most accurate?",
+    "options": {
+      "A": "It was negotiated and signed by Ronald Reagan in 1985",
+      "B": "It was negotiated under President George H. W. Bush and approved by Congress during the Clinton administration",
+      "C": "It was rejected by Congress during the Clinton administration",
+      "D": "It created a common currency for the United States, Canada, and Mexico beginning in 1994 with the support of all three governments"
+    },
+    "correct": "B",
+    "explanation": "Bush signed the agreement in December 1992, and Congress approved it in 1993 with Clinton's strong support.",
+    "distractor_notes": {
+      "A": "Reagan negotiated a U.S.-Canada deal in 1988.",
+      "C": "Congress approved NAFTA.",
+      "D": "It created no common currency."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.4",
+      "nafta"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "NAFTA is closely associated with Clinton, so the Bush role is often forgotten.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The agreement was approved in Clinton's first term.",
+      "how_to_avoid": "Separate negotiation, signing, and ratification."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement",
+        "https://en.wikipedia.org/wiki/Bill_Clinton"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.4-trap-0002",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.4",
+    "topic_title": "A Changing Economy",
+    "learning_objective": "Explain the causes and effects of economic and technological change over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT a cause of the Great Recession?",
+    "options": {
+      "A": "Risky subprime mortgage lending",
+      "B": "The bursting of a housing bubble",
+      "C": "A decline in housing prices caused by a shortage of mortgage lenders in 2005",
+      "D": "The use of complex mortgage-backed securities and the decision of lenders to relax credit standards"
+    },
+    "correct": "C",
+    "explanation": "Housing prices rose during a lending boom before 2006; prices fell after the bubble burst, which was a consequence, not a shortage of lenders.",
+    "distractor_notes": {
+      "A": "Subprime lending was a cause.",
+      "B": "The bubble was a cause.",
+      "D": "Securities spread risk."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.4",
+      "not-except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The stem asks for what was not a cause.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students choose a cause because they overlook the word NOT.",
+      "how_to_avoid": "Underline NOT and test each option."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/United_States_housing_bubble",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/United_States_housing_bubble",
+        "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.4-trap-0003",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.4",
+    "topic_title": "A Changing Economy",
+    "learning_objective": "Explain the causes and effects of economic and technological change over time.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in the correct chronological order?",
+    "options": {
+      "A": "Dodd-Frank Act, Gramm-Leach-Bliley Act, collapse of Lehman Brothers",
+      "B": "Collapse of Lehman Brothers, Gramm-Leach-Bliley Act, Dodd-Frank Act",
+      "C": "Gramm-Leach-Bliley Act, Dodd-Frank Act, collapse of Lehman Brothers",
+      "D": "Gramm-Leach-Bliley Act, collapse of Lehman Brothers, Dodd-Frank Act"
+    },
+    "correct": "D",
+    "explanation": "Gramm-Leach-Bliley passed in 1999, Lehman failed in September 2008, and Dodd-Frank passed in 2010.",
+    "distractor_notes": {
+      "A": "Dodd-Frank was last.",
+      "B": "GLB came first.",
+      "C": "Lehman came before Dodd-Frank."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.4",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Dodd-Frank is often assumed to precede the collapse because it prevented crises.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Regulation seems like prevention.",
+      "how_to_avoid": "Dodd-Frank was a response to the crisis."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act",
+        "https://en.wikipedia.org/wiki/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.4-trap-0004",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.4",
+    "topic_title": "A Changing Economy",
+    "learning_objective": "Explain the causes and effects of economic and technological change over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Reagan's tax cuts and the economy is most accurate?",
+    "options": {
+      "A": "The economy recovered after 1982, but deficits and the national debt increased",
+      "B": "The economy grew without any recession during Reagan's presidency and with falling inflation",
+      "C": "Federal deficits disappeared by 1984",
+      "D": "The cuts reduced the debt by one-third"
+    },
+    "correct": "A",
+    "explanation": "A severe recession occurred in 1981–82, and deficits grew sharply.",
+    "distractor_notes": {
+      "B": "The 1981–82 recession occurred.",
+      "C": "Deficits grew.",
+      "D": "The debt rose."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.4",
+      "economy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolute words such as “without any” and “disappeared” signal oversimplification.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Supporters and critics often exaggerate.",
+      "how_to_avoid": "Check each claim against data on recessions and deficits."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Reaganomics",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Reaganomics",
+        "https://en.wikipedia.org/wiki/Economic_policy_of_the_Ronald_Reagan_administration"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.4-trap-0005",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.4",
+    "topic_title": "A Changing Economy",
+    "learning_objective": "Explain the causes and effects of economic and technological change over time.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "graph",
+      "content": "[Described schematic chart, author-prepared; illustrative shape only, not measured data] A line graph covers 1970 to 2020. One line, “Manufacturing share of U.S. jobs,” falls steadily across the period. A second line, “Service-sector share of U.S. jobs,” rises steadily across the same period.",
+      "citation": "Author-prepared schematic reflecting the shift to a service economy described in Wikipedia, “Deindustrialization,” “Service economy,” and “Rust Belt” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement about the chart is most accurate?",
+    "options": {
+      "A": "The chart shows that service jobs declined in every year",
+      "B": "The chart shows a long-term decline in manufacturing's share of jobs, not an absolute decline in all output",
+      "C": "The chart shows that manufacturing employment rose after 1970",
+      "D": "The chart shows that the United States stopped producing manufactured goods and that factories in the South were closed by the 1980s"
+    },
+    "correct": "B",
+    "explanation": "U.S. manufacturing output rose in many years even as manufacturing's share of employment declined.",
+    "distractor_notes": {
+      "A": "The service line rises.",
+      "C": "The manufacturing line falls.",
+      "D": "The chart does not say that."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.4",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The chart shows share of jobs, which may be misread as total output.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students read the line as showing the end of U.S. manufacturing.",
+      "how_to_avoid": "Read the axis label: share of jobs, not output."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Author-prepared stimulus (facts verified against the Wikipedia pages in verification.citations)",
+      "url": "https://en.wikipedia.org/wiki/Deindustrialization",
+      "license": "Original summary; underlying facts from CC BY-SA 4.0 Wikipedia articles",
+      "attribution": "Author-prepared schematic reflecting the shift to a service economy described in Wikipedia, “Deindustrialization,” “Service economy,” and “Rust Belt” (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Deindustrialization",
+        "https://en.wikipedia.org/wiki/Service_economy"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.4-trap-0006",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.4",
+    "topic_title": "A Changing Economy",
+    "learning_objective": "Explain the causes and effects of economic and technological change over time.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student claims that globalization harmed all American workers. Which evidence best qualifies this claim?",
+    "options": {
+      "A": "No American firms sold goods abroad",
+      "B": "Wages rose at the same rate for every worker",
+      "C": "Some workers, especially in export industries and technology, gained from expanded markets while many manufacturing workers lost jobs",
+      "D": "All U.S. manufacturing plants closed by 1990, and no American worker saw any wage increase from trade through the end of the century in any industry"
+    },
+    "correct": "C",
+    "explanation": "Globalization produced winners and losers, so the claim overgeneralizes.",
+    "distractor_notes": {
+      "A": "Firms exported goods.",
+      "B": "Wages varied.",
+      "D": "Plants did not all close."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.4",
+      "globalization"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The claim has some truth, but it uses an absolute.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students assume a major effect applies to everyone.",
+      "how_to_avoid": "Look for evidence of different effects on different groups."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Globalization",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Globalization",
+        "https://en.wikipedia.org/wiki/China_shock"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.4-trap-0007",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.4",
+    "topic_title": "A Changing Economy",
+    "learning_objective": "Explain the causes and effects of economic and technological change over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the savings and loan crisis is most accurate?",
+    "options": {
+      "A": "It led to the creation of the Federal Reserve System",
+      "B": "It occurred in the 1920s and led to the New Deal",
+      "C": "It was caused by Congress's decision to nationalize the banks and the end of federal deposit insurance",
+      "D": "It followed deregulation of thrift institutions and required a federal bailout"
+    },
+    "correct": "D",
+    "explanation": "The Fed was created in 1913, and the S&L crisis occurred in the 1980s and early 1990s.",
+    "distractor_notes": {
+      "A": "The Fed dates from 1913.",
+      "B": "The crisis was in the 1980s.",
+      "C": "Banks were not nationalized."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.4",
+      "savings-and-loan"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "The Federal Reserve and the New Deal reforms are earlier responses to financial crises.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students confuse financial crises of different eras.",
+      "how_to_avoid": "Check the decade of each crisis."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Savings_and_loan_crisis",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Savings_and_loan_crisis",
+        "https://en.wikipedia.org/wiki/Deregulation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.4-trap-0008",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.4",
+    "topic_title": "A Changing Economy",
+    "learning_objective": "Explain the causes and effects of economic and technological change over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Troubled Asset Relief Program is most accurate?",
+    "options": {
+      "A": "It was approved by Congress in October 2008, during the Bush administration",
+      "B": "It was enacted in 2010 as part of the Dodd-Frank Act",
+      "C": "It was a New Deal program created in 1933",
+      "D": "It was passed in February 2009 as part of the Obama stimulus after the election of President Obama"
+    },
+    "correct": "A",
+    "explanation": "TARP passed in October 2008 and was signed by President Bush.",
+    "distractor_notes": {
+      "B": "Dodd-Frank was separate.",
+      "C": "TARP was not a New Deal program.",
+      "D": "That was the Recovery Act."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.4",
+      "tarp"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "TARP and the stimulus are both associated with the recession and are easily confused.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Both involved large sums and were debated at the same time.",
+      "how_to_avoid": "Link TARP to 2008 and the stimulus to 2009."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program",
+        "https://en.wikipedia.org/wiki/George_W._Bush"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.5-trap-0001",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.5",
+    "topic_title": "Migration and Immigration in the 1990s and 2000s",
+    "learning_objective": "Explain the causes and effects of migration patterns over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about DACA is most accurate?",
+    "options": {
+      "A": "It was an executive action that deferred deportation for certain young immigrants but did not give them citizenship",
+      "B": "It was a law passed by Congress that gave citizenship to young immigrants and made them eligible to vote in federal elections after one year",
+      "C": "It was a Supreme Court decision that ended deportations",
+      "D": "It was a constitutional amendment that created birthright citizenship"
+    },
+    "correct": "A",
+    "explanation": "DACA was announced by the Department of Homeland Security in 2012 under Obama; Congress did not pass the DREAM Act.",
+    "distractor_notes": {
+      "B": "It was not a law.",
+      "C": "It was not a decision.",
+      "D": "Birthright citizenship stems from the Fourteenth Amendment."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.5",
+      "daca"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students think DACA and the DREAM Act are the same.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The names are similar and news reports often combined them.",
+      "how_to_avoid": "Ask who acted: Congress, the president, or the courts."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Deferred_Action_for_Childhood_Arrivals",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Deferred_Action_for_Childhood_Arrivals",
+        "https://en.wikipedia.org/wiki/DREAM_Act"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.5-trap-0002",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.5",
+    "topic_title": "Migration and Immigration in the 1990s and 2000s",
+    "learning_objective": "Explain the causes and effects of migration patterns over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Immigration and Nationality Act of 1965 is most accurate?",
+    "options": {
+      "A": "It imposed the national-origins quota system for the first time in United States history",
+      "B": "It ended the national-origins quota system but retained numerical limits",
+      "C": "It removed all numerical limits on immigration",
+      "D": "It excluded immigrants from Asia"
+    },
+    "correct": "B",
+    "explanation": "The 1965 law replaced the quota system with preferences for family and skills.",
+    "distractor_notes": {
+      "A": "The 1920s laws created quotas.",
+      "C": "Limits remained.",
+      "D": "Asian immigration grew."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.5",
+      "immigration-1965"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The quota system was created by the 1921 and 1924 laws, not by the 1965 act.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The 1920s and 1960s laws are both major immigration acts.",
+      "how_to_avoid": "Associate quotas with the 1920s and their removal with 1965."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Immigration_and_Nationality_Act_of_1965",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Immigration_and_Nationality_Act_of_1965",
+        "https://en.wikipedia.org/wiki/Immigration_to_the_United_States"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.5-trap-0003",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.5",
+    "topic_title": "Migration and Immigration in the 1990s and 2000s",
+    "learning_objective": "Explain the causes and effects of migration patterns over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT a provision of the Immigration Reform and Control Act of 1986?",
+    "options": {
+      "A": "Penalties for employers who knowingly hired undocumented workers",
+      "B": "A path to legal status for many undocumented immigrants",
+      "C": "A complete end to legal immigration from Mexico",
+      "D": "Increased funding for border enforcement"
+    },
+    "correct": "C",
+    "explanation": "IRCA did not end legal immigration from Mexico, which continued under the existing system.",
+    "distractor_notes": {
+      "A": "IRCA included penalties.",
+      "B": "IRCA included legalization.",
+      "D": "IRCA added enforcement."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.5",
+      "not-except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The NOT stem requires students to identify the false provision.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students pick a true provision.",
+      "how_to_avoid": "Mark NOT and verify each option."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Immigration_Reform_and_Control_Act_of_1986",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Immigration_Reform_and_Control_Act_of_1986",
+        "https://en.wikipedia.org/wiki/Immigration_to_the_United_States"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.5-trap-0004",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.5",
+    "topic_title": "Migration and Immigration in the 1990s and 2000s",
+    "learning_objective": "Explain the causes and effects of migration patterns over time.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in the correct chronological order?",
+    "options": {
+      "A": "Secure Fence Act, Immigration and Nationality Act, Immigration Reform and Control Act",
+      "B": "Immigration Reform and Control Act, Immigration and Nationality Act, Secure Fence Act",
+      "C": "Immigration and Nationality Act, Secure Fence Act, Immigration Reform and Control Act",
+      "D": "Immigration and Nationality Act, Immigration Reform and Control Act, Secure Fence Act"
+    },
+    "correct": "D",
+    "explanation": "The laws were passed in 1965, 1986, and 2006.",
+    "distractor_notes": {
+      "A": "The act of 2006 came last.",
+      "B": "IRCA came after 1965.",
+      "C": "The fence act came last."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.5",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "The 1965, 1986, and 2006 laws are all well known.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students recall the laws but not their order.",
+      "how_to_avoid": "Attach decades: 1960s, 1980s, 2000s."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Immigration_and_Nationality_Act_of_1965",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Immigration_and_Nationality_Act_of_1965",
+        "https://en.wikipedia.org/wiki/Mexico%E2%80%93United_States_barrier"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.5-trap-0005",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.5",
+    "topic_title": "Migration and Immigration in the 1990s and 2000s",
+    "learning_objective": "Explain the causes and effects of migration patterns over time.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "“America's immigration system is also outdated, unsuited to the needs of our economy and to the values of our country. . . . It is time for an immigration policy that permits temporary-guest workers to fill jobs Americans will not take, that rejects amnesty, that tells us who is entering and leaving our country, and that closes the border to drug dealers and terrorists.”",
+      "citation": "George W. Bush, State of the Union Address, February 2, 2005 – American Presidency Project: G. W. Bush, State of the Union Address (February 2, 2005)",
+      "asset_path": null
+    },
+    "question": "Which statement about the excerpt is most accurate?",
+    "options": {
+      "A": "The president rejected amnesty but proposed a temporary worker program",
+      "B": "The president rejected all guest-worker programs",
+      "C": "The president proposed to eliminate border security",
+      "D": "The president proposed amnesty for all undocumented immigrants and a path to citizenship"
+    },
+    "correct": "A",
+    "explanation": "Bush said “rejects amnesty” and proposed guest workers.",
+    "distractor_notes": {
+      "B": "He proposed guest workers.",
+      "C": "He wanted to close the border to drug dealers.",
+      "D": "He rejected amnesty."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.5",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students may assume that a guest-worker program is amnesty.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The proposals are often combined in discussions.",
+      "how_to_avoid": "Read what the speaker rejects as well as what he proposes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "American Presidency Project: G. W. Bush, State of the Union Address (February 2, 2005)",
+      "url": "https://www.presidency.ucsb.edu/documents/address-before-joint-session-the-congress-the-state-the-union-14",
+      "license": "Public domain (U.S. government work / court opinion)",
+      "attribution": "George W. Bush, State of the Union Address, February 2, 2005 – American Presidency Project: G. W. Bush, State of the Union Address (February 2, 2005)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://www.presidency.ucsb.edu/documents/address-before-joint-session-the-congress-the-state-the-union-14",
+        "https://en.wikipedia.org/wiki/George_W._Bush"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.5-trap-0006",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.5",
+    "topic_title": "Migration and Immigration in the 1990s and 2000s",
+    "learning_objective": "Explain the causes and effects of migration patterns over time.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student claims that all immigrants after 1965 came from Latin America. Which evidence best qualifies this claim?",
+    "options": {
+      "A": "Mexico was a major source of immigrants",
+      "B": "Large numbers of immigrants also came from Asia, including China, India, the Philippines, Korea, and Vietnam",
+      "C": "Most undocumented immigrants came from Latin America",
+      "D": "Immigrants from Latin America were the largest group, with a combined total larger than the Latino population from all other regions of the world"
+    },
+    "correct": "B",
+    "explanation": "Other options support the claim; only the evidence about Asia qualifies it.",
+    "distractor_notes": {
+      "A": "That supports the claim.",
+      "C": "That supports the claim.",
+      "D": "That supports the claim."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.5",
+      "absolute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The claim uses “all.”",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students pick evidence that supports the claim instead of qualifying it.",
+      "how_to_avoid": "Test whether each option qualifies or supports the claim."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Asian_Americans",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Asian_Americans",
+        "https://en.wikipedia.org/wiki/Immigration_to_the_United_States"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.5-trap-0007",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.5",
+    "topic_title": "Migration and Immigration in the 1990s and 2000s",
+    "learning_objective": "Explain the causes and effects of migration patterns over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about California's Proposition 187 is most accurate?",
+    "options": {
+      "A": "It was a federal law passed by Congress in 1994",
+      "B": "The Supreme Court upheld all of its provisions in 1995 and later expanded its protections to other states",
+      "C": "Voters approved it in 1994, but federal courts blocked most of its provisions",
+      "D": "Voters rejected it in 1994"
+    },
+    "correct": "C",
+    "explanation": "The measure passed with about 59 percent but courts held it unconstitutional.",
+    "distractor_notes": {
+      "A": "It was a state initiative.",
+      "B": "Courts blocked it.",
+      "D": "It passed."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.5",
+      "prop-187"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students may recall that it passed and assume it took effect.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The vote count is better known than the court rulings.",
+      "how_to_avoid": "Check what happened after the vote."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/1994_California_Proposition_187",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/1994_California_Proposition_187"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.5-trap-0008",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.5",
+    "topic_title": "Migration and Immigration in the 1990s and 2000s",
+    "learning_objective": "Explain the causes and effects of migration patterns over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Hurricane Katrina is most accurate?",
+    "options": {
+      "A": "It struck California in 2005 and caused wildfires",
+      "B": "It had no effect on migration within the United States",
+      "C": "It struck the Gulf Coast in 2012 and was the first major hurricane in U.S. history and caused little damage to coastal cities and the Mississippi River delta",
+      "D": "It struck the Gulf Coast in 2005, flooded much of New Orleans, and displaced many residents to other states"
+    },
+    "correct": "D",
+    "explanation": "Katrina made landfall in August 2005; levee failures flooded New Orleans.",
+    "distractor_notes": {
+      "A": "Katrina was a hurricane in the Gulf.",
+      "B": "Many people moved.",
+      "C": "Sandy was 2012."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.5",
+      "katrina"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students confuse Katrina with other hurricanes such as Sandy in 2012.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Names and dates of storms are easily confused.",
+      "how_to_avoid": "Associate Katrina with 2005 and New Orleans."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Hurricane_Katrina",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Hurricane_Katrina"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.6-trap-0001",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.6",
+    "topic_title": "Challenges of the 21st Century",
+    "learning_objective": "Explain the causes and effects of the domestic and international challenges the United States has faced in the 21st century.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the September 11 attacks and the Iraq War is most accurate?",
+    "options": {
+      "A": "Iraq's government was found to have carried out the September 11 attacks",
+      "B": "The United States invaded Iraq in October 2001 in response to the attacks and that the Taliban government in Kabul had been removed from power by that attack",
+      "C": "The September 11 attacks were carried out by Iraqi troops",
+      "D": "The 2003 invasion of Iraq was justified mainly by claims about weapons of mass destruction, and Iraq was not found responsible for the 9/11 attacks"
+    },
+    "correct": "D",
+    "explanation": "The 9/11 attacks were planned by al-Qaeda, and the U.S. attacked Afghanistan in 2001; Iraq was invaded in March 2003.",
+    "distractor_notes": {
+      "A": "No such finding was made.",
+      "B": "Afghanistan was attacked in October 2001.",
+      "C": "The hijackers were al-Qaeda members."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.6",
+      "iraq"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "The war on terror was often discussed as a single campaign.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The two wars were announced within a short period and are often linked in memory.",
+      "how_to_avoid": "Separate al-Qaeda and Afghanistan (2001) from Iraq (2003)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Iraq_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Iraq_War",
+        "https://en.wikipedia.org/wiki/September_11_attacks"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.6-trap-0002",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.6",
+    "topic_title": "Challenges of the 21st Century",
+    "learning_objective": "Explain the causes and effects of the domestic and international challenges the United States has faced in the 21st century.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT a response to the September 11 attacks?",
+    "options": {
+      "A": "The creation of the Environmental Protection Agency",
+      "B": "The creation of the Department of Homeland Security",
+      "C": "The passage of the USA PATRIOT Act",
+      "D": "The Authorization for Use of Military Force"
+    },
+    "correct": "A",
+    "explanation": "The EPA was created in 1970 and had no connection to the attacks.",
+    "distractor_notes": {
+      "B": "DHS was a response.",
+      "C": "The Patriot Act was a response.",
+      "D": "The AUMF was a response."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.6",
+      "not-except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The stem asks for the exception.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students skim the stem and pick a response.",
+      "how_to_avoid": "Underline NOT and test each option."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security",
+        "https://en.wikipedia.org/wiki/Patriot_Act"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.6-trap-0003",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.6",
+    "topic_title": "Challenges of the 21st Century",
+    "learning_objective": "Explain the causes and effects of the domestic and international challenges the United States has faced in the 21st century.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in the correct chronological order?",
+    "options": {
+      "A": "Invasion of Iraq, September 11 attacks, killing of Osama bin Laden",
+      "B": "September 11 attacks, invasion of Iraq, killing of Osama bin Laden",
+      "C": "September 11 attacks, killing of Osama bin Laden, invasion of Iraq",
+      "D": "Killing of Osama bin Laden, September 11 attacks, invasion of Iraq"
+    },
+    "correct": "B",
+    "explanation": "The attacks occurred in 2001, Iraq was invaded in 2003, and bin Laden was killed in 2011.",
+    "distractor_notes": {
+      "A": "The attacks came first.",
+      "C": "Iraq was invaded before bin Laden's death.",
+      "D": "Bin Laden was killed last."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.6",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "The events are linked in memory.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Bin Laden's death is associated with the end of the war on terror, which tempts students to place it early.",
+      "how_to_avoid": "Order the events by year: 2001, 2003, 2011."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/September_11_attacks",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/September_11_attacks",
+        "https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.6-trap-0004",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.6",
+    "topic_title": "Challenges of the 21st Century",
+    "learning_objective": "Explain the causes and effects of the domestic and international challenges the United States has faced in the 21st century.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Authorization for Use of Military Force of 2001 is most accurate?",
+    "options": {
+      "A": "It authorized the invasion of Iraq in 2003 by name",
+      "B": "It was passed by a narrow majority over unified Democratic opposition and opposed by President Bush, who preferred to use a formal declaration of war",
+      "C": "It authorized force against those responsible for the September 11 attacks and later was cited for operations against other groups",
+      "D": "It ended the president's need for any congressional approval of war"
+    },
+    "correct": "C",
+    "explanation": "The Iraq authorization was a separate resolution in October 2002.",
+    "distractor_notes": {
+      "A": "That was a separate resolution.",
+      "B": "It passed nearly unanimously.",
+      "D": "It did not end the need for Congress."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.6",
+      "aumf"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Iraq had a separate 2002 authorization.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The 2002 Iraq resolution is often confused with the 2001 AUMF.",
+      "how_to_avoid": "Distinguish 2001 from 2002."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Authorization_for_Use_of_Military_Force_Against_Terrorists",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Authorization_for_Use_of_Military_Force_Against_Terrorists",
+        "https://en.wikipedia.org/wiki/Iraq_War"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.6-trap-0005",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.6",
+    "topic_title": "Challenges of the 21st Century",
+    "learning_objective": "Explain the causes and effects of the domestic and international challenges the United States has faced in the 21st century.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "“That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons”",
+      "citation": "Authorization for Use of Military Force, Public Law 107-40, September 18, 2001 – Public Law 107-40, Authorization for Use of Military Force (Sept. 18, 2001), U.S. Government Publishing Office",
+      "asset_path": null
+    },
+    "question": "Which statement is most accurate about the language of the excerpt?",
+    "options": {
+      "A": "It authorizes force against any nation the president considers a threat and limits the president to a single year of military operations overseas",
+      "B": "It declares war on Afghanistan",
+      "C": "It authorizes the invasion of Iraq",
+      "D": "It authorizes force against those the president determines were connected to the September 11 attacks, and it names no country"
+    },
+    "correct": "D",
+    "explanation": "The text refers to nations, organizations, or persons connected to the attacks, not to any country by name.",
+    "distractor_notes": {
+      "A": "It is limited to September 11.",
+      "B": "It is not a declaration of war.",
+      "C": "Iraq is not named."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.6",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Students may remember the later broad use of the text.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Later interpretations were broader than the wording.",
+      "how_to_avoid": "Read the text itself."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Public Law 107-40, Authorization for Use of Military Force (Sept. 18, 2001), U.S. Government Publishing Office",
+      "url": "https://www.congress.gov/107/plaws/publ40/PLAW-107publ40.htm",
+      "license": "Public domain (U.S. government work / court opinion)",
+      "attribution": "Authorization for Use of Military Force, Public Law 107-40, September 18, 2001 – Public Law 107-40, Authorization for Use of Military Force (Sept. 18, 2001), U.S. Government Publishing Office"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://www.congress.gov/107/plaws/publ40/PLAW-107publ40.htm",
+        "https://en.wikipedia.org/wiki/Authorization_for_Use_of_Military_Force_Against_Terrorists"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.6-trap-0006",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.6",
+    "topic_title": "Challenges of the 21st Century",
+    "learning_objective": "Explain the causes and effects of the domestic and international challenges the United States has faced in the 21st century.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Obergefell decision is most accurate?",
+    "options": {
+      "A": "The Court held that states must license and recognize same-sex marriages under the Fourteenth Amendment",
+      "B": "The Court held that states may decide whether to recognize same-sex marriages and that the Constitution says nothing about marriage rights",
+      "C": "The Court held that marriage is not protected by the Constitution",
+      "D": "The Court held that Congress must pass a federal marriage law"
+    },
+    "correct": "A",
+    "explanation": "The Court's holding applied nationwide.",
+    "distractor_notes": {
+      "B": "It rejected state choice.",
+      "C": "It affirmed a constitutional right.",
+      "D": "It did not require legislation."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.6",
+      "obergefell"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Students confuse earlier state-by-state situation with the ruling.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The state-by-state approach was the earlier situation.",
+      "how_to_avoid": "Identify what changed after the decision."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.law.cornell.edu/supremecourt/text/14-556",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://www.law.cornell.edu/supremecourt/text/14-556",
+        "https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_United_States"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.6-trap-0007",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.6",
+    "topic_title": "Challenges of the 21st Century",
+    "learning_objective": "Explain the causes and effects of the domestic and international challenges the United States has faced in the 21st century.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Paris Agreement and the Kyoto Protocol is most accurate?",
+    "options": {
+      "A": "The United States has remained in the Paris Agreement without interruption since 2016 and had no role in it before that",
+      "B": "The United States did not ratify Kyoto, while it joined the Paris Agreement in 2016 under President Obama",
+      "C": "Both agreements were signed by President Reagan",
+      "D": "The United States ratified Kyoto in 1997 under President Clinton"
+    },
+    "correct": "B",
+    "explanation": "Clinton signed Kyoto but the Senate did not ratify it. The U.S. withdrew from Paris under Trump and rejoined in 2021.",
+    "distractor_notes": {
+      "A": "The U.S. withdrew and rejoined.",
+      "C": "Reagan left office in 1989.",
+      "D": "Signing is not ratification."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.6",
+      "climate"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Clinton signed Kyoto in 1997, which suggests ratification.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Signing and ratification are different.",
+      "how_to_avoid": "Remember that treaties need Senate ratification."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Kyoto_Protocol",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Kyoto_Protocol",
+        "https://en.wikipedia.org/wiki/Paris_Agreement"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.6-trap-0008",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.6",
+    "topic_title": "Challenges of the 21st Century",
+    "learning_objective": "Explain the causes and effects of the domestic and international challenges the United States has faced in the 21st century.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student claims that the Tea Party and Occupy movements had identical goals. Which evidence best refutes the claim?",
+    "options": {
+      "A": "Both movements involved public protests",
+      "B": "Both movements criticized the political system and demanded that the federal government take no action to address the economy or the financial crisis",
+      "C": "The Tea Party emphasized lower taxes and smaller government, while Occupy emphasized inequality and corporate influence",
+      "D": "Both movements began in 2009"
+    },
+    "correct": "C",
+    "explanation": "Similarities do not refute a claim of identical goals; differences in goals do.",
+    "distractor_notes": {
+      "A": "A similarity.",
+      "B": "A similarity.",
+      "D": "Not true and not a refutation."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.6",
+      "comparison"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The options list similarities.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students pick similarities when asked for evidence that refutes.",
+      "how_to_avoid": "Ask whether the evidence supports or refutes the claim."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Tea_Party_movement",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Tea_Party_movement",
+        "https://en.wikipedia.org/wiki/Occupy_Wall_Street"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.7-trap-0001",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.7",
+    "topic_title": "Causation in Period 9",
+    "learning_objective": "Explain the relative significance of the effects of change in the period after 1980 on American national identity.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student claims that the Cold War ended because of Ronald Reagan alone. Which evidence best qualifies the claim?",
+    "options": {
+      "A": "Reagan announced the Strategic Defense Initiative in 1983 and did nothing to slow Soviet spending on weapons or the Warsaw Pact",
+      "B": "Reagan gave the Brandenburg Gate speech in 1987",
+      "C": "Soviet economic stagnation and reforms under Gorbachev, as well as movements in Eastern Europe, also contributed",
+      "D": "Reagan signed the INF Treaty in 1987"
+    },
+    "correct": "C",
+    "explanation": "The options describe Reagan's actions and support the claim. Only the first adds other causes.",
+    "distractor_notes": {
+      "A": "Supports the claim.",
+      "B": "Supports the claim.",
+      "D": "Supports the claim."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.7",
+      "causation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "The options list real Reagan actions and so seem to prove his role.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students choose evidence that supports the claim.",
+      "how_to_avoid": "Choose evidence that adds other factors."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/End_of_the_Cold_War",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/End_of_the_Cold_War",
+        "https://en.wikipedia.org/wiki/Mikhail_Gorbachev"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.7-trap-0002",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.7",
+    "topic_title": "Causation in Period 9",
+    "learning_objective": "Explain the relative significance of the effects of change in the period after 1980 on American national identity.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the 2008 financial crisis is most accurate?",
+    "options": {
+      "A": "It was caused solely by the September 11 attacks",
+      "B": "It occurred because of a decline in the federal budget deficit and the crash of the stock market that began in October 1987 and spread to other nations",
+      "C": "It was resolved without any federal action",
+      "D": "It followed a housing bubble and risky mortgage lending, and the government responded with both emergency rescues and later regulatory reform"
+    },
+    "correct": "D",
+    "explanation": "The crisis resulted from housing and financial factors, not 9/11.",
+    "distractor_notes": {
+      "A": "No such cause.",
+      "B": "No such cause.",
+      "C": "The government acted."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.7",
+      "2008"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The word “solely” signals oversimplification.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students link major events from the same decade.",
+      "how_to_avoid": "Look for multiple causes and watch absolutes."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Great_Recession_in_the_United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Great_Recession_in_the_United_States",
+        "https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.7-trap-0003",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.7",
+    "topic_title": "Causation in Period 9",
+    "learning_objective": "Explain the relative significance of the effects of change in the period after 1980 on American national identity.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in the correct chronological order?",
+    "options": {
+      "A": "Reagan's election, the fall of the Berlin Wall, the September 11 attacks, the election of Obama",
+      "B": "Reagan's election, the September 11 attacks, the fall of the Berlin Wall, the election of Obama",
+      "C": "The fall of the Berlin Wall, Reagan's election, the election of Obama, the September 11 attacks",
+      "D": "Reagan's election, the fall of the Berlin Wall, the election of Obama, the September 11 attacks"
+    },
+    "correct": "A",
+    "explanation": "Reagan was elected in 1980, the Wall opened in 1989, the attacks occurred in 2001, and Obama was elected in 2008.",
+    "distractor_notes": {
+      "B": "The Wall opened before 2001.",
+      "C": "Reagan came first.",
+      "D": "The attacks came before 2008."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.7",
+      "chronology"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "The final two events could easily be swapped.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The attacks and the Obama election are both associated with the 2000s.",
+      "how_to_avoid": "Use dates: 1980, 1989, 2001, 2008."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/1980_United_States_presidential_election",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/1980_United_States_presidential_election",
+        "https://en.wikipedia.org/wiki/2008_United_States_presidential_election"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.7-trap-0004",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.7",
+    "topic_title": "Causation in Period 9",
+    "learning_objective": "Explain the relative significance of the effects of change in the period after 1980 on American national identity.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Selected causes and effects in Period 9 (author-prepared summary)\n| Cause | Effect |\n| Stagflation and the tax revolt of the 1970s | Reagan's election and the 1981 tax cuts |\n| Soviet reforms and political change in Eastern Europe | The opening of the Berlin Wall (1989) and the dissolution of the USSR (1991) |\n| Expansion of global trade and automation | Decline of manufacturing employment in the Rust Belt |\n| Subprime lending and the housing bubble | The Great Recession (2007–2009) |\n| The September 11, 2001, attacks | The AUMF, the Patriot Act, and wars in Afghanistan and Iraq |",
+      "citation": "Author-prepared summary; facts from Wikipedia articles on the topics listed (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement about the table is most accurate?",
+    "options": {
+      "A": "The table proves that each cause was the only factor in its effect",
+      "B": "The table links each cause to a later effect, and it does not show that the cause was the only factor",
+      "C": "The table shows that every effect occurred before its cause",
+      "D": "The table shows that none of the causes were related to the effects and that all of them occurred in a single year"
+    },
+    "correct": "B",
+    "explanation": "The table lists examples and does not claim that other factors were irrelevant.",
+    "distractor_notes": {
+      "A": "It does not prove sole causation.",
+      "C": "The effects came after the causes.",
+      "D": "The causes are related."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.7",
+      "stimulus"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "A table pairing cause and effect may look like proof of sole causation.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students assume the table's pairings are complete explanations.",
+      "how_to_avoid": "Watch for words like “only” and “proves.”"
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Author-prepared stimulus (facts verified against the Wikipedia pages in verification.citations)",
+      "url": "https://en.wikipedia.org/wiki/1980_United_States_presidential_election",
+      "license": "Original summary; underlying facts from CC BY-SA 4.0 Wikipedia articles",
+      "attribution": "Author-prepared summary; facts from Wikipedia articles on the topics listed (CC BY-SA)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/1980_United_States_presidential_election",
+        "https://en.wikipedia.org/wiki/Great_Recession_in_the_United_States"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.7-trap-0005",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.7",
+    "topic_title": "Causation in Period 9",
+    "learning_objective": "Explain the relative significance of the effects of change in the period after 1980 on American national identity.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT a consequence of the September 11 attacks?",
+    "options": {
+      "A": "A military campaign in Afghanistan",
+      "B": "A debate over surveillance and civil liberties",
+      "C": "The ratification of the Twenty-second Amendment",
+      "D": "The creation of the Department of Homeland Security"
+    },
+    "correct": "C",
+    "explanation": "The Twenty-second Amendment (term limits) was ratified in 1951.",
+    "distractor_notes": {
+      "A": "The campaign followed.",
+      "B": "The debate followed.",
+      "D": "DHS followed."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.7",
+      "not-except"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The NOT stem requires the exception.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students skim the stem.",
+      "how_to_avoid": "Underline NOT and evaluate options."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security",
+        "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.7-trap-0006",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.7",
+    "topic_title": "Causation in Period 9",
+    "learning_objective": "Explain the relative significance of the effects of change in the period after 1980 on American national identity.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the relationship between deregulation and the savings and loan crisis is most accurate?",
+    "options": {
+      "A": "The crisis was caused solely by a decline in Soviet power and an end to federal deposit insurance in the early 1990s",
+      "B": "The crisis occurred before any deregulation",
+      "C": "Deregulation had no relationship to the crisis",
+      "D": "Deregulation allowed thrifts to make riskier investments, and many failed, but it was not the only cause"
+    },
+    "correct": "D",
+    "explanation": "Falling oil prices, real estate speculation, and fraud also contributed.",
+    "distractor_notes": {
+      "A": "No Soviet link.",
+      "B": "Deregulation preceded it.",
+      "C": "It had a relationship."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.7",
+      "causation"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Some will say deregulation caused the crisis alone.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Strong claims about a single cause are tempting.",
+      "how_to_avoid": "Prefer nuanced explanations."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Savings_and_loan_crisis",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Savings_and_loan_crisis",
+        "https://en.wikipedia.org/wiki/Deregulation"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.7-trap-0007",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.7",
+    "topic_title": "Causation in Period 9",
+    "learning_objective": "Explain the relative significance of the effects of change in the period after 1980 on American national identity.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Citizens United decision is most accurate?",
+    "options": {
+      "A": "It struck down limits on independent political spending by corporations and unions, and it was followed by the rise of super PACs",
+      "B": "It abolished all campaign contribution limits for candidates and limited candidates to a single public funding source in each state election",
+      "C": "It allowed foreign governments to vote in U.S. elections",
+      "D": "It created super PACs by direct order of Congress"
+    },
+    "correct": "A",
+    "explanation": "A related court ruling (SpeechNow.org) and Citizens United opened the way, but the Court did not create super PACs.",
+    "distractor_notes": {
+      "B": "Limits on contributions remained.",
+      "C": "Foreigners did not gain voting rights.",
+      "D": "Congress did not create them."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.7",
+      "citizens-united"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "The ruling and the rise of super PACs are closely linked.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students assume that the Court itself created super PACs.",
+      "how_to_avoid": "Separate what the decision held from later developments."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.law.cornell.edu/supct/html/08-205.ZS.html",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.9,
+      "citations": [
+        "https://www.law.cornell.edu/supct/html/08-205.ZS.html",
+        "https://en.wikipedia.org/wiki/Citizens_United_v._FEC"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u9-t9.7-trap-0008",
+    "subject": "apush",
+    "unit": 9,
+    "unit_title": "Contemporary America: Conservatism to the Present (1980-Present)",
+    "topic": "9.7",
+    "topic_title": "Causation in Period 9",
+    "learning_objective": "Explain the relative significance of the effects of change in the period after 1980 on American national identity.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Great Recession is most accurate?",
+    "options": {
+      "A": "It began in 1929 and ended in 1939",
+      "B": "It began in December 2007 and ended in June 2009 according to official dating, though recovery was slow",
+      "C": "It began in 1980 and ended in 1982",
+      "D": "It began in September 2001 and ended in 2003 and continued through 2012 with a steady decline in unemployment all along"
+    },
+    "correct": "B",
+    "explanation": "The National Bureau of Economic Research dated the recession from December 2007 to June 2009.",
+    "distractor_notes": {
+      "A": "1929 began the Great Depression.",
+      "C": "1980–82 was an earlier recession.",
+      "D": "2001 was the year of 9/11."
+    },
+    "tags": [
+      "apush",
+      "unit-9",
+      "topic-9.7",
+      "recession"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The 1981–82 recession and the 2001 recession are also named in discussions.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students confuse recessions.",
+      "how_to_avoid": "Associate the Great Recession with 2007–2009."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Great_Recession_in_the_United_States",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.85,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Great_Recession_in_the_United_States"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  }
+]

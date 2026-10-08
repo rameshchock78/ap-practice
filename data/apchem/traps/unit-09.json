@@ -1,0 +1,3517 @@
+[
+ {
+  "id": "apchem-u9-t9.1-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.1",
+  "topic_title": "Introduction to Entropy",
+  "learning_objective": "Predict the sign and relative magnitude of the entropy change associated with chemical or physical processes. (9.1.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which change would be expected to decrease the entropy of a pure substance?",
+  "options": {
+   "A": "Melting the solid at its melting point",
+   "B": "Subliming the solid at constant temperature",
+   "C": "Heating the gas from 300 K to 400 K at constant volume",
+   "D": "Cooling the gas from 400 K to 300 K at constant volume"
+  },
+  "correct": "D",
+  "explanation": "Lower temperature at fixed volume reduces the number of accessible energy arrangements, so entropy decreases. The other options include an increase from expansion or phase change.",
+  "distractor_notes": {
+   "C": "Heating raises the number of accessible energy arrangements, so entropy increases.",
+   "A": "Melting increases entropy.",
+   "B": "Sublimation increases entropy."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "partial_truth",
+   "trap_description": "The tempting option mixes a true decrease (cooling) with an opposing increase (expansion).",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "Students see 'cooling' and stop reading; expansion in the same option raises the entropy.",
+   "how_to_avoid": "Evaluate each change in the option separately and note the net effect before choosing."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Entropy",
+    "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.1-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.1",
+  "topic_title": "Introduction to Entropy",
+  "learning_objective": "Predict the sign and relative magnitude of the entropy change associated with chemical or physical processes. (9.1.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about entropy is correct?",
+  "options": {
+   "A": "A system at higher pressure always has greater entropy than at lower pressure",
+   "B": "A reaction that produces more moles of gas than it consumes generally has a positive $\\Delta S$",
+   "C": "The entropy of a pure substance decreases when it is heated",
+   "D": "An exothermic reaction always has a negative $\\Delta S$"
+  },
+  "correct": "B",
+  "explanation": "More gas moles after reaction means more dispersal. Statements with 'always' are not supported.",
+  "distractor_notes": {
+   "D": "Enthalpy and entropy are independent quantities.",
+   "C": "Heating increases entropy.",
+   "A": "Higher pressure at fixed T and n lowers entropy."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'Always' statements about enthalpy-entropy relationships and pressure.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Absolute claims sound memorized and plausible, such as 'exothermic means orderly'.",
+   "how_to_avoid": "Test every 'always' statement with a counterexample (e.g., dissolving a gas-releasing salt, freezing)."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Entropy",
+    "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.1-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.1",
+  "topic_title": "Introduction to Entropy",
+  "learning_objective": "Predict the sign and relative magnitude of the entropy change associated with chemical or physical processes. (9.1.A)",
+  "skill": "Models and Representations",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement does NOT describe an entropy increase for the system?",
+  "options": {
+   "A": "Solid iodine subliming to a purple vapor",
+   "B": "A drop of food coloring spreading through a glass of water",
+   "C": "Water vapor condensing to liquid on a cold glass",
+   "D": "Ice melting at room temperature"
+  },
+  "correct": "C",
+  "explanation": "Condensation (gas to liquid) decreases entropy. Read the NOT stem carefully: the three other options each show an increase.",
+  "distractor_notes": {
+   "D": "Melting increases entropy.",
+   "B": "Dispersal increases entropy.",
+   "A": "Solid to gas increases entropy."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "A NOT stem that asks for the one process that does not increase entropy.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Students pick the first familiar entropy-increase example and forget the negation.",
+   "how_to_avoid": "Underline NOT/EXCEPT and reword the stem as 'Which one DECREASES entropy?'"
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Entropy",
+    "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.1-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.1",
+  "topic_title": "Introduction to Entropy",
+  "learning_objective": "Predict the sign and relative magnitude of the entropy change associated with chemical or physical processes. (9.1.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which reaction is predicted to have the most negative $\\Delta S^\\circ$?",
+  "options": {
+   "A": "$\\mathrm{N_2(g) + 3\\,H_2(g) \\rightarrow 2\\,NH_3(g)}$",
+   "B": "$\\mathrm{CaCO_3(s) \\rightarrow CaO(s) + CO_2(g)}$",
+   "C": "$\\mathrm{2\\,H_2O_2(l) \\rightarrow 2\\,H_2O(l) + O_2(g)}$",
+   "D": "$\\mathrm{H_2(g) + Cl_2(g) \\rightarrow 2\\,HCl(g)}$"
+  },
+  "correct": "A",
+  "explanation": "Net gas moles drop from 4 to 2 only in the ammonia synthesis, giving the largest decrease in entropy.",
+  "distractor_notes": {
+   "C": "Produces gas from liquid, so entropy increases.",
+   "B": "Produces gas from solid; entropy increases.",
+   "D": "Gas moles unchanged, so $\\Delta S^\\circ$ is near zero."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Students reverse the link between moles of gas and entropy, or ignore reactions where $\\Delta n_{gas}=0$.",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "Phrases like 'more products formed' feel like 'more disorder'; the three products here suggest increase.",
+   "how_to_avoid": "Count gas moles on each side first; then decide direction."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Entropy",
+    "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.1-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.1",
+  "topic_title": "Introduction to Entropy",
+  "learning_objective": "Predict the sign and relative magnitude of the entropy change associated with chemical or physical processes. (9.1.A)",
+  "skill": "Argumentation",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A student says: 'Freezing is spontaneous below 0°C, so entropy of the water must increase when it freezes.' Which response is correct?",
+  "options": {
+   "A": "The statement is correct: favored processes always increase the entropy of the system",
+   "B": "The statement is incorrect: the entropy of the water is unchanged by freezing",
+   "C": "The statement is correct: ice has a larger number of accessible arrangements than water",
+   "D": "The statement is incorrect: freezing decreases the entropy of the water; favorability also depends on the enthalpy change"
+  },
+  "correct": "D",
+  "explanation": "$\\Delta S_{\\mathrm{sys}} < 0$ for freezing, yet $\\Delta G = \\Delta H - T\\Delta S < 0$ below 0°C because $\\Delta H < 0$ dominates at low $T$.",
+  "distractor_notes": {
+   "A": "Favored processes need not increase the system's entropy; $\\Delta H$ matters.",
+   "C": "Ice is more ordered, with fewer arrangements.",
+   "B": "Entropy decreases measurably on freezing."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Equating 'thermodynamically favored' with 'entropy of the system increases'.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Textbooks often state 'nature tends to disorder', hiding the role of enthalpy.",
+   "how_to_avoid": "Evaluate $\\Delta G=\\Delta H-T\\Delta S$ and not the sign of $\\Delta S$ alone."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Entropy",
+    "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.1-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.1",
+  "topic_title": "Introduction to Entropy",
+  "learning_objective": "Predict the sign and relative magnitude of the entropy change associated with chemical or physical processes. (9.1.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Equal moles of two gases, $\\mathrm{He}$ and $\\mathrm{CO_2}$, at 298 K and 1 atm are compared. Which statement is correct?",
+  "options": {
+   "A": "$\\mathrm{CO_2}$ has the greater molar entropy because its molecules have more ways to store energy",
+   "B": "He has the greater molar entropy because its atoms move faster at the same temperature",
+   "C": "He has the greater molar entropy because it has the lower molar mass",
+   "D": "They have equal molar entropy because they are at the same temperature and pressure"
+  },
+  "correct": "A",
+  "explanation": "Both gases occupy the same volume, but triatomic $\\mathrm{CO_2}$ has rotational and vibrational modes that He lacks, so $S^\\circ(\\mathrm{CO_2}) > S^\\circ(\\mathrm{He})$.",
+  "distractor_notes": {
+   "B": "Higher speed alone does not give more energy arrangements; at the same T both have the same average kinetic energy.",
+   "D": "T and P fix the volume, not the energy arrangements within molecules.",
+   "C": "Mass is not the determining factor."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Speed is correct for He, but the claim that faster means more entropy is wrong.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students recall 'lighter gases move faster' and link it to disorder.",
+   "how_to_avoid": "Link entropy to the number of arrangements of matter and energy, not to speed."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Entropy",
+    "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.2-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.2",
+  "topic_title": "Absolute Entropy and Entropy Change",
+  "learning_objective": "Calculate the standard entropy change for a chemical or physical process based on the absolute entropies (standard molar entropies) of the species involved in the process. (9.2.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "The entropy change for a reaction is calculated as $\\Delta S^\\circ = -198.1$ J/(mol·K). In kJ/(mol·K), the same value is",
+  "options": {
+   "A": "$-0.1981$ kJ/(mol·K)",
+   "B": "$-198.1$ kJ/(mol·K)",
+   "C": "$-198{,}100$ kJ/(mol·K)",
+   "D": "$-0.001981$ kJ/(mol·K)"
+  },
+  "correct": "A",
+  "explanation": "1 kJ = 1000 J, so divide by 1000: $-198.1/1000 = -0.1981$ kJ/(mol·K).",
+  "distractor_notes": {
+   "B": "Changed the unit label without converting the number.",
+   "C": "Multiplied by 1000 instead of dividing.",
+   "D": "Divided by 100,000; incorrect conversion factor."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Converting J to kJ for entropy values so they match $\\Delta H$ in kJ.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students relabel the unit but forget to change the number.",
+   "how_to_avoid": "Write the conversion factor 1 kJ/1000 J and check magnitude vs. $\\Delta H$ values."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_molar_entropy",
+    "https://en.wikipedia.org/wiki/Third_law_of_thermodynamics"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.2-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.2",
+  "topic_title": "Absolute Entropy and Entropy Change",
+  "learning_objective": "Calculate the standard entropy change for a chemical or physical process based on the absolute entropies (standard molar entropies) of the species involved in the process. (9.2.A)",
+  "skill": "Models and Representations",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about $S^\\circ$ values is correct?",
+  "options": {
+   "A": "Standard molar entropies are only defined for compounds, not elements",
+   "B": "The standard molar entropy of an element in its standard state is zero",
+   "C": "The standard molar entropy of $\\mathrm{O_2}$(g) is negative since it is a reactant in combustion",
+   "D": "The standard molar entropy of $\\mathrm{O_2}$(g) at 298 K is positive"
+  },
+  "correct": "D",
+  "explanation": "$S^\\circ(\\mathrm{O_2}) = 205.2$ J/(mol·K); absolute entropies are positive for everything above 0 K.",
+  "distractor_notes": {
+   "B": "This is true for $\\Delta H_f^\\circ$, not $S^\\circ$.",
+   "C": "Reactants have positive absolute entropy.",
+   "A": "Elements have defined $S^\\circ$ values."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Confusing $S^\\circ$ of elements with $\\Delta H_f^\\circ$ of elements (zero).",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Both quantities appear in the same data tables, and 'elements = 0' is a familiar rule.",
+   "how_to_avoid": "Remember: zero belongs to formation values of elements, never to absolute entropy above 0 K."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_molar_entropy",
+    "https://en.wikipedia.org/wiki/Third_law_of_thermodynamics"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.2-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.2",
+  "topic_title": "Absolute Entropy and Entropy Change",
+  "learning_objective": "Calculate the standard entropy change for a chemical or physical process based on the absolute entropies (standard molar entropies) of the species involved in the process. (9.2.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement correctly states the third law of thermodynamics?",
+  "options": {
+   "A": "A perfect crystalline substance has zero entropy at 298 K",
+   "B": "A perfect crystalline substance has zero entropy at 0 K",
+   "C": "A perfect crystalline substance has zero enthalpy at 0 K",
+   "D": "Any substance, regardless of structure, has zero entropy at 0 K"
+  },
+  "correct": "B",
+  "explanation": "$S = 0$ applies to a perfect crystal at 0 K, with exactly one arrangement.",
+  "distractor_notes": {
+   "D": "Imperfect or disordered crystals retain residual entropy.",
+   "A": "298 K is a standard temperature, not absolute zero.",
+   "C": "The third law concerns entropy, not enthalpy."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Dropping 'perfect crystal' or changing 0 K to 298 K.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Students remember '0 K, zero entropy' but not the conditions.",
+   "how_to_avoid": "Check each condition word: perfect, crystal, 0 K, entropy."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_molar_entropy",
+    "https://en.wikipedia.org/wiki/Third_law_of_thermodynamics"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.2-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.2",
+  "topic_title": "Absolute Entropy and Entropy Change",
+  "learning_objective": "Calculate the standard entropy change for a chemical or physical process based on the absolute entropies (standard molar entropies) of the species involved in the process. (9.2.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which ordering of standard molar entropies at 298 K is correct for $\\mathrm{C(diamond)}$, $\\mathrm{Br_2(l)}$, and $\\mathrm{Br_2(g)}$ (values 2.4, 152.2, and 245.5 J/(mol·K), not listed in this order)?",
+  "options": {
+   "A": "$\\mathrm{C(diamond)} < \\mathrm{Br_2(g)} < \\mathrm{Br_2(l)}$",
+   "B": "$\\mathrm{Br_2(l)} < \\mathrm{C(diamond)} < \\mathrm{Br_2(g)}$",
+   "C": "$\\mathrm{C(diamond)} < \\mathrm{Br_2(l)} < \\mathrm{Br_2(g)}$",
+   "D": "$\\mathrm{Br_2(g)} < \\mathrm{Br_2(l)} < \\mathrm{C(diamond)}$"
+  },
+  "correct": "C",
+  "explanation": "Solid < liquid < gas: diamond (2.4) < $\\mathrm{Br_2}$(l) (152.2) < $\\mathrm{Br_2}$(g) (245.5).",
+  "distractor_notes": {
+   "D": "Reversed trend: gases have the highest entropy.",
+   "B": "A strongly bonded solid has less entropy than a liquid.",
+   "A": "The liquid has less entropy than the gas of the same substance."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Entropy increases s < l < g; students reverse it by thinking solids are 'more stable' and so higher.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Associating stability with a higher number.",
+   "how_to_avoid": "Link entropy with freedom of motion: gases move most, crystals least."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_molar_entropy",
+    "https://en.wikipedia.org/wiki/Third_law_of_thermodynamics"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.2-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.2",
+  "topic_title": "Absolute Entropy and Entropy Change",
+  "learning_objective": "Calculate the standard entropy change for a chemical or physical process based on the absolute entropies (standard molar entropies) of the species involved in the process. (9.2.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "table",
+   "content": "Species | S° (J/(mol·K))\n--- | ---\n$\\mathrm{NO_2}$(g) | 240.1\n$\\mathrm{N_2O_4}$(g) | 304.4",
+   "citation": "Original data table written for this item (rounded textbook-style values at 298 K).",
+   "asset_path": null
+  },
+  "question": "Using the data in the table, what is $\\Delta S^\\circ$ for $\\mathrm{2\\,NO_2(g) \\rightarrow N_2O_4(g)}$?",
+  "options": {
+   "A": "784.6 J/(mol·K)",
+   "B": "−175.8 J/(mol·K)",
+   "C": "175.8 J/(mol·K)",
+   "D": "64.3 J/(mol·K)"
+  },
+  "correct": "B",
+  "explanation": "$\\Delta S^\\circ = 304.4 - 2(240.1) = −175.8 J/(mol·K)$.",
+  "distractor_notes": {
+   "D": "Used one mole of $\\mathrm{NO_2}$, ignoring the coefficient 2.",
+   "C": "Reversed the subtraction order, giving the wrong sign.",
+   "A": "Added the entropies instead of subtracting."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "A table giving molar values for one mole of NO$_2$ while the equation uses a coefficient of 2.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Students plug the tabulated number without multiplying by the coefficient.",
+   "how_to_avoid": "Multiply each S° by its coefficient before subtracting."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_molar_entropy",
+    "https://en.wikipedia.org/wiki/Third_law_of_thermodynamics",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.2-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.2",
+  "topic_title": "Absolute Entropy and Entropy Change",
+  "learning_objective": "Calculate the standard entropy change for a chemical or physical process based on the absolute entropies (standard molar entropies) of the species involved in the process. (9.2.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following reactions has a $\\Delta S^\\circ$ closest to zero?",
+  "options": {
+   "A": "$\\mathrm{N_2(g) + 3\\,H_2(g) \\rightarrow 2\\,NH_3(g)}$",
+   "B": "$\\mathrm{CaCO_3(s) \\rightarrow CaO(s) + CO_2(g)}$",
+   "C": "$\\mathrm{H_2(g) + Cl_2(g) \\rightarrow 2\\,HCl(g)}$",
+   "D": "$\\mathrm{2\\,SO_2(g) + O_2(g) \\rightarrow 2\\,SO_3(g)}$"
+  },
+  "correct": "C",
+  "explanation": "Only the HCl reaction has no change in the moles of gas; calculated $\\Delta S^\\circ$ = 20.0 J/(mol·K) is small.",
+  "distractor_notes": {
+   "B": "Produces a gas from a solid: large positive $\\Delta S^\\circ$.",
+   "A": "Net loss of two moles of gas: large negative value.",
+   "D": "Net loss of one mole of gas: large negative value."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "'Closest to zero' requires magnitude comparison, not choosing the sign.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students choose the most negative or most positive option, treating 'least' as 'most negative'.",
+   "how_to_avoid": "Compare |ΔS°|, and use Δn(gas) = 0 as a rapid screen."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_molar_entropy",
+    "https://en.wikipedia.org/wiki/Third_law_of_thermodynamics",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.3-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.3",
+  "topic_title": "Gibbs Free Energy and Thermodynamic Favorability",
+  "learning_objective": "Explain whether a physical or chemical process is thermodynamically favored based on an evaluation of ΔG°. (9.3.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "At 298 K, $\\Delta H^\\circ = -92.2$ kJ/mol and $\\Delta S^\\circ = -198.1$ J/(mol·K). A student computes $\\Delta G^\\circ$ by evaluating $-92.2 - (298)(-198.1)$ directly. What is the correct $\\Delta G^\\circ$?",
+  "options": {
+   "A": "−151 kJ/mol",
+   "B": "−33.2 kJ/mol",
+   "C": "33.2 kJ/mol",
+   "D": "$5.89 \\times 10^{4}$ kJ/mol"
+  },
+  "correct": "B",
+  "explanation": "$\\Delta G^\\circ = -92.2 - (298)(-0.1981) = -33.2$ kJ/mol.",
+  "distractor_notes": {
+   "D": "Did not convert $\\Delta S^\\circ$ to kJ/(mol·K); the number is 1000 times too large.",
+   "C": "Reported the opposite sign for the final answer.",
+   "A": "Treated the entropy change as positive (used $|\\Delta S^\\circ|$) when evaluating $-T\\Delta S^\\circ$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "$\\Delta H^\\circ$ in kJ but $\\Delta S^\\circ$ in J; direct subtraction gives a large wrong value.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "The arithmetic with mismatched units 'looks' fine on a calculator.",
+   "how_to_avoid": "Convert $\\Delta S^\\circ$ to kJ/(mol·K) (divide by 1000) before combining."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Free_Energy/Gibbs_(Free)_Energy",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.3-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.3",
+  "topic_title": "Gibbs Free Energy and Thermodynamic Favorability",
+  "learning_objective": "Explain whether a physical or chemical process is thermodynamically favored based on an evaluation of ΔG°. (9.3.A)",
+  "skill": "Models and Representations",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about a thermodynamically favored ($\\Delta G^\\circ < 0$) reaction is correct?",
+  "options": {
+   "A": "It must have a positive $\\Delta S^\\circ$",
+   "B": "It must be exothermic",
+   "C": "It must occur rapidly once the reactants are mixed",
+   "D": "It may occur extremely slowly if it has a large activation energy"
+  },
+  "correct": "D",
+  "explanation": "'Spontaneous' means thermodynamically favored, not fast or without cause.",
+  "distractor_notes": {
+   "C": "Favorability does not mean fast; rates depend on kinetics.",
+   "B": "Favored reactions can be endothermic if $\\Delta S^\\circ$ is large and positive.",
+   "A": "A favored reaction can have a negative $\\Delta S^\\circ$ if it is sufficiently exothermic at low $T$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Equating 'spontaneous' with 'sudden' or 'without cause'.",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "Everyday meaning of 'spontaneous' leaks into the chemical definition.",
+   "how_to_avoid": "Use the phrase 'thermodynamically favored' and separate it from rate."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Free_Energy/Gibbs_(Free)_Energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.3-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.3",
+  "topic_title": "Gibbs Free Energy and Thermodynamic Favorability",
+  "learning_objective": "Explain whether a physical or chemical process is thermodynamically favored based on an evaluation of ΔG°. (9.3.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A student states that any reaction with $\\Delta H^\\circ < 0$ is thermodynamically favored at all temperatures. Which of the following reactions provides a counterexample?",
+  "options": {
+   "A": "$\\mathrm{N_2(g) + 3\\,H_2(g) \\rightarrow 2\\,NH_3(g)}$ at 800 K, with $\\Delta H^\\circ < 0$ and $\\Delta S^\\circ < 0$",
+   "B": "$\\mathrm{C_6H_{12}O_6 + 6\\,O_2 \\rightarrow 6\\,CO_2 + 6\\,H_2O}$ with $\\Delta H^\\circ < 0$ and $\\Delta S^\\circ > 0$",
+   "C": "$\\mathrm{2\\,H_2(g) + O_2(g) \\rightarrow 2\\,H_2O(g)}$ at 298 K, with $\\Delta H^\\circ < 0$ and $\\Delta S^\\circ < 0$",
+   "D": "$\\mathrm{CaCO_3(s) \\rightarrow CaO(s) + CO_2(g)}$ at 298 K, with $\\Delta H^\\circ > 0$ and $\\Delta S^\\circ > 0$"
+  },
+  "correct": "A",
+  "explanation": "At 800 K the $-T\\Delta S^\\circ$ term (+158 kJ) outweighs $\\Delta H^\\circ = -92.2$ kJ, so $\\Delta G^\\circ > 0$: a counterexample to the 'always' claim.",
+  "distractor_notes": {
+   "D": "This reaction has a positive $\\Delta H^\\circ$; it does not contradict the claim.",
+   "C": "At 298 K this one is favored, so it fails as a counterexample.",
+   "B": "Both terms favor the reaction; it cannot be a counterexample."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'All temperatures' claim based only on the sign of $\\Delta H^\\circ$.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Exothermic reactions are 'downhill' in everyday thinking.",
+   "how_to_avoid": "Test absolute claims with a counterexample using $\\Delta G^\\circ=\\Delta H^\\circ-T\\Delta S^\\circ$."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Free_Energy/Gibbs_(Free)_Energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.3-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.3",
+  "topic_title": "Gibbs Free Energy and Thermodynamic Favorability",
+  "learning_objective": "Explain whether a physical or chemical process is thermodynamically favored based on an evaluation of ΔG°. (9.3.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A reaction has $\\Delta H^\\circ < 0$ and $\\Delta S^\\circ < 0$. As the temperature is raised, the reaction",
+  "options": {
+   "A": "becomes more favored because the higher temperature makes the products more stable",
+   "B": "stays equally favored because $\\Delta H^\\circ$ is independent of $T$",
+   "C": "becomes less favored and may become unfavored at high temperature",
+   "D": "becomes more favored because the rate increases"
+  },
+  "correct": "C",
+  "explanation": "$-T\\Delta S^\\circ$ is positive and grows with $T$, so $\\Delta G^\\circ$ increases with temperature.",
+  "distractor_notes": {
+   "D": "Rate increase does not change thermodynamic favorability.",
+   "B": "The $-T\\Delta S^\\circ$ term depends on $T$ and becomes more positive.",
+   "A": "Raising $T$ makes $\\Delta G^\\circ$ more positive when $\\Delta S^\\circ < 0$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Assuming higher temperature always drives a reaction forward.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "'Heat speeds things up' is applied to thermodynamic favorability.",
+   "how_to_avoid": "Use the sign table; separate the effect of $T$ on rate from its effect on $\\Delta G^\\circ$."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Free_Energy/Gibbs_(Free)_Energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.3-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.3",
+  "topic_title": "Gibbs Free Energy and Thermodynamic Favorability",
+  "learning_objective": "Explain whether a physical or chemical process is thermodynamically favored based on an evaluation of ΔG°. (9.3.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "For which combination of signs is a reaction NOT thermodynamically favored at any temperature?",
+  "options": {
+   "A": "$\\Delta H^\\circ < 0$ and $\\Delta S^\\circ < 0$",
+   "B": "$\\Delta H^\\circ < 0$ and $\\Delta S^\\circ > 0$",
+   "C": "$\\Delta H^\\circ > 0$ and $\\Delta S^\\circ < 0$",
+   "D": "$\\Delta H^\\circ > 0$ and $\\Delta S^\\circ > 0$"
+  },
+  "correct": "C",
+  "explanation": "Only $(+\\Delta H^\\circ, -\\Delta S^\\circ)$ gives $\\Delta G^\\circ > 0$ at every $T$.",
+  "distractor_notes": {
+   "D": "Favored at high temperature, where $T\\Delta S^\\circ$ exceeds $\\Delta H^\\circ$.",
+   "A": "Favored at low temperature, where $\\Delta H^\\circ$ dominates.",
+   "B": "Favored at all temperatures."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "A negated stem asking for the one combination that is never favored.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Students pick the 'bad-sounding' combination (both unfavorable-looking) rather than the one that is never favored.",
+   "how_to_avoid": "Evaluate each sign combination for low and high $T$ and keep the one that is positive at both."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Free_Energy/Gibbs_(Free)_Energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.3-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.3",
+  "topic_title": "Gibbs Free Energy and Thermodynamic Favorability",
+  "learning_objective": "Explain whether a physical or chemical process is thermodynamically favored based on an evaluation of ΔG°. (9.3.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "table",
+   "content": "Species | ΔG°f (kJ/mol)\n--- | ---\n$\\mathrm{CO}$(g) | -137.2\n$\\mathrm{CO_2}$(g) | -394.4\n$\\mathrm{O_2}$(g) | 0",
+   "citation": "Original data table written for this item (rounded textbook-style values at 298 K).",
+   "asset_path": null
+  },
+  "question": "The table lists $\\Delta G^\\circ_f$ for species at 298 K. What is $\\Delta G^\\circ$ for $\\mathrm{2\\,CO(g) + O_2(g) \\rightarrow 2\\,CO_2(g)}$?",
+  "options": {
+   "A": "−514 kJ/mol",
+   "B": "−257 kJ/mol",
+   "C": "514 kJ/mol",
+   "D": "$-1.06 \\times 10^{3}$ kJ/mol"
+  },
+  "correct": "A",
+  "explanation": "$\\Delta G^\\circ = 2(-394.4) - [2(-137.2) + 0] = -514.4$ kJ/mol; $\\Delta G^\\circ_f$ of an element in its standard state is zero.",
+  "distractor_notes": {
+   "B": "Used one mole of each species and ignored the coefficients.",
+   "D": "Added the reactant values instead of subtracting.",
+   "C": "Reversed the order of subtraction."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "The equation uses coefficients of 2 but tabulated values are per mole.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students read straight from the table without scaling by coefficients.",
+   "how_to_avoid": "Multiply each $\\Delta G^\\circ_f$ by its coefficient before summing."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Free_Energy/Gibbs_(Free)_Energy",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.4-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.4",
+  "topic_title": "Thermodynamic and Kinetic Control",
+  "learning_objective": "Explain, in terms of kinetics, why a thermodynamically favored reaction might not occur at a measurable rate. (9.4.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A mixture of $\\mathrm{H_2(g)}$ and $\\mathrm{O_2(g)}$ shows no change over many months. A student concludes the mixture has reached equilibrium. Which statement about the student's claim is correct?",
+  "options": {
+   "A": "The claim is justified: a system that shows no change is at equilibrium",
+   "B": "The claim is not justified: the reaction is highly favored, so the system is far from equilibrium and is kinetically controlled",
+   "C": "The claim is not justified: the reaction is thermodynamically unfavored at room temperature",
+   "D": "The claim is justified: $\\Delta G^\\circ$ is zero for the reaction"
+  },
+  "correct": "B",
+  "explanation": "At equilibrium the composition would be nearly all $\\mathrm{H_2O}$. A static $\\mathrm{H_2/O_2}$ mixture means the rate is negligible.",
+  "distractor_notes": {
+   "A": "Absence of observable change is not the same as being at equilibrium.",
+   "D": "$\\Delta G^\\circ$ for forming $\\mathrm{H_2O}$ is strongly negative.",
+   "C": "The reaction is thermodynamically favored."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Equating 'no visible change' with 'equilibrium'.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Everyday reasoning: nothing changing means balanced.",
+   "how_to_avoid": "Compare actual composition to the equilibrium composition (Q vs K), not to the lack of observed change."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Thermodynamic_versus_kinetic_reaction_control",
+    "https://en.wikipedia.org/wiki/Activation_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.4-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.4",
+  "topic_title": "Thermodynamic and Kinetic Control",
+  "learning_objective": "Explain, in terms of kinetics, why a thermodynamically favored reaction might not occur at a measurable rate. (9.4.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Adding a catalyst to a reaction mixture at constant temperature will",
+  "options": {
+   "A": "increase the rates of both the forward and reverse reactions, leaving $K$ and $\\Delta G^\\circ$ unchanged",
+   "B": "increase the rate of the forward reaction only, giving a larger $K$",
+   "C": "increase the temperature of the system and thus the yield",
+   "D": "decrease the activation energy and make $\\Delta G^\\circ$ more negative"
+  },
+  "correct": "A",
+  "explanation": "A catalyst lowers $E_a$ for both directions; equilibrium composition is unchanged.",
+  "distractor_notes": {
+   "B": "A catalyst accelerates both directions equally and does not change $K$.",
+   "D": "$\\Delta G^\\circ$ is a property of reactants and products only.",
+   "C": "A catalyst has no effect on temperature or equilibrium yield."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "partial_truth",
+   "trap_description": "A true statement (rate increases) combined with a false one (K changes).",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "The first half is correct, so the whole option feels right.",
+   "how_to_avoid": "Check each clause independently; 'catalysts never change K'."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Thermodynamic_versus_kinetic_reaction_control",
+    "https://en.wikipedia.org/wiki/Activation_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.4-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.4",
+  "topic_title": "Thermodynamic and Kinetic Control",
+  "learning_objective": "Explain, in terms of kinetics, why a thermodynamically favored reaction might not occur at a measurable rate. (9.4.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about reactions with large negative $\\Delta G^\\circ$ values is correct?",
+  "options": {
+   "A": "All of them must be exothermic",
+   "B": "All of them proceed rapidly at room temperature",
+   "C": "All of them have activation energies of zero",
+   "D": "Some of them proceed at negligible rates at room temperature"
+  },
+  "correct": "D",
+  "explanation": "'Some' is the only claim that holds; combustion of diamond or hydrocarbons at room temperature are examples.",
+  "distractor_notes": {
+   "B": "Rate depends on $E_a$; favorable thermodynamics doesn't guarantee speed.",
+   "A": "$\\Delta G^\\circ < 0$ can also occur for endothermic reactions with large positive $\\Delta S^\\circ$.",
+   "C": "Every reaction has some barrier."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'All ... rapidly' claim about favored reactions.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students conflate 'large driving force' with 'fast'.",
+   "how_to_avoid": "Treat 'all/always' statements skeptically and look for counterexamples."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Thermodynamic_versus_kinetic_reaction_control",
+    "https://en.wikipedia.org/wiki/Activation_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.4-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.4",
+  "topic_title": "Thermodynamic and Kinetic Control",
+  "learning_objective": "Explain, in terms of kinetics, why a thermodynamically favored reaction might not occur at a measurable rate. (9.4.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following is NOT a reasonable explanation for why a thermodynamically favored reaction occurs too slowly to observe?",
+  "options": {
+   "A": "The reaction has a high activation energy",
+   "B": "The reacting molecules must collide with a very specific orientation",
+   "C": "The reaction has an equilibrium constant greater than 1",
+   "D": "The temperature is too low for most collisions to have enough energy"
+  },
+  "correct": "C",
+  "explanation": "$K > 1$ is part of what 'favored' means; it is not a reason for slowness. The other options are kinetic factors.",
+  "distractor_notes": {
+   "A": "This is the typical cause of kinetic control.",
+   "B": "Orientation requirements can limit the rate.",
+   "D": "Low $T$ reduces the fraction of molecules exceeding $E_a$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "A NOT stem in which three options are valid kinetic reasons.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students scan for a 'kinetic-sounding' option and select it despite the NOT.",
+   "how_to_avoid": "Mark each option True/False as a reason, then choose the one that is False."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Thermodynamic_versus_kinetic_reaction_control",
+    "https://en.wikipedia.org/wiki/Activation_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.4-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.4",
+  "topic_title": "Thermodynamic and Kinetic Control",
+  "learning_objective": "Explain, in terms of kinetics, why a thermodynamically favored reaction might not occur at a measurable rate. (9.4.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "graph",
+   "content": "Free energy profile: R at 0 kJ/mol, transition state at +150 kJ/mol, P at +30 kJ/mol.",
+   "citation": "Original graph, described in text/table form, written for this item.",
+   "asset_path": null
+  },
+  "question": "A free energy profile shows R at 0, the transition state at +150 kJ/mol, and P at +30 kJ/mol. A student reads the value 150 kJ/mol as $\\Delta G$ for the reaction. Which statement is correct?",
+  "options": {
+   "A": "$\\Delta G = +150$ kJ/mol; the reaction is thermodynamically unfavored and has no barrier",
+   "B": "$\\Delta G = +30$ kJ/mol; the reaction is thermodynamically unfavored and the forward barrier is 150 kJ/mol",
+   "C": "$\\Delta G = +120$ kJ/mol; the reaction is unfavored and the barrier is 30 kJ/mol",
+   "D": "$\\Delta G = -30$ kJ/mol; the reaction is thermodynamically favored"
+  },
+  "correct": "B",
+  "explanation": "$\\Delta G = G_P - G_R = +30$ kJ/mol; $E_a = G_{TS} - G_R = 150$ kJ/mol.",
+  "distractor_notes": {
+   "A": "150 kJ/mol is the barrier height, not the overall free energy change.",
+   "D": "P lies above R, so $\\Delta G$ is positive.",
+   "C": "Subtracted incorrectly and swapped the barrier and the free energy change."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "Reading the transition-state height as the overall energy change.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "The highest point on the curve is the most conspicuous number.",
+   "how_to_avoid": "Label: barrier = TS − R; $\\Delta G$ = P − R."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Thermodynamic_versus_kinetic_reaction_control",
+    "https://en.wikipedia.org/wiki/Activation_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.4-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.4",
+  "topic_title": "Thermodynamic and Kinetic Control",
+  "learning_objective": "Explain, in terms of kinetics, why a thermodynamically favored reaction might not occur at a measurable rate. (9.4.A)",
+  "skill": "Argumentation",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Reaction I has $E_a = 40$ kJ/mol and reaction II has $E_a = 120$ kJ/mol, with similar frequency factors, at the same temperature. A student claims reaction II is faster because it has more energy to give. Which response is correct?",
+  "options": {
+   "A": "Reaction II is faster, because a higher activation energy means greater reaction energy",
+   "B": "The two reactions have the same rate, because the temperature is the same",
+   "C": "Reaction II is faster, because a higher barrier corresponds to a more negative $\\Delta G^\\circ$",
+   "D": "Reaction I is faster, because a smaller fraction of collisions in reaction II has the energy needed to react"
+  },
+  "correct": "D",
+  "explanation": "$k \\propto e^{-E_a/RT}$: smaller $E_a$ gives larger $k$.",
+  "distractor_notes": {
+   "A": "A higher barrier means fewer successful collisions.",
+   "B": "Rate constants depend on $E_a$ even at the same temperature.",
+   "C": "Barrier height is not tied to $\\Delta G^\\circ$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Treating a higher activation energy as faster.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "'More energy' is mistaken for 'more reactive'.",
+   "how_to_avoid": "$E_a$ is an obstacle to be overcome; larger obstacle means smaller rate constant."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Thermodynamic_versus_kinetic_reaction_control",
+    "https://en.wikipedia.org/wiki/Activation_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.5-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.5",
+  "topic_title": "Free Energy and Equilibrium",
+  "learning_objective": "Explain whether a process is thermodynamically favored using the relationships between K, ΔG°, and T. (9.5.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A reaction has $K = 1.0\\times10^{5}$ at 298 K. A student calculates $\\Delta G^\\circ = -(8.314)(298)\\ln(1.0\\times10^{5})$ and obtains $-2.85\\times10^{4}$. What is the correct value of $\\Delta G^\\circ$ in kJ/mol?",
+  "options": {
+   "A": "−28.5 kJ/mol",
+   "B": "$-2.85 \\times 10^{4}$ kJ/mol",
+   "C": "−12.4 kJ/mol",
+   "D": "28.5 kJ/mol"
+  },
+  "correct": "A",
+  "explanation": "$-2.85\\times10^{4}$ J/mol $= -28.5$ kJ/mol.",
+  "distractor_notes": {
+   "B": "Reported the J/mol value as if it were kJ/mol.",
+   "D": "Sign error on the final value.",
+   "C": "Used $\\log_{10}$ instead of $\\ln$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Using $R$ in J and reporting $\\Delta G^\\circ$ in kJ without converting.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "The number from the calculator is reported directly with the kJ label from the table.",
+   "how_to_avoid": "Track units: $R$ is in J/(mol·K), so $\\Delta G^\\circ$ is in J/mol; divide by 1000."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Equilibrium_constant",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.5-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.5",
+  "topic_title": "Free Energy and Equilibrium",
+  "learning_objective": "Explain whether a process is thermodynamically favored using the relationships between K, ΔG°, and T. (9.5.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "At 298 K, $K = 1.0\\times10^{-3}$ for a reaction. A student says 'because $\\Delta G^\\circ > 0$, no products will ever form.' Which response is best?",
+  "options": {
+   "A": "The student is wrong; the reaction has no equilibrium because $K < 1$",
+   "B": "The student is wrong; the reaction produces mostly products at equilibrium",
+   "C": "A small but nonzero amount of product forms; $\\Delta G^\\circ > 0$ means products are not favored at equilibrium, not that none form",
+   "D": "The student is correct; a positive $\\Delta G^\\circ$ means the reaction does not occur at all"
+  },
+  "correct": "C",
+  "explanation": "$K = 10^{-3}$ means that at equilibrium the product-to-reactant ratio is small but not zero.",
+  "distractor_notes": {
+   "D": "Positive $\\Delta G^\\circ$ gives $K < 1$, not $K = 0$.",
+   "B": "$K<1$ favors reactants.",
+   "A": "Every reversible reaction has an equilibrium state regardless of $K$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Treating $\\Delta G^\\circ > 0$ as 'no reaction'.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "'Not favored' is heard as 'impossible'.",
+   "how_to_avoid": "Quantify with $K = e^{-\\Delta G^\\circ/RT}$; small K is not zero."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Equilibrium_constant"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.5-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.5",
+  "topic_title": "Free Energy and Equilibrium",
+  "learning_objective": "Explain whether a process is thermodynamically favored using the relationships between K, ΔG°, and T. (9.5.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A reaction has a very large equilibrium constant. Which statement about it must be true?",
+  "options": {
+   "A": "The reactants will be completely consumed, leaving none",
+   "B": "At equilibrium the system will contain mostly products",
+   "C": "The reaction is always exothermic",
+   "D": "The reaction will go to completion in a short time"
+  },
+  "correct": "B",
+  "explanation": "'Mostly products at equilibrium' is the only claim made by $K \\gg 1$; the others add a rate claim, an absolute claim, or an enthalpy claim.",
+  "distractor_notes": {
+   "D": "$K$ gives extent, not speed.",
+   "A": "A tiny amount of reactant remains at equilibrium however large $K$ is.",
+   "C": "Large $K$ can occur with endothermic reactions at high $T$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'Completely consumed' and 'always exothermic' go beyond what K shows.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Strong language (completion) often accompanies large K in textbooks.",
+   "how_to_avoid": "Distinguish 'mostly products' from 'completely products' and keep rate separate."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Equilibrium_constant"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.5-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.5",
+  "topic_title": "Free Energy and Equilibrium",
+  "learning_objective": "Explain whether a process is thermodynamically favored using the relationships between K, ΔG°, and T. (9.5.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about a system at equilibrium at 298 K is correct?",
+  "options": {
+   "A": "$\\Delta G^\\circ = 0$ and $Q = K$",
+   "B": "$\\Delta G = -RT\\ln K$ and $Q = 1$",
+   "C": "$\\Delta G^\\circ = 0$ and $Q = 1$",
+   "D": "$\\Delta G = 0$ and $Q = K$"
+  },
+  "correct": "D",
+  "explanation": "At equilibrium the actual free energy change $\\Delta G = 0$ and $Q = K$, while $\\Delta G^\\circ = -RT\\ln K$ can be any value.",
+  "distractor_notes": {
+   "C": "$\\Delta G^\\circ$ is zero only if $K=1$; it is not generally zero at equilibrium.",
+   "A": "$\\Delta G^\\circ=-RT\\ln K$ is zero only if $K = 1$.",
+   "B": "The expression $-RT\\ln K$ is $\\Delta G^\\circ$, not $\\Delta G$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Confusing $\\Delta G$ (actual conditions) with $\\Delta G^\\circ$ (standard).",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "The symbols differ only by a small superscript.",
+   "how_to_avoid": "Remember: $\\Delta G = 0$ at equilibrium; $\\Delta G^\\circ$ relates to $K$."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Equilibrium_constant"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.5-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.5",
+  "topic_title": "Free Energy and Equilibrium",
+  "learning_objective": "Explain whether a process is thermodynamically favored using the relationships between K, ΔG°, and T. (9.5.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "table",
+   "content": "Reaction as written | K (298 K)\n--- | ---\nA → B | 1.0 × 10^4",
+   "citation": "Original data table written for this item (rounded textbook-style values at 298 K).",
+   "asset_path": null
+  },
+  "question": "The table gives $K$ at 298 K for a reaction as written. What is $\\Delta G^\\circ$ at 298 K for the REVERSE reaction?",
+  "options": {
+   "A": "$2.28 \\times 10^{4}$ kJ/mol",
+   "B": "9.91 kJ/mol",
+   "C": "22.8 kJ/mol",
+   "D": "−22.8 kJ/mol"
+  },
+  "correct": "C",
+  "explanation": "Forward: $\\Delta G^\\circ = -RT\\ln(10^4) = -22.8$ kJ/mol. Reverse has $K = 10^{-4}$, so $\\Delta G^\\circ = +22.8$ kJ/mol.",
+  "distractor_notes": {
+   "D": "Used the forward reaction's $\\Delta G^\\circ$ (sign not reversed).",
+   "A": "Left the value in J/mol but labeled it kJ/mol.",
+   "B": "Used $\\log_{10}$ instead of $\\ln$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "The table gives K for A → B but the question asks about B → A.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Students answer for the reaction in the table without noticing 'reverse'.",
+   "how_to_avoid": "Re-read the direction asked: reversing flips the sign of $\\Delta G^\\circ$ and inverts $K$."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Equilibrium_constant",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.5-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.5",
+  "topic_title": "Free Energy and Equilibrium",
+  "learning_objective": "Explain whether a process is thermodynamically favored using the relationships between K, ΔG°, and T. (9.5.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "For a reaction at 298 K, $K = 100$. A student uses $\\Delta G^\\circ = -RT\\log_{10}K$ to get $-5.7$ kJ/mol. Which statement is correct?",
+  "options": {
+   "A": "The correct value is about $-11.4$ kJ/mol, because the equation uses the natural logarithm",
+   "B": "The correct value is about $-23$ kJ/mol, because both $\\ln$ and $\\log_{10}$ should be used",
+   "C": "The student's value of $-5.7$ kJ/mol is correct, because AP Chemistry uses base-10 logarithms here",
+   "D": "The correct value is about $+11.4$ kJ/mol, because $K > 1$ implies a positive $\\Delta G^\\circ$"
+  },
+  "correct": "A",
+  "explanation": "$\\Delta G^\\circ = -(8.314)(298)\\ln 100 = -11410$ J/mol $\\approx -11.4$ kJ/mol.",
+  "distractor_notes": {
+   "C": "The AP equation sheet uses $\\ln K$.",
+   "D": "$K>1$ gives a negative $\\Delta G^\\circ$.",
+   "B": "Only one logarithm is used."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Log base confusion (ln vs. $\\log_{10}$), halving the magnitude.",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "$\\log$ buttons on calculators are base 10 and $\\ln K$ vs. $\\log K$ look alike.",
+   "how_to_avoid": "$\\Delta G^\\circ = -RT\\ln K$; use $\\ln$ or $2.303\\log_{10}$."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Equilibrium_constant",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.6-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.6",
+  "topic_title": "Free Energy of Dissolution",
+  "learning_objective": "Explain the relationship between the solubility of a salt and changes in the enthalpy and entropy that occur in the dissolution process. (9.6.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about the dissolution of ionic solids in water is correct?",
+  "options": {
+   "A": "Dissolution can be favored even if it is endothermic",
+   "B": "Dissolution is never favored when $\\Delta H^\\circ > 0$",
+   "C": "Dissolution always decreases the entropy of the water",
+   "D": "Dissolution is favored only if it is exothermic"
+  },
+  "correct": "A",
+  "explanation": "Favorability depends on $\\Delta G^\\circ = \\Delta H^\\circ - T\\Delta S^\\circ$, not on the sign of $\\Delta H^\\circ$ alone.",
+  "distractor_notes": {
+   "D": "Entropy-driven dissolution (e.g., $\\mathrm{NH_4NO_3}$) is endothermic yet favored.",
+   "C": "Water entropy can decrease near ions, but the overall change is often positive.",
+   "B": "This is the misconception; $T\\Delta S^\\circ$ can outweigh $\\Delta H^\\circ$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Equating favorable dissolution with release of heat.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Familiar exothermic examples (e.g., strong acid in water) dominate intuition.",
+   "how_to_avoid": "Always evaluate both enthalpy and entropy terms."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Entropy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.6-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.6",
+  "topic_title": "Free Energy of Dissolution",
+  "learning_objective": "Explain the relationship between the solubility of a salt and changes in the enthalpy and entropy that occur in the dissolution process. (9.6.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about the entropy change of dissolution is correct?",
+  "options": {
+   "A": "$\\Delta S^\\circ$ is always negative because ions lose their lattice positions",
+   "B": "$\\Delta S^\\circ$ is always zero for ionic solids",
+   "C": "$\\Delta S^\\circ$ is always positive because the solute disperses",
+   "D": "$\\Delta S^\\circ$ can be negative if the ions strongly orient water molecules around them"
+  },
+  "correct": "D",
+  "explanation": "The sign of $\\Delta S^\\circ$ depends on the balance between solute dispersal (+) and solvent ordering (−).",
+  "distractor_notes": {
+   "C": "Solvent ordering can make the overall value negative.",
+   "B": "Entropy changes for ionic dissolution are not zero.",
+   "A": "Dispersal of ions typically increases entropy; the sign is not universally negative."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "An 'always positive' claim about entropy of dissolution.",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "'Dissolving = spreading out' sounds universal.",
+   "how_to_avoid": "Look for hydration-ordering counterexamples such as highly charged ions."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Entropy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.6-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.6",
+  "topic_title": "Free Energy of Dissolution",
+  "learning_objective": "Explain the relationship between the solubility of a salt and changes in the enthalpy and entropy that occur in the dissolution process. (9.6.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "$\\Delta H^\\circ = +25.7$ kJ/mol and $\\Delta S^\\circ = +108.7$ J/(mol·K) for $\\mathrm{NH_4NO_3}$ dissolving. A student calculates $\\Delta G^\\circ = 25.7 - (298)(108.7) = -3.2\\times10^{4}$. What is the correct $\\Delta G^\\circ$ in kJ/mol?",
+  "options": {
+   "A": "58.1 kJ/mol",
+   "B": "$-3.24 \\times 10^{4}$ kJ/mol",
+   "C": "−6.69 kJ/mol",
+   "D": "6.69 kJ/mol"
+  },
+  "correct": "C",
+  "explanation": "$\\Delta G^\\circ = 25.7 - (298)(0.1087) = -6.7$ kJ/mol.",
+  "distractor_notes": {
+   "B": "Did not convert J to kJ for $\\Delta S^\\circ$; the number is 1000 times too large.",
+   "A": "Added the $T\\Delta S^\\circ$ term.",
+   "D": "Reported the opposite sign."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Mixed units: kJ for enthalpy, J for entropy.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "The calculator happily returns a number that looks like a typical answer.",
+   "how_to_avoid": "Convert $\\Delta S^\\circ$ to kJ/(mol·K) before computing."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Entropy",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.6-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.6",
+  "topic_title": "Free Energy of Dissolution",
+  "learning_objective": "Explain the relationship between the solubility of a salt and changes in the enthalpy and entropy that occur in the dissolution process. (9.6.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "For a salt with $\\Delta H^\\circ < 0$ and $\\Delta S^\\circ < 0$ for dissolution, increasing the temperature will",
+  "options": {
+   "A": "increase $K_{sp}$, so the salt becomes more soluble, as for most solids",
+   "B": "decrease $K_{sp}$, so the salt becomes less soluble",
+   "C": "increase $K_{sp}$, because a higher temperature adds energy to separate the ions",
+   "D": "have no effect on $K_{sp}$, since $\\Delta H^\\circ$ is negative"
+  },
+  "correct": "B",
+  "explanation": "For $\\Delta H^\\circ < 0$, $K$ decreases as $T$ increases (e.g., $\\mathrm{Li_2SO_4}$ and $\\mathrm{CaSO_4}$).",
+  "distractor_notes": {
+   "A": "This is true for endothermic dissolution but not for this case.",
+   "D": "$K_{sp}$ depends on $T$ through $\\Delta G^\\circ$.",
+   "C": "Adding energy does not raise $K$ for an exothermic process."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Assuming solubility always increases with temperature.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Most common examples (sugar, KNO3) show an increase.",
+   "how_to_avoid": "Use the sign of $\\Delta H^\\circ$ (or $\\Delta S^\\circ$) to predict the direction."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Entropy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.6-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.6",
+  "topic_title": "Free Energy of Dissolution",
+  "learning_objective": "Explain the relationship between the solubility of a salt and changes in the enthalpy and entropy that occur in the dissolution process. (9.6.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following is NOT one of the factors that contribute to the free energy of dissolution of an ionic solid in water?",
+  "options": {
+   "A": "The energy required to separate ions from the crystal lattice",
+   "B": "The nuclear binding energy of the constituent atoms",
+   "C": "The reorganization of solvent molecules around the dissolved species",
+   "D": "The interaction of the dissolved ions with water molecules"
+  },
+  "correct": "B",
+  "explanation": "The CED (9.6.A.1) lists lattice interactions, solvent reorganization, and solute–solvent interactions; nuclear energy is irrelevant.",
+  "distractor_notes": {
+   "A": "This is part of the enthalpy of dissolution.",
+   "C": "This contributes both enthalpy and entropy terms.",
+   "D": "Ion–dipole interactions contribute to the free energy."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "A NOT stem with an obviously unrelated key option.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students overlook the NOT and choose a real contributing factor.",
+   "how_to_avoid": "Test each option as a true contribution; select the false one."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Entropy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.6-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.6",
+  "topic_title": "Free Energy of Dissolution",
+  "learning_objective": "Explain the relationship between the solubility of a salt and changes in the enthalpy and entropy that occur in the dissolution process. (9.6.A)",
+  "skill": "Model Analysis",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "AgCl is sparingly soluble, with $\\Delta H^\\circ = +65.5$ kJ/mol and $\\Delta S^\\circ = +32.9$ J/(mol·K). Which statement best explains its low solubility?",
+  "options": {
+   "A": "$\\Delta H^\\circ$ is large and positive, and $T\\Delta S^\\circ$ (about 9.8 kJ/mol at 298 K) is too small to offset it",
+   "B": "$\\Delta G^\\circ$ is negative but the activation energy for dissolution is large, so the salt dissolves very slowly in water",
+   "C": "$\\Delta H^\\circ$ is positive, and positive enthalpy changes alone are enough to make a salt insoluble",
+   "D": "$\\Delta S^\\circ$ is negative, so dissolution is unfavored at all temperatures"
+  },
+  "correct": "A",
+  "explanation": "$\\Delta G^\\circ = 65.5 - 9.8 = +55.7$ kJ/mol.",
+  "distractor_notes": {
+   "C": "Positive $\\Delta H^\\circ$ alone does not decide solubility; NH$_4$NO$_3$ also has $\\Delta H^\\circ>0$ and is soluble.",
+   "D": "$\\Delta S^\\circ$ for AgCl is positive.",
+   "B": "$\\Delta G^\\circ$ is positive; the cause is thermodynamic."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "partial_truth",
+   "trap_description": "'Endothermic, so insoluble' is partly true but incomplete.",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "The enthalpy explanation is familiar and half correct.",
+   "how_to_avoid": "Compare $\\Delta H^\\circ$ to $T\\Delta S^\\circ$ numerically."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "https://en.wikipedia.org/wiki/Entropy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.7-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.7",
+  "topic_title": "Coupled Reactions",
+  "learning_objective": "Explain the relationship between external sources of energy or coupled reactions and their ability to drive thermodynamically unfavorable processes. (9.7.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about coupled reactions is correct?",
+  "options": {
+   "A": "The overall $\\Delta G^\\circ$ equals the more negative of the two $\\Delta G^\\circ$ values",
+   "B": "The overall $\\Delta G^\\circ$ is the sum of the $\\Delta G^\\circ$ values of the individual reactions",
+   "C": "The overall $\\Delta G^\\circ$ equals the product of the two values",
+   "D": "The unfavorable reaction's own $\\Delta G^\\circ$ becomes negative when coupled"
+  },
+  "correct": "B",
+  "explanation": "State-function values add when equations are added.",
+  "distractor_notes": {
+   "A": "Both values contribute; the overall is their sum.",
+   "C": "Free energy changes add; they do not multiply.",
+   "D": "Each reaction keeps its own $\\Delta G^\\circ$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Thinking coupling changes the individual reactions' $\\Delta G^\\circ$ values.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Language like 'ATP drives the reaction' sounds like it alters the unfavorable step.",
+   "how_to_avoid": "Add equations and $\\Delta G^\\circ$ values; don't alter individual values."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.7-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.7",
+  "topic_title": "Coupled Reactions",
+  "learning_objective": "Explain the relationship between external sources of energy or coupled reactions and their ability to drive thermodynamically unfavorable processes. (9.7.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about driving unfavorable reactions is correct?",
+  "options": {
+   "A": "Any unfavorable reaction can be driven by coupling it to any favorable reaction that is present",
+   "B": "An unfavorable reaction can be driven by raising the temperature in all cases, regardless of the sign of $\\Delta S^\\circ$",
+   "C": "An unfavorable reaction can be driven by a catalyst alone",
+   "D": "An unfavorable reaction can be driven only if the overall process, including any coupled step, is favored"
+  },
+  "correct": "D",
+  "explanation": "Coupling needs a sufficiently negative companion with a shared intermediate; 'any' fails.",
+  "distractor_notes": {
+   "A": "The favorable reaction must be sufficiently negative and linked by an intermediate.",
+   "C": "Catalysts do not change $\\Delta G^\\circ$.",
+   "B": "Raising $T$ helps only when $\\Delta S^\\circ > 0$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'Any' favorable reaction can drive 'any' unfavorable one.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Textbook examples work, which suggests a general rule.",
+   "how_to_avoid": "Check the magnitudes of $\\Delta G^\\circ$ and the shared intermediate."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.7-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.7",
+  "topic_title": "Coupled Reactions",
+  "learning_objective": "Explain the relationship between external sources of energy or coupled reactions and their ability to drive thermodynamically unfavorable processes. (9.7.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A reaction has $\\Delta G^\\circ = +13,800$ J/mol and is coupled to ATP hydrolysis, $\\Delta G^\\circ = -30.5$ kJ/mol. What is the overall $\\Delta G^\\circ$ in kJ/mol?",
+  "options": {
+   "A": "−16.7 kJ/mol",
+   "B": "44.3 kJ/mol",
+   "C": "$1.38 \\times 10^{4}$ kJ/mol",
+   "D": "−44.3 kJ/mol"
+  },
+  "correct": "A",
+  "explanation": "$13.8 - 30.5 = -16.7$ kJ/mol after converting 13,800 J to 13.8 kJ.",
+  "distractor_notes": {
+   "C": "Added J/mol and kJ/mol values without unit conversion.",
+   "B": "Ignored the sign of the ATP value.",
+   "D": "Applied a negative sign to both reaction values."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Mixed J and kJ in a sum.",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "Both numbers look 'normal' and are added directly.",
+   "how_to_avoid": "Convert all values to the same unit before adding."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.7-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.7",
+  "topic_title": "Coupled Reactions",
+  "learning_objective": "Explain the relationship between external sources of energy or coupled reactions and their ability to drive thermodynamically unfavorable processes. (9.7.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "table",
+   "content": "Reaction as written | ΔG° (kJ/mol)\n--- | ---\nATP + H2O → ADP + Pi | -30.5",
+   "citation": "Original data table written for this item (rounded textbook-style values at 298 K).",
+   "asset_path": null
+  },
+  "question": "The table lists $\\Delta G^\\circ$ for ATP hydrolysis written as ATP + $\\mathrm{H_2O}$ → ADP + $\\mathrm{P_i}$. A cell needs to make ATP from ADP and $\\mathrm{P_i}$. What is $\\Delta G^\\circ$ for ATP synthesis written as ADP + $\\mathrm{P_i}$ → ATP + $\\mathrm{H_2O}$?",
+  "options": {
+   "A": "−30.5 kJ/mol",
+   "B": "+61.0 kJ/mol",
+   "C": "+30.5 kJ/mol",
+   "D": "0 kJ/mol"
+  },
+  "correct": "C",
+  "explanation": "Reversing a reaction changes the sign of $\\Delta G^\\circ$: $+30.5$ kJ/mol, so ATP synthesis must be coupled to a more favorable process.",
+  "distractor_notes": {
+   "A": "This is the value for hydrolysis; synthesis is the reverse reaction.",
+   "B": "Doubled the magnitude without any basis.",
+   "D": "The reverse reaction does not have zero free energy change."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "A value given for the forward reaction is applied to the reverse reaction.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "The magnitude is familiar and the direction written in the table is overlooked.",
+   "how_to_avoid": "Check the direction of the equation in the table before using its value."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.7-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.7",
+  "topic_title": "Coupled Reactions",
+  "learning_objective": "Explain the relationship between external sources of energy or coupled reactions and their ability to drive thermodynamically unfavorable processes. (9.7.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "What is the essential feature that links two reactions so that one can drive the other?",
+  "options": {
+   "A": "A catalyst that speeds up both reactions",
+   "B": "Reactions that occur at the same temperature",
+   "C": "A species produced in one reaction is consumed in the other (a common intermediate)",
+   "D": "The same activation energy for both reactions"
+  },
+  "correct": "C",
+  "explanation": "A common intermediate is what links the reactions mechanistically (CED 9.7.A.2).",
+  "distractor_notes": {
+   "A": "A shared catalyst doesn't transfer free energy.",
+   "D": "Matching activation energies is not required.",
+   "B": "The same temperature does not link reactions."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Confusing a common intermediate with a common catalyst.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Both appear in reaction mechanisms and are 'shared' species.",
+   "how_to_avoid": "Intermediate: made in one step and consumed in another; catalyst: unchanged overall."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.7-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.7",
+  "topic_title": "Coupled Reactions",
+  "learning_objective": "Explain the relationship between external sources of energy or coupled reactions and their ability to drive thermodynamically unfavorable processes. (9.7.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following is NOT an example of using an external energy source or a coupled reaction to drive a thermodynamically unfavorable process?",
+  "options": {
+   "A": "Photosynthesis converting $\\mathrm{CO_2}$ and $\\mathrm{H_2O}$ to glucose",
+   "B": "A steel nail rusting in moist air",
+   "C": "ATP hydrolysis driving phosphorylation of glucose",
+   "D": "A solar cell-powered electrolysis of water"
+  },
+  "correct": "B",
+  "explanation": "Rusting is thermodynamically favored; it needs no external energy.",
+  "distractor_notes": {
+   "D": "Electrical energy drives the unfavorable decomposition.",
+   "A": "Light energy drives an unfavorable process.",
+   "C": "A favorable reaction coupled to an unfavorable one."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "A NOT stem where three options are textbook examples.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Students are drawn to the 'energy' topic and pick the first familiar example.",
+   "how_to_avoid": "Convert the stem into 'which is spontaneous without help?' and select that one."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+    "https://en.wikipedia.org/wiki/Gibbs_free_energy"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.8-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.8",
+  "topic_title": "Galvanic (Voltaic) and Electrolytic Cells",
+  "learning_objective": "Explain the relationship between the physical components of an electrochemical cell and the overall operational principles of the cell. (9.8.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "In an electrolytic cell, which electrode is the cathode?",
+  "options": {
+   "A": "The electrode at which reduction occurs",
+   "B": "The electrode connected to the source of electrons in the external supply, regardless of the reaction",
+   "C": "The electrode that gains mass in a galvanic cell only",
+   "D": "The electrode at which oxidation occurs, because the power supply reverses the roles"
+  },
+  "correct": "A",
+  "explanation": "Cathode = reduction in every cell.",
+  "distractor_notes": {
+   "D": "The roles of anode and cathode are defined by the process, not by the cell type.",
+   "B": "Electrode names are defined by the half-reaction occurring there.",
+   "C": "Cathode refers to reduction in both cell types."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Believing the anode/cathode labels swap in electrolytic cells.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Some teach 'positive/negative' labels, which do swap, and this gets mixed with the oxidation/reduction definitions.",
+   "how_to_avoid": "Use 'An Ox, Red Cat' for all cells."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Galvanic_cell",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Voltaic_Cells"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.8-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.8",
+  "topic_title": "Galvanic (Voltaic) and Electrolytic Cells",
+  "learning_objective": "Explain the relationship between the physical components of an electrochemical cell and the overall operational principles of the cell. (9.8.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about the movement of charge in a working galvanic cell is correct?",
+  "options": {
+   "A": "Electrons move through the salt bridge, and ions move through the external wire",
+   "B": "Ions move through both the wire and the salt bridge",
+   "C": "Electrons move through the external wire, and ions move through the salt bridge",
+   "D": "Electrons move through both the wire and the salt bridge"
+  },
+  "correct": "C",
+  "explanation": "Metals conduct by electron flow; solutions conduct by ion flow.",
+  "distractor_notes": {
+   "A": "The carriers are reversed.",
+   "D": "Electrons do not travel through the solution.",
+   "B": "Ions do not move through the metal wire."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Having electrons flow through the electrolyte.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Diagrams of closed loops suggest the same carrier all the way.",
+   "how_to_avoid": "Mark each region on the diagram with its charge carrier."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Galvanic_cell",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Voltaic_Cells"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.8-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.8",
+  "topic_title": "Galvanic (Voltaic) and Electrolytic Cells",
+  "learning_objective": "Explain the relationship between the physical components of an electrochemical cell and the overall operational principles of the cell. (9.8.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "In a working galvanic cell, anions in the salt bridge migrate toward",
+  "options": {
+   "A": "the cathode half-cell, because anions are attracted to the electrode that gains electrons",
+   "B": "the anode half-cell, where positive charge accumulates from oxidation",
+   "C": "the cathode half-cell, where positive charge accumulates from reduction",
+   "D": "neither half-cell, because anions are not mobile in the salt bridge"
+  },
+  "correct": "B",
+  "explanation": "The anode compartment gains positive ions, so anions migrate there; cations migrate toward the cathode.",
+  "distractor_notes": {
+   "C": "Reduction at the cathode consumes positive charge; the cathode needs cations.",
+   "A": "Anions are not attracted to the negatively charged cathode; the movement is to balance charge.",
+   "D": "Anions are mobile charge carriers."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Reversing the direction of anion and cation migration in the bridge.",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "'Anions go to the anode' sounds like 'opposites attract' only if the electrode charge sign is remembered correctly, and many reverse it.",
+   "how_to_avoid": "Track charge: oxidation adds positive charge to the anode compartment, so anions move in."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Galvanic_cell",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Voltaic_Cells"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.8-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.8",
+  "topic_title": "Galvanic (Voltaic) and Electrolytic Cells",
+  "learning_objective": "Explain the relationship between the physical components of an electrochemical cell and the overall operational principles of the cell. (9.8.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about galvanic cells is NOT correct?",
+  "options": {
+   "A": "The overall reaction in the cell is thermodynamically favored",
+   "B": "Electrons flow through the external circuit from anode to cathode",
+   "C": "Oxidation occurs at the anode, where electrons are produced",
+   "D": "Reduction occurs at the anode, where electrons are produced"
+  },
+  "correct": "D",
+  "explanation": "The anode is the site of oxidation, not reduction. The other three statements are true.",
+  "distractor_notes": {
+   "C": "This statement is correct.",
+   "B": "This statement is correct.",
+   "A": "This statement is correct."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "A NOT stem in which the incorrect statement mislabels the anode.",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "The false statement sounds like a fragment of a familiar rule.",
+   "how_to_avoid": "Check each statement as true or false; select the false one."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Galvanic_cell",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Voltaic_Cells"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.8-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.8",
+  "topic_title": "Galvanic (Voltaic) and Electrolytic Cells",
+  "learning_objective": "Explain the relationship between the physical components of an electrochemical cell and the overall operational principles of the cell. (9.8.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "table",
+   "content": "Electrode | Initial mass (g) | Final mass (g)\n--- | --- | ---\nP | 12.500 | 12.438\nQ | 8.200 | 8.262",
+   "citation": "Original data written for this item.",
+   "asset_path": null
+  },
+  "question": "A student reads the table below and concludes that electrode Q is the anode because its mass increased. Which statement is correct?",
+  "options": {
+   "A": "Electrode Q is the anode, because a mass increase means the electrode is accumulating electrons",
+   "B": "Electrode Q is the cathode, because metal ions were reduced and deposited on it",
+   "C": "The data do not allow identification of either electrode",
+   "D": "Electrode Q is the anode, because it gains mass as it is oxidized"
+  },
+  "correct": "B",
+  "explanation": "Mass gain indicates metal deposition (reduction), so Q is the cathode and P (mass loss) is the anode.",
+  "distractor_notes": {
+   "A": "The mass gain is from deposited metal atoms, and the process is reduction.",
+   "D": "Oxidation of a metal electrode would decrease its mass.",
+   "C": "A gain or loss of mass identifies the half-reaction."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "Linking a mass increase with 'the electrode that gets the electrons' and calling it the anode.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "'Gains' is associated with oxidation by mistake (oxidation is gain of oxygen, or Leo/Ger confusion).",
+   "how_to_avoid": "Use the process: deposition = reduction = cathode; dissolving = oxidation = anode."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Galvanic_cell",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Voltaic_Cells"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.8-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.8",
+  "topic_title": "Galvanic (Voltaic) and Electrolytic Cells",
+  "learning_objective": "Explain the relationship between the physical components of an electrochemical cell and the overall operational principles of the cell. (9.8.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about electrolytic cells is correct?",
+  "options": {
+   "A": "Some electrolytic cells contain an aqueous electrolyte, and some contain a molten salt",
+   "B": "Electrolytic cells require two separate half-cells connected by a salt bridge",
+   "C": "Electrolytic cells never contain aqueous solutions",
+   "D": "Electrolytic cells must contain a molten salt"
+  },
+  "correct": "A",
+  "explanation": "The defining feature is an external energy source, not the physical state of the electrolyte.",
+  "distractor_notes": {
+   "D": "Aqueous solutions can also be electrolyzed (water or ions).",
+   "C": "Aqueous electrolysis is common (e.g., electroplating, water electrolysis).",
+   "B": "Many electrolytic cells use one container and no salt bridge."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'Must' / 'never' claims about the electrolyte.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Textbook molten-NaCl examples give an impression that electrolysis requires melting.",
+   "how_to_avoid": "Check for counterexamples (electroplating, water electrolysis)."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Galvanic_cell",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Voltaic_Cells"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.9-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.9",
+  "topic_title": "Cell Potential and Free Energy",
+  "learning_objective": "Explain whether an electrochemical cell is thermodynamically favored, based on its standard cell potential and the constituent half-reactions within the cell. (9.9.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "table",
+   "content": "Reduction half-reaction | E° (V)\n--- | ---\n$\\mathrm{Zn^{2+} + 2e^- \\rightarrow Zn}$ | -0.76\n$\\mathrm{Cu^{2+} + 2e^- \\rightarrow Cu}$ | +0.34",
+   "citation": "Original table (standard reduction potentials at 298 K, rounded textbook values) written for this item.",
+   "asset_path": null
+  },
+  "question": "Using $E^\\circ(\\mathrm{Zn^{2+}/Zn}) = -0.76$ V and $E^\\circ(\\mathrm{Cu^{2+}/Cu}) = +0.34$ V, a student calculates $E^\\circ_{cell} = +0.34 + (-0.76) = -0.42$ V for the Zn–Cu cell. What is the correct value?",
+  "options": {
+   "A": "−1.10 V",
+   "B": "+1.10 V",
+   "C": "+0.42 V",
+   "D": "−0.42 V"
+  },
+  "correct": "B",
+  "explanation": "Cathode $-$ anode $= 0.34 - (-0.76) = +1.10$ V.",
+  "distractor_notes": {
+   "D": "Added the tabulated values; the anode value must be subtracted.",
+   "A": "Right magnitude but the wrong sign; Cu is the cathode.",
+   "C": "Took the absolute value of the incorrect sum."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "Reading both table values as contributions to be added.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Tables list reduction potentials; the anode reverses direction, but students use the numbers as listed.",
+   "how_to_avoid": "Always write cathode minus anode."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_electrode_potential",
+    "https://en.wikipedia.org/wiki/Galvanic_cell"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.9-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.9",
+  "topic_title": "Cell Potential and Free Energy",
+  "learning_objective": "Explain whether an electrochemical cell is thermodynamically favored, based on its standard cell potential and the constituent half-reactions within the cell. (9.9.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about standard reduction potentials is correct?",
+  "options": {
+   "A": "A species with a more positive $E^\\circ$ is a stronger oxidizing agent",
+   "B": "A species with a more positive $E^\\circ$ is a stronger reducing agent",
+   "C": "A species with a more negative $E^\\circ$ is a stronger oxidizing agent",
+   "D": "$E^\\circ$ values are independent of how easily a species is reduced"
+  },
+  "correct": "A",
+  "explanation": "High positive $E^\\circ$: strong oxidizer (e.g., $\\mathrm{F_2}$, +2.87 V).",
+  "distractor_notes": {
+   "B": "Reversed: the positive $E^\\circ$ means a greater tendency to be reduced (oxidizer).",
+   "C": "Negative values mean the oxidized form is hard to reduce.",
+   "D": "$E^\\circ$ measures the tendency to be reduced."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Mixing up oxidizing and reducing agent strength with the sign of $E^\\circ$.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "'Positive' sounds like 'gives electrons'.",
+   "how_to_avoid": "Reduction potential: the larger it is, the more the species wants electrons."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_electrode_potential",
+    "https://en.wikipedia.org/wiki/Galvanic_cell"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.9-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.9",
+  "topic_title": "Cell Potential and Free Energy",
+  "learning_objective": "Explain whether an electrochemical cell is thermodynamically favored, based on its standard cell potential and the constituent half-reactions within the cell. (9.9.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "For a cell with $E^\\circ_{cell} = +1.10$ V and $n = 2$, a student calculates $\\Delta G^\\circ = -(2)(96485)(1.10) = -2.12\\times10^{5}$ and reports $-2.12\\times10^{5}$ kJ/mol. What is the correct $\\Delta G^\\circ$?",
+  "options": {
+   "A": "$-2.12\\times10^{5}$ kJ/mol",
+   "B": "$+212$ kJ/mol",
+   "C": "$-212$ kJ/mol",
+   "D": "$-106$ kJ/mol"
+  },
+  "correct": "C",
+  "explanation": "$-(2)(96485)(1.10) = -212{,}267$ J/mol $= -212$ kJ/mol.",
+  "distractor_notes": {
+   "A": "The product is in J/mol; it must be divided by 1000.",
+   "B": "Sign error: a favored cell has $\\Delta G^\\circ < 0$.",
+   "D": "Divided by 2 in error (used $n = 1$)."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "$F$ is in C/mol (J/V·mol), so $\\Delta G^\\circ$ comes out in J/mol.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students attach kJ to a J/mol answer.",
+   "how_to_avoid": "State units: $1\\ \\mathrm{V \\cdot C} = 1$ J; divide by 1000 for kJ."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_electrode_potential",
+    "https://en.wikipedia.org/wiki/Galvanic_cell",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.9-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.9",
+  "topic_title": "Cell Potential and Free Energy",
+  "learning_objective": "Explain whether an electrochemical cell is thermodynamically favored, based on its standard cell potential and the constituent half-reactions within the cell. (9.9.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "For $\\mathrm{2Al(s) + 3Cu^{2+}(aq) \\rightarrow 2Al^{3+}(aq) + 3Cu(s)}$, $E^\\circ_{cell} = +2.00$ V. What value of $n$ should be used in $\\Delta G^\\circ = -nFE^\\circ$ for the reaction as written?",
+  "options": {
+   "A": "5",
+   "B": "3",
+   "C": "2",
+   "D": "6"
+  },
+  "correct": "D",
+  "explanation": "Each Al loses 3 e$^-$ (2 Al: 6 e$^-$); each Cu$^{2+}$ gains 2 e$^-$ (3 Cu$^{2+}$: 6 e$^-$). So $n = 6$.",
+  "distractor_notes": {
+   "C": "This is the coefficient of Al, not the total electrons transferred.",
+   "B": "This is the coefficient of $\\mathrm{Cu^{2+}}$, not the total electrons transferred.",
+   "A": "The sum of the coefficients of the reactants is not the number of electrons."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Choosing a coefficient instead of the total electrons exchanged.",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "Several numbers (2, 3, 5) are present in the equation and each seems plausible.",
+   "how_to_avoid": "Count electrons in each half-reaction and match them to the balanced equation."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_electrode_potential",
+    "https://en.wikipedia.org/wiki/Galvanic_cell",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.9-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.9",
+  "topic_title": "Cell Potential and Free Energy",
+  "learning_objective": "Explain whether an electrochemical cell is thermodynamically favored, based on its standard cell potential and the constituent half-reactions within the cell. (9.9.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following reactions is NOT thermodynamically favored under standard conditions, given $E^\\circ(\\mathrm{Zn^{2+}/Zn}) = -0.76$ V, $E^\\circ(\\mathrm{Fe^{2+}/Fe}) = -0.44$ V, $E^\\circ(\\mathrm{Cu^{2+}/Cu}) = +0.34$ V, and $E^\\circ(\\mathrm{Ag^+/Ag}) = +0.80$ V?",
+  "options": {
+   "A": "$\\mathrm{Fe(s) + 2Ag^+(aq) \\rightarrow Fe^{2+}(aq) + 2Ag(s)}$",
+   "B": "$\\mathrm{Zn(s) + Cu^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Cu(s)}$",
+   "C": "$\\mathrm{Cu(s) + Zn^{2+}(aq) \\rightarrow Cu^{2+}(aq) + Zn(s)}$",
+   "D": "$\\mathrm{Zn(s) + Fe^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Fe(s)}$"
+  },
+  "correct": "C",
+  "explanation": "The key reaction has $E^\\circ = -0.76 - 0.34 = -1.10$ V; all others are positive.",
+  "distractor_notes": {
+   "D": "$E^\\circ = -0.44 - (-0.76) = +0.32$ V: favored.",
+   "A": "$E^\\circ = +0.80 - (-0.44) = +1.24$ V: favored.",
+   "B": "$E^\\circ = +1.10$ V: favored."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "A NOT stem with three favored and one unfavored reaction.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Students pick the first reaction they find favored, forgetting NOT.",
+   "how_to_avoid": "Compute (cathode − anode) for each and choose the negative one."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_electrode_potential",
+    "https://en.wikipedia.org/wiki/Galvanic_cell",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.9-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.9",
+  "topic_title": "Cell Potential and Free Energy",
+  "learning_objective": "Explain whether an electrochemical cell is thermodynamically favored, based on its standard cell potential and the constituent half-reactions within the cell. (9.9.A)",
+  "skill": "Model Analysis",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A cell has $E^\\circ_{cell} = +0.50$ V, and a student states that it will deliver 0.50 V throughout its lifetime because $E^\\circ$ is a constant. Which statement is correct?",
+  "options": {
+   "A": "The statement is correct: voltage is independent of reaction progress",
+   "B": "The statement is correct: the cell voltage depends only on the identity of the electrodes, so $E$ stays at 0.50 V throughout",
+   "C": "The statement is incorrect: the voltage increases steadily as reactants are used up",
+   "D": "The statement is incorrect: $E^\\circ$ applies only at standard conditions ($Q = 1$); cell voltage changes with concentrations"
+  },
+  "correct": "D",
+  "explanation": "$E = E^\\circ - (RT/nF)\\ln Q$; as $Q \\to K$, $E \\to 0$ (CED 9.10.A.3).",
+  "distractor_notes": {
+   "B": "Concentrations also affect the cell voltage.",
+   "A": "The potential decreases as the reaction approaches equilibrium.",
+   "C": "The cell potential decreases, reaching zero at equilibrium."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "partial_truth",
+   "trap_description": "$E^\\circ$ is a real constant, but the cell voltage is not $E^\\circ$ except at $Q = 1$.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "The 'constant' $E^\\circ$ is mistaken for the operating voltage.",
+   "how_to_avoid": "Distinguish $E^\\circ$ (standard) from $E$ (actual conditions)."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Standard_electrode_potential",
+    "https://en.wikipedia.org/wiki/Galvanic_cell"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.10-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.10",
+  "topic_title": "Cell Potential Under Nonstandard Conditions",
+  "learning_objective": "Explain the relationship between deviations from standard cell conditions and changes in the cell potential. (9.10.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement correctly explains how the cell potential changes when $[\\mathrm{Zn^{2+}}]$ is increased in the Zn–Cu cell?",
+  "options": {
+   "A": "$E$ decreases, because $Q$ increases and the system is closer to equilibrium",
+   "B": "$E$ increases, because the added product raises the driving force",
+   "C": "$E$ is unchanged, because $E$ depends only on the identity of the electrodes",
+   "D": "$E$ increases, because by Le Châtelier's principle the reaction shifts to consume the added $\\mathrm{Zn^{2+}}$"
+  },
+  "correct": "A",
+  "explanation": "Use the Nernst equation: larger $Q$ lowers $E$.",
+  "distractor_notes": {
+   "D": "Le Châtelier's principle doesn't apply to a system that is not at equilibrium.",
+   "C": "Concentrations enter through $Q$.",
+   "B": "Adding product reduces the driving force."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Applying Le Châtelier's principle to a cell that is not at equilibrium.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "LCP is the familiar tool for concentration changes.",
+   "how_to_avoid": "Ask: is the system at equilibrium? If not, use $Q$ and the Nernst equation."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Nernst_equation",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Nernst_Equation"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.10-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.10",
+  "topic_title": "Cell Potential Under Nonstandard Conditions",
+  "learning_objective": "Explain the relationship between deviations from standard cell conditions and changes in the cell potential. (9.10.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A cell has $E^\\circ = +1.10$ V, $n = 2$, and $Q = 100$ at 298 K. A student uses $E = E^\\circ + (RT/nF)\\ln Q$ and gets 1.16 V. What is the correct cell potential?",
+  "options": {
+   "A": "+1.16 V",
+   "B": "+1.04 V",
+   "C": "+0.98 V",
+   "D": "+1.07 V"
+  },
+  "correct": "B",
+  "explanation": "$E = 1.10 - (0.01284)(4.605) = 1.04$ V.",
+  "distractor_notes": {
+   "A": "Used a plus sign; the Nernst equation has a minus sign.",
+   "C": "Used $n = 1$ instead of 2.",
+   "D": "Used $\\log_{10}Q$ with the $\\ln$ prefactor."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Sign of the $\\ln Q$ term.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "$E = E^\\circ + \\ldots$ looks natural, and some textbooks write it in terms of $Q$ inverted.",
+   "how_to_avoid": "$Q>1$ means products are in excess, so $E$ falls below $E^\\circ$."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Nernst_equation",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Nernst_Equation",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.10-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.10",
+  "topic_title": "Cell Potential Under Nonstandard Conditions",
+  "learning_objective": "Explain the relationship between deviations from standard cell conditions and changes in the cell potential. (9.10.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about the cell voltage of a galvanic cell is correct?",
+  "options": {
+   "A": "It always decreases with temperature",
+   "B": "It always equals $E^\\circ$ regardless of concentrations",
+   "C": "It is independent of the number of electrons transferred",
+   "D": "It equals $E^\\circ$ only when all concentrations are at standard values ($Q = 1$)"
+  },
+  "correct": "D",
+  "explanation": "$E = E^\\circ - (RT/nF)\\ln Q$; $E = E^\\circ$ only when $Q = 1$.",
+  "distractor_notes": {
+   "B": "Cell voltage depends on $Q$.",
+   "A": "Temperature's effect depends on the signs of $\\Delta H$ and $\\Delta S$ and on $Q$.",
+   "C": "$n$ appears in the Nernst equation."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'Always equals $E^\\circ$' ignores nonstandard conditions.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "$E^\\circ$ is quoted in tables so strongly that it seems to be the voltage.",
+   "how_to_avoid": "Treat 'always' claims skeptically; compare $Q$ with 1."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Nernst_equation",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Nernst_Equation"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.10-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.10",
+  "topic_title": "Cell Potential Under Nonstandard Conditions",
+  "learning_objective": "Explain the relationship between deviations from standard cell conditions and changes in the cell potential. (9.10.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "For a galvanic cell reaction, the cell potential is zero when",
+  "options": {
+   "A": "$Q = 0$",
+   "B": "$K = 1$",
+   "C": "$Q = K$",
+   "D": "$Q = 1$"
+  },
+  "correct": "C",
+  "explanation": "At $Q = K$, $\\ln(Q/K) = 0$ and the cell is at equilibrium.",
+  "distractor_notes": {
+   "D": "At $Q = 1$, $E = E^\\circ$, which is nonzero for a favored reaction.",
+   "A": "$Q = 0$ corresponds to $E \\to +\\infty$ in the Nernst equation (no products).",
+   "B": "$K=1$ makes $E^\\circ$ zero, but the cell potential is zero only if $Q=K$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Confusing $Q = 1$ (standard conditions) with $Q = K$ (equilibrium).",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "Both 'special' values of $Q$ are memorized, and they swap easily.",
+   "how_to_avoid": "$Q=1$ → $E=E^\\circ$; $Q=K$ → $E=0$."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Nernst_equation",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Nernst_Equation"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.10-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.10",
+  "topic_title": "Cell Potential Under Nonstandard Conditions",
+  "learning_objective": "Explain the relationship between deviations from standard cell conditions and changes in the cell potential. (9.10.A)",
+  "skill": "Model Analysis",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "In a concentration cell with 0.010 M $\\mathrm{Cu^{2+}}$ in the left half-cell and 1.0 M $\\mathrm{Cu^{2+}}$ in the right, which statement about electron flow in the external wire is correct?",
+  "options": {
+   "A": "There is no net electron flow, because the electrodes are made of the same metal",
+   "B": "Electrons flow from the right (concentrated) electrode to the left (dilute) electrode",
+   "C": "Electrons flow from the left (dilute) electrode to the right (concentrated) electrode",
+   "D": "Electrons flow from the left electrode to the right through the salt bridge"
+  },
+  "correct": "C",
+  "explanation": "The cell moves toward equal concentrations: oxidation of Cu to $\\mathrm{Cu^{2+}}$ at the dilute side (anode) and reduction at the concentrated side.",
+  "distractor_notes": {
+   "B": "This is the reverse of the spontaneous direction.",
+   "D": "Electrons flow in the wire, and the direction is right but the path stated is wrong.",
+   "A": "The concentration difference drives the cell."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Assuming electrons flow from the more concentrated solution toward the dilute one (\"downhill in concentration\").",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "'Concentrated to dilute' is the common diffusion rule for ions.",
+   "how_to_avoid": "Find the direction that makes concentrations more equal: reduction where concentrated, oxidation where dilute."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Nernst_equation",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Nernst_Equation"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.10-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.10",
+  "topic_title": "Cell Potential Under Nonstandard Conditions",
+  "learning_objective": "Explain the relationship between deviations from standard cell conditions and changes in the cell potential. (9.10.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "table",
+   "content": "Species | Concentration (M)\n--- | ---\nFe²⁺(aq) | 0.10\nAg⁺(aq) | 0.010",
+   "citation": "Original data table written for this item (rounded textbook-style values at 298 K).",
+   "asset_path": null
+  },
+  "question": "A student writes $Q$ for the reaction $\\mathrm{Fe(s) + 2Ag^+(aq) \\rightarrow Fe^{2+}(aq) + 2Ag(s)}$ with $[\\mathrm{Fe^{2+}}] = 0.10$ M and $[\\mathrm{Ag^+}] = 0.010$ M, using the data in the table. Which value of $Q$ is correct?",
+  "options": {
+   "A": "$1.0\\times10^{-3}$",
+   "B": "$0.10$",
+   "C": "$10$",
+   "D": "$1.0\\times10^{3}$"
+  },
+  "correct": "D",
+  "explanation": "$Q = [\\mathrm{Fe^{2+}}]/[\\mathrm{Ag^+}]^2 = 0.10/(0.010)^2 = 1.0\\times10^3$ (solids are omitted).",
+  "distractor_notes": {
+   "A": "Inverted $Q$ (reactants over products).",
+   "C": "Did not square $[\\mathrm{Ag^+}]$ for its coefficient 2.",
+   "B": "Used $[\\mathrm{Fe^{2+}}]$ alone, ignoring the denominator."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "Setting up $Q$ with the species or exponents read wrongly from the table/equation.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "The coefficient 2 is easy to miss and solids are mistakenly included.",
+   "how_to_avoid": "Write $Q$ from the balanced equation: products over reactants, powers = coefficients, omit solids."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Nernst_equation",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Nernst_Equation",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.11-trap-0001",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.11",
+  "topic_title": "Electrolysis and Faraday's Law",
+  "learning_objective": "Calculate the amount of charge flow based on changes in the amounts of reactants and products in an electrochemical cell. (9.11.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A current of 2.00 A passes for 30.0 minutes through a $\\mathrm{Cu^{2+}}$ solution. A student calculates $q = (2.00)(30.0) = 60.0$ C. What is the correct charge?",
+  "options": {
+   "A": "$1.20\\times10^{2}$ C",
+   "B": "$3.60\\times10^{3}$ C",
+   "C": "$3.60\\times10^{6}$ C",
+   "D": "60.0 C"
+  },
+  "correct": "B",
+  "explanation": "$q = It = (2.00)(1800\\ \\mathrm{s}) = 3600$ C.",
+  "distractor_notes": {
+   "D": "Used minutes instead of seconds.",
+   "A": "Doubled the incorrect value for the two electrons.",
+   "C": "Converted time to milliseconds."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Time not converted from minutes to seconds.",
+   "tempting_wrong_option": "D",
+   "why_students_fall_for_it": "The time is quoted in minutes in everyday contexts, but the ampere is C/s.",
+   "how_to_avoid": "Convert time to seconds before $q = It$."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Faraday's_Law",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.11-trap-0002",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.11",
+  "topic_title": "Electrolysis and Faraday's Law",
+  "learning_objective": "Calculate the amount of charge flow based on changes in the amounts of reactants and products in an electrochemical cell. (9.11.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "The same charge, 9650 C, passes through separate cells depositing Ag from $\\mathrm{Ag^+}$ and Al from $\\mathrm{Al^{3+}}$. A student states that the moles of metal deposited are equal. What are the moles of each metal actually deposited?",
+  "options": {
+   "A": "0.100 mol Ag and 0.100 mol Al",
+   "B": "0.0333 mol Ag and 0.100 mol Al",
+   "C": "0.100 mol Ag and 0.300 mol Al",
+   "D": "0.100 mol Ag and 0.0333 mol Al"
+  },
+  "correct": "D",
+  "explanation": "$n_{e^-} = 9650/96485 = 0.100$ mol; Ag: $0.100/1 = 0.100$ mol; Al: $0.100/3 = 0.0333$ mol.",
+  "distractor_notes": {
+   "A": "Assumed one electron per ion for both metals.",
+   "C": "Multiplied by 3 instead of dividing by 3.",
+   "B": "Swapped the electron requirements of the two metals."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "'Equal charge gives equal moles of metal.'",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "True for moles of electrons, which are then mistaken for moles of metal.",
+   "how_to_avoid": "Divide moles of electrons by the ion charge for each metal."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Faraday's_Law",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.11-trap-0003",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.11",
+  "topic_title": "Electrolysis and Faraday's Law",
+  "learning_objective": "Calculate the amount of charge flow based on changes in the amounts of reactants and products in an electrochemical cell. (9.11.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about the electrolysis of a metal salt solution is correct?",
+  "options": {
+   "A": "The mass of metal deposited is proportional to the charge passed, for a given metal",
+   "B": "The mass of metal deposited depends on the voltage but not on the charge",
+   "C": "The mass of metal deposited is the same for every metal when the same charge is passed",
+   "D": "The mass of metal deposited is independent of the current and time"
+  },
+  "correct": "A",
+  "explanation": "Faraday's law gives $m = (q/zF)M$, so for a given metal the deposited mass is directly proportional to the charge passed, and it does not depend on the applied voltage.",
+  "distractor_notes": {
+   "C": "The moles of electrons are equal, but molar masses and ion charges differ.",
+   "B": "The charge sets the mass; the voltage need only be sufficient.",
+   "D": "Mass depends on $q = It$."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'Every metal' claim equating charge with mass.",
+   "tempting_wrong_option": "C",
+   "why_students_fall_for_it": "Equal charge sounds like equal outcome.",
+   "how_to_avoid": "Check $M/z$ for each metal."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Faraday's_Law"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.11-trap-0004",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.11",
+  "topic_title": "Electrolysis and Faraday's Law",
+  "learning_objective": "Calculate the amount of charge flow based on changes in the amounts of reactants and products in an electrochemical cell. (9.11.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "If the current in an electroplating cell is doubled, how does the time needed to deposit a fixed mass of metal change?",
+  "options": {
+   "A": "It is quadrupled, since both current and time scale together",
+   "B": "It is doubled, since the larger current slows the plating",
+   "C": "It is halved, since the same charge is delivered at twice the rate",
+   "D": "It is unchanged, since the mass of metal is fixed"
+  },
+  "correct": "C",
+  "explanation": "$t = q/I$ with $q$ fixed.",
+  "distractor_notes": {
+   "B": "Higher current speeds up plating.",
+   "D": "The fixed mass fixes the charge, not the time.",
+   "A": "Time scales inversely with current."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Treating current and time as increasing together.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "'More current, more time' is the wrong direction; both increase the charge when the other is fixed.",
+   "how_to_avoid": "Fix $q$ (set by mass) and solve $t = q/I$."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Faraday's_Law"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.11-trap-0005",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.11",
+  "topic_title": "Electrolysis and Faraday's Law",
+  "learning_objective": "Calculate the amount of charge flow based on changes in the amounts of reactants and products in an electrochemical cell. (9.11.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following is NOT needed to calculate the mass of metal deposited in an electroplating experiment?",
+  "options": {
+   "A": "The charge of the metal ion",
+   "B": "The current",
+   "C": "The standard reduction potential of the metal",
+   "D": "The time the current flows"
+  },
+  "correct": "C",
+  "explanation": "Stoichiometry (Faraday's laws) requires $I$, $t$, $z$, $F$, and $M$, not $E^\\circ$.",
+  "distractor_notes": {
+   "B": "Needed to find the charge.",
+   "D": "Needed to find the charge.",
+   "A": "Needed for the moles of electrons per mole of metal."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "A NOT stem in which the unneeded option is a thermodynamic quantity.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Unit 9 content on $E^\\circ$ makes it seem relevant.",
+   "how_to_avoid": "List the quantities in $m=(It/zF)M$ and see which is missing."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.95,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Faraday's_Law"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ },
+ {
+  "id": "apchem-u9-t9.11-trap-0006",
+  "subject": "apchem",
+  "unit": 9,
+  "unit_title": "Applications of Thermodynamics",
+  "topic": "9.11",
+  "topic_title": "Electrolysis and Faraday's Law",
+  "learning_objective": "Calculate the amount of charge flow based on changes in the amounts of reactants and products in an electrochemical cell. (9.11.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "table",
+   "content": "Quantity | Value\n--- | ---\nIon | Cu²⁺\nCurrent (A) | 1.50\nTime (min) | 20.0",
+   "citation": "Original data table written for this item (rounded textbook-style values at 298 K).",
+   "asset_path": null
+  },
+  "question": "The table shows conditions for plating copper. What mass of Cu is deposited?",
+  "options": {
+   "A": "0.296 g",
+   "B": "1.19 g",
+   "C": "0.00988 g",
+   "D": "0.593 g"
+  },
+  "correct": "D",
+  "explanation": "$q = (1.50)(1200) = 1800$ C; mol e$^- = 0.01866$; mol Cu $= 0.00933$; mass $= 0.593$ g.",
+  "distractor_notes": {
+   "B": "Used 1 electron per copper ion; the table says $\\mathrm{Cu^{2+}}$.",
+   "C": "Used the time in minutes in $q = It$.",
+   "A": "Divided by the number of electrons a second time."
+  },
+  "tags": [],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "Table gives time in minutes and the ion charge as a superscript.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Both details are easy to overlook when scanning for numbers.",
+   "how_to_avoid": "Read units and ion charge from the table before substituting."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "College Board AP Chemistry CED (2024+), Unit 9 essential knowledge: https://apcentral.collegeboard.org/media/pdf/ap-chemistry-course-and-exam-description.pdf",
+    "https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis",
+    "https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Faraday's_Law",
+    "Independently re-solved by apchem/scripts/unit09_audit.py (separate formulas and constants); result matched the keyed option"
+   ]
+  },
+  "created_at": "2026-10-07T20:00:00Z"
+ }
+]

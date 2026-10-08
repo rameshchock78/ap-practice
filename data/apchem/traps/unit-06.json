@@ -1,0 +1,3491 @@
+[
+ {
+  "id": "apchem-u6-t6.1-trap-0001",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.1",
+  "topic_title": "Endothermic and Exothermic Processes",
+  "learning_objective": "Explain the relationship between experimental observations and energy changes associated with a chemical or physical transformation. (6.1.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "When ammonium nitrate dissolves in water in an insulated cup, the solution gets colder. Which statement best explains this observation?",
+  "options": {
+   "A": "The dissolving process is exothermic, so the water loses energy as the salt releases cold",
+   "B": "The dissolving process is endothermic, so energy flows from the solid into the water",
+   "C": "The dissolving process is exothermic, so energy flows from the solid into the water",
+   "D": "The dissolving process is endothermic, so energy flows from the water into the dissolving solid"
+  },
+  "correct": "D",
+  "explanation": "The water is the surroundings. It lost energy to the system (the dissolving salt), so the process is endothermic.",
+  "distractor_notes": {
+   "A": "Calls the process exothermic because the water 'lost' energy; the system gains energy.",
+   "B": "Direction of energy flow is reversed.",
+   "C": "That would warm the water."
+  },
+  "tags": [
+   "perspective"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "The surroundings lose energy, but the process is classified from the system's perspective.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students equate 'water loses energy' with 'exothermic' because they take the water as the system.",
+   "how_to_avoid": "Identify the system first (the reacting/dissolving species); classify by energy flow into or out of the system."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Endothermic_process",
+    "https://en.wikipedia.org/wiki/Exothermic_process",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.1-trap-0002",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.1",
+  "topic_title": "Endothermic and Exothermic Processes",
+  "learning_objective": "Explain the relationship between experimental observations and energy changes associated with a chemical or physical transformation. (6.1.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement must be true for every exothermic reaction run at constant pressure?",
+  "options": {
+   "A": "The reaction proceeds rapidly once the reactants are mixed",
+   "B": "The reaction begins without any input of energy",
+   "C": "The enthalpy of the products is lower than the enthalpy of the reactants",
+   "D": "The temperature of the reaction mixture is always higher after the reaction"
+  },
+  "correct": "C",
+  "explanation": "An exothermic reaction has $\\Delta H < 0$, meaning products have lower enthalpy than reactants. Rate, activation energy, and observed temperature are separate matters.",
+  "distractor_notes": {
+   "A": "Energy release says nothing about reaction rate.",
+   "B": "Many exothermic reactions need activation energy.",
+   "D": "Phase changes or heat loss can mask temperature rise."
+  },
+  "tags": [
+   "absolute"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "Options with 'rapidly', 'without any input', and 'always' overstate what ΔH < 0 implies.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students link 'releases energy' with 'fast' or 'spontaneous with no energy needed'.",
+   "how_to_avoid": "Separate thermodynamics (ΔH sign) from kinetics (rate, activation energy)."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Endothermic_process",
+    "https://en.wikipedia.org/wiki/Exothermic_process",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.1-trap-0003",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.1",
+  "topic_title": "Endothermic and Exothermic Processes",
+  "learning_objective": "Explain the relationship between experimental observations and energy changes associated with a chemical or physical transformation. (6.1.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following is NOT an exothermic process?",
+  "options": {
+   "A": "Dry ice, $\\mathrm{CO_2(s)}$, subliming to $\\mathrm{CO_2(g)}$",
+   "B": "Water vapor forming frost on a cold windowpane",
+   "C": "Liquid water freezing into ice",
+   "D": "Steam condensing to liquid water"
+  },
+  "correct": "A",
+  "explanation": "Sublimation requires energy to overcome intermolecular attractions and is endothermic. Freezing, condensation, and deposition all release energy.",
+  "distractor_notes": {
+   "B": "Deposition releases energy (exothermic).",
+   "C": "Freezing releases energy (exothermic).",
+   "D": "Condensation releases energy (exothermic)."
+  },
+  "tags": [
+   "NOT"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "NOT stem requires identifying the one endothermic process among three exothermic ones.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students pick 'frost forming' because deposition is less familiar and 'cold' is in the stem.",
+   "how_to_avoid": "Classify each option as endo/exo before choosing; phase changes toward a more ordered state release energy."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Endothermic_process",
+    "https://en.wikipedia.org/wiki/Exothermic_process",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.1-trap-0004",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.1",
+  "topic_title": "Endothermic and Exothermic Processes",
+  "learning_objective": "Explain the relationship between experimental observations and energy changes associated with a chemical or physical transformation. (6.1.A)",
+  "skill": "Model Analysis",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Methane burns in air and releases energy. Which statement correctly explains the energy changes at the bond level?",
+  "options": {
+   "A": "Energy is released when the C–H bonds in methane break, which makes the reaction exothermic",
+   "B": "More energy is released forming the bonds in $\\mathrm{CO_2}$ and $\\mathrm{H_2O}$ than is absorbed breaking the bonds in $\\mathrm{CH_4}$ and $\\mathrm{O_2}$",
+   "C": "Energy is absorbed when the bonds in $\\mathrm{CO_2}$ and $\\mathrm{H_2O}$ form, which supplies the activation energy",
+   "D": "The energy absorbed breaking bonds equals the energy released forming bonds, so the heat comes from the flame"
+  },
+  "correct": "B",
+  "explanation": "Breaking bonds absorbs energy, forming bonds releases it; combustion is exothermic because the product bonds release more than the reactant bonds absorbed.",
+  "distractor_notes": {
+   "A": "Bond breaking always absorbs energy.",
+   "C": "Bond formation releases energy.",
+   "D": "A net release requires more energy released than absorbed."
+  },
+  "tags": [
+   "bonds"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Right idea (bond energies explain combustion) with the energy direction of bond breaking swapped.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students associate 'burning' with 'breaking bonds releases the stored energy'.",
+   "how_to_avoid": "Remember: breaking = absorbs, forming = releases; net sign = released minus absorbed."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Endothermic_process",
+    "https://en.wikipedia.org/wiki/Exothermic_process",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.1-trap-0005",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.1",
+  "topic_title": "Endothermic and Exothermic Processes",
+  "learning_objective": "Explain the relationship between experimental observations and energy changes associated with a chemical or physical transformation. (6.1.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "The surroundings of a reacting system gain 4.20 kJ of energy as heat. What is $q$ for the system?",
+  "options": {
+   "A": "−4.20 kJ",
+   "B": "+4.20 kJ",
+   "C": "−4.20 J",
+   "D": "+4200 kJ"
+  },
+  "correct": "A",
+  "explanation": "Energy lost by the system is gained by the surroundings: $q_{sys} = -q_{surr} = -4.20$ kJ.",
+  "distractor_notes": {
+   "B": "Used the surroundings' sign for the system.",
+   "C": "Correct sign but wrong unit magnitude (kJ vs J).",
+   "D": "Converted units wrongly and used the wrong sign."
+  },
+  "tags": [
+   "sign convention"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Sign convention: q is defined from the system's viewpoint.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "'Gain' in the stem sounds positive, so students keep the plus sign.",
+   "how_to_avoid": "Ask 'who is the system?'; energy gained by surroundings is lost by the system, so q_sys < 0."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Endothermic_process",
+    "https://en.wikipedia.org/wiki/Exothermic_process",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.1-trap-0006",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.1",
+  "topic_title": "Endothermic and Exothermic Processes",
+  "learning_objective": "Explain the relationship between experimental observations and energy changes associated with a chemical or physical transformation. (6.1.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "table",
+   "content": "Mixture | Initial T (°C) | Final T (°C)\n--- | --- | ---\n1 | 35.0 | 33.0\n2 | 20.0 | 24.0\n3 | 25.0 | 25.0",
+   "citation": "Original data written for this item.",
+   "asset_path": null
+  },
+  "question": "Three different reactions are each run in identical insulated cups containing the same mass of water. The data are shown. Which mixture shows an exothermic reaction?",
+  "options": {
+   "A": "Mixture 1",
+   "B": "Mixture 3",
+   "C": "Mixture 2",
+   "D": "Mixture 1 and Mixture 2 are both exothermic"
+  },
+  "correct": "C",
+  "explanation": "Exothermic reactions raise the temperature of the surroundings: Mixture 2 rose from 20.0 to 24.0 °C. Mixture 1 fell (endothermic); Mixture 3 showed no change.",
+  "distractor_notes": {
+   "A": "Selected the mixture with the highest final temperature, ignoring the change.",
+   "B": "Equated no temperature change with release of energy.",
+   "D": "Not a single answer; Mixture 1 cooled."
+  },
+  "tags": [
+   "table"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "The highest final temperature belongs to the endothermic mixture.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students scan the Final T column and choose the largest value.",
+   "how_to_avoid": "Compare final to initial temperature; the change, not the final value, shows the energy direction."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Endothermic_process",
+    "https://en.wikipedia.org/wiki/Exothermic_process",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.1-trap-0007",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.1",
+  "topic_title": "Endothermic and Exothermic Processes",
+  "learning_objective": "Explain the relationship between experimental observations and energy changes associated with a chemical or physical transformation. (6.1.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A student adds heat to a sample of liquid water at its boiling point and observes the temperature stays constant while the liquid boils. Which statement is correct?",
+  "options": {
+   "A": "The absorbed energy increases the average kinetic energy of the molecules, so the temperature rises",
+   "B": "The absorbed energy increases the potential energy of the molecules rather than their average kinetic energy",
+   "C": "The absorbed energy is lost to the surroundings, so no energy is stored",
+   "D": "The absorbed energy breaks the O–H bonds within each water molecule"
+  },
+  "correct": "B",
+  "explanation": "During a phase change, added energy overcomes intermolecular attractions (higher potential energy), leaving average kinetic energy—and temperature—unchanged.",
+  "distractor_notes": {
+   "A": "Temperature is constant during boiling, so average KE is constant.",
+   "C": "Energy is stored as increased potential energy of the vapor.",
+   "D": "Boiling is physical; molecules stay intact."
+  },
+  "tags": [
+   "phase change"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "partial_truth",
+   "trap_description": "'Added energy raises kinetic energy' is true when no phase change occurs but false at a phase transition.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students generalize 'heating raises temperature' to every situation.",
+   "how_to_avoid": "Check for a phase change in the stimulus; constant temperature signals potential-energy changes."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Endothermic_process",
+    "https://en.wikipedia.org/wiki/Exothermic_process",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.2-trap-0001",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.2",
+  "topic_title": "Energy Diagrams",
+  "learning_objective": "Represent a chemical or physical transformation with an energy diagram. (6.2.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A catalyst is added to an exothermic reaction. Which change occurs in the energy diagram?",
+  "options": {
+   "A": "The transition-state energy decreases, and $\\Delta H$ becomes more negative",
+   "B": "The transition-state energy stays the same, and $\\Delta H$ becomes more negative",
+   "C": "The transition-state energy increases, and $\\Delta H$ stays the same",
+   "D": "The transition-state energy decreases, and $\\Delta H$ stays the same"
+  },
+  "correct": "D",
+  "explanation": "A catalyst lowers the barrier without changing the energy levels of reactants and products.",
+  "distractor_notes": {
+   "A": "Faster reaction does not mean more energy released per mole.",
+   "B": "Catalysts lower the barrier.",
+   "C": "Catalysts lower, not raise, the barrier."
+  },
+  "tags": [
+   "catalyst"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Catalysts are thought to 'help the reaction release more energy'.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students link faster reactions with more heat being released.",
+   "how_to_avoid": "Heat per mole depends on end states only; catalyst affects the pathway."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Activation_energy",
+    "https://en.wikipedia.org/wiki/Reaction_coordinate",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.2-trap-0002",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.2",
+  "topic_title": "Energy Diagrams",
+  "learning_objective": "Represent a chemical or physical transformation with an energy diagram. (6.2.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "graph",
+   "content": "Reaction-coordinate diagram described by its labeled points.\nSpecies | Relative energy (kJ/mol)\n--- | ---\nReactants | 20\nTransition state (highest point) | 95\nProducts | 50",
+   "citation": "Original graph described in text/table form for this item.",
+   "asset_path": null
+  },
+  "question": "Using the energy data in the table, what is $\\Delta H$ for the forward reaction?",
+  "options": {
+   "A": "+30 kJ/mol",
+   "B": "+75 kJ/mol",
+   "C": "+95 kJ/mol",
+   "D": "-30 kJ/mol"
+  },
+  "correct": "A",
+  "explanation": "$\\Delta H = 50 - 20 = +30$ kJ/mol; the transition state does not enter into $\\Delta H$.",
+  "distractor_notes": {
+   "B": "Used the activation energy (transition state minus reactants).",
+   "C": "Used the transition state's absolute energy.",
+   "D": "Subtracted in the wrong order."
+  },
+  "tags": [
+   "energy diagram"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "The highest labeled energy (transition state) is not ΔH.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students pick the largest, most prominent number on the diagram.",
+   "how_to_avoid": "ΔH compares products with reactants; Ea compares transition state with reactants."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Activation_energy",
+    "https://en.wikipedia.org/wiki/Reaction_coordinate",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.2-trap-0003",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.2",
+  "topic_title": "Energy Diagrams",
+  "learning_objective": "Represent a chemical or physical transformation with an energy diagram. (6.2.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "The reaction has reactants at 0 kJ/mol, a transition state at +70 kJ/mol, and products at −45 kJ/mol. What is the activation energy of the reverse reaction?",
+  "options": {
+   "A": "70 kJ/mol",
+   "B": "25 kJ/mol",
+   "C": "115 kJ/mol",
+   "D": "45 kJ/mol"
+  },
+  "correct": "C",
+  "explanation": "Reverse barrier = $E_{TS} - E_{products} = 70 - (-45) = 115$ kJ/mol.",
+  "distractor_notes": {
+   "A": "Gave the forward activation energy.",
+   "B": "Subtracted ΔH magnitude from the forward Ea, wrong direction for an exothermic reverse.",
+   "D": "Gave |ΔH| instead of the reverse barrier."
+  },
+  "tags": [
+   "activation energy"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Subtracting a negative energy: 70 − (−45).",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students drop the negative sign and compute 70 − 45 = 25.",
+   "how_to_avoid": "Write the subtraction with parentheses and sign: 70 − (−45) = 115."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Activation_energy",
+    "https://en.wikipedia.org/wiki/Reaction_coordinate",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.2-trap-0004",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.2",
+  "topic_title": "Energy Diagrams",
+  "learning_objective": "Represent a chemical or physical transformation with an energy diagram. (6.2.A)",
+  "skill": "Model Analysis",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about reactions with a negative $\\Delta H$ is always true?",
+  "options": {
+   "A": "The reaction occurs quickly at room temperature",
+   "B": "The products are lower in enthalpy than the reactants",
+   "C": "The forward activation energy is zero",
+   "D": "The reaction does not require a catalyst"
+  },
+  "correct": "B",
+  "explanation": "ΔH < 0 means lower product enthalpy; rate and activation energy are independent.",
+  "distractor_notes": {
+   "A": "ΔH says nothing about rate.",
+   "C": "Exothermic reactions still have a barrier.",
+   "D": "Some exothermic reactions are extremely slow without a catalyst."
+  },
+  "tags": [
+   "absolute"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "Absolute claims connect ΔH with rate or lack of a barrier.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students assume 'downhill' means 'fast'.",
+   "how_to_avoid": "Separate the overall energy change (ΔH) from the barrier (Ea)."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Activation_energy",
+    "https://en.wikipedia.org/wiki/Reaction_coordinate",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.2-trap-0005",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.2",
+  "topic_title": "Energy Diagrams",
+  "learning_objective": "Represent a chemical or physical transformation with an energy diagram. (6.2.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following is NOT changed when a catalyst is added to a reaction?",
+  "options": {
+   "A": "The activation energy of the forward reaction",
+   "B": "The activation energy of the reverse reaction",
+   "C": "The enthalpy change of the reaction, $\\Delta H$",
+   "D": "The rate at which equilibrium is approached"
+  },
+  "correct": "C",
+  "explanation": "Catalysts alter pathways and barriers, not the energy difference between reactants and products.",
+  "distractor_notes": {
+   "A": "A catalyst lowers it.",
+   "B": "A catalyst lowers the reverse barrier too.",
+   "D": "A catalyst speeds approach to equilibrium."
+  },
+  "tags": [
+   "NOT"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "NOT question; the reverse barrier also changes.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students think catalysts only affect the forward reaction.",
+   "how_to_avoid": "A catalyst lowers both forward and reverse barriers by the same amount."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Activation_energy",
+    "https://en.wikipedia.org/wiki/Reaction_coordinate",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.2-trap-0006",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.2",
+  "topic_title": "Energy Diagrams",
+  "learning_objective": "Represent a chemical or physical transformation with an energy diagram. (6.2.A)",
+  "skill": "Models and Representations",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "In a two-step mechanism, the energy diagram shows two peaks with a valley between them. Which statement correctly identifies the species at the valley and at the higher peak?",
+  "options": {
+   "A": "The valley is a transition state, and each peak is an intermediate",
+   "B": "The valley is a catalyst, and each peak is a transition state",
+   "C": "The valley is an intermediate, and the higher peak is the product",
+   "D": "The valley is an intermediate, and each peak is a transition state"
+  },
+  "correct": "D",
+  "explanation": "Transition states are energy maxima; intermediates are minima between steps.",
+  "distractor_notes": {
+   "A": "Reversed the terms.",
+   "B": "Catalysts do not appear as energy minima in this way.",
+   "C": "Peaks are transition states, not products."
+  },
+  "tags": [
+   "mechanism"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Transition state vs intermediate terminology.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Both are 'in-between' species so students swap the terms.",
+   "how_to_avoid": "Peak = transition state (unstable); valley = intermediate (can exist briefly)."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Activation_energy",
+    "https://en.wikipedia.org/wiki/Reaction_coordinate",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.2-trap-0007",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.2",
+  "topic_title": "Energy Diagrams",
+  "learning_objective": "Represent a chemical or physical transformation with an energy diagram. (6.2.A)",
+  "skill": "Model Analysis",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A reaction's rate increases when the temperature is raised. Which statement explains this using an energy diagram?",
+  "options": {
+   "A": "A larger fraction of collisions have energy at least equal to the activation energy, and the diagram's energies are unchanged",
+   "B": "The activation energy decreases at higher temperature, lowering the peak of the diagram",
+   "C": "$\\Delta H$ becomes more negative at higher temperature, so more energy is released",
+   "D": "The reactants move to a higher energy level, so less energy is needed to reach the peak"
+  },
+  "correct": "A",
+  "explanation": "Higher T increases the fraction of molecules with $E \\geq E_a$; the diagram itself is the same.",
+  "distractor_notes": {
+   "B": "Ea is essentially unchanged by temperature.",
+   "C": "ΔH is not the cause of the rate increase.",
+   "D": "Reactant energy level in the diagram is fixed; it is the distribution of energies that changes."
+  },
+  "tags": [
+   "temperature"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "partial_truth",
+   "trap_description": "Rate depends on the fraction of molecules above Ea, not on a change in Ea.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students think 'temperature helps the reaction over the barrier' means 'barrier gets lower'.",
+   "how_to_avoid": "Distinguish the barrier (fixed) from the molecular energy distribution (temperature dependent)."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Activation_energy",
+    "https://en.wikipedia.org/wiki/Reaction_coordinate",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.2-trap-0008",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.2",
+  "topic_title": "Energy Diagrams",
+  "learning_objective": "Represent a chemical or physical transformation with an energy diagram. (6.2.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Reaction 1 has $E_a = 25$ kJ/mol and $\\Delta H = +10$ kJ/mol. Reaction 2 has $E_a = 90$ kJ/mol and $\\Delta H = -80$ kJ/mol. Which statement is LEAST likely to be true at the same temperature?",
+  "options": {
+   "A": "Reaction 1 is faster because it has a smaller activation energy",
+   "B": "Reaction 2 is faster because it releases more energy",
+   "C": "Reaction 2 is exothermic and reaction 1 is endothermic",
+   "D": "Reaction 2 has a reverse activation energy of 170 kJ/mol"
+  },
+  "correct": "B",
+  "explanation": "Rate depends on activation energy, not on the amount of energy released; reaction 1 is likely faster.",
+  "distractor_notes": {
+   "A": "Plausible, given Ea.",
+   "C": "True from the signs of ΔH.",
+   "D": "True: 90 − (−80) = 170 kJ/mol."
+  },
+  "tags": [
+   "rate vs energy"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "LEAST-likely stem; the tempting statement links larger energy release to faster rate.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students assume that a bigger 'downhill' means a faster reaction.",
+   "how_to_avoid": "Compare activation energies for rate, ΔH signs for exo/endo."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Activation_energy",
+    "https://en.wikipedia.org/wiki/Reaction_coordinate",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.3-trap-0001",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.3",
+  "topic_title": "Heat Transfer and Thermal Equilibrium",
+  "learning_objective": "Explain the relationship between the transfer of thermal energy and molecular collisions. (6.3.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "On a cold day, a metal railing feels colder than a wooden bench, although both are at the same temperature. Which explanation is best?",
+  "options": {
+   "A": "The metal is at a lower temperature than the wood, so it absorbs more energy",
+   "B": "The metal absorbs cold from the air and passes it to your hand",
+   "C": "The metal has a lower average kinetic energy than the wood because it is denser",
+   "D": "The metal transfers energy away from your hand faster because it conducts thermal energy more efficiently"
+  },
+  "correct": "D",
+  "explanation": "Both objects are at the same temperature; metal conducts energy away from your hand more rapidly, so it feels colder.",
+  "distractor_notes": {
+   "A": "A thermometer reads both at the same temperature.",
+   "B": "Cold is not a substance; energy flows out of your hand.",
+   "C": "Same temperature means same average KE."
+  },
+  "tags": [
+   "conduction"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Sensation of coldness reflects the rate of energy transfer, not temperature.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students trust touch as a thermometer.",
+   "how_to_avoid": "Remember the temperatures are equal; consider the rate of energy flow."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Thermal_equilibrium",
+    "https://en.wikipedia.org/wiki/Heat_transfer",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.3-trap-0002",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.3",
+  "topic_title": "Heat Transfer and Thermal Equilibrium",
+  "learning_objective": "Explain the relationship between the transfer of thermal energy and molecular collisions. (6.3.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about two objects at thermal equilibrium is correct?",
+  "options": {
+   "A": "No energy exchange of any kind occurs between the objects",
+   "B": "The particles in both objects stop moving, so no collisions occur",
+   "C": "Energy is still exchanged by collisions, but the exchange is the same in both directions so no net transfer occurs",
+   "D": "The object with more mass continues to transfer energy to the smaller one"
+  },
+  "correct": "C",
+  "explanation": "Thermal equilibrium is dynamic: energy exchange continues but the net flow is zero.",
+  "distractor_notes": {
+   "A": "Collisions continue to exchange energy.",
+   "B": "Particles keep moving.",
+   "D": "No net transfer occurs at equilibrium."
+  },
+  "tags": [
+   "equilibrium"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'No energy exchange of any kind' overstates what equilibrium means.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "'Equilibrium' is read as 'nothing happens'.",
+   "how_to_avoid": "Distinguish individual exchanges from net transfer."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Thermal_equilibrium",
+    "https://en.wikipedia.org/wiki/Heat_transfer",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.3-trap-0003",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.3",
+  "topic_title": "Heat Transfer and Thermal Equilibrium",
+  "learning_objective": "Explain the relationship between the transfer of thermal energy and molecular collisions. (6.3.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Two objects, X and Y, are in thermal equilibrium. Which statement is NOT necessarily true?",
+  "options": {
+   "A": "X and Y have equal total thermal energy",
+   "B": "X and Y have the same temperature",
+   "C": "There is no net transfer of thermal energy between X and Y",
+   "D": "The particles in X and Y have the same average kinetic energy if they are the same substance"
+  },
+  "correct": "A",
+  "explanation": "Thermal energy totals depend on mass and heat capacity; only the temperatures must be equal.",
+  "distractor_notes": {
+   "B": "True by definition of thermal equilibrium.",
+   "C": "True at equilibrium.",
+   "D": "True, since temperature determines average KE."
+  },
+  "tags": [
+   "NOT"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "NOT-necessarily-true stem; total thermal energy is not equalized.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students equate equal temperature with equal energy.",
+   "how_to_avoid": "Temperature is an intensive property; energy is extensive."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Thermal_equilibrium",
+    "https://en.wikipedia.org/wiki/Heat_transfer",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.3-trap-0004",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.3",
+  "topic_title": "Heat Transfer and Thermal Equilibrium",
+  "learning_objective": "Explain the relationship between the transfer of thermal energy and molecular collisions. (6.3.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A 100.0 g piece of lead ($c = 0.128$ J/(g·°C)) at 98.0 °C is placed in 100.0 g of water ($c = 4.18$ J/(g·°C)) at 20.0 °C in an insulated cup. What is the final temperature?",
+  "options": {
+   "A": "59.0 °C",
+   "B": "22.3 °C",
+   "C": "20.0 °C",
+   "D": "98.0 °C"
+  },
+  "correct": "B",
+  "explanation": "$T_f = (m_mc_mT_m + m_wc_wT_w)/(m_mc_m + m_wc_w) = 22.3$ °C; equal masses do not mean equal heat capacities.",
+  "distractor_notes": {
+   "A": "Averaged the initial temperatures even though the specific heats are very different.",
+   "C": "Assumed the large water mass dictates the final temperature exactly.",
+   "D": "Assumed the metal's temperature does not change."
+  },
+  "tags": [
+   "mixing"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "partial_truth",
+   "trap_description": "The 'average temperature' shortcut works only when the heat capacities (mc) of the two samples are equal.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Equal masses make the shortcut look valid.",
+   "how_to_avoid": "Check m·c for each sample before averaging."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Thermal_equilibrium",
+    "https://en.wikipedia.org/wiki/Heat_transfer",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.3-trap-0005",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.3",
+  "topic_title": "Heat Transfer and Thermal Equilibrium",
+  "learning_objective": "Explain the relationship between the transfer of thermal energy and molecular collisions. (6.3.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "table",
+   "content": "Time (min) | Metal (°C) | Water (°C)\n--- | --- | ---\n0 | 95.0 | 20.0\n2 | 61.0 | 38.0\n4 | 49.0 | 44.0\n6 | 46.5 | 45.5\n8 | 46.0 | 46.0\n10 | 46.0 | 46.0",
+   "citation": "Original data table written for this item.",
+   "asset_path": null
+  },
+  "question": "A hot metal is placed in water in an insulated container. Based on the table, which statement is best supported at 6 min?",
+  "options": {
+   "A": "The system is at thermal equilibrium, since the temperatures differ by only 1.0 °C",
+   "B": "Net energy is flowing from the water to the metal",
+   "C": "Net energy is still flowing from the metal to the water",
+   "D": "The metal has stopped transferring energy, since its temperature is decreasing slowly"
+  },
+  "correct": "C",
+  "explanation": "At 6 min the metal (46.5 °C) is still warmer than the water (45.5 °C); equilibrium is reached at 8 min.",
+  "distractor_notes": {
+   "A": "A nonzero difference means net flow continues.",
+   "B": "The metal is hotter, so flow is from metal to water.",
+   "D": "A slower change still reflects net transfer."
+  },
+  "tags": [
+   "data"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "Nearly equal temperatures look like equilibrium, but they are not exactly equal.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Small differences are dismissed as 'close enough'.",
+   "how_to_avoid": "Look for equal and constant readings."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Thermal_equilibrium",
+    "https://en.wikipedia.org/wiki/Heat_transfer",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.3-trap-0006",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.3",
+  "topic_title": "Heat Transfer and Thermal Equilibrium",
+  "learning_objective": "Explain the relationship between the transfer of thermal energy and molecular collisions. (6.3.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Argon ($M = 39.9$ g/mol) and neon ($M = 20.2$ g/mol) gases are at 300 K. Which statement is correct?",
+  "options": {
+   "A": "Neon atoms have the higher average speed and the same average kinetic energy as argon atoms",
+   "B": "Argon atoms have the higher average speed because they have more mass",
+   "C": "Argon atoms have the higher average kinetic energy because they have more mass",
+   "D": "Neon atoms have the higher average kinetic energy because they are faster"
+  },
+  "correct": "A",
+  "explanation": "At equal T, $\\tfrac12 m\\bar{v^2}$ is equal, so the lighter neon atoms move faster.",
+  "distractor_notes": {
+   "B": "Greater mass means lower speed at the same KE.",
+   "C": "Average KE depends only on temperature.",
+   "D": "Same T means the same average KE."
+  },
+  "tags": [
+   "kinetic energy"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Heavier particles are expected to be faster/more energetic; the speed trend is reversed.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Heavier = more momentum is mistaken for more speed.",
+   "how_to_avoid": "Equal KE with larger mass requires smaller speed."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Thermal_equilibrium",
+    "https://en.wikipedia.org/wiki/Heat_transfer",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.3-trap-0007",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.3",
+  "topic_title": "Heat Transfer and Thermal Equilibrium",
+  "learning_objective": "Explain the relationship between the transfer of thermal energy and molecular collisions. (6.3.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A sample cools from 80.0 °C to 25.0 °C. What is the temperature change of the sample on the kelvin scale?",
+  "options": {
+   "A": "−328.2 K",
+   "B": "−55.0 K",
+   "C": "+55.0 K",
+   "D": "−273 K"
+  },
+  "correct": "B",
+  "explanation": "$\\Delta T$ in K equals $\\Delta T$ in °C: $25.0 - 80.0 = -55.0$ K.",
+  "distractor_notes": {
+   "A": "Converted both temperatures to kelvin and added them rather than subtracting.",
+   "C": "Used the wrong sign for a cooling process.",
+   "D": "Added 273 to the temperature change."
+  },
+  "tags": [
+   "units"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "A temperature difference is the same in °C and K; adding 273 to a difference is wrong.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students think every kelvin value must include 273.",
+   "how_to_avoid": "Add 273.15 only to temperatures, not to temperature changes."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Thermal_equilibrium",
+    "https://en.wikipedia.org/wiki/Heat_transfer",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.4-trap-0001",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.4",
+  "topic_title": "Heat Capacity and Calorimetry",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing heating/cooling based on the amount of the substance, the heat capacity, and the change in temperature. (6.4.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "How much energy is required to warm 50.0 g of water ($c = 4.18$ J/(g·°C)) from 20.0 °C to 30.0 °C?",
+  "options": {
+   "A": "2090 kJ",
+   "B": "2.09 kJ",
+   "C": "0.209 kJ",
+   "D": "209 kJ"
+  },
+  "correct": "B",
+  "explanation": "$q = (50.0)(4.18)(10.0) = 2090$ J $= 2.09$ kJ.",
+  "distractor_notes": {
+   "A": "Left the answer in joules but labeled it kJ.",
+   "C": "Misplaced the decimal in the unit conversion.",
+   "D": "Power-of-ten error converting units."
+  },
+  "tags": [
+   "units"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "q computed in joules; options use kilojoules.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students report 2090 and attach kJ.",
+   "how_to_avoid": "Track J vs kJ; divide by 1000."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Specific_heat_capacity",
+    "https://en.wikipedia.org/wiki/Calorimetry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.4-trap-0002",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.4",
+  "topic_title": "Heat Capacity and Calorimetry",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing heating/cooling based on the amount of the substance, the heat capacity, and the change in temperature. (6.4.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "In a coffee-cup calorimeter, a reaction mixture of total mass 100.0 g warms from 22.0 °C to 28.0 °C ($c = 4.18$ J/(g·°C)). What is $q$ for the reaction?",
+  "options": {
+   "A": "−2.51 kJ",
+   "B": "+2.51 kJ",
+   "C": "−2.51 J",
+   "D": "+25.1 kJ"
+  },
+  "correct": "A",
+  "explanation": "$q_{soln} = (100.0)(4.18)(6.0) = +2508$ J; $q_{rxn} = -q_{soln} = -2.51$ kJ.",
+  "distractor_notes": {
+   "B": "Used the sign of the solution's heat for the reaction.",
+   "C": "Wrong unit scaling.",
+   "D": "Sign and scale errors."
+  },
+  "tags": [
+   "sign"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "q_rxn = −q_solution.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "The temperature rise makes q = mcΔT positive; students stop there.",
+   "how_to_avoid": "Ask who absorbed the energy; the reaction released it."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Specific_heat_capacity",
+    "https://en.wikipedia.org/wiki/Calorimetry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.4-trap-0003",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.4",
+  "topic_title": "Heat Capacity and Calorimetry",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing heating/cooling based on the amount of the substance, the heat capacity, and the change in temperature. (6.4.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Equal masses of two metals, each initially at 25 °C, are heated at the same rate with the same energy input. Metal 1 has the higher specific heat. Which statement is correct?",
+  "options": {
+   "A": "Metal 1 reaches a higher temperature than Metal 2",
+   "B": "Metal 1 and Metal 2 reach the same temperature",
+   "C": "Metal 1 does not change temperature at all",
+   "D": "Metal 1 reaches a lower temperature than Metal 2"
+  },
+  "correct": "D",
+  "explanation": "$\\Delta T = q/(mc)$: larger $c$ gives smaller $\\Delta T$.",
+  "distractor_notes": {
+   "A": "A high specific heat resists temperature change.",
+   "B": "Specific heat differs.",
+   "C": "It warms, just by less."
+  },
+  "tags": [
+   "specific heat"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "'High specific heat' is read as 'heats up more'.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "The word 'heat' suggests temperature rise.",
+   "how_to_avoid": "Large c = more energy per degree = slower temperature change."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Specific_heat_capacity",
+    "https://en.wikipedia.org/wiki/Calorimetry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.4-trap-0004",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.4",
+  "topic_title": "Heat Capacity and Calorimetry",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing heating/cooling based on the amount of the substance, the heat capacity, and the change in temperature. (6.4.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following properties is NOT dependent on the mass of the sample?",
+  "options": {
+   "A": "Heat capacity of a copper block",
+   "B": "Energy needed to warm a copper block by 10 °C",
+   "C": "Specific heat of copper",
+   "D": "Thermal energy contained in a copper block at 50 °C"
+  },
+  "correct": "C",
+  "explanation": "Specific heat is an intensive property of the material.",
+  "distractor_notes": {
+   "A": "Depends on mass: $C = mc$.",
+   "B": "Scales with mass.",
+   "D": "Scales with mass."
+  },
+  "tags": [
+   "intensive"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "Heat capacity (extensive) vs specific heat (intensive).",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "The terms sound alike.",
+   "how_to_avoid": "Specific = per gram, so mass-independent."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Specific_heat_capacity",
+    "https://en.wikipedia.org/wiki/Calorimetry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.4-trap-0005",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.4",
+  "topic_title": "Heat Capacity and Calorimetry",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing heating/cooling based on the amount of the substance, the heat capacity, and the change in temperature. (6.4.A)",
+  "skill": "Question and Method",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A student runs a coffee-cup experiment but forgets that the calorimeter's inner cup absorbs a small amount of the energy released. How does this affect the calculated magnitude of $\\Delta H$ of an exothermic reaction?",
+  "options": {
+   "A": "It is larger than the true value, because the cup adds energy to the solution",
+   "B": "It is the same as the true value, because the cup is not part of the reaction",
+   "C": "It is larger than the true value, because the cup lowers the final temperature",
+   "D": "It is smaller than the true value, because the temperature change of the solution alone is used to find the energy released"
+  },
+  "correct": "D",
+  "explanation": "Energy absorbed by the cup is not counted in $mc\\Delta T$, so the calculated $|q|$ is too small.",
+  "distractor_notes": {
+   "A": "The cup removes energy from the reaction products.",
+   "B": "The energy absorbed by the cup is missing from $q$.",
+   "C": "Absorbed energy lowers the observed ΔT, giving a smaller |q|."
+  },
+  "tags": [
+   "error analysis"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Missing a heat sink gives an underestimate, not an overestimate.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students think extra material adds energy.",
+   "how_to_avoid": "Account for all objects that absorb energy; missing terms reduce |q|."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Specific_heat_capacity",
+    "https://en.wikipedia.org/wiki/Calorimetry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.4-trap-0006",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.4",
+  "topic_title": "Heat Capacity and Calorimetry",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing heating/cooling based on the amount of the substance, the heat capacity, and the change in temperature. (6.4.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "table",
+   "content": "Sample | Mass (g) | Specific heat (J/(g·°C))\n--- | --- | ---\nMetal A | 100.0 | 0.385\nMetal B | 40.0 | 0.903",
+   "citation": "Original data table written for this item.",
+   "asset_path": null
+  },
+  "question": "Both samples absorb the same amount of energy as heat. Which sample shows the larger temperature change?",
+  "options": {
+   "A": "Metal B",
+   "B": "Metal A",
+   "C": "Both have the same temperature change",
+   "D": "It cannot be determined without the energy value"
+  },
+  "correct": "A",
+  "explanation": "$mc$: A = 38.5 J/°C, B = 36.1 J/°C; B has the smaller heat capacity and thus the larger ΔT.",
+  "distractor_notes": {
+   "B": "Chose the sample with the lower specific heat, ignoring the masses.",
+   "C": "Mass and c differ.",
+   "D": "Only the ratio of mc is needed."
+  },
+  "tags": [
+   "heat capacity"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "Two variables vary at once (mass and c).",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students compare specific heats only.",
+   "how_to_avoid": "Compute m·c for each sample."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Specific_heat_capacity",
+    "https://en.wikipedia.org/wiki/Calorimetry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.4-trap-0007",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.4",
+  "topic_title": "Heat Capacity and Calorimetry",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing heating/cooling based on the amount of the substance, the heat capacity, and the change in temperature. (6.4.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about calorimetry is always true?",
+  "options": {
+   "A": "The energy lost by the surroundings always equals the energy gained by the reaction",
+   "B": "The temperature of the calorimeter contents always increases",
+   "C": "The energy gained by the calorimeter contents equals the energy lost by the reaction when no energy escapes",
+   "D": "The calculated $\\Delta H$ is always exactly equal to the true value"
+  },
+  "correct": "C",
+  "explanation": "Conservation of energy in an isolated calorimeter: $q_{rxn} = -q_{contents}$.",
+  "distractor_notes": {
+   "A": "Direction reversed for an exothermic reaction.",
+   "B": "Endothermic reactions lower the temperature.",
+   "D": "Real calorimeters lose energy and have errors."
+  },
+  "tags": [
+   "absolute"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "Words 'always' and 'exactly' overstate calorimetry.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Idealized formulas are treated as facts.",
+   "how_to_avoid": "Notice absolute wording and test with counterexamples (endothermic, heat loss)."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Specific_heat_capacity",
+    "https://en.wikipedia.org/wiki/Calorimetry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.4-trap-0008",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.4",
+  "topic_title": "Heat Capacity and Calorimetry",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing heating/cooling based on the amount of the substance, the heat capacity, and the change in temperature. (6.4.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A 100.0 g sample of water cools from 50.0 °C to 30.0 °C. What is $q$ for the water? ($c = 4.18$ J/(g·°C))",
+  "options": {
+   "A": "+8.36 kJ",
+   "B": "−8.36 kJ",
+   "C": "−8360 kJ",
+   "D": "+0.836 kJ"
+  },
+  "correct": "B",
+  "explanation": "$q = (100.0)(4.18)(-20.0) = -8360$ J = −8.36 kJ.",
+  "distractor_notes": {
+   "A": "Used a positive sign for a cooling sample.",
+   "C": "Did not convert J to kJ.",
+   "D": "Wrong sign and magnitude."
+  },
+  "tags": [
+   "sign"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "ΔT = final − initial is negative for cooling.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students compute |ΔT|.",
+   "how_to_avoid": "Always subtract final − initial."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Specific_heat_capacity",
+    "https://en.wikipedia.org/wiki/Calorimetry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Calorimetry",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.5-trap-0001",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.5",
+  "topic_title": "Energy of Phase Changes",
+  "learning_objective": "Explain changes in the heat q absorbed or released by a system undergoing a phase transition based on the amount of the substance in moles and the molar enthalpy of the phase transition. (6.5.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "table",
+   "content": "Energy added (kJ) | Temperature (°C)\n--- | ---\n0 | -20\n4 | 0\n10 | 0\n13 | 50\n16 | 100\n40 | 100\n42 | 130",
+   "citation": "Original data table written for this item.",
+   "asset_path": null
+  },
+  "question": "Using the heating data in the table, which process requires the greatest energy for this sample?",
+  "options": {
+   "A": "Vaporization at 100 °C",
+   "B": "Warming the liquid from 0 °C to 100 °C",
+   "C": "Melting at 0 °C",
+   "D": "Warming the solid from −20 °C to 0 °C"
+  },
+  "correct": "A",
+  "explanation": "Energy for each section: warming the solid 4 kJ (0 to 4), melting 6 kJ (4 to 10), warming the liquid 6 kJ (10 to 16), vaporization 24 kJ (16 to 40).",
+  "distractor_notes": {
+   "B": "This is the longest sloped section, but it is smaller than the boiling plateau.",
+   "C": "The melting plateau is 6 kJ.",
+   "D": "This is only 4 kJ."
+  },
+  "tags": [
+   "heating curve"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "A sloped section may look 'bigger' but plateau lengths measure phase-change energy.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students judge by the steepest or longest-looking slope.",
+   "how_to_avoid": "Subtract the energy values at the start and end of each section."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy_of_fusion",
+    "https://en.wikipedia.org/wiki/Enthalpy_of_vaporization",
+    "https://en.wikipedia.org/wiki/Latent_heat"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.5-trap-0002",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.5",
+  "topic_title": "Energy of Phase Changes",
+  "learning_objective": "Explain changes in the heat q absorbed or released by a system undergoing a phase transition based on the amount of the substance in moles and the molar enthalpy of the phase transition. (6.5.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A pure liquid is heated at its boiling point and the temperature stays constant. Which statement is correct?",
+  "options": {
+   "A": "No energy is being absorbed because the temperature is not changing",
+   "B": "Energy is being absorbed and stored as increased potential energy of the particles",
+   "C": "The absorbed energy is raising the average kinetic energy of the particles",
+   "D": "The absorbed energy is breaking the covalent bonds in each molecule"
+  },
+  "correct": "B",
+  "explanation": "Constant temperature during boiling does not mean zero energy flow.",
+  "distractor_notes": {
+   "A": "Energy is absorbed while the phase changes.",
+   "C": "Constant temperature means constant average KE.",
+   "D": "Boiling is a physical change."
+  },
+  "tags": [
+   "heating curve"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "'Temperature constant → no energy absorbed'.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students equate energy absorbed with temperature rise.",
+   "how_to_avoid": "Think in two buckets: temperature changes track KE; phase changes track PE."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy_of_fusion",
+    "https://en.wikipedia.org/wiki/Enthalpy_of_vaporization",
+    "https://en.wikipedia.org/wiki/Latent_heat"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.5-trap-0003",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.5",
+  "topic_title": "Energy of Phase Changes",
+  "learning_objective": "Explain changes in the heat q absorbed or released by a system undergoing a phase transition based on the amount of the substance in moles and the molar enthalpy of the phase transition. (6.5.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "What is $q$ for the condensation of 1.00 mol of steam at 100 °C? ($\\Delta H_{vap} = 40.7$ kJ/mol)",
+  "options": {
+   "A": "+40.7 kJ",
+   "B": "−6.01 kJ",
+   "C": "+6.01 kJ",
+   "D": "−40.7 kJ"
+  },
+  "correct": "D",
+  "explanation": "Condensation is the reverse of vaporization: $q = -40.7$ kJ per mole.",
+  "distractor_notes": {
+   "A": "Condensation releases energy so q is negative.",
+   "B": "Used the enthalpy of fusion.",
+   "C": "Used the fusion value and wrong sign."
+  },
+  "tags": [
+   "sign"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "ΔHvap is tabulated as a positive number for vaporization; condensation reverses it.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students copy the tabulated sign.",
+   "how_to_avoid": "Decide whether energy enters or leaves the sample before assigning the sign."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy_of_fusion",
+    "https://en.wikipedia.org/wiki/Enthalpy_of_vaporization",
+    "https://en.wikipedia.org/wiki/Latent_heat",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.5-trap-0004",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.5",
+  "topic_title": "Energy of Phase Changes",
+  "learning_objective": "Explain changes in the heat q absorbed or released by a system undergoing a phase transition based on the amount of the substance in moles and the molar enthalpy of the phase transition. (6.5.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following processes does NOT release energy to the surroundings?",
+  "options": {
+   "A": "Freezing of liquid water at 0 °C",
+   "B": "Formation of frost from water vapor",
+   "C": "Melting of ice at 0 °C",
+   "D": "Condensation of steam at 100 °C"
+  },
+  "correct": "C",
+  "explanation": "Melting absorbs energy; freezing, condensation and deposition release it.",
+  "distractor_notes": {
+   "A": "Releases energy.",
+   "B": "Deposition releases energy.",
+   "D": "Releases energy."
+  },
+  "tags": [
+   "NOT"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "NOT stem across three exothermic phase changes.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students lose track of NOT and pick a familiar exothermic process.",
+   "how_to_avoid": "Label each option exo/endo first, then apply NOT."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy_of_fusion",
+    "https://en.wikipedia.org/wiki/Enthalpy_of_vaporization",
+    "https://en.wikipedia.org/wiki/Latent_heat"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.5-trap-0005",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.5",
+  "topic_title": "Energy of Phase Changes",
+  "learning_objective": "Explain changes in the heat q absorbed or released by a system undergoing a phase transition based on the amount of the substance in moles and the molar enthalpy of the phase transition. (6.5.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about adding energy to a pure substance is correct?",
+  "options": {
+   "A": "Its temperature always increases",
+   "B": "Its temperature never increases at the melting point or boiling point, even after the phase change is complete",
+   "C": "Its temperature increases only while it is a liquid",
+   "D": "Its temperature increases except during a phase change"
+  },
+  "correct": "D",
+  "explanation": "Temperature changes track the average KE; during phase transitions energy goes into PE.",
+  "distractor_notes": {
+   "A": "Phase changes happen at constant T.",
+   "B": "Once the phase change is complete temperature rises again.",
+   "C": "Solids and gases also warm."
+  },
+  "tags": [
+   "absolute"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'Always' ignores phase-change plateaus.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students generalize 'heating → warmer'.",
+   "how_to_avoid": "Check for phase changes before using 'always'."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy_of_fusion",
+    "https://en.wikipedia.org/wiki/Enthalpy_of_vaporization",
+    "https://en.wikipedia.org/wiki/Latent_heat"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.5-trap-0006",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.5",
+  "topic_title": "Energy of Phase Changes",
+  "learning_objective": "Explain changes in the heat q absorbed or released by a system undergoing a phase transition based on the amount of the substance in moles and the molar enthalpy of the phase transition. (6.5.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "How much energy is required to vaporize 36.0 g of water at 100 °C? ($\\Delta H_{vap} = 40.7$ kJ/mol, $\\Delta H_{fus} = 6.01$ kJ/mol, $M = 18.02$ g/mol)",
+  "options": {
+   "A": "12.0 kJ",
+   "B": "81.3 kJ",
+   "C": "1470 kJ",
+   "D": "40.7 kJ"
+  },
+  "correct": "B",
+  "explanation": "$n = 36.0/18.02 = 2.00$ mol; $q = 2.00 \\times 40.7 = 81.3$ kJ.",
+  "distractor_notes": {
+   "A": "Used the fusion value.",
+   "C": "Did not convert to moles.",
+   "D": "Used the value for exactly one mole."
+  },
+  "tags": [
+   "units"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Two enthalpy values given; only the vaporization applies.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students grab the wrong tabulated value or forget mass → mole conversion.",
+   "how_to_avoid": "Match the process to its ΔH, then convert mass to moles."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy_of_fusion",
+    "https://en.wikipedia.org/wiki/Enthalpy_of_vaporization",
+    "https://en.wikipedia.org/wiki/Latent_heat",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.6-trap-0001",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.6",
+  "topic_title": "Introduction to Enthalpy of Reaction",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing a chemical reaction in relation to the amount of the reactant in moles and the molar enthalpy of reaction. (6.6.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "For 2 H$_2$(g) + O$_2$(g) → 2 H$_2$O(l), $\\Delta H = -572$ kJ/mol-rxn. How much energy is released when 4.00 g of H$_2$ ($M = 2.016$ g/mol) reacts?",
+  "options": {
+   "A": "567 kJ",
+   "B": "1130 kJ",
+   "C": "572 kJ",
+   "D": "1140 kJ"
+  },
+  "correct": "A",
+  "explanation": "$n = 1.984$ mol H$_2$; moles of reaction $= 0.992$; $q = 567$ kJ released.",
+  "distractor_notes": {
+   "B": "Did not divide moles of H2 by the coefficient 2.",
+   "C": "Used ΔH as written without scaling.",
+   "D": "Used grams instead of moles."
+  },
+  "tags": [
+   "stoichiometry"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "ΔH is per mole of reaction (2 mol H2), not per mole of H2.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students multiply moles of H2 by 572.",
+   "how_to_avoid": "Divide moles reacting by the coefficient first."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://en.wikipedia.org/wiki/Thermochemistry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.6-trap-0002",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.6",
+  "topic_title": "Introduction to Enthalpy of Reaction",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing a chemical reaction in relation to the amount of the reactant in moles and the molar enthalpy of reaction. (6.6.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "An exothermic reaction has $\\Delta H = -50$ kJ/mol-rxn. Which statement is true?",
+  "options": {
+   "A": "The reaction proceeds quickly because it releases energy",
+   "B": "The reaction requires no activation energy",
+   "C": "The reaction releases 50 kJ regardless of how much reactant is present",
+   "D": "The reaction releases 50 kJ per mole of reaction as written"
+  },
+  "correct": "D",
+  "explanation": "ΔH gives energy per mole of reaction.",
+  "distractor_notes": {
+   "A": "ΔH says nothing about rate.",
+   "B": "Many exothermic reactions have a barrier.",
+   "C": "q depends on moles reacting."
+  },
+  "tags": [
+   "absolute"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "Options claim 'regardless' or imply rate.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "ΔH is treated as the total energy released.",
+   "how_to_avoid": "Scale ΔH by moles of reaction."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://en.wikipedia.org/wiki/Thermochemistry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.6-trap-0003",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.6",
+  "topic_title": "Introduction to Enthalpy of Reaction",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing a chemical reaction in relation to the amount of the reactant in moles and the molar enthalpy of reaction. (6.6.A)",
+  "skill": "Models and Representations",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which statement about $\\Delta H$ for a reaction and its reverse is correct?",
+  "options": {
+   "A": "They have the same magnitude and the same sign",
+   "B": "They have the same magnitude and opposite signs",
+   "C": "They have opposite magnitudes and the same sign",
+   "D": "They are both exothermic if the forward reaction is exothermic"
+  },
+  "correct": "B",
+  "explanation": "Reversing the equation negates ΔH.",
+  "distractor_notes": {
+   "A": "Reverse reaction changes the sign.",
+   "C": "Magnitude is unchanged.",
+   "D": "One is exothermic, the other endothermic."
+  },
+  "tags": [
+   "reverse"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Reversing changes only the sign.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students mix sign/magnitude rules.",
+   "how_to_avoid": "Reverse → flip sign; multiply → scale magnitude."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://en.wikipedia.org/wiki/Thermochemistry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.6-trap-0004",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.6",
+  "topic_title": "Introduction to Enthalpy of Reaction",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing a chemical reaction in relation to the amount of the reactant in moles and the molar enthalpy of reaction. (6.6.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "For C(s) + O$_2$(g) → CO$_2$(g), $\\Delta H = -393.5$ kJ/mol-rxn. Which is the correct value for 2 C(s) + 2 O$_2$(g) → 2 CO$_2$(g)?",
+  "options": {
+   "A": "−393.5 kJ/mol-rxn",
+   "B": "−196.8 kJ/mol-rxn",
+   "C": "−787.0 kJ/mol-rxn",
+   "D": "+787.0 kJ/mol-rxn"
+  },
+  "correct": "C",
+  "explanation": "Doubling the equation doubles ΔH.",
+  "distractor_notes": {
+   "A": "Did not scale with the coefficients.",
+   "B": "Halved instead of doubled.",
+   "D": "Changed the sign."
+  },
+  "tags": [
+   "scaling"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "Multiplying coefficients by 2 doubles, not halves, ΔH.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Per-mole language is misread.",
+   "how_to_avoid": "ΔH scales in the same direction as the coefficients."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://en.wikipedia.org/wiki/Thermochemistry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.6-trap-0005",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.6",
+  "topic_title": "Introduction to Enthalpy of Reaction",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing a chemical reaction in relation to the amount of the reactant in moles and the molar enthalpy of reaction. (6.6.A)",
+  "skill": "Model Analysis",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following is NOT true about $\\Delta H$ for a reaction at constant pressure?",
+  "options": {
+   "A": "It equals the heat transferred at constant pressure",
+   "B": "It depends on the amounts of substance specified by the balanced equation",
+   "C": "It is independent of the physical states of the reactants and products",
+   "D": "It has the opposite sign for the reverse reaction"
+  },
+  "correct": "C",
+  "explanation": "ΔH depends on the states (e.g., H$_2$O(g) vs H$_2$O(l)).",
+  "distractor_notes": {
+   "A": "True.",
+   "B": "True.",
+   "D": "True."
+  },
+  "tags": [
+   "NOT",
+   "states"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "NOT stem; state dependence is the false statement.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "State symbols are often ignored.",
+   "how_to_avoid": "Always read state labels in thermochemical equations."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://en.wikipedia.org/wiki/Thermochemistry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.6-trap-0006",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.6",
+  "topic_title": "Introduction to Enthalpy of Reaction",
+  "learning_objective": "Calculate the heat q absorbed or released by a system undergoing a chemical reaction in relation to the amount of the reactant in moles and the molar enthalpy of reaction. (6.6.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "table",
+   "content": "Reaction | Equation | ΔH (kJ/mol-rxn)\n--- | --- | ---\nA | 2 H$_2$ + O$_2$ → 2 H$_2$O(l) | -572\nB | 2 H$_2$ + O$_2$ → 2 H$_2$O(g) | -484",
+   "citation": "Original data table written for this item.",
+   "asset_path": null
+  },
+  "question": "Based on the table, which reaction releases more energy per mole of reaction, and why?",
+  "options": {
+   "A": "Reaction B, because the product is a gas with higher potential energy",
+   "B": "Reaction A, because the product is a liquid, and condensing the vapor releases additional energy",
+   "C": "They release the same energy because the reactants are identical",
+   "D": "Reaction B, because the number of moles is the same"
+  },
+  "correct": "B",
+  "explanation": "Liquid water is lower in enthalpy than gaseous water by 44 kJ/mol; for 2 mol the difference is 88 kJ.",
+  "distractor_notes": {
+   "A": "Gas has higher PE, so less energy released.",
+   "C": "States differ, so ΔH differs.",
+   "D": "Same moles, different states."
+  },
+  "tags": [
+   "states"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "partial_truth",
+   "trap_description": "Identical reactants hide the product-state difference.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students see the same reactants and assume the same ΔH.",
+   "how_to_avoid": "Compare the states of products as well."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://en.wikipedia.org/wiki/Thermochemistry",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.7-trap-0001",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.7",
+  "topic_title": "Bond Enthalpies",
+  "learning_objective": "Calculate the enthalpy change of a reaction based on the average bond energies of bonds broken and formed in the reaction. (6.7.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "table",
+   "content": "Bond | Average bond enthalpy (kJ/mol)\n--- | ---\nH–H | 436\nO=O | 498\nO–H | 463",
+   "citation": "Average bond enthalpies tabulated in the stem for use in this item (typical textbook values; cf. Wikipedia 'Bond energy' and LibreTexts 'Bond Enthalpies').",
+   "asset_path": null
+  },
+  "question": "Using the table, estimate $\\Delta H$ for 2 H$_2$(g) + O$_2$(g) → 2 H$_2$O(g).",
+  "options": {
+   "A": "−482 kJ/mol-rxn",
+   "B": "+482 kJ/mol-rxn",
+   "C": "+8 kJ/mol-rxn",
+   "D": "+444 kJ/mol-rxn"
+  },
+  "correct": "A",
+  "explanation": "Broken: 2(436) + 498 = 1370; formed: 4(463) = 1852; $\\Delta H = -482$ kJ/mol-rxn.",
+  "distractor_notes": {
+   "B": "Subtracted in the wrong order.",
+   "C": "Counted one H–H bond, one O–H bond pair, ignoring coefficients.",
+   "D": "Counted only two O–H bonds formed instead of four."
+  },
+  "tags": [
+   "coefficients"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Number of O–H bonds: two molecules × two bonds.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students count one O–H bond per water or use the coefficient only.",
+   "how_to_avoid": "Draw the Lewis structures and count bonds in each species."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Bond_energy",
+    "https://en.wikipedia.org/wiki/Bond-dissociation_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy/Bond_Enthalpies",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.7-trap-0002",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.7",
+  "topic_title": "Bond Enthalpies",
+  "learning_objective": "Calculate the enthalpy change of a reaction based on the average bond energies of bonds broken and formed in the reaction. (6.7.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A reaction forms products whose bonds are collectively stronger than the bonds in the reactants. Which statement is correct?",
+  "options": {
+   "A": "The reaction is endothermic, because stronger bonds require more energy to break",
+   "B": "The reaction is exothermic, because more energy is released forming bonds than is absorbed breaking bonds",
+   "C": "The reaction is endothermic, because the bonds in the products are harder to form",
+   "D": "The reaction is exothermic only if the activation energy is small"
+  },
+  "correct": "B",
+  "explanation": "Stronger product bonds mean a net release of energy.",
+  "distractor_notes": {
+   "A": "Forming (not breaking) the stronger bonds is what matters.",
+   "C": "Forming bonds releases energy.",
+   "D": "Activation energy is separate from ΔH."
+  },
+  "tags": [
+   "reasoning"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "reversed_trend",
+   "trap_description": "'Stronger bonds' is associated with energy input.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students think strong bonds are harder, so absorb energy.",
+   "how_to_avoid": "Strong bonds in products = low enthalpy products = exothermic."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Bond_energy",
+    "https://en.wikipedia.org/wiki/Bond-dissociation_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy/Bond_Enthalpies"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.7-trap-0003",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.7",
+  "topic_title": "Bond Enthalpies",
+  "learning_objective": "Calculate the enthalpy change of a reaction based on the average bond energies of bonds broken and formed in the reaction. (6.7.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following statements about the bond enthalpy of C=C is correct?",
+  "options": {
+   "A": "It is exactly twice that of C–C",
+   "B": "It is smaller than that of C–C",
+   "C": "It is the same as that of C–C",
+   "D": "It is larger than that of C–C but less than twice as large"
+  },
+  "correct": "D",
+  "explanation": "Bond order increases strength, but π bonds are weaker than σ bonds (614 < 694).",
+  "distractor_notes": {
+   "A": "614 is not 2 × 347 = 694.",
+   "B": "Double bonds are stronger.",
+   "C": "Values differ."
+  },
+  "tags": [
+   "bond order"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Double bond ≈ two single bonds?",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students assume additive bond strength.",
+   "how_to_avoid": "The second bond (π) is weaker than the first (σ)."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Bond_energy",
+    "https://en.wikipedia.org/wiki/Bond-dissociation_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy/Bond_Enthalpies"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.7-trap-0004",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.7",
+  "topic_title": "Bond Enthalpies",
+  "learning_objective": "Calculate the enthalpy change of a reaction based on the average bond energies of bonds broken and formed in the reaction. (6.7.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following is NOT a limitation of estimating $\\Delta H$ using average bond enthalpies?",
+  "options": {
+   "A": "Average values may not match the bonds in a specific molecule",
+   "B": "The method assumes all species are gases",
+   "C": "The method accounts for the energy changes of vaporization of reactants and products",
+   "D": "The method cannot account for the difference in strengths of the same bond in different molecules"
+  },
+  "correct": "C",
+  "explanation": "The method ignores phase changes (it is only valid for gases), so it does not account for them.",
+  "distractor_notes": {
+   "A": "A real limitation.",
+   "B": "A real limitation.",
+   "D": "A real limitation."
+  },
+  "tags": [
+   "NOT"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "NOT-limitation stem.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students pick a true limitation.",
+   "how_to_avoid": "Mark each as limitation or not before choosing."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Bond_energy",
+    "https://en.wikipedia.org/wiki/Bond-dissociation_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy/Bond_Enthalpies"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.7-trap-0005",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.7",
+  "topic_title": "Bond Enthalpies",
+  "learning_objective": "Calculate the enthalpy change of a reaction based on the average bond energies of bonds broken and formed in the reaction. (6.7.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A student states that bond enthalpies give the exact enthalpy change for any reaction. Which response is best?",
+  "options": {
+   "A": "The claim is incorrect, because average values give only an estimate and are for gaseous species",
+   "B": "The claim is correct, because bond enthalpies are measured directly for each reaction",
+   "C": "The claim is correct, because energy is conserved in every reaction",
+   "D": "The claim is incorrect, because bond enthalpies apply only to ionic compounds"
+  },
+  "correct": "A",
+  "explanation": "Bond enthalpies are averages; the result is an estimate.",
+  "distractor_notes": {
+   "B": "They are averages.",
+   "C": "Conservation doesn't make averages exact.",
+   "D": "They apply to covalent bonds."
+  },
+  "tags": [
+   "limitations"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "'Exact' and 'any reaction'.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Numerical formulas feel exact.",
+   "how_to_avoid": "Notice absolute words and test for exceptions."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Bond_energy",
+    "https://en.wikipedia.org/wiki/Bond-dissociation_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy/Bond_Enthalpies"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.7-trap-0006",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.7",
+  "topic_title": "Bond Enthalpies",
+  "learning_objective": "Calculate the enthalpy change of a reaction based on the average bond energies of bonds broken and formed in the reaction. (6.7.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "table",
+   "content": "Bond | Average bond enthalpy (kJ/mol)\n--- | ---\nH–H | 436\nCl–Cl | 243\nH–Cl | 431",
+   "citation": "Original data table written for this item.",
+   "asset_path": null
+  },
+  "question": "Based on the table, the reaction 2 HCl(g) → H$_2$(g) + Cl$_2$(g) has which $\\Delta H$?",
+  "options": {
+   "A": "−183 kJ/mol-rxn",
+   "B": "+431 kJ/mol-rxn",
+   "C": "+862 kJ/mol-rxn",
+   "D": "+183 kJ/mol-rxn"
+  },
+  "correct": "D",
+  "explanation": "Broken: 2(431) = 862; formed: 436 + 243 = 679; $\\Delta H = +183$ kJ/mol-rxn.",
+  "distractor_notes": {
+   "A": "Used the sign of the formation of HCl.",
+   "B": "Used one H–Cl bond enthalpy.",
+   "C": "Used only the bonds broken."
+  },
+  "tags": [
+   "reverse"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "Reverse of a familiar exothermic formation reaction.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students pattern-match to HCl formation (−183).",
+   "how_to_avoid": "Recompute bonds broken vs formed for the direction asked."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Bond_energy",
+    "https://en.wikipedia.org/wiki/Bond-dissociation_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy/Bond_Enthalpies",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.7-trap-0007",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.7",
+  "topic_title": "Bond Enthalpies",
+  "learning_objective": "Calculate the enthalpy change of a reaction based on the average bond energies of bonds broken and formed in the reaction. (6.7.A)",
+  "skill": "Model Analysis",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "What is the enthalpy change when 1 mol of H–H bonds is formed from gaseous H atoms? (Bond enthalpy of H–H = 436 kJ/mol)",
+  "options": {
+   "A": "+436 kJ",
+   "B": "0 kJ",
+   "C": "−436 kJ",
+   "D": "+218 kJ"
+  },
+  "correct": "C",
+  "explanation": "Bond formation releases energy: $\\Delta H = -436$ kJ.",
+  "distractor_notes": {
+   "A": "Applied the bond-breaking sign to a bond-forming process.",
+   "B": "Assumed the process involves no energy change.",
+   "D": "Halved and wrong sign."
+  },
+  "tags": [
+   "bond formation"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Bond enthalpy is the energy to BREAK bonds; forming is the reverse.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "The table lists a positive number.",
+   "how_to_avoid": "Ask whether bonds are breaking or forming."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Bond_energy",
+    "https://en.wikipedia.org/wiki/Bond-dissociation_energy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Energies_and_Potentials/Enthalpy/Bond_Enthalpies",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.8-trap-0001",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.8",
+  "topic_title": "Enthalpy of Formation",
+  "learning_objective": "Calculate the enthalpy change for a chemical or physical process based on the standard enthalpies of formation. (6.8.A)",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Calculate $\\Delta H^\\circ$ for 2 NO(g) + O$_2$(g) → 2 NO$_2$(g) using $\\Delta H_f^\\circ$(NO) = +90.3 and $\\Delta H_f^\\circ$(NO$_2$) = +33.2 kJ/mol.",
+  "options": {
+   "A": "−57.1 kJ/mol-rxn",
+   "B": "+114.2 kJ/mol-rxn",
+   "C": "+246.9 kJ/mol-rxn",
+   "D": "−114.2 kJ/mol-rxn"
+  },
+  "correct": "D",
+  "explanation": "$2(33.2) - 2(90.3) = -114.2$ kJ/mol-rxn; O$_2$ contributes 0.",
+  "distractor_notes": {
+   "A": "Ignored the coefficient 2.",
+   "B": "Subtracted in the wrong order.",
+   "C": "Added the values of NO and NO2."
+  },
+  "tags": [
+   "coefficients"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Both ΔHf values are positive but ΔH rxn is negative.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students assume positive ΔHf values yield a positive ΔHrxn.",
+   "how_to_avoid": "Always compute products − reactants with coefficients."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Standard_enthalpy_of_formation",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://webbook.nist.gov/chemistry/",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.8-trap-0002",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.8",
+  "topic_title": "Enthalpy of Formation",
+  "learning_objective": "Calculate the enthalpy change for a chemical or physical process based on the standard enthalpies of formation. (6.8.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which substance does NOT have a standard enthalpy of formation equal to zero at 298 K?",
+  "options": {
+   "A": "Hg(l)",
+   "B": "Fe(s)",
+   "C": "O$_3$(g)",
+   "D": "N$_2$(g)"
+  },
+  "correct": "C",
+  "explanation": "Ozone is not the most stable form of oxygen; $\\Delta H_f^\\circ(\\text{O}_3) = +142.7$ kJ/mol.",
+  "distractor_notes": {
+   "A": "Standard state of mercury is liquid.",
+   "B": "Standard state of iron.",
+   "D": "Standard state of nitrogen."
+  },
+  "tags": [
+   "NOT",
+   "standard state"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "Allotrope vs standard state.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "All options 'look like elements'.",
+   "how_to_avoid": "Zero only for the most stable form at 298 K/1 atm."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Standard_enthalpy_of_formation",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://webbook.nist.gov/chemistry/"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.8-trap-0003",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.8",
+  "topic_title": "Enthalpy of Formation",
+  "learning_objective": "Calculate the enthalpy change for a chemical or physical process based on the standard enthalpies of formation. (6.8.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "For the reaction H$_2$(g) + $\\tfrac12$ O$_2$(g) → H$_2$O(l), $\\Delta H = -285.8$ kJ/mol-rxn. Which statement is correct?",
+  "options": {
+   "A": "This value is $\\Delta H_f^\\circ$ for H$_2$O(l)",
+   "B": "This value is $\\Delta H_f^\\circ$ for H$_2$O(g)",
+   "C": "This value is the bond enthalpy of H–O",
+   "D": "This value is $\\Delta H_f^\\circ$ for H$_2$(g)"
+  },
+  "correct": "A",
+  "explanation": "The equation makes 1 mol of H$_2$O(l) from elements in standard states.",
+  "distractor_notes": {
+   "B": "State is liquid.",
+   "C": "It's an enthalpy of reaction.",
+   "D": "Elements are zero."
+  },
+  "tags": [
+   "definition"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "State of water: liquid vs gas.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students ignore the state symbol.",
+   "how_to_avoid": "Check the state in the equation vs the table."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Standard_enthalpy_of_formation",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://webbook.nist.gov/chemistry/"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.8-trap-0004",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.8",
+  "topic_title": "Enthalpy of Formation",
+  "learning_objective": "Calculate the enthalpy change for a chemical or physical process based on the standard enthalpies of formation. (6.8.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A compound has a positive standard enthalpy of formation. Which statement is always true?",
+  "options": {
+   "A": "The compound is unstable and will decompose rapidly",
+   "B": "Forming the compound from its elements is endothermic",
+   "C": "The compound cannot be made from its elements",
+   "D": "The compound has weaker bonds than any compound with a negative ΔHf"
+  },
+  "correct": "B",
+  "explanation": "$\\Delta H_f^\\circ > 0$ means energy is absorbed in the formation reaction.",
+  "distractor_notes": {
+   "A": "ΔH sign doesn't set rate.",
+   "C": "It can with energy input.",
+   "D": "No such general statement."
+  },
+  "tags": [
+   "absolute"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "absolute_wording",
+   "trap_description": "Options claim instability or impossibility.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Positive often equated with 'unstable'.",
+   "how_to_avoid": "Limit conclusions to what the sign of ΔH says."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Standard_enthalpy_of_formation",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://webbook.nist.gov/chemistry/"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.8-trap-0005",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.8",
+  "topic_title": "Enthalpy of Formation",
+  "learning_objective": "Calculate the enthalpy change for a chemical or physical process based on the standard enthalpies of formation. (6.8.A)",
+  "skill": "Representing Data and Phenomena",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "table",
+   "content": "Substance | $\\Delta H_f^\\circ$ (kJ/mol)\n--- | ---\nCO$_{2}$(g) | −393.5\nH$_{2}$O(l) | −285.8\nC$_{2}$H$_{5}$OH(l) | −277.6",
+   "citation": "Standard enthalpies of formation at 298 K (approximate values as tabulated by NIST/CRC; given in the stem).",
+   "asset_path": null
+  },
+  "question": "Based on the table, which is the correct set-up for $\\Delta H^\\circ$ of C$_2$H$_5$OH(l) + 3 O$_2$(g) → 2 CO$_2$(g) + 3 H$_2$O(l)?",
+  "options": {
+   "A": "$[(-393.5) + (-285.8)] - [(-277.6)]$",
+   "B": "$[(-277.6)] - [2(-393.5) + 3(-285.8)]$",
+   "C": "$[2(-393.5) + 3(-285.8)] + [(-277.6)]$",
+   "D": "$[2(-393.5) + 3(-285.8)] - [(-277.6)]$"
+  },
+  "correct": "D",
+  "explanation": "Products minus reactants; O$_2$(g) contributes 0.",
+  "distractor_notes": {
+   "A": "Ignored coefficients.",
+   "B": "Reversed products and reactants.",
+   "C": "Added the reactant value instead of subtracting it."
+  },
+  "tags": [
+   "set-up"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "O2 does not appear in the table because its ΔHf is zero.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students think a missing value means an error.",
+   "how_to_avoid": "Elements in standard state: zero."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Standard_enthalpy_of_formation",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://webbook.nist.gov/chemistry/"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.8-trap-0006",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.8",
+  "topic_title": "Enthalpy of Formation",
+  "learning_objective": "Calculate the enthalpy change for a chemical or physical process based on the standard enthalpies of formation. (6.8.A)",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "The $\\Delta H^\\circ$ of formation of CO(g) is −110.5 kJ/mol and of CO$_2$(g) is −393.5 kJ/mol. Which statement is correct?",
+  "options": {
+   "A": "CO(g) is lower in enthalpy than CO$_2$(g), so burning CO to CO$_2$ is endothermic",
+   "B": "CO and CO$_2$ have the same enthalpy, since they have the same elements",
+   "C": "CO$_2$(g) is lower in enthalpy than CO(g) relative to the same elements, so burning CO to CO$_2$ is exothermic",
+   "D": "CO$_2$(g) has less stable bonds than CO(g)"
+  },
+  "correct": "C",
+  "explanation": "More negative $\\Delta H_f^\\circ$ means lower enthalpy; CO + ½ O$_2$ → CO$_2$ releases 283.0 kJ.",
+  "distractor_notes": {
+   "A": "CO2 is more negative (lower).",
+   "B": "Values differ.",
+   "D": "More exothermic formation implies more stable overall."
+  },
+  "tags": [
+   "comparison"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "partial_truth",
+   "trap_description": "Both are exothermic formations; the comparison matters.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students think of 'negative' without comparing magnitudes.",
+   "how_to_avoid": "Compare enthalpy levels on the same scale."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Standard_enthalpy_of_formation",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://webbook.nist.gov/chemistry/"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.8-trap-0007",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.8",
+  "topic_title": "Enthalpy of Formation",
+  "learning_objective": "Calculate the enthalpy change for a chemical or physical process based on the standard enthalpies of formation. (6.8.A)",
+  "skill": "Model Analysis",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "What is the standard enthalpy of formation of Cl$_2$(g) at 298 K?",
+  "options": {
+   "A": "0 kJ/mol",
+   "B": "+243 kJ/mol",
+   "C": "−243 kJ/mol",
+   "D": "+121.5 kJ/mol"
+  },
+  "correct": "A",
+  "explanation": "Cl$_2$(g) is the standard state of chlorine, so $\\Delta H_f^\\circ = 0$.",
+  "distractor_notes": {
+   "B": "Gave the Cl–Cl bond enthalpy.",
+   "C": "Gave the negative of the Cl–Cl bond enthalpy.",
+   "D": "Gave the enthalpy to form one mole of Cl atoms."
+  },
+  "tags": [
+   "standard state"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "near_miss_fact",
+   "trap_description": "Bond enthalpy and formation enthalpy are different quantities.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Cl2 is a bonded molecule so students quote the bond enthalpy.",
+   "how_to_avoid": "Elements in their standard states have ΔHf° = 0 by definition."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Standard_enthalpy_of_formation",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://webbook.nist.gov/chemistry/"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.9-trap-0001",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.9",
+  "topic_title": "Hess's Law",
+  "learning_objective": "Represent a chemical or physical process as a sequence of steps (6.9.A) and explain the relationship between the enthalpy of the overall process and the sum of the enthalpies of the individual steps (6.9.B).",
+  "skill": "Mathematical Routines",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Given 2 A → B, $\\Delta H = -80$ kJ, what is $\\Delta H$ for B → 2 A?",
+  "options": {
+   "A": "−80 kJ",
+   "B": "+40 kJ",
+   "C": "−40 kJ",
+   "D": "+80 kJ"
+  },
+  "correct": "D",
+  "explanation": "Reversing negates ΔH.",
+  "distractor_notes": {
+   "A": "Did not change the sign.",
+   "B": "Halved the value.",
+   "C": "Halved and kept the sign."
+  },
+  "tags": [
+   "reverse"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "units_sigfigs_sign",
+   "trap_description": "Reverse changes only the sign.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students halve because of the '2 A'.",
+   "how_to_avoid": "Scale only when coefficients change."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Hess%27s_law",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Thermodynamic_Cycles/Hess's_Law",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.9-trap-0002",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.9",
+  "topic_title": "Hess's Law",
+  "learning_objective": "Represent a chemical or physical process as a sequence of steps (6.9.A) and explain the relationship between the enthalpy of the overall process and the sum of the enthalpies of the individual steps (6.9.B).",
+  "skill": "Mathematical Routines",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Given A + B → C, $\\Delta H = -50$ kJ, what is $\\Delta H$ for 2 C → 2 A + 2 B?",
+  "options": {
+   "A": "+50 kJ",
+   "B": "−100 kJ",
+   "C": "+100 kJ",
+   "D": "−50 kJ"
+  },
+  "correct": "C",
+  "explanation": "Reverse (+50) and double (+100).",
+  "distractor_notes": {
+   "A": "Reversed but did not double.",
+   "B": "Doubled but did not reverse.",
+   "D": "Neither step applied."
+  },
+  "tags": [
+   "reverse",
+   "scaling"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "partial_truth",
+   "trap_description": "Two operations required; applying one gives a partially correct answer.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students complete one manipulation.",
+   "how_to_avoid": "List all operations before computing."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Hess%27s_law",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Thermodynamic_Cycles/Hess's_Law",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.9-trap-0003",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.9",
+  "topic_title": "Hess's Law",
+  "learning_objective": "Represent a chemical or physical process as a sequence of steps (6.9.A) and explain the relationship between the enthalpy of the overall process and the sum of the enthalpies of the individual steps (6.9.B).",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "Which of the following is NOT true of Hess's law?",
+  "options": {
+   "A": "The enthalpy change depends on the intermediate species formed",
+   "B": "It applies because enthalpy is a state function",
+   "C": "The enthalpy change of an overall reaction equals the sum of the step enthalpies",
+   "D": "It can be used to calculate ΔH for reactions that cannot be measured directly"
+  },
+  "correct": "A",
+  "explanation": "Intermediates cancel; they do not affect the overall ΔH.",
+  "distractor_notes": {
+   "B": "True.",
+   "C": "True.",
+   "D": "True."
+  },
+  "tags": [
+   "NOT"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "NOT stem.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students pick a true statement.",
+   "how_to_avoid": "Test each statement as true/false."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Hess%27s_law",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Thermodynamic_Cycles/Hess's_Law"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.9-trap-0004",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.9",
+  "topic_title": "Hess's Law",
+  "learning_objective": "Represent a chemical or physical process as a sequence of steps (6.9.A) and explain the relationship between the enthalpy of the overall process and the sum of the enthalpies of the individual steps (6.9.B).",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "A student says the total enthalpy change always depends on the path because different paths involve different amounts of energy transfer as heat and work. Which response is best?",
+  "options": {
+   "A": "ΔH is larger for paths with more steps",
+   "B": "ΔH, a state function, is the same for all paths between the same initial and final states",
+   "C": "ΔH is smaller for paths with more steps",
+   "D": "ΔH cannot be determined for multi-step paths"
+  },
+  "correct": "B",
+  "explanation": "While heat and work along a path can vary, ΔH does not.",
+  "distractor_notes": {
+   "A": "State function.",
+   "C": "State function.",
+   "D": "It can."
+  },
+  "tags": [
+   "absolute"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Confusing path-dependent q/w with path-independent ΔH.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Heat looks like a path quantity.",
+   "how_to_avoid": "ΔH is a state function."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Hess%27s_law",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Thermodynamic_Cycles/Hess's_Law"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.9-trap-0005",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.9",
+  "topic_title": "Hess's Law",
+  "learning_objective": "Represent a chemical or physical process as a sequence of steps (6.9.A) and explain the relationship between the enthalpy of the overall process and the sum of the enthalpies of the individual steps (6.9.B).",
+  "skill": "Mathematical Routines",
+  "difficulty": "hard",
+  "stimulus": {
+   "type": "text",
+   "content": "(1) N$_2$(g) + 3 H$_2$(g) → 2 NH$_3$(g)   ΔH = −92 kJ\n(2) 2 NH$_3$(g) → N$_2$H$_4$(g) + H$_2$(g)   ΔH = +160 kJ",
+   "citation": "Original description written for this item.",
+   "asset_path": null
+  },
+  "question": "Use the equations to find $\\Delta H$ for N$_2$(g) + 2 H$_2$(g) → N$_2$H$_4$(g).",
+  "options": {
+   "A": "+68 kJ",
+   "B": "−68 kJ",
+   "C": "−252 kJ",
+   "D": "+252 kJ"
+  },
+  "correct": "A",
+  "explanation": "Add (1) and (2): 3 H$_2$ − H$_2$ = 2 H$_2$; NH$_3$ cancels; $\\Delta H = -92 + 160 = +68$ kJ.",
+  "distractor_notes": {
+   "B": "Wrong sign.",
+   "C": "Subtracted ΔH2.",
+   "D": "Subtracted ΔH1."
+  },
+  "tags": [
+   "Hess"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "stimulus_misread",
+   "trap_description": "Species cancel and hydrogen is partially consumed.",
+   "tempting_wrong_option": "B",
+   "why_students_fall_for_it": "Students don't track H2.",
+   "how_to_avoid": "Write net species counts."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "python",
+   "confidence": 0.99,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Hess%27s_law",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Thermodynamic_Cycles/Hess's_Law",
+    "Computed with Python (apchem/scripts/unit06_gen.py); independently re-solved by apchem/scripts/unit06_audit.py"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.9-trap-0006",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.9",
+  "topic_title": "Hess's Law",
+  "learning_objective": "Represent a chemical or physical process as a sequence of steps (6.9.A) and explain the relationship between the enthalpy of the overall process and the sum of the enthalpies of the individual steps (6.9.B).",
+  "skill": "Model Analysis",
+  "difficulty": "medium",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "The enthalpy change for the overall reaction is to be found by combining steps. Which approach is least likely to give the correct overall ΔH?",
+  "options": {
+   "A": "Reversing an equation and changing the sign of its enthalpy change",
+   "B": "Multiplying an equation and its enthalpy change by the same factor",
+   "C": "Adding equations and adding their enthalpy changes",
+   "D": "Changing the coefficients in an equation without changing its enthalpy change"
+  },
+  "correct": "D",
+  "explanation": "Any change to the equation must be applied to ΔH.",
+  "distractor_notes": {
+   "A": "Correct.",
+   "B": "Correct.",
+   "C": "Correct."
+  },
+  "tags": [
+   "LEAST"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "not_except_least",
+   "trap_description": "LEAST-likely stem.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "Students pick a valid method.",
+   "how_to_avoid": "Identify the invalid method first."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Hess%27s_law",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Thermodynamic_Cycles/Hess's_Law"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ },
+ {
+  "id": "apchem-u6-t6.9-trap-0007",
+  "subject": "apchem",
+  "unit": 6,
+  "unit_title": "Thermodynamics",
+  "topic": "6.9",
+  "topic_title": "Hess's Law",
+  "learning_objective": "Represent a chemical or physical process as a sequence of steps (6.9.A) and explain the relationship between the enthalpy of the overall process and the sum of the enthalpies of the individual steps (6.9.B).",
+  "skill": "Model Analysis",
+  "difficulty": "easy",
+  "stimulus": {
+   "type": "none",
+   "content": "",
+   "citation": "",
+   "asset_path": null
+  },
+  "question": "The reaction A → B has $\\Delta H = +20$ kJ. Which statement about B → A is correct?",
+  "options": {
+   "A": "It is endothermic, with $\\Delta H = +20$ kJ",
+   "B": "It is exothermic, with $\\Delta H = -20$ kJ",
+   "C": "It is exothermic, with $\\Delta H = +20$ kJ",
+   "D": "It is endothermic, with $\\Delta H = -20$ kJ"
+  },
+  "correct": "B",
+  "explanation": "Reverse process: $\\Delta H = -20$ kJ, exothermic.",
+  "distractor_notes": {
+   "A": "Reversal changes the sign.",
+   "C": "Sign inconsistent with exothermic.",
+   "D": "Sign inconsistent with endothermic."
+  },
+  "tags": [
+   "reverse"
+  ],
+  "section": "trap",
+  "trap": {
+   "trap_type": "misconception",
+   "trap_description": "Students think both directions absorb energy.",
+   "tempting_wrong_option": "A",
+   "why_students_fall_for_it": "'Reaction needs energy' is applied to both directions.",
+   "how_to_avoid": "Reverse the direction, flip the sign."
+  },
+  "origin": "generated",
+  "source": null,
+  "verification": {
+   "status": "verified",
+   "method": "cross_source",
+   "confidence": 0.93,
+   "citations": [
+    "https://en.wikipedia.org/wiki/Hess%27s_law",
+    "https://en.wikipedia.org/wiki/Enthalpy",
+    "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Thermodynamic_Cycles/Hess's_Law"
+   ]
+  },
+  "created_at": "2026-10-07T19:30:00Z"
+ }
+]

@@ -1,0 +1,3615 @@
+[
+  {
+    "id": "apush-u1-t1.1-trap-0001",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.1",
+    "topic_title": "Contextualizing Period 1",
+    "learning_objective": "Explain the context for European encounters in the Americas from 1491 to 1607.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Americas in 1491 is most accurate?",
+    "options": {
+      "A": "Large farming societies and cities, such as Tenochtitlan and Cahokia, existed",
+      "B": "The Americas were a sparsely populated wilderness of only nomadic hunter-gatherers",
+      "C": "Native peoples had no political organization beyond small family bands",
+      "D": "Native societies had not yet developed agriculture or trade networks"
+    },
+    "correct": "A",
+    "explanation": "Cahokia built massive earthen mounds near the Mississippi, and the Mexica ruled Tenochtitlan, so the wilderness view is a misconception.",
+    "distractor_notes": {
+      "B": "Some societies were mobile, but many were not.",
+      "C": "Confederacies and chiefdoms existed.",
+      "D": "Maize agriculture was widespread."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students often picture pre-contact America as an empty wilderness.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Popular images of discovery suggest empty land, so the nomadic-only option feels familiar.",
+      "how_to_avoid": "Recall the large cities and mound centers (Tenochtitlan, Cahokia) and the maize-based societies of the period."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Cahokia",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Cahokia",
+        "https://en.wikipedia.org/wiki/Hopewell_tradition",
+        "https://en.wikipedia.org/wiki/Aztec_Empire",
+        "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.1-trap-0002",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.1",
+    "topic_title": "Contextualizing Period 1",
+    "learning_objective": "Explain the context for European encounters in the Americas from 1491 to 1607.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Native societies in North America before European contact is most accurate?",
+    "options": {
+      "A": "All of them relied mainly on maize farming for food",
+      "B": "They differed widely in language, economy, and political structure",
+      "C": "None of them lived in large settled communities",
+      "D": "All of them belonged to a single political confederacy"
+    },
+    "correct": "B",
+    "explanation": "Northwest Coast peoples centered on salmon, Plains peoples on bison, and Hohokam on irrigated farming, so the all and none statements fail.",
+    "distractor_notes": {
+      "A": "Many groups did not rely mainly on maize.",
+      "C": "Cahokia and Pueblo communities were large and settled.",
+      "D": "No single confederacy united all Native societies."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "Absolute words such as all and none produce false generalizations about Native diversity.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students who learned about maize cultures may assume all groups farmed the same way.",
+      "how_to_avoid": "Be suspicious of absolutes and recall contrasting examples: salmon fishing in the Northwest, bison hunting on the Plains, irrigation in the Southwest."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Archaic_period_in_the_Americas",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Archaic_period_in_the_Americas",
+        "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Pacific_Northwest_Coast",
+        "https://www.gutenberg.org/ebooks/50448",
+        "https://www.gutenberg.org/ebooks/42841",
+        "https://en.wikipedia.org/wiki/Cahokia",
+        "https://en.wikipedia.org/wiki/Hopewell_tradition"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.1-trap-0003",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.1",
+    "topic_title": "Contextualizing Period 1",
+    "learning_objective": "Explain the context for European encounters in the Americas from 1491 to 1607.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "All of the following were motives for European exploration of the Atlantic in the fifteenth and sixteenth centuries EXCEPT",
+    "options": {
+      "A": "a search for new sources of wealth such as gold",
+      "B": "a desire to spread Christianity",
+      "C": "a desire to spread Enlightenment ideals",
+      "D": "competition among European states for power and territory"
+    },
+    "correct": "C",
+    "explanation": "Wealth, Christianity, and state rivalry were established motives; the Enlightenment came later.",
+    "distractor_notes": {
+      "A": "Gold was a major motive.",
+      "B": "Spreading Christianity was a motive.",
+      "D": "State rivalry was a motive."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "In an EXCEPT stem, students pick a true motive instead of the false one.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students read quickly and select a true statement such as spreading Christianity.",
+      "how_to_avoid": "Mark each option true or false and choose the false one; the Enlightenment belongs to the seventeenth and eighteenth centuries."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/15th_century/sppo01.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/15th_century/sppo01.asp",
+        "https://www.gutenberg.org/ebooks/77820",
+        "https://www.gutenberg.org/ebooks/12425",
+        "https://en.wikipedia.org/wiki/Alhambra_Decree",
+        "https://en.wikipedia.org/wiki/Spanish_Armada"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.1-trap-0004",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.1",
+    "topic_title": "Contextualizing Period 1",
+    "learning_objective": "Explain the context for European encounters in the Americas from 1491 to 1607.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following occurred BEFORE Columbus's first voyage across the Atlantic?",
+    "options": {
+      "A": "The Treaty of Tordesillas",
+      "B": "John Cabot's voyage to North America",
+      "C": "Vasco da Gama's arrival in India",
+      "D": "The conquest of Granada"
+    },
+    "correct": "D",
+    "explanation": "Granada fell in January 1492, months before Columbus sailed; the others occurred in 1494, 1497, and 1498.",
+    "distractor_notes": {
+      "A": "Tordesillas (1494) followed Columbus.",
+      "B": "Cabot (1497) followed Columbus.",
+      "C": "Da Gama (1498) followed Columbus."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Dates clustered in the 1490s are easy to swap.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students associate Spain's rivalry with Portugal (Tordesillas) with the start of exploration.",
+      "how_to_avoid": "Build a timeline: Granada (January 1492), Columbus (1492), Tordesillas (1494), Cabot (1497), da Gama (1498)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/15th_century/colum.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/15th_century/colum.asp",
+        "https://www.gutenberg.org/ebooks/12425",
+        "https://www.gutenberg.org/ebooks/77820",
+        "https://avalon.law.yale.edu/15th_century/mod001.asp",
+        "https://en.wikipedia.org/wiki/John_Cabot",
+        "https://en.wikipedia.org/wiki/Vasco_da_Gama"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.1-trap-0005",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.1",
+    "topic_title": "Contextualizing Period 1",
+    "learning_objective": "Explain the context for European encounters in the Americas from 1491 to 1607.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "text",
+      "content": "“a boundary or straight line be determined and drawn north and south, from pole to pole, on the said ocean sea, from the Arctic to the Antarctic pole . . . at a distance of three hundred and seventy leagues west of the Cape Verde Islands . . . by the said King and Queen of Castile, Aragon, etc., and by their vessels, on the western side of the said bound”",
+      "citation": "Treaty of Tordesillas, 1494 (English translation), The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "Based only on the excerpt, which statement about the lands west of the line is accurate?",
+    "options": {
+      "A": "Lands found by Castile west of the line belong to Castile",
+      "B": "Lands west of the line belong to Portugal",
+      "C": "Lands west of the line belong to the Native peoples who live there",
+      "D": "All lands discovered by Castile anywhere in the world belong to Castile"
+    },
+    "correct": "A",
+    "explanation": "The excerpt limits Castile's possession to lands found on the western side of the line; it does not claim lands anywhere or address Native ownership.",
+    "distractor_notes": {
+      "B": "The excerpt assigns western lands to Castile.",
+      "C": "Native ownership is not mentioned.",
+      "D": "The excerpt limits Castile's claim to the western side of the line."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.1",
+      "tord"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The question asks what the excerpt says, not what students know generally.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "A hasty reader sees Castile and forever and expands the claim to all lands anywhere.",
+      "how_to_avoid": "Locate the exact phrase: on the western side of the said bound."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Avalon Project: Treaty of Tordesillas (1494)",
+      "url": "https://avalon.law.yale.edu/15th_century/mod001.asp",
+      "license": "Public domain",
+      "attribution": "Avalon Project: Treaty of Tordesillas (1494)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/15th_century/mod001.asp",
+        "https://avalon.law.yale.edu/15th_century/mod002.asp"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.1-trap-0006",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.1",
+    "topic_title": "Contextualizing Period 1",
+    "learning_objective": "Explain the context for European encounters in the Americas from 1491 to 1607.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement is the most complete explanation of why European states explored the Atlantic in the fifteenth and sixteenth centuries?",
+    "options": {
+      "A": "Gold was the only motive, and religion played no role",
+      "B": "Economic gain, state competition, and religion all drove exploration",
+      "C": "Exploration was driven mainly by Native Americans inviting Europeans",
+      "D": "The spread of Christianity was the only motive for exploration"
+    },
+    "correct": "B",
+    "explanation": "Portuguese gold and Asia trade, Spanish-Portuguese rivalry, and Catholic-Protestant conflict show multiple causes; single-cause options are partial truths.",
+    "distractor_notes": {
+      "A": "Gold mattered but religion also mattered.",
+      "C": "Native peoples did not invite exploration.",
+      "D": "Christianity was one motive among several."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "A single true motive is presented as the whole explanation.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students remember God, gold, and glory selectively and choose the motive that sounds most familiar.",
+      "how_to_avoid": "Prefer answers that combine multiple causes when the question asks for the most complete explanation."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/15th_century/sppo01.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/15th_century/sppo01.asp",
+        "https://www.gutenberg.org/ebooks/77820",
+        "https://www.gutenberg.org/ebooks/12425",
+        "https://en.wikipedia.org/wiki/Alhambra_Decree",
+        "https://en.wikipedia.org/wiki/Spanish_Armada"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.1-trap-0007",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.1",
+    "topic_title": "Contextualizing Period 1",
+    "learning_objective": "Explain the context for European encounters in the Americas from 1491 to 1607.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student argues that the 1453 Ottoman capture of Constantinople alone caused Columbus's voyage. Which response best evaluates this claim?",
+    "options": {
+      "A": "It is incorrect, because the Ottomans had no effect on European trade",
+      "B": "It is correct, because the Ottomans controlled all of Spain in 1492",
+      "C": "It contributed to the search for routes, but other causes also mattered",
+      "D": "It is correct, because Columbus sailed immediately after the city fell"
+    },
+    "correct": "C",
+    "explanation": "The capture of Constantinople is part of the context, but the voyage also depended on Reconquista politics, Portuguese expertise, and royal sponsorship. Columbus sailed in 1492, not 1453.",
+    "distractor_notes": {
+      "A": "Ottoman power did affect trade routes.",
+      "B": "The Ottomans never controlled Spain.",
+      "D": "Columbus sailed nearly 40 years later."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "A real background event is treated as the sole cause of a later event.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students link famous events in sequence and assume the earlier one explains the later one.",
+      "how_to_avoid": "Check the timing and look for additional causes; 1453 and 1492 are nearly four decades apart."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Christopher_Columbus",
+        "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+        "https://avalon.law.yale.edu/15th_century/colum.asp",
+        "https://www.gutenberg.org/ebooks/77820",
+        "https://www.gutenberg.org/ebooks/12425"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.1-trap-0008",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.1",
+    "topic_title": "Contextualizing Period 1",
+    "learning_objective": "Explain the context for European encounters in the Americas from 1491 to 1607.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following happened FIRST?",
+    "options": {
+      "A": "Pedro Álvares Cabral landed in Brazil",
+      "B": "Ferdinand Magellan's fleet circled the globe",
+      "C": "Portugal and Spain signed the Treaty of Tordesillas",
+      "D": "Portugal and Castile signed the Treaty of Alcáçovas"
+    },
+    "correct": "D",
+    "explanation": "Alcáçovas dates from 1479, before Tordesillas (1494), Cabral's landing (1500), and Magellan's voyage (1519-1522).",
+    "distractor_notes": {
+      "A": "Cabral landed in 1500.",
+      "B": "Magellan's expedition began in 1519.",
+      "C": "Tordesillas followed Columbus's voyage."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Two Iberian treaties with similar names invite swapping.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember Tordesillas as the famous treaty and assume it was the earliest.",
+      "how_to_avoid": "Place treaties on a timeline: Alcáçovas (1479), Tordesillas (1494), Cabral (1500), Magellan (1519-1522)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/15th_century/sppo01.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/15th_century/sppo01.asp",
+        "https://avalon.law.yale.edu/15th_century/colum.asp",
+        "https://avalon.law.yale.edu/15th_century/mod001.asp",
+        "https://www.gutenberg.org/ebooks/12425",
+        "https://www.gutenberg.org/ebooks/77820",
+        "https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.2-trap-0001",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.2",
+    "topic_title": "Native American Societies Before European Contact",
+    "learning_objective": "Explain how and why various native populations in the period before European contact interacted with the natural environment in North America.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT associated with Native American societies before 1492?",
+    "options": {
+      "A": "Maize cultivation in the arid Southwest by Pueblo farmers",
+      "B": "Irrigation canals in the Sonoran Desert of Arizona",
+      "C": "Salmon fishing on the Pacific coast",
+      "D": "Large herds of horses used for plains hunting"
+    },
+    "correct": "D",
+    "explanation": "Horses were brought by Spaniards, so they were not part of pre-contact Plains life. Maize, irrigation, and salmon fishing were established before 1492.",
+    "distractor_notes": {
+      "A": "Maize farming predated Europeans.",
+      "B": "Hohokam canals predated Europeans.",
+      "C": "Salmon fishing predated Europeans."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A NOT stem requires picking the false item among several true ones.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students may know that Plains peoples famously used horses and forget that horses arrived with Spaniards.",
+      "how_to_avoid": "Check the date: horses were reintroduced to the Americas by Europeans after 1492."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/50448",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/50448",
+        "https://www.gutenberg.org/ebooks/42841",
+        "https://en.wikipedia.org/wiki/Hohokam",
+        "https://en.wikipedia.org/wiki/Pueblo_peoples",
+        "https://en.wikipedia.org/wiki/Archaic_period_in_the_Americas",
+        "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Pacific_Northwest_Coast"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.2-trap-0002",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.2",
+    "topic_title": "Native American Societies Before European Contact",
+    "learning_objective": "Explain how and why various native populations in the period before European contact interacted with the natural environment in North America.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Cahokia's decline is most accurate?",
+    "options": {
+      "A": "It declined before European contact, so Europeans were not the cause",
+      "B": "Spanish soldiers destroyed it during the conquest of the Aztec Empire in 1521",
+      "C": "Smallpox brought by Columbus's crews emptied the city in 1493",
+      "D": "Its people left after the founding of St. Augustine"
+    },
+    "correct": "A",
+    "explanation": "Cahokia's population fell and the site was largely abandoned by the 1300s, before sustained European contact. Later epidemics affected many peoples, but not Cahokia's earlier decline.",
+    "distractor_notes": {
+      "B": "The conquest of Mexico occurred in 1519-1521, far to the south.",
+      "C": "Columbus did not bring smallpox in 1493.",
+      "D": "St. Augustine was founded in 1565."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "A major decline is wrongly linked to the famous arrival of Europeans.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students associate every Native population decline with European diseases and conquest.",
+      "how_to_avoid": "Check the dates: Cahokia was largely abandoned by about 1350, long before 1492."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Cahokia",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Cahokia",
+        "https://en.wikipedia.org/wiki/Mississippian_culture",
+        "https://en.wikipedia.org/wiki/Asiento",
+        "https://en.wikipedia.org/wiki/Casta"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.2-trap-0003",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.2",
+    "topic_title": "Native American Societies Before European Contact",
+    "learning_objective": "Explain how and why various native populations in the period before European contact interacted with the natural environment in North America.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Selected Native North American societies before sustained European contact (author-prepared summary)\n| Society or region | Environment | Notable adaptation |\n| Hohokam | Sonoran Desert (present-day Arizona) | Large irrigation canal networks for farming |\n| Ancestral Puebloans | Colorado Plateau, Southwest | Stone and earth dwellings, including cliff dwellings |\n| Cahokia (Mississippian culture) | Mississippi River valley | Large earthen mounds; maize agriculture |\n| Haudenosaunee | Northeast woodlands | Longhouses; Three Sisters crops; a confederacy |\n| Northwest Coast peoples | Pacific coast | Fishing economies centered on salmon |",
+      "citation": "Author-prepared summary based on Wikipedia articles on each society (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which society in the table is associated with cliff dwellings?",
+    "options": {
+      "A": "The Hohokam of Arizona",
+      "B": "The Ancestral Puebloans",
+      "C": "Cahokia in the Mississippi valley",
+      "D": "The Haudenosaunee of the Northeast"
+    },
+    "correct": "B",
+    "explanation": "The table lists stone and earth dwellings, including cliff dwellings, for the Ancestral Puebloans. The Hohokam are known for irrigation.",
+    "distractor_notes": {
+      "A": "Hohokam are associated with canals.",
+      "C": "Cahokia is associated with mounds.",
+      "D": "Haudenosaunee are associated with longhouses."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.2",
+      "tbl_nat"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Two Southwest societies are easily confused.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The Hohokam and Ancestral Puebloans both lived in the arid Southwest, so students mix them up.",
+      "how_to_avoid": "Recall the key marker: Puebloans built cliff dwellings; Hohokam built irrigation canals."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia (Hohokam, Ancestral Puebloans, Cahokia, Haudenosaunee, Pacific Northwest Coast)",
+      "url": "https://en.wikipedia.org/wiki/Hohokam",
+      "license": "CC BY-SA 4.0 / public domain (facts only; table or description text original)",
+      "attribution": "Facts from Tier A sources listed in verification.citations; stimulus written by the question author"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/50448",
+        "https://www.gutenberg.org/ebooks/42841",
+        "https://en.wikipedia.org/wiki/Hohokam",
+        "https://en.wikipedia.org/wiki/Pueblo_peoples",
+        "https://en.wikipedia.org/wiki/Ancestral_Puebloans"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.2-trap-0004",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.2",
+    "topic_title": "Native American Societies Before European Contact",
+    "learning_objective": "Explain how and why various native populations in the period before European contact interacted with the natural environment in North America.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student claims that all Native societies were mobile hunter-gatherers. Which response best evaluates the claim?",
+    "options": {
+      "A": "It is correct because every Native society lacked agriculture or permanent settlements",
+      "B": "It is incorrect only because Native peoples were herders of cattle and sheep",
+      "C": "It is incorrect, since Cahokia and the Hohokam farmed and lived in settled communities",
+      "D": "It is correct because Spanish records show no towns anywhere in North America"
+    },
+    "correct": "C",
+    "explanation": "Many Native societies farmed and lived in towns, as with Cahokia, Pueblo villages, and the Hohokam. Spanish chroniclers described towns, and Native peoples did not herd cattle before contact.",
+    "distractor_notes": {
+      "A": "Maize farming was widespread.",
+      "B": "Cattle came from Europe.",
+      "D": "Spanish accounts do describe towns."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The word all turns a partially true statement about some regions into a false claim.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember Plains hunters and the Great Basin foragers and overgeneralize.",
+      "how_to_avoid": "Look for counterexamples when you see all, every, or none."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Cahokia",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Cahokia",
+        "https://en.wikipedia.org/wiki/Hopewell_tradition",
+        "https://en.wikipedia.org/wiki/Hohokam",
+        "https://en.wikipedia.org/wiki/Pueblo_peoples",
+        "https://www.gutenberg.org/ebooks/34997"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.2-trap-0005",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.2",
+    "topic_title": "Native American Societies Before European Contact",
+    "learning_objective": "Explain how and why various native populations in the period before European contact interacted with the natural environment in North America.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following occurred FIRST?",
+    "options": {
+      "A": "Hernando de Soto's expedition across the Southeast and Mississippi valley",
+      "B": "John White's attempt to settle the Roanoke colony in Virginia",
+      "C": "The founding of St. Augustine in 1565",
+      "D": "The peak of Cahokia's population around the twelfth century"
+    },
+    "correct": "D",
+    "explanation": "Cahokia peaked around the twelfth century, centuries before De Soto's expedition, St. Augustine, and Roanoke.",
+    "distractor_notes": {
+      "A": "De Soto's expedition occurred in 1539-1542.",
+      "B": "Roanoke attempts were in the 1580s.",
+      "C": "St. Augustine was founded in 1565."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Students assume that Native societies and European colonies are contemporaneous.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Because Cahokia is a Mississippian site and De Soto crossed the Mississippi valley, students place them together.",
+      "how_to_avoid": "Anchor Cahokia's peak (about 1050-1200) well before De Soto (1539-1542) and St. Augustine (1565)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Cahokia",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Cahokia",
+        "https://en.wikipedia.org/wiki/Mississippian_culture",
+        "https://en.wikipedia.org/wiki/Asiento",
+        "https://en.wikipedia.org/wiki/Casta",
+        "https://www.gutenberg.org/ebooks/50448",
+        "https://www.gutenberg.org/ebooks/42841"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.2-trap-0006",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.2",
+    "topic_title": "Native American Societies Before European Contact",
+    "learning_objective": "Explain how and why various native populations in the period before European contact interacted with the natural environment in North America.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Native peoples and food sources (author-prepared summary)\n| Region | Main food sources |\n| Northwest Coast | Salmon and other fish, shellfish |\n| Great Plains | Bison hunting (later aided by horses); some farming along river valleys |\n| Eastern Woodlands | Maize, beans, and squash; hunting and fishing |\n| Great Basin | Gathering seeds, nuts, and roots; hunting small game |",
+      "citation": "Author-prepared summary based on Wikipedia articles on each region (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Based only on the table, which statement about the Great Plains is accurate?",
+    "options": {
+      "A": "Bison hunting was central, with some farming along river valleys",
+      "B": "The table says the Plains peoples fished for salmon in the rivers",
+      "C": "The table says horses were already present on the plains before European contact",
+      "D": "The table says Plains peoples relied only on bison"
+    },
+    "correct": "A",
+    "explanation": "The table states bison hunting with some farming along river valleys. It says horses came later and does not mention salmon on the Plains.",
+    "distractor_notes": {
+      "B": "Salmon is listed for the Northwest Coast.",
+      "C": "The table says horses came later.",
+      "D": "The table adds some farming."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.2",
+      "tbl_env"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The table's wording includes both bison and some farming; a quick reader sees only bison.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students over-generalize a well-known stereotype instead of reading the cell.",
+      "how_to_avoid": "Reread the cell: it lists bison hunting and some farming along river valleys."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia (Pacific Northwest Coast, Plains Indians, Eastern Woodlands, Great Basin)",
+      "url": "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Pacific_Northwest_Coast",
+      "license": "CC BY-SA 4.0 / public domain (facts only; table or description text original)",
+      "attribution": "Facts from Tier A sources listed in verification.citations; stimulus written by the question author"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/50448",
+        "https://www.gutenberg.org/ebooks/42841",
+        "https://www.gutenberg.org/ebooks/46524",
+        "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Pacific_Northwest_Coast",
+        "https://en.wikipedia.org/wiki/Plains_Indians"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.2-trap-0007",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.2",
+    "topic_title": "Native American Societies Before European Contact",
+    "learning_objective": "Explain how and why various native populations in the period before European contact interacted with the natural environment in North America.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement is the most complete explanation of why Native societies differed so much across North America?",
+    "options": {
+      "A": "Their economies differed because Europeans taught them different crops after arriving",
+      "B": "Environment, resources, and history all shaped their economies and politics",
+      "C": "They differed only because they spoke different languages and had different names",
+      "D": "Environment alone determined every aspect of Native life"
+    },
+    "correct": "B",
+    "explanation": "Environment mattered a great deal, but history, trade, and political choices also shaped societies. Europeans did not teach crops before contact, and language is only one aspect.",
+    "distractor_notes": {
+      "A": "Native farming predates Europeans.",
+      "C": "Language is only one difference.",
+      "D": "Environment mattered but was not the only factor."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "A statement that overstates one cause can look attractive because environment really mattered.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students remember that climate shaped economies and conclude it was the only cause.",
+      "how_to_avoid": "Prefer an answer that includes multiple factors when asked for the most complete explanation."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Hohokam",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Hohokam",
+        "https://en.wikipedia.org/wiki/Pueblo_peoples",
+        "https://en.wikipedia.org/wiki/Archaic_period_in_the_Americas",
+        "https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Pacific_Northwest_Coast",
+        "https://www.gutenberg.org/ebooks/50448",
+        "https://www.gutenberg.org/ebooks/42841"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.2-trap-0008",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.2",
+    "topic_title": "Native American Societies Before European Contact",
+    "learning_objective": "Explain how and why various native populations in the period before European contact interacted with the natural environment in North America.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is a crop domesticated in the Americas rather than the Old World?",
+    "options": {
+      "A": "Rice",
+      "B": "Barley",
+      "C": "Maize",
+      "D": "Wheat"
+    },
+    "correct": "C",
+    "explanation": "Maize was domesticated in Mesoamerica. Wheat, rice, and barley were domesticated in the Old World.",
+    "distractor_notes": {
+      "A": "Rice is an Old World crop.",
+      "B": "Barley is an Old World crop.",
+      "D": "Wheat is an Old World crop."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students may assume staple grains came from the Old World.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Wheat, rice, and barley are familiar grains in Western diets.",
+      "how_to_avoid": "Recall that maize, potatoes, tomatoes, and cacao are American crops, while wheat, rice, and barley are Old World crops."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Maize",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Maize",
+        "https://en.wikipedia.org/wiki/Mesoamerica",
+        "https://en.wikipedia.org/wiki/Columbian_exchange"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.3-trap-0001",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.3",
+    "topic_title": "European Exploration in the Americas",
+    "learning_objective": "Explain the causes of exploration and conquest of the New World by various European nations.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the naming of the Americas is accurate?",
+    "options": {
+      "A": "Christopher Columbus chose the name America for the lands he reached",
+      "B": "Queen Isabella ordered that the continent be named for her family",
+      "C": "A German mapmaker used the name America in honor of Amerigo Vespucci",
+      "D": "Ponce de León named the continent after the Native peoples of Florida"
+    },
+    "correct": "C",
+    "explanation": "The 1507 map by Martin Waldseemüller used the name America, honoring Amerigo Vespucci. Columbus never used the name.",
+    "distractor_notes": {
+      "A": "Columbus believed he reached Asia.",
+      "B": "No royal order is known.",
+      "D": "Ponce de León named Florida only."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Many students assume Columbus gave the continent its name.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Columbus is the most famous explorer, so students think the continent was named for him or by him.",
+      "how_to_avoid": "Recall that the name America came from Vespucci's first name, used on Waldseemüller's 1507 map."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Waldseem%C3%BCller_map",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Waldseem%C3%BCller_map",
+        "https://www.gutenberg.org/ebooks/77820",
+        "https://www.gutenberg.org/ebooks/36924"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.3-trap-0002",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.3",
+    "topic_title": "European Exploration in the Americas",
+    "learning_objective": "Explain the causes of exploration and conquest of the New World by various European nations.",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student writes, 'All European monarchs supported exploration only to find gold.' Which response best evaluates the claim?",
+    "options": {
+      "A": "It is accurate because every monarch's expedition produced large amounts of gold",
+      "B": "It is accurate because Columbus said nothing about spices, religion, or territory",
+      "C": "It is inaccurate because European monarchs sent no explorers westward until 1600",
+      "D": "It is too broad, because trade routes, rivalry, and religion also motivated them"
+    },
+    "correct": "D",
+    "explanation": "Wealth mattered, but monarchs also sought a route to Asia's spices, competition with rivals, and religious expansion. Columbus's letter also mentions spices and possession.",
+    "distractor_notes": {
+      "A": "Not all expeditions found gold.",
+      "B": "Columbus mentioned spices.",
+      "C": "Voyages began in the 1400s."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The words all and only make a partly true statement false.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Gold was an important motive, so students accept the sweeping claim.",
+      "how_to_avoid": "Watch for words like all, only, always, and never; check whether other motives are documented."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/77820",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/77820",
+        "https://avalon.law.yale.edu/15th_century/colum.asp"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.3-trap-0003",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.3",
+    "topic_title": "European Exploration in the Americas",
+    "learning_objective": "Explain the causes of exploration and conquest of the New World by various European nations.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT a motive for French, English, or Spanish exploration in the 1500s?",
+    "options": {
+      "A": "Creating independent republics in the Americas",
+      "B": "Finding a water route to Asia",
+      "C": "Gaining wealth from trade and mines",
+      "D": "Competing with rival European powers"
+    },
+    "correct": "A",
+    "explanation": "Monarchies sponsored exploration to find a route to Asia, gain wealth, and compete. They did not seek independent American republics.",
+    "distractor_notes": {
+      "B": "A route to Asia was a motive.",
+      "C": "Wealth was a motive.",
+      "D": "Rivalry was a motive."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "The word NOT reverses the usual way of answering.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students look for a true motive and select it, forgetting that the question asks for the one that is not a motive.",
+      "how_to_avoid": "Underline NOT or EXCEPT, then eliminate the three true statements."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Atlantic_World",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Atlantic_World",
+        "https://en.wikipedia.org/wiki/Juan_Rodr%C3%ADguez_Cabrillo",
+        "https://www.gutenberg.org/ebooks/77820"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.3-trap-0004",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.3",
+    "topic_title": "European Exploration in the Americas",
+    "learning_objective": "Explain the causes of exploration and conquest of the New World by various European nations.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence of events is in the correct chronological order?",
+    "options": {
+      "A": "Fort Caroline, Cabot's voyage, Armada defeat, Roanoke",
+      "B": "Cabot's voyage, Fort Caroline, Roanoke, Armada defeat",
+      "C": "Armada defeat, Roanoke, Cabot's voyage, Fort Caroline",
+      "D": "Roanoke, Cabot's voyage, Fort Caroline, Armada defeat"
+    },
+    "correct": "B",
+    "explanation": "Cabot reached North America in 1497, French settlers built Fort Caroline in 1564, Roanoke began in 1585, and the Armada was defeated in 1588.",
+    "distractor_notes": {
+      "A": "Fort Caroline came after Cabot.",
+      "C": "The Armada came last.",
+      "D": "Roanoke was 1585."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four events from the 1490s to the 1580s can be swapped.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The Armada and Roanoke are close in date, so students reverse their order.",
+      "how_to_avoid": "Anchor the sequence with dates: 1497, 1564, 1585, 1588."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/77820",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/77820",
+        "https://en.wikipedia.org/wiki/John_Cabot",
+        "https://en.wikipedia.org/wiki/Fort_Caroline",
+        "https://en.wikipedia.org/wiki/Huguenots",
+        "https://en.wikipedia.org/wiki/Chesapeake_Bay",
+        "https://en.wikipedia.org/wiki/Elizabeth_I"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.3-trap-0005",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.3",
+    "topic_title": "European Exploration in the Americas",
+    "learning_objective": "Explain the causes of exploration and conquest of the New World by various European nations.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“to discover, search, finde out, and view such remote, heathen and barbarous lands, countries, and territories, not actually possessed of any Christian Prince, nor inhabited by Christian People”",
+      "citation": "Charter to Sir Walter Raleigh, 1584 (original spelling), The Avalon Project, Yale Law School",
+      "asset_path": null
+    },
+    "question": "What does the excerpt say about the lands Raleigh was allowed to settle?",
+    "options": {
+      "A": "They were already controlled by Spain",
+      "B": "They had been given to England by Native leaders",
+      "C": "They were not held by any Christian ruler",
+      "D": "They were uninhabited by any people"
+    },
+    "correct": "C",
+    "explanation": "The charter allowed claims on lands 'not actually possessed of any Christian Prince.' It did not say they were empty or given by Native leaders.",
+    "distractor_notes": {
+      "A": "The charter avoids Spanish-held lands.",
+      "B": "No Native grant is mentioned.",
+      "D": "Native peoples lived in the region."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.3",
+      "rch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "A reader may mistake 'Christian Prince' for 'any people.'",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The charter says 'not inhabited by Christian People,' not that no one lived there, but hurried students read it as empty land.",
+      "how_to_avoid": "Quote the exact words; the document is about Christian rulers, not Native absence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Avalon Project: Charter to Sir Walter Raleigh (1584)",
+      "url": "https://avalon.law.yale.edu/16th_century/raleigh.asp",
+      "license": "Public domain",
+      "attribution": "Avalon Project: Charter to Sir Walter Raleigh (1584)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/16th_century/raleigh.asp",
+        "https://en.wikipedia.org/wiki/Walter_Raleigh"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.3-trap-0006",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.3",
+    "topic_title": "European Exploration in the Americas",
+    "learning_objective": "Explain the causes of exploration and conquest of the New World by various European nations.",
+    "skill": "Developments and Processes",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Spanish and French activity in Florida is most accurate?",
+    "options": {
+      "A": "The French founded St. Augustine and Spain founded Fort Caroline",
+      "B": "France and Spain founded Fort Caroline together in 1564",
+      "C": "Spain founded St. Augustine in 1565 after French colonists left Florida by choice",
+      "D": "French Huguenots built Fort Caroline in 1564, and Spain destroyed it in 1565"
+    },
+    "correct": "D",
+    "explanation": "Fort Caroline was built by French Huguenots in 1564. In 1565 Menéndez founded St. Augustine and destroyed Fort Caroline.",
+    "distractor_notes": {
+      "A": "The founders are reversed.",
+      "B": "The two did not cooperate.",
+      "C": "The French did not leave by choice."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Both options contain true names and dates but misstate who did what.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students remember St. Augustine in 1565 and accept an option that sounds close.",
+      "how_to_avoid": "Match each place with its founder: Fort Caroline was French; St. Augustine was Spanish."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Fort_Caroline",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Fort_Caroline",
+        "https://en.wikipedia.org/wiki/Huguenots",
+        "https://en.wikipedia.org/wiki/Asiento",
+        "https://en.wikipedia.org/wiki/Casta"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.3-trap-0007",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.3",
+    "topic_title": "European Exploration in the Americas",
+    "learning_objective": "Explain the causes of exploration and conquest of the New World by various European nations.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which explorer sailed for France and explored the St. Lawrence River in the 1530s?",
+    "options": {
+      "A": "Jacques Cartier",
+      "B": "Henry Hudson, who explored the Hudson River",
+      "C": "Samuel de Champlain, who founded Quebec",
+      "D": "John Cabot, who sailed for England in 1497"
+    },
+    "correct": "A",
+    "explanation": "Cartier sailed up the St. Lawrence in the 1530s for France. Cabot was English, Hudson explored in 1609, and Champlain founded Quebec in 1608.",
+    "distractor_notes": {
+      "B": "Hudson's voyage was after 1600.",
+      "C": "Champlain was after Cartier.",
+      "D": "Cabot sailed for England."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.3"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Several early explorers of northern North America had similar roles.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Cabot, Hudson, and Champlain are all linked to northern waters, so students mix them up.",
+      "how_to_avoid": "Match each explorer to a river or region and a date."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Cartier",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Jacques_Cartier",
+        "https://en.wikipedia.org/wiki/Samuel_de_Champlain"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.3-trap-0008",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.3",
+    "topic_title": "European Exploration in the Americas",
+    "learning_objective": "Explain the causes of exploration and conquest of the New World by various European nations.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "England, Spain, and Roanoke (author-prepared timeline)\n| Year | Event |\n| 1584 | Queen Elizabeth I grants Walter Raleigh a patent to explore and settle lands “not actually possessed of any Christian Prince” |\n| 1585 | English settlers establish a colony on Roanoke Island |\n| 1587 | John White leads a second group of colonists to Roanoke |\n| 1588 | England defeats the Spanish Armada |\n| 1590 | White returns to Roanoke and finds the colony deserted |",
+      "citation": "Author-prepared timeline based on Avalon Project (Charter to Raleigh) and Wikipedia articles on Roanoke Colony and the Spanish Armada (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "A student claims that England's 1588 defeat of the Spanish Armada caused the disappearance of the Roanoke colonists. Which response is best?",
+    "options": {
+      "A": "The claim is correct because Spain's navy destroyed Roanoke after 1588",
+      "B": "The timeline shows the events were related in time, but it does not show that one caused the other",
+      "C": "The claim is incorrect because Roanoke was founded after the Armada's defeat",
+      "D": "The claim is correct because the Armada's defeat left the colony without supplies from Spain"
+    },
+    "correct": "B",
+    "explanation": "The timeline lists the Armada's defeat in 1588 and White's return in 1590, but it gives no evidence the Armada caused the colony's disappearance. Roanoke was founded before 1588 and England, not Spain, supplied it.",
+    "distractor_notes": {
+      "A": "No source shows Spain destroyed Roanoke.",
+      "C": "Roanoke began in 1585.",
+      "D": "Spain did not supply Roanoke."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.3",
+      "tbl_riv"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Two events occur close together in the timeline.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Because the events are near each other in time, students assume one caused the other.",
+      "how_to_avoid": "Ask whether the source shows a causal link or only the order of events."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Avalon Project; Wikipedia (Roanoke Colony, Spanish Armada)",
+      "url": "https://en.wikipedia.org/wiki/Roanoke_Colony",
+      "license": "CC BY-SA 4.0 / public domain (facts only; table or description text original)",
+      "attribution": "Facts from Tier A sources listed in verification.citations; stimulus written by the question author"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Spanish_Armada",
+        "https://en.wikipedia.org/wiki/Francis_Drake",
+        "https://en.wikipedia.org/wiki/Elizabeth_I",
+        "https://en.wikipedia.org/wiki/Roanoke_Colony"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.3-trap-0009",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.3",
+    "topic_title": "European Exploration in the Americas",
+    "learning_objective": "Explain the causes of exploration and conquest of the New World by various European nations.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Selected European voyages, 1492–1535 (author-prepared summary table)\n| Year | Commander | Sponsoring state | Result |\n| 1492 | Christopher Columbus | Spain | Reached the Caribbean (Bahamas, Cuba, Hispaniola) |\n| 1497 | John Cabot | England | Reached the North American coast |\n| 1498 | Vasco da Gama | Portugal | Reached Calicut (India) via the Cape of Good Hope |\n| 1534–35 | Jacques Cartier | France | Explored the St. Lawrence River as far as Hochelaga |",
+      "citation": "Author-prepared summary compiled from Wikipedia articles on Columbus, Cabot, da Gama, and Cartier (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement about the table is correct?",
+    "options": {
+      "A": "Cabot reached the St. Lawrence River for France in 1497",
+      "B": "Vasco da Gama reached the Caribbean for Portugal in 1498",
+      "C": "Vasco da Gama reached India for Portugal by sailing around Africa",
+      "D": "Columbus reached Calicut by sailing around Africa"
+    },
+    "correct": "C",
+    "explanation": "The table shows Vasco da Gama reached Calicut via the Cape of Good Hope for Portugal in 1498. The other options pair explorers with wrong results.",
+    "distractor_notes": {
+      "A": "Cabot sailed for England.",
+      "B": "Da Gama reached India, not the Caribbean.",
+      "D": "Columbus sailed west."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.3",
+      "tbl_voy"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The table includes four explorers with similar dates, results, and sponsors.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students may attach a result to the wrong row.",
+      "how_to_avoid": "Read across the entire row before choosing."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia (Columbus, Cabot, Vasco da Gama, Cartier articles)",
+      "url": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "license": "CC BY-SA 4.0 / public domain (facts only; table or description text original)",
+      "attribution": "Facts from Tier A sources listed in verification.citations; stimulus written by the question author"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Bartolomeu_Dias",
+        "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+        "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+        "https://en.wikipedia.org/wiki/Columbian_exchange",
+        "https://en.wikipedia.org/wiki/Christopher_Columbus",
+        "https://en.wikipedia.org/wiki/John_Cabot"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.4-trap-0001",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.4",
+    "topic_title": "Columbian Exchange, Spanish Exploration, and Conquest",
+    "learning_objective": "Explain causes of the Columbian Exchange and its effect on Europe and the Americas during the period after 1492.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "The Columbian Exchange (author-prepared summary)\n| Moved from the Americas to the Old World | Moved from the Old World to the Americas |\n| Maize, potatoes, tomatoes, tobacco | Wheat, sugar cane, rice |\n| Cacao | Horses, cattle, pigs, sheep |\n| (Probably) syphilis | Smallpox, measles, malaria |",
+      "citation": "Author-prepared summary based on Wikipedia, “Columbian exchange” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "Which statement about the table is accurate?",
+    "options": {
+      "A": "Tomatoes moved from the Old World to the Americas",
+      "B": "Tomatoes moved from the Americas to the Old World",
+      "C": "Wheat moved from the Americas to the Old World",
+      "D": "Horses moved from the Americas to the Old World"
+    },
+    "correct": "B",
+    "explanation": "The left column lists items moved from the Americas, including tomatoes. Wheat and horses are in the right column.",
+    "distractor_notes": {
+      "A": "The headings are reversed.",
+      "C": "Wheat came from the Old World.",
+      "D": "Horses came from the Old World."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.4",
+      "tbl_exch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The two column headings are easy to reverse.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students read quickly and reverse which column is the Americas.",
+      "how_to_avoid": "Read the column headings before matching items."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Columbian exchange",
+      "url": "https://en.wikipedia.org/wiki/Columbian_exchange",
+      "license": "CC BY-SA 4.0 / public domain (facts only; table or description text original)",
+      "attribution": "Facts from Tier A sources listed in verification.citations; stimulus written by the question author"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Atlantic_World",
+        "https://en.wikipedia.org/wiki/Columbian_exchange",
+        "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+        "https://en.wikipedia.org/wiki/Cattle"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.4-trap-0002",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.4",
+    "topic_title": "Columbian Exchange, Spanish Exploration, and Conquest",
+    "learning_objective": "Explain causes of the Columbian Exchange and its effect on Europe and the Americas during the period after 1492.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement is accurate about the Spanish conquests of the Aztec and Inca empires?",
+    "options": {
+      "A": "Pizarro conquered the Aztec Empire and Cortés conquered the Inca Empire",
+      "B": "Cortés conquered both empires within three years",
+      "C": "Cortés conquered the Aztecs and Pizarro conquered the Inca",
+      "D": "Ponce de León conquered the Aztec Empire and Pizarro conquered the Maya"
+    },
+    "correct": "C",
+    "explanation": "Cortés conquered the Aztec Empire (1519-1521), and Pizarro conquered the Inca (1532-1533).",
+    "distractor_notes": {
+      "A": "The leaders are reversed.",
+      "B": "Cortés did not conquer the Inca.",
+      "D": "Ponce de León explored Florida."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The names of the two conquistadors are often swapped.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Cortés and Pizarro are similar in era and style, so students mix their conquests.",
+      "how_to_avoid": "Link Cortés with Mexico (Aztec) and Pizarro with Peru (Inca)."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.nps.gov/deso/learn/historyculture/index.htm",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.nps.gov/deso/learn/historyculture/index.htm",
+        "https://en.wikipedia.org/wiki/Atahualpa",
+        "https://www.gutenberg.org/ebooks/32474",
+        "https://www.gutenberg.org/ebooks/46524"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.4-trap-0003",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.4",
+    "topic_title": "Columbian Exchange, Spanish Exploration, and Conquest",
+    "learning_objective": "Explain causes of the Columbian Exchange and its effect on Europe and the Americas during the period after 1492.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student argues that because Native populations declined after the conquest, Spanish battles must have killed most Native people. Which response is best?",
+    "options": {
+      "A": "The argument is correct because battle deaths were far greater than disease deaths",
+      "B": "The argument is correct because Spanish soldiers greatly outnumbered Native armies",
+      "C": "The argument is incorrect because the Native population increased after the conquest",
+      "D": "Disease caused most of the decline, so the battle conclusion is not supported"
+    },
+    "correct": "D",
+    "explanation": "Disease killed far more people than battles, so the timing of the decline does not prove that warfare caused it.",
+    "distractor_notes": {
+      "A": "Disease caused the larger share.",
+      "B": "Spanish soldiers were usually outnumbered.",
+      "C": "Populations declined."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "A decline in population followed the conquest, but the cause was something else.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Because the decline followed the conquest, students assume warfare was the cause.",
+      "how_to_avoid": "Ask what other developments occurred at the same time, such as epidemics."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Atlantic_World",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Atlantic_World",
+        "https://en.wikipedia.org/wiki/Aztec_Empire",
+        "https://en.wikipedia.org/wiki/Acoma_Pueblo",
+        "https://en.wikipedia.org/wiki/Atlantic_slave_trade"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.4-trap-0004",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.4",
+    "topic_title": "Columbian Exchange, Spanish Exploration, and Conquest",
+    "learning_objective": "Explain causes of the Columbian Exchange and its effect on Europe and the Americas during the period after 1492.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence of events is in the correct chronological order?",
+    "options": {
+      "A": "Fall of Tenochtitlan, capture of Atahualpa, silver mining at Potosí",
+      "B": "Capture of Atahualpa, fall of Tenochtitlan, silver mining at Potosí",
+      "C": "Silver mining at Potosí, fall of Tenochtitlan, capture of Atahualpa",
+      "D": "Fall of Tenochtitlan, silver mining at Potosí, capture of Atahualpa"
+    },
+    "correct": "A",
+    "explanation": "Tenochtitlan fell in 1521, Atahualpa was captured in 1532, and Potosí's silver mining began after the 1540s.",
+    "distractor_notes": {
+      "B": "Atahualpa came after Tenochtitlan.",
+      "C": "Potosí came last.",
+      "D": "Silver mining followed the conquests."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "The Aztec and Inca conquests are close in time.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students remember both conquests but reverse the order.",
+      "how_to_avoid": "Anchor the dates: 1521, 1532, mid-1500s."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Aztec_Empire",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Aztec_Empire",
+        "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+        "https://www.nps.gov/deso/learn/historyculture/index.htm",
+        "https://en.wikipedia.org/wiki/Atahualpa",
+        "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire",
+        "https://en.wikipedia.org/wiki/Mit%27a"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.4-trap-0005",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.4",
+    "topic_title": "Columbian Exchange, Spanish Exploration, and Conquest",
+    "learning_objective": "Explain causes of the Columbian Exchange and its effect on Europe and the Americas during the period after 1492.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT brought to the Americas from the Old World?",
+    "options": {
+      "A": "Wheat",
+      "B": "Maize",
+      "C": "Smallpox",
+      "D": "Horses"
+    },
+    "correct": "B",
+    "explanation": "Maize was domesticated in the Americas. Horses, wheat, and smallpox came from the Old World.",
+    "distractor_notes": {
+      "A": "Wheat came from the Old World.",
+      "C": "Smallpox came from the Old World.",
+      "D": "Horses came from the Old World."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A NOT question reverses the usual selection.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students search for the item that came from Europe and pick the first one they recognize.",
+      "how_to_avoid": "Circle NOT, then eliminate the three Old World items."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/77820",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/77820",
+        "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+        "https://en.wikipedia.org/wiki/Cattle"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.4-trap-0006",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.4",
+    "topic_title": "Columbian Exchange, Spanish Exploration, and Conquest",
+    "learning_objective": "Explain causes of the Columbian Exchange and its effect on Europe and the Americas during the period after 1492.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student writes that the Spanish conquered the Aztecs only because of superior weapons. Which response best evaluates this claim?",
+    "options": {
+      "A": "It is accurate because Spain had a larger army",
+      "B": "It is inaccurate because Spanish weapons played no role",
+      "C": "It oversimplifies, because disease and Native allies also contributed",
+      "D": "It is accurate because the Aztecs had no weapons"
+    },
+    "correct": "C",
+    "explanation": "Weapons mattered, but epidemic disease and Native allies were also important.",
+    "distractor_notes": {
+      "A": "The Spanish army was small.",
+      "B": "Weapons did matter.",
+      "D": "The Aztecs had weapons."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The word only turns a partly true claim into a false claim.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Spanish weapons mattered, so students accept the claim.",
+      "how_to_avoid": "Watch for the word only and test whether other causes are documented."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/46524",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/46524",
+        "https://en.wikipedia.org/wiki/Aztec_Empire",
+        "https://www.gutenberg.org/ebooks/32474",
+        "https://en.wikipedia.org/wiki/Atlantic_World"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.4-trap-0007",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.4",
+    "topic_title": "Columbian Exchange, Spanish Exploration, and Conquest",
+    "learning_objective": "Explain causes of the Columbian Exchange and its effect on Europe and the Americas during the period after 1492.",
+    "skill": "Contextualization",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the Columbian Exchange is most accurate?",
+    "options": {
+      "A": "It moved diseases from the Americas to Europe but not the reverse",
+      "B": "It involved only the movement of gold and silver",
+      "C": "It moved crops from Europe to the Americas but not from the Americas to Europe",
+      "D": "It moved crops, animals, and diseases in both directions between hemispheres"
+    },
+    "correct": "D",
+    "explanation": "The exchange included American crops such as maize and potatoes and European crops and animals. Diseases also moved in both directions.",
+    "distractor_notes": {
+      "A": "Smallpox moved west.",
+      "B": "More than metals moved.",
+      "C": "American crops reached Europe."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.4"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Each wrong option describes part of the exchange but leaves out the rest.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students remember wheat and horses and think the movement went one way.",
+      "how_to_avoid": "Check for both directions: maize and potatoes moved east, wheat and horses moved west."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Atlantic_World",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Atlantic_World",
+        "https://en.wikipedia.org/wiki/Columbian_exchange",
+        "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+        "https://en.wikipedia.org/wiki/Cattle"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.4-trap-0008",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.4",
+    "topic_title": "Columbian Exchange, Spanish Exploration, and Conquest",
+    "learning_objective": "Explain causes of the Columbian Exchange and its effect on Europe and the Americas during the period after 1492.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Spanish conquest of two empires (author-prepared summary)\n| Empire | Capital | Spanish leader | Date of fall of the capital |\n| Aztec (Mexica) | Tenochtitlan | Hernán Cortés | 1521 |\n| Inca | Cuzco | Francisco Pizarro | 1533 |",
+      "citation": "Author-prepared summary based on Wikipedia articles on the Spanish conquest of the Aztec and Inca empires (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "According to the table, the Inca capital fell in",
+    "options": {
+      "A": "1533",
+      "B": "1492",
+      "C": "1565",
+      "D": "1521"
+    },
+    "correct": "A",
+    "explanation": "The table lists 1521 for the Aztec capital and 1533 for Cuzco. 1492 and 1565 are unrelated.",
+    "distractor_notes": {
+      "B": "1492 is Columbus's first voyage.",
+      "C": "1565 is the founding of St. Augustine.",
+      "D": "1521 belongs to the Aztec capital."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.4",
+      "tbl_conq"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "The two dates in the table are easily swapped.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students attach the first date in the table to the wrong empire.",
+      "how_to_avoid": "Match each row's empire and date before answering."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia (Spanish conquest of the Aztec Empire; of the Inca Empire)",
+      "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+      "license": "CC BY-SA 4.0 / public domain (facts only; table or description text original)",
+      "attribution": "Facts from Tier A sources listed in verification.citations; stimulus written by the question author"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Aztec_Empire",
+        "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+        "https://www.gutenberg.org/ebooks/2272",
+        "https://www.gutenberg.org/ebooks/42841",
+        "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.5-trap-0001",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.5",
+    "topic_title": "Labor, Slavery, and Caste in the Spanish Colonial System",
+    "learning_objective": "Explain how the growth of the Spanish Empire in North America shaped the development of social and economic structures over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Las Casas and Sepúlveda is accurate?",
+    "options": {
+      "A": "Las Casas defended Native peoples; Sepúlveda defended conquest",
+      "B": "Las Casas argued that conquest was justified while Sepúlveda defended Native peoples",
+      "C": "Both men argued that Native peoples should be enslaved",
+      "D": "Both men argued that Spain should leave the Americas"
+    },
+    "correct": "A",
+    "explanation": "Las Casas criticized abuses and defended Native rights, while Sepúlveda argued Native peoples were inferior and could be conquered.",
+    "distractor_notes": {
+      "B": "The positions are reversed.",
+      "C": "Las Casas opposed enslavement.",
+      "D": "Neither argued Spain should leave."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Two figures in the same debate are easily reversed.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Both names are unfamiliar and appear together, so students swap the positions.",
+      "how_to_avoid": "Link Las Casas with defense of Native peoples and Sepúlveda with justification of conquest."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/36924",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/36924",
+        "https://en.wikipedia.org/wiki/P%C3%A1nfilo_de_Narv%C3%A1ez",
+        "https://en.wikipedia.org/wiki/Black_Legend",
+        "https://en.wikipedia.org/wiki/Juan_Gin%C3%A9s_de_Sep%C3%BAlveda"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.5-trap-0002",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.5",
+    "topic_title": "Labor, Slavery, and Caste in the Spanish Colonial System",
+    "learning_objective": "Explain how the growth of the Spanish Empire in North America shaped the development of social and economic structures over time.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in the correct chronological order?",
+    "options": {
+      "A": "New Laws, Laws of Burgos, Valladolid debate",
+      "B": "Laws of Burgos, New Laws, Valladolid debate",
+      "C": "Valladolid debate, Laws of Burgos, New Laws",
+      "D": "Laws of Burgos, Valladolid debate, New Laws"
+    },
+    "correct": "B",
+    "explanation": "The Laws of Burgos were issued in 1512, the New Laws in 1542, and the Valladolid debate occurred in 1550-1551.",
+    "distractor_notes": {
+      "A": "The New Laws came after Burgos.",
+      "C": "The debate came last.",
+      "D": "The New Laws came before the debate."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Three Spanish reform efforts are close in theme and easy to reorder.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember that they are all about Native treatment but not their dates.",
+      "how_to_avoid": "Anchor the dates: 1512, 1542, 1550-1551."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Black_Legend",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Black_Legend",
+        "https://en.wikipedia.org/wiki/Encomienda",
+        "https://en.wikipedia.org/wiki/Council_of_the_Indies",
+        "https://www.gutenberg.org/ebooks/36924",
+        "https://en.wikipedia.org/wiki/P%C3%A1nfilo_de_Narv%C3%A1ez"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.5-trap-0003",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.5",
+    "topic_title": "Labor, Slavery, and Caste in the Spanish Colonial System",
+    "learning_objective": "Explain how the growth of the Spanish Empire in North America shaped the development of social and economic structures over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement correctly distinguishes the encomienda from the repartimiento?",
+    "options": {
+      "A": "The encomienda used rotating paid drafts, while the repartimiento granted a colonist permanent control of a group of workers",
+      "B": "The two systems were identical in every way except for their names",
+      "C": "The encomienda granted labor and tribute, while the repartimiento used rotating paid drafts",
+      "D": "The repartimiento was a system of African slavery in the Caribbean"
+    },
+    "correct": "C",
+    "explanation": "The encomienda gave a colonist labor and tribute from Native people, whereas the repartimiento was a rotating draft of workers who were paid.",
+    "distractor_notes": {
+      "A": "The features are reversed.",
+      "B": "They differed.",
+      "D": "It involved Native workers."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Both labor systems involved Native workers, so the details are easily mixed up.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students recognize the two terms but reverse their features.",
+      "how_to_avoid": "Match each term to its feature: encomienda is a grant; repartimiento is a rotating draft."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Atlantic_World",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Atlantic_World",
+        "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+        "https://www.gutenberg.org/ebooks/12425",
+        "https://en.wikipedia.org/wiki/Encomienda"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.5-trap-0004",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.5",
+    "topic_title": "Labor, Slavery, and Caste in the Spanish Colonial System",
+    "learning_objective": "Explain how the growth of the Spanish Empire in North America shaped the development of social and economic structures over time.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student writes, 'All Spanish colonists obeyed the New Laws of 1542.' Which response best evaluates the claim?",
+    "options": {
+      "A": "It is correct because colonists supported every royal decision from Spain",
+      "B": "It is correct because the New Laws ended the encomienda immediately everywhere",
+      "C": "It is incorrect because the Crown never issued the New Laws at all",
+      "D": "It is incorrect, since colonists protested and the Crown revised the laws"
+    },
+    "correct": "D",
+    "explanation": "Colonists resisted and rebelled, and the Crown revised parts of the laws.",
+    "distractor_notes": {
+      "A": "Colonists resisted.",
+      "B": "The encomienda continued.",
+      "C": "The Crown did issue the laws."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The word all turns a partly true claim into a false one.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The New Laws were issued by the Crown, so students assume they were obeyed.",
+      "how_to_avoid": "Watch for the word all and check whether the sources show resistance."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/50448",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/50448",
+        "https://www.gutenberg.org/ebooks/3600"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.5-trap-0005",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.5",
+    "topic_title": "Labor, Slavery, and Caste in the Spanish Colonial System",
+    "learning_objective": "Explain how the growth of the Spanish Empire in North America shaped the development of social and economic structures over time.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT a category in the Spanish colonial caste hierarchy?",
+    "options": {
+      "A": "Freeholders",
+      "B": "Mestizos",
+      "C": "Criollos",
+      "D": "Peninsulares"
+    },
+    "correct": "A",
+    "explanation": "Peninsulares, criollos, and mestizos were categories. Freeholders was not a category in the system.",
+    "distractor_notes": {
+      "B": "Mestizos were a category.",
+      "C": "Criollos were a category.",
+      "D": "Peninsulares were a category."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A NOT question requires finding the item that does not belong.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students look for a familiar term and pick it without noticing the reversal.",
+      "how_to_avoid": "Underline NOT and eliminate the three terms from the hierarchy."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Criollo_people",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Criollo_people",
+        "https://en.wikipedia.org/wiki/Mestizo",
+        "https://www.gutenberg.org/ebooks/50448",
+        "https://en.wikipedia.org/wiki/Casta"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.5-trap-0006",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.5",
+    "topic_title": "Labor, Slavery, and Caste in the Spanish Colonial System",
+    "learning_objective": "Explain how the growth of the Spanish Empire in North America shaped the development of social and economic structures over time.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student notes that the Native population of Spanish America fell as the encomienda and the mita expanded, and concludes that these labor systems were the only cause of the decline. Which response is best?",
+    "options": {
+      "A": "The conclusion is correct because the population decline began only after 1600",
+      "B": "Labor mattered, but disease was also a major cause, so the claim is too narrow",
+      "C": "The conclusion is wrong because the labor systems had no effect on Native deaths",
+      "D": "The conclusion is correct because disease played no role in the decline of Native peoples"
+    },
+    "correct": "B",
+    "explanation": "Harsh labor increased deaths, but epidemics killed many Native people. Evidence of timing alone does not prove a single cause.",
+    "distractor_notes": {
+      "A": "The decline began in the early 1500s.",
+      "C": "The labor systems did have an effect.",
+      "D": "Disease played a major role."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "Two developments occurred together, so one is assumed to be the only cause.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Labor systems were harsh and happened at the same time, so students ignore epidemics.",
+      "how_to_avoid": "Ask whether other causes, such as disease, were also present."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/20321",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/20321",
+        "https://en.wikipedia.org/wiki/Afro-Latin_Americans",
+        "https://en.wikipedia.org/wiki/Atlantic_World",
+        "https://en.wikipedia.org/wiki/Columbian_exchange"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.5-trap-0007",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.5",
+    "topic_title": "Labor, Slavery, and Caste in the Spanish Colonial System",
+    "learning_objective": "Explain how the growth of the Spanish Empire in North America shaped the development of social and economic structures over time.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "Labor systems in Spanish America (author-prepared summary)\n| System | Basic features |\n| Encomienda | A Spanish colonist (encomendero) received the right to labor and tribute from a group of Indigenous people; rooted in Reconquista practice |\n| New Laws of 1542 | Crown attempt to restrict the encomienda; Las Casas helped bring them about |\n| Repartimiento | Rotating draft of Indigenous workers, who were paid wages; not slavery in the strict sense |",
+      "citation": "Author-prepared summary based on Wikipedia, “Encomienda” and “Repartimiento” (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "According to the table, what was the repartimiento?",
+    "options": {
+      "A": "A Crown law that restricted the encomienda in 1542",
+      "B": "A system in which Indigenous workers were owned as property by colonists",
+      "C": "A rotating draft of Indigenous workers who were paid wages",
+      "D": "A grant of Indigenous labor and tribute to a colonist for his service"
+    },
+    "correct": "C",
+    "explanation": "The table describes the repartimiento as a rotating draft of paid workers. The encomienda is described in the row above, and the New Laws in the row after.",
+    "distractor_notes": {
+      "A": "That is the New Laws.",
+      "B": "The table says it was not strictly slavery.",
+      "D": "That is the encomienda."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.5",
+      "tbl_labor"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The table lists three labor systems in separate rows.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students read the wrong row and match the encomienda description.",
+      "how_to_avoid": "Match each term to its own row."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Wikipedia: Encomienda; Repartimiento",
+      "url": "https://en.wikipedia.org/wiki/Encomienda",
+      "license": "CC BY-SA 4.0 / public domain (facts only; table or description text original)",
+      "attribution": "Facts from Tier A sources listed in verification.citations; stimulus written by the question author"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/12425",
+        "https://en.wikipedia.org/wiki/Encomienda",
+        "https://en.wikipedia.org/wiki/Hacienda",
+        "https://en.wikipedia.org/wiki/Repartimiento"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.5-trap-0008",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.5",
+    "topic_title": "Labor, Slavery, and Caste in the Spanish Colonial System",
+    "learning_objective": "Explain how the growth of the Spanish Empire in North America shaped the development of social and economic structures over time.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about slavery in Spanish America is most accurate?",
+    "options": {
+      "A": "Spanish colonists enslaved only Africans from the first voyage of Columbus onward",
+      "B": "Slavery did not exist in Spanish America",
+      "C": "Spanish colonists enslaved only Native peoples, since Africans arrived later in the English colonies of Virginia",
+      "D": "Spanish colonists enslaved Native peoples and Africans, and the use of Africans grew as Native numbers fell"
+    },
+    "correct": "D",
+    "explanation": "Spain enslaved Native peoples and, increasingly, Africans in the Caribbean, Mexico, and the Andes.",
+    "distractor_notes": {
+      "A": "Native peoples were also enslaved.",
+      "B": "Slavery existed.",
+      "C": "Africans were enslaved in Spanish America."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.5"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students often associate African slavery only with English colonies.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The English plantation system dominates textbooks, so Spanish slavery is overlooked.",
+      "how_to_avoid": "Remember that Spain used enslaved Africans in the Caribbean and Spanish America from the early 1500s."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Atlantic_World",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Atlantic_World",
+        "https://en.wikipedia.org/wiki/Columbian_exchange",
+        "https://www.gutenberg.org/ebooks/20321",
+        "https://en.wikipedia.org/wiki/Afro-Latin_Americans"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.6-trap-0001",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.6",
+    "topic_title": "Cultural Interactions Between Europeans, Native Americans, and Africans",
+    "learning_objective": "Explain how and why European and Native American perspectives of others developed and changed in the period.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about Spanish missions is most accurate?",
+    "options": {
+      "A": "They existed only to protect Native peoples from Spanish settlers",
+      "B": "They were run by Protestant ministers from northern Europe",
+      "C": "They had no connection to Spanish colonial rule",
+      "D": "They aimed to convert Native peoples and also served Spanish control"
+    },
+    "correct": "D",
+    "explanation": "Missions sought conversion and also brought Native peoples into Spanish society and labor systems.",
+    "distractor_notes": {
+      "A": "Missions often benefited Spain.",
+      "B": "They were Catholic.",
+      "C": "They were part of colonial rule."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "A mission was religious, but it was also tied to empire.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember the religious purpose and miss the political role.",
+      "how_to_avoid": "Look for options that capture both religion and imperial control."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/77820",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/77820",
+        "https://www.gutenberg.org/ebooks/3600",
+        "https://www.gutenberg.org/ebooks/32474",
+        "https://en.wikipedia.org/wiki/Atlantic_slave_trade"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.6-trap-0002",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.6",
+    "topic_title": "Cultural Interactions Between Europeans, Native Americans, and Africans",
+    "learning_objective": "Explain how and why European and Native American perspectives of others developed and changed in the period.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "“Our method was to bless the sick, breathing upon them, and recite a Pater-noster and an Ave-Maria, praying with all earnestness to God our Lord that he would give health and influence them to make us some good return . . . For this the Indians treated us kindly; they deprived themselves of food that they might give to us”",
+      "citation": "Álvar Núñez Cabeza de Vaca, Relación (1542), 1871 English translation by Buckingham Smith, in Spanish Explorers in the Southern United States, 1528-1543 (ed. F. W. Hodge), Project Gutenberg #42841",
+      "asset_path": null
+    },
+    "question": "Which statement is supported by the passage?",
+    "options": {
+      "A": "Native peoples shared food with the party",
+      "B": "Spanish soldiers shared their food with Native peoples",
+      "C": "Native peoples attacked the party for its food supplies",
+      "D": "The party grew its own crops"
+    },
+    "correct": "A",
+    "explanation": "The passage says the Indians deprived themselves of food to give it to the Spaniards.",
+    "distractor_notes": {
+      "B": "The roles are reversed.",
+      "C": "No attack is described.",
+      "D": "No farming is described."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.6",
+      "cabeza1"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "A hurried reader may reverse who gave help to whom.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students assume Europeans were the helpers and Native peoples the receivers.",
+      "how_to_avoid": "Check the subject of each sentence."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Project Gutenberg #42841: Spanish Explorers in the Southern United States, 1528-1543",
+      "url": "https://www.gutenberg.org/ebooks/42841",
+      "license": "Public domain",
+      "attribution": "Project Gutenberg #42841: Spanish Explorers in the Southern United States, 1528-1543"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/42841",
+        "https://www.gutenberg.org/ebooks/50448"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.6-trap-0003",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.6",
+    "topic_title": "Cultural Interactions Between Europeans, Native Americans, and Africans",
+    "learning_objective": "Explain how and why European and Native American perspectives of others developed and changed in the period.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student writes, 'All Native peoples fought Spanish rule and none accepted Christianity.' Which response best evaluates the claim?",
+    "options": {
+      "A": "It is accurate because every Native group resisted from the first contact",
+      "B": "It is inaccurate, since some Native groups allied with Spain and others adopted Christian practices",
+      "C": "It is accurate because Spain never founded missions",
+      "D": "It is inaccurate because no Native people resisted"
+    },
+    "correct": "B",
+    "explanation": "The Tlaxcalans allied with Cortés, and many Native people adopted Catholic practices, while others resisted at Acoma and Tiguex.",
+    "distractor_notes": {
+      "A": "Not every group resisted.",
+      "C": "Spain founded missions.",
+      "D": "Some groups resisted."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The words all and none turn the claim into an overgeneralization.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Resistance was real, so students accept an absolute claim.",
+      "how_to_avoid": "Look for words like all, none, and every, and test them against examples."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/46524",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/46524",
+        "https://en.wikipedia.org/wiki/Aztec_Empire",
+        "https://en.wikipedia.org/wiki/Black_Legend",
+        "https://en.wikipedia.org/wiki/Criollo_people",
+        "https://en.wikipedia.org/wiki/Acoma_Pueblo",
+        "https://en.wikipedia.org/wiki/Juan_de_O%C3%B1ate"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.6-trap-0004",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.6",
+    "topic_title": "Cultural Interactions Between Europeans, Native Americans, and Africans",
+    "learning_objective": "Explain how and why European and Native American perspectives of others developed and changed in the period.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which person is correctly matched with their role in early Spanish exploration?",
+    "options": {
+      "A": "Cabeza de Vaca guided a 1539 expedition toward Zuni; Esteban founded St. Augustine",
+      "B": "Esteban conquered the Aztecs; Cabeza de Vaca conquered the Inca",
+      "C": "Esteban guided a 1539 expedition toward Zuni; Cabeza de Vaca wrote of his travels",
+      "D": "Cabeza de Vaca led the French at Fort Caroline; Esteban led the English at Roanoke"
+    },
+    "correct": "C",
+    "explanation": "Esteban guided Fray Marcos de Niza in 1539, while Cabeza de Vaca wrote about his travels.",
+    "distractor_notes": {
+      "A": "Menéndez founded St. Augustine.",
+      "B": "Cortés and Pizarro conquered the empires.",
+      "D": "Fort Caroline was French and Roanoke was English."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Two survivors of the same expedition have similar stories.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both men are linked to the Narváez expedition, so students swap them.",
+      "how_to_avoid": "Link Esteban to Fray Marcos and Zuni, and Cabeza de Vaca to his written account."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://www.gutenberg.org/ebooks/50448",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/50448",
+        "https://en.wikipedia.org/wiki/Acoma_Pueblo",
+        "https://www.gutenberg.org/ebooks/42841"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.6-trap-0005",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.6",
+    "topic_title": "Cultural Interactions Between Europeans, Native Americans, and Africans",
+    "learning_objective": "Explain how and why European and Native American perspectives of others developed and changed in the period.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in the correct chronological order?",
+    "options": {
+      "A": "Acoma attack, Tiguex War, Guadalupe apparition",
+      "B": "Guadalupe apparition, Acoma attack, Tiguex War",
+      "C": "Tiguex War, Guadalupe apparition, Acoma attack",
+      "D": "Guadalupe apparition (1531), Tiguex War (1540–41), Acoma attack (1599)"
+    },
+    "correct": "D",
+    "explanation": "The Guadalupe apparition was reported in 1531, the Tiguex War occurred in 1540-1541, and Oñate attacked Acoma in January 1599.",
+    "distractor_notes": {
+      "A": "The Acoma attack was last.",
+      "B": "Tiguex preceded Acoma.",
+      "C": "The apparition was first."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Three cultural events from the 1500s are easily mixed.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students recall the events but not the sequence.",
+      "how_to_avoid": "Anchor the dates: 1531, 1540-41, 1599."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe",
+        "https://www.gutenberg.org/ebooks/50448",
+        "https://www.gutenberg.org/ebooks/42841",
+        "https://en.wikipedia.org/wiki/Acoma_Pueblo",
+        "https://en.wikipedia.org/wiki/Juan_de_O%C3%B1ate"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.6-trap-0006",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.6",
+    "topic_title": "Cultural Interactions Between Europeans, Native Americans, and Africans",
+    "learning_objective": "Explain how and why European and Native American perspectives of others developed and changed in the period.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT a cultural effect of Spanish colonization on Native peoples?",
+    "options": {
+      "A": "The end of all Indigenous languages",
+      "B": "The development of mestizo communities in New Spain",
+      "C": "The blending of religious festivals",
+      "D": "The spread of Catholic missions and practices"
+    },
+    "correct": "A",
+    "explanation": "Many Indigenous languages and customs survived and blended with Spanish ones. Missions, mestizo communities, and blended festivals were effects.",
+    "distractor_notes": {
+      "B": "Mestizo communities grew.",
+      "C": "Festivals blended.",
+      "D": "Missions spread."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A NOT question requires finding the claim that is false.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students choose a familiar effect and ignore the reversal.",
+      "how_to_avoid": "Underline NOT and eliminate the three true effects."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Black_Legend",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Black_Legend",
+        "https://en.wikipedia.org/wiki/Criollo_people",
+        "https://en.wikipedia.org/wiki/Afro-Latin_Americans",
+        "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.6-trap-0007",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.6",
+    "topic_title": "Cultural Interactions Between Europeans, Native Americans, and Africans",
+    "learning_objective": "Explain how and why European and Native American perspectives of others developed and changed in the period.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student argues that because many Native people attended Catholic services, they must have abandoned all older beliefs. Which response is best?",
+    "options": {
+      "A": "The claim is correct because Native peoples had no religion before Spain",
+      "B": "Attendance alone does not show that older beliefs ended; many blended practices",
+      "C": "The claim is incorrect because Native people never attended church",
+      "D": "The claim is correct because Spain forced a complete break with all older beliefs"
+    },
+    "correct": "B",
+    "explanation": "Syncretism shows that people often combined practices, so church attendance alone does not prove they abandoned older beliefs.",
+    "distractor_notes": {
+      "A": "Native peoples had religions.",
+      "C": "Some people attended church.",
+      "D": "Spain did not erase all beliefs."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.6"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "One observed behavior is taken as proof of a complete change in belief.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students treat participation as evidence of full conversion.",
+      "how_to_avoid": "Ask whether the evidence shows a single cause or only a related change."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Black_Legend",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Black_Legend",
+        "https://en.wikipedia.org/wiki/Criollo_people",
+        "https://www.gutenberg.org/ebooks/36924"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.6-trap-0008",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.6",
+    "topic_title": "Cultural Interactions Between Europeans, Native Americans, and Africans",
+    "learning_objective": "Explain how and why European and Native American perspectives of others developed and changed in the period.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "text",
+      "content": "Describing Hernando de Soto's demand on a Native leader in the Southeast (1540): “At the time of his departure, by the importunity of some, which would have more than was reason, he demanded of the cacique thirty women to make slaves of. He answered that he would confer with his chief men. And before he returned an answer, one night all of them with their wives and children forsook the town, and fled away”",
+      "citation": "A Gentleman of Elvas, True Relation of the Hardships Suffered by Governor Fernando de Soto (published 1557), Hakluyt's 1609 English translation, Project Gutenberg #34997",
+      "asset_path": null
+    },
+    "question": "In the passage, what did De Soto demand from the Native leader?",
+    "options": {
+      "A": "Thirty baskets of corn for the journey",
+      "B": "Thirty guides to lead him to the sea",
+      "C": "Thirty women to make slaves of",
+      "D": "Thirty warriors to join his army"
+    },
+    "correct": "C",
+    "explanation": "The text says De Soto demanded thirty women to make slaves of.",
+    "distractor_notes": {
+      "A": "Corn is not mentioned.",
+      "B": "Guides are not mentioned.",
+      "D": "Warriors are not mentioned."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.6",
+      "elv2"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The options use the same number with different demands.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students remember the number thirty but not what was demanded.",
+      "how_to_avoid": "Reread the exact demand in the passage."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Project Gutenberg #34997: Narrative of the expedition of Hernando de Soto into Florida (Gentleman of Elvas)",
+      "url": "https://www.gutenberg.org/ebooks/34997",
+      "license": "Public domain",
+      "attribution": "Project Gutenberg #34997: Narrative of the expedition of Hernando de Soto into Florida (Gentleman of Elvas)"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://www.gutenberg.org/ebooks/34997",
+        "https://www.gutenberg.org/ebooks/50448"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.7-trap-0001",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.7",
+    "topic_title": "Causation in Period 1",
+    "learning_objective": "Explain the effects of the development of transatlantic voyages from 1491 to 1607.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement correctly distinguishes the Treaty of Alcáçovas (1479) from the Treaty of Tordesillas (1494)?",
+    "options": {
+      "A": "Alcáçovas divided the Americas; Tordesillas settled claims about Africa",
+      "B": "Both treaties divided North America between England and Spain",
+      "C": "Alcáçovas settled claims about Africa and the Atlantic islands; Tordesillas divided newly found lands west of Africa",
+      "D": "Alcáçovas created the Spanish treasure fleets; Tordesillas created the encomienda"
+    },
+    "correct": "C",
+    "explanation": "Alcáçovas recognized Portuguese rights in Guinea and left the Canary Islands to Castile. Tordesillas drew a line that gave Portugal Brazil and Spain most of the rest of the Americas.",
+    "distractor_notes": {
+      "A": "The treaties are reversed.",
+      "B": "England was not a party.",
+      "D": "Neither treaty created those institutions."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Two treaties between Spain and Portugal are often confused.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Both involve Spain and Portugal and the Atlantic, so students swap them.",
+      "how_to_avoid": "Link Alcáçovas to 1479 and the African coast, Tordesillas to 1494 and a line west of Cape Verde."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://avalon.law.yale.edu/15th_century/sppo01.asp",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/15th_century/sppo01.asp",
+        "https://en.wikipedia.org/wiki/Treaty_of_Alc%C3%A1%C3%A7ovas",
+        "https://avalon.law.yale.edu/15th_century/mod001.asp",
+        "https://www.gutenberg.org/ebooks/12425"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.7-trap-0002",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.7",
+    "topic_title": "Causation in Period 1",
+    "learning_objective": "Explain the effects of the development of transatlantic voyages from 1491 to 1607.",
+    "skill": "Contextualization",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student writes, 'Columbus sailed in 1492 because Constantinople fell in 1453.' Which response is best?",
+    "options": {
+      "A": "The claim is correct because the Ottoman capture was the only cause of European exploration",
+      "B": "The claim is correct because Constantinople's fall forced Spain to explore",
+      "C": "The claim is incorrect because the Ottoman Empire had no effect on trade",
+      "D": "The Ottoman capture was one factor, but Portuguese competition, Spanish unification, and navigation advances also mattered"
+    },
+    "correct": "D",
+    "explanation": "Ottoman power influenced trade, but many factors, including Spanish ambition and Portuguese models, led to Columbus's voyage.",
+    "distractor_notes": {
+      "A": "It was not the only cause.",
+      "B": "It did not force Spain.",
+      "C": "It did affect trade."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "correlation_causation",
+      "trap_description": "One earlier event is treated as the sole cause of a later one.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Dates show an order, so students assume a direct and only cause.",
+      "how_to_avoid": "Look for multiple causes and avoid a single-cause explanation."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Christopher_Columbus",
+        "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+        "https://avalon.law.yale.edu/15th_century/mod002.asp",
+        "https://avalon.law.yale.edu/15th_century/mod001.asp",
+        "https://avalon.law.yale.edu/15th_century/colum.asp",
+        "https://www.gutenberg.org/ebooks/12425"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.7-trap-0003",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.7",
+    "topic_title": "Causation in Period 1",
+    "learning_objective": "Explain the effects of the development of transatlantic voyages from 1491 to 1607.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which sequence is in the correct chronological order?",
+    "options": {
+      "A": "Constantinople falls, Dias rounds Africa, Columbus sails, Tordesillas is signed",
+      "B": "Dias rounds Africa, Constantinople falls, Tordesillas is signed, Columbus sails",
+      "C": "Columbus sails, Constantinople falls, Dias rounds Africa, Tordesillas is signed",
+      "D": "Constantinople falls, Columbus sails, Dias rounds Africa, Tordesillas is signed"
+    },
+    "correct": "A",
+    "explanation": "The Ottomans captured Constantinople in 1453, Dias rounded Africa in 1488, Columbus sailed in 1492, and Tordesillas was signed in 1494.",
+    "distractor_notes": {
+      "B": "Dias came after Constantinople.",
+      "C": "Columbus came after Constantinople.",
+      "D": "Dias came before Columbus."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "chronology_swap",
+      "trap_description": "Four events from 1453 to 1494 are easily reordered.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students remember the events but not the sequence of dates.",
+      "how_to_avoid": "Anchor the dates: 1453, 1488, 1492, 1494."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Christopher_Columbus",
+        "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+        "https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral",
+        "https://avalon.law.yale.edu/15th_century/mod002.asp",
+        "https://avalon.law.yale.edu/15th_century/mod001.asp"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.7-trap-0004",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.7",
+    "topic_title": "Causation in Period 1",
+    "learning_objective": "Explain the effects of the development of transatlantic voyages from 1491 to 1607.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the effects of the voyages is most accurate?",
+    "options": {
+      "A": "They brought benefits to Native peoples and Europeans equally",
+      "B": "They brought wealth to some Europeans and caused severe population loss for many Native peoples",
+      "C": "They harmed Europeans while benefiting Native peoples",
+      "D": "They had little effect on any society"
+    },
+    "correct": "B",
+    "explanation": "The voyages enriched some Europeans and brought disease and forced labor to many Native peoples.",
+    "distractor_notes": {
+      "A": "Effects were unequal.",
+      "C": "Europeans gained wealth.",
+      "D": "The effects were large."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Each wrong option oversimplifies the effects.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students remember benefits for Europe and ignore Native losses, or the reverse.",
+      "how_to_avoid": "Check for effects on each group before choosing."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/%C3%81lvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/%C3%81lvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca",
+        "https://en.wikipedia.org/wiki/Christopher_Columbus",
+        "https://en.wikipedia.org/wiki/Spanish_treasure_fleet"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.7-trap-0005",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.7",
+    "topic_title": "Causation in Period 1",
+    "learning_objective": "Explain the effects of the development of transatlantic voyages from 1491 to 1607.",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student writes, 'Spain conquered the Americas only because it had better technology than Native peoples.' Which response best evaluates the claim?",
+    "options": {
+      "A": "It is accurate because Spain always outnumbered Native armies",
+      "B": "It is inaccurate because technology played no role",
+      "C": "It oversimplifies, since disease, Native allies, and political divisions also mattered",
+      "D": "It is accurate because Native peoples had no weapons"
+    },
+    "correct": "C",
+    "explanation": "Weapons and horses mattered, but disease and Native alliances were also important.",
+    "distractor_notes": {
+      "A": "Spain was usually outnumbered.",
+      "B": "Technology played a role.",
+      "D": "Native peoples had weapons."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "The word only reduces a complex process to one cause.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Technology was important, so students accept the absolute claim.",
+      "how_to_avoid": "Watch for the word only and test whether other causes are documented."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/%C3%81lvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/%C3%81lvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca",
+        "https://en.wikipedia.org/wiki/Christopher_Columbus",
+        "https://en.wikipedia.org/wiki/Atlantic_World",
+        "https://en.wikipedia.org/wiki/Columbian_exchange"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.7-trap-0006",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.7",
+    "topic_title": "Causation in Period 1",
+    "learning_objective": "Explain the effects of the development of transatlantic voyages from 1491 to 1607.",
+    "skill": "Developments and Processes",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following was NOT an effect of European voyages to the Americas?",
+    "options": {
+      "A": "The growth of the Atlantic slave trade",
+      "B": "Increased rivalry among European powers",
+      "C": "The movement of crops and animals across the Atlantic",
+      "D": "The disappearance of all Native societies by 1600"
+    },
+    "correct": "D",
+    "explanation": "Native societies lost population and land but did not disappear by 1600. The other three were effects.",
+    "distractor_notes": {
+      "A": "The slave trade grew.",
+      "B": "Rivalry increased.",
+      "C": "The exchange moved crops."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "A NOT question reverses the usual selection.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students scan for a familiar effect and miss that one option is false.",
+      "how_to_avoid": "Underline NOT and eliminate the three true effects."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Atlantic_World",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Atlantic_World",
+        "https://en.wikipedia.org/wiki/Columbian_exchange",
+        "https://en.wikipedia.org/wiki/Asiento",
+        "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+        "https://www.gutenberg.org/ebooks/12425",
+        "https://en.wikipedia.org/wiki/Spanish_Armada"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.7-trap-0007",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.7",
+    "topic_title": "Causation in Period 1",
+    "learning_objective": "Explain the effects of the development of transatlantic voyages from 1491 to 1607.",
+    "skill": "Claims and Evidence in Sources",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "image",
+      "content": "[Described map, author-prepared] A map of the Atlantic Ocean shows a vertical line labeled “Line of 1494,” drawn 370 leagues west of the Cape Verde Islands. The area west of the line is labeled “Castile.” The area east of the line is labeled “Portugal.” The easternmost bulge of South America lies east of the line.",
+      "citation": "Author-prepared description of the demarcation set by the Treaty of Tordesillas (1494), based on Avalon Project and Wikipedia (CC BY-SA)",
+      "asset_path": null
+    },
+    "question": "According to the map, which area was labeled Castile?",
+    "options": {
+      "A": "The area west of the line",
+      "B": "The eastern bulge of South America",
+      "C": "The Cape Verde Islands",
+      "D": "The area east of the line"
+    },
+    "correct": "A",
+    "explanation": "The map labels the area west of the line Castile and the area east of the line Portugal.",
+    "distractor_notes": {
+      "B": "The bulge lies east of the line.",
+      "C": "The islands mark the starting point.",
+      "D": "East is Portugal."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.7",
+      "map_atl"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "East and west can be reversed when reading a map.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students see Brazil on the east and assume Castile is there.",
+      "how_to_avoid": "Read the labels and directions carefully."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Avalon Project and Wikipedia: Treaty of Tordesillas",
+      "url": "https://avalon.law.yale.edu/15th_century/mod001.asp",
+      "license": "CC BY-SA 4.0 / public domain (facts only; table or description text original)",
+      "attribution": "Facts from Tier A sources listed in verification.citations; stimulus written by the question author"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://avalon.law.yale.edu/15th_century/mod002.asp",
+        "https://avalon.law.yale.edu/15th_century/mod001.asp",
+        "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  },
+  {
+    "id": "apush-u1-t1.7-trap-0008",
+    "subject": "apush",
+    "unit": 1,
+    "unit_title": "Contact and Colonization: Worlds Meet (1491-1607)",
+    "topic": "1.7",
+    "topic_title": "Causation in Period 1",
+    "learning_objective": "Explain the effects of the development of transatlantic voyages from 1491 to 1607.",
+    "skill": "Making Connections",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about silver from the Americas is most accurate?",
+    "options": {
+      "A": "It ended Spanish interest in the Americas",
+      "B": "It enriched Spain and also contributed to rising prices across Europe",
+      "C": "It reduced prices throughout Europe",
+      "D": "It made Spain poorer because silver had no value"
+    },
+    "correct": "B",
+    "explanation": "Silver increased Spain's money supply and was linked to inflation.",
+    "distractor_notes": {
+      "A": "Spain stayed interested.",
+      "C": "Prices rose.",
+      "D": "Silver had value."
+    },
+    "tags": [
+      "apush",
+      "unit-1",
+      "topic-1.7"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Students assume wealth from the colonies only helped Spain.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Treasure sounds purely beneficial, so effects such as inflation are missed.",
+      "how_to_avoid": "Consider both the gains and the economic side effects."
+    },
+    "origin": "generated",
+    "source": {
+      "name": "Original question (Tier B), grounded in Tier A sources listed in verification.citations",
+      "url": "https://en.wikipedia.org/wiki/Mercantilism",
+      "license": "Original item; underlying facts cross-checked against CC BY-SA / public-domain sources",
+      "attribution": "Question text written by the content agent; no third-party question text reproduced"
+    },
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.92,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Mercantilism",
+        "https://en.wikipedia.org/wiki/Spanish_treasure_fleet"
+      ]
+    },
+    "created_at": "2026-10-07T21:00:00Z"
+  }
+]

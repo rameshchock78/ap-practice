@@ -1,0 +1,146 @@
+[
+  {
+    "name": "OpenStax (US History, Chemistry 2e)",
+    "url": "https://openstax.org",
+    "tier": "A",
+    "license_or_tos": "CC BY-NC-SA 4.0 (non-commercial; verified on openstax.org pages, Oct 2026). Terms state the book may NOT be ingested into LLMs / generative AI without OpenStax prior written permission.",
+    "scrape_allowed": false,
+    "notes": "AI/LLM ingestion NOT permitted without written permission; only two chapter-intro pages were opened in the APUSH pilot, no text used. Request permission before any further use. (Previously listed as CC BY 4.0 / allowed - outdated.)"
+  },
+  {
+    "name": "LibreTexts",
+    "url": "https://libretexts.org",
+    "tier": "A",
+    "license_or_tos": "Mostly CC BY / CC BY-NC-SA; check per page",
+    "scrape_allowed": true,
+    "notes": "crawl respecting robots.txt, >=1s/request"
+  },
+  {
+    "name": "CK-12",
+    "url": "https://www.ck12.org",
+    "tier": "A",
+    "license_or_tos": "CC BY-NC 3.0",
+    "scrape_allowed": true,
+    "notes": "crawl respecting robots.txt, >=1s/request"
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org",
+    "tier": "A",
+    "license_or_tos": "CC BY-NC-SA; non-commercial only",
+    "scrape_allowed": true,
+    "notes": "crawl respecting robots.txt, >=1s/request"
+  },
+  {
+    "name": "PhET Simulations",
+    "url": "https://phet.colorado.edu",
+    "tier": "A",
+    "license_or_tos": "CC BY 4.0",
+    "scrape_allowed": true,
+    "notes": "crawl respecting robots.txt, >=1s/request"
+  },
+  {
+    "name": "Library of Congress / NARA / Avalon Project",
+    "url": "https://www.loc.gov",
+    "tier": "A",
+    "license_or_tos": "Public domain (verify per item)",
+    "scrape_allowed": true,
+    "notes": "crawl respecting robots.txt, >=1s/request"
+  },
+  {
+    "name": "Quizlet",
+    "url": "https://quizlet.com",
+    "tier": "C",
+    "license_or_tos": "User-generated, TOS forbids scraping",
+    "scrape_allowed": false,
+    "notes": "link-out only"
+  },
+  {
+    "name": "UWorld",
+    "url": "https://www.uworld.com",
+    "tier": "C",
+    "license_or_tos": "Proprietary, paid",
+    "scrape_allowed": false,
+    "notes": "link-out only"
+  },
+  {
+    "name": "AP Classroom / College Board",
+    "url": "https://apclassroom.collegeboard.org",
+    "tier": "C",
+    "license_or_tos": "Copyrighted, login required",
+    "scrape_allowed": false,
+    "notes": "link-out only"
+  },
+  {
+    "name": "Albert.io",
+    "url": "https://www.albert.io",
+    "tier": "C",
+    "license_or_tos": "Proprietary",
+    "scrape_allowed": false,
+    "notes": "link-out only"
+  },
+  {
+    "name": "AMSCO (APUSH)",
+    "url": "https://www.perfectionlearning.com",
+    "tier": "C",
+    "license_or_tos": "Copyrighted textbook/prep book",
+    "scrape_allowed": false,
+    "notes": "link-out only"
+  },
+  {
+    "name": "KOWT-style teacher sites",
+    "url": "",
+    "tier": "C",
+    "license_or_tos": "Treat as copyrighted unless explicit license",
+    "scrape_allowed": false,
+    "notes": "link-out only"
+  },
+  {
+    "name": "CollegePrep",
+    "url": "",
+    "tier": "C",
+    "license_or_tos": "Proprietary unless explicit license",
+    "scrape_allowed": false,
+    "notes": "link-out only"
+  },
+  {
+    "name": "Wikipedia (English)",
+    "url": "https://en.wikipedia.org",
+    "tier": "A",
+    "license_or_tos": "CC BY-SA 4.0 (share-alike; attribution required)",
+    "scrape_allowed": true,
+    "notes": "Used in APUSH Unit 1 for fact verification only; fetched pages cached in apush/scripts/cache; no sentences copied into questions"
+  },
+  {
+    "name": "The Avalon Project (Yale Law School)",
+    "url": "https://avalon.law.yale.edu",
+    "tier": "A",
+    "license_or_tos": "Public-domain historical documents (verify per item)",
+    "scrape_allowed": true,
+    "notes": "Used: Treaty of Tordesillas (1494) excerpt"
+  },
+  {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org",
+    "tier": "A",
+    "license_or_tos": "Public-domain eBooks; keep license header",
+    "scrape_allowed": true,
+    "notes": "Used: Las Casas, Brief Account of the Destruction of the Indies (#20321)"
+  },
+  {
+    "name": "UNC Documenting the American South",
+    "url": "https://docsouth.unc.edu",
+    "tier": "A",
+    "license_or_tos": "Public-domain historical text (verify per item)",
+    "scrape_allowed": true,
+    "notes": "Used: Harriot, A Briefe and True Report (1588)"
+  },
+  {
+    "name": "College Board AP Central - AP U.S. History CED (PDF)",
+    "url": "https://apcentral.collegeboard.org/media/pdf/ap-us-history-course-and-exam-description.pdf",
+    "tier": "C",
+    "license_or_tos": "Copyrighted; publicly downloadable",
+    "scrape_allowed": false,
+    "notes": "Outline only (units, topics, learning objectives) read for blueprint.json; no exam questions or sample items reproduced"
+  }
+]

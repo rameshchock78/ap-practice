@@ -1,0 +1,3694 @@
+[
+  {
+    "id": "apchem-u8-t8.1-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.1",
+    "topic_title": "Introduction to Acids and Bases",
+    "learning_objective": "Calculate the values of pH and pOH, based on Kw and the concentration of all species present in a neutral solution of water. (8.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "At 25 °C, pure water has pH 7.00. A student heats the same water to 80 °C ($K_w = 2.4\\times10^{-13}$). Which statement about the heated water is correct?",
+    "options": {
+      "A": "It is still neutral, with pH about 6.31",
+      "B": "It has become acidic, with pH about 6.31, because pH fell below 7",
+      "C": "It is neutral, and its pH remains exactly 7.00 because pure water cannot change",
+      "D": "It has become basic, with pH about 7.69, because heating adds hydroxide"
+    },
+    "correct": "A",
+    "explanation": "$[\\mathrm{H_3O^+}] = [\\mathrm{OH^-}] = \\sqrt{2.4\\times10^{-13}} = 4.90e-07$ M, pH = 6.31; equal concentrations mean neutral.",
+    "distractor_notes": {
+      "B": "Equated pH below 7 with acidity at all temperatures.",
+      "C": "Assumed neutral always means pH 7.00.",
+      "D": "Predicted a pH increase and unequal ions."
+    },
+    "tags": [
+      "neutral",
+      "temperature"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Neutral does not always mean pH 7: pH of neutral water depends on temperature.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The 'pH 7 = neutral' rule is memorized without the 25 °C condition.",
+      "how_to_avoid": "Define neutral as $[\\mathrm{H_3O^+}]=[\\mathrm{OH^-}]$ and check the temperature."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Self-ionization_of_water",
+        "https://en.wikipedia.org/wiki/PH",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acids_and_Bases_in_Aqueous_Solutions",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.1-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.1",
+    "topic_title": "Introduction to Acids and Bases",
+    "learning_objective": "Calculate the values of pH and pOH, based on Kw and the concentration of all species present in a neutral solution of water. (8.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about a solution with pH = 0.00 at 25 °C is correct?",
+    "options": {
+      "A": "It is impossible, because the pH scale only runs from 1 to 14",
+      "B": "It is a neutral solution, because pH 0 is the middle of the scale",
+      "C": "It is possible: $[\\mathrm{H_3O^+}] = 1$ M, and pH values can be zero or negative",
+      "D": "It is impossible, because $[\\mathrm{H_3O^+}]$ cannot reach 1 M"
+    },
+    "correct": "C",
+    "explanation": "pH $= -\\log(1) = 0$. The 0–14 range is a convenient span for dilute solutions at 25 °C, not a limit; concentrated strong acids can have negative pH.",
+    "distractor_notes": {
+      "A": "Treated the 0–14 range as a hard limit.",
+      "B": "Misplaced the neutral point of the scale.",
+      "D": "Believed concentrations are capped below 1 M."
+    },
+    "tags": [
+      "pH scale"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "pH scale is 'limited' to 0–14 — an overgeneralization.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The scale is always drawn from 0 to 14.",
+      "how_to_avoid": "Use the definition pH = $-\\log[\\mathrm{H_3O^+}]$ and compute."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Self-ionization_of_water",
+        "https://en.wikipedia.org/wiki/PH",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acids_and_Bases_in_Aqueous_Solutions",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.1-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.1",
+    "topic_title": "Introduction to Acids and Bases",
+    "learning_objective": "Calculate the values of pH and pOH, based on Kw and the concentration of all species present in a neutral solution of water. (8.1.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "At 25 °C, solution P has pH 2.00 and solution Q has pH 5.00. Which statement is correct?",
+    "options": {
+      "A": "Q has 1000 times more hydronium ion than P",
+      "B": "P has 1000 times more hydronium ion than Q",
+      "C": "P has 3 times more hydronium ion than Q",
+      "D": "P has 2/5 as much hydronium ion as Q"
+    },
+    "correct": "B",
+    "explanation": "Each pH unit is a tenfold change; three units mean 1000-fold, and lower pH has higher $[\\mathrm{H_3O^+}]$.",
+    "distractor_notes": {
+      "A": "Reversed the inverse relationship between pH and $[\\mathrm{H_3O^+}]$.",
+      "C": "Treated the logarithmic scale as linear.",
+      "D": "Compared pH numbers directly as a ratio."
+    },
+    "tags": [
+      "log scale"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "pH and $[\\mathrm{H_3O^+}]$ move in opposite directions on a log scale.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "People expect larger numbers to mean larger concentrations.",
+      "how_to_avoid": "Convert each pH to $[\\mathrm{H_3O^+}] = 10^{-pH}$ before comparing."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Self-ionization_of_water",
+        "https://en.wikipedia.org/wiki/PH",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acids_and_Bases_in_Aqueous_Solutions",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.1-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.1",
+    "topic_title": "Introduction to Acids and Bases",
+    "learning_objective": "Calculate the values of pH and pOH, based on Kw and the concentration of all species present in a neutral solution of water. (8.1.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about a 1.0 M NaOH solution at 25 °C is NOT correct?",
+    "options": {
+      "A": "Its pH is about 14.0",
+      "B": "It contains $\\mathrm{OH^-}$ ions at about 1.0 M",
+      "C": "Its $[\\mathrm{H_3O^+}]$ is about $1\\times10^{-14}$ M",
+      "D": "It contains no $\\mathrm{H_3O^+}$ ions"
+    },
+    "correct": "D",
+    "explanation": "Water always autoionizes, so $[\\mathrm{H_3O^+}] = K_w/[\\mathrm{OH^-}] = 1\\times10^{-14}$ M — small but not zero. The other statements are correct.",
+    "distractor_notes": {
+      "A": "True statement from pOH = 0.",
+      "B": "True statement about a strong base.",
+      "C": "True statement from $K_w$."
+    },
+    "tags": [
+      "Kw"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem: the false statement is that H$_3$O$^+$ is absent.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Many believe bases contain zero hydronium.",
+      "how_to_avoid": "Remember $K_w$ links both ions in every aqueous solution."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Self-ionization_of_water",
+        "https://en.wikipedia.org/wiki/PH",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acids_and_Bases_in_Aqueous_Solutions",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.1-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.1",
+    "topic_title": "Introduction to Acids and Bases",
+    "learning_objective": "Calculate the values of pH and pOH, based on Kw and the concentration of all species present in a neutral solution of water. (8.1.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A solution has $[\\mathrm{OH^-}] = 2.0\\times10^{-3}$ M at 25 °C. Which value is its pH?",
+    "options": {
+      "A": "2.70",
+      "B": "12.00",
+      "C": "11.30",
+      "D": "16.70"
+    },
+    "correct": "C",
+    "explanation": "pOH $= 2.70$, so pH $= 14.00 - 2.70 = 11.30$.",
+    "distractor_notes": {
+      "A": "This is the pOH, not the pH.",
+      "B": "Subtracted the mantissa from 14.",
+      "D": "Added pOH to 14 instead of subtracting."
+    },
+    "tags": [
+      "pOH",
+      "pH"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Given a hydroxide concentration, the pOH is the tempting but wrong answer.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The first log taken feels like the final answer.",
+      "how_to_avoid": "Underline what the question asks for (pH vs pOH) and finish with pH + pOH = 14."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Self-ionization_of_water",
+        "https://en.wikipedia.org/wiki/PH",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acids_and_Bases_in_Aqueous_Solutions",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.1-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.1",
+    "topic_title": "Introduction to Acids and Bases",
+    "learning_objective": "Calculate the values of pH and pOH, based on Kw and the concentration of all species present in a neutral solution of water. (8.1.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student says: 'Since water at 100 °C has pH 6.14, which is below 7, boiling makes water acidic.' Which counterargument is strongest?",
+    "options": {
+      "A": "Boiling removes dissolved gas, so the true pH must still be 7.00",
+      "B": "The pH meter only works at 25 °C, so the measurement is meaningless",
+      "C": "pH values below 7 always indicate basic solutions at high temperature",
+      "D": "At 100 °C, $[\\mathrm{H_3O^+}]$ still equals $[\\mathrm{OH^-}]$, so the water remains neutral"
+    },
+    "correct": "D",
+    "explanation": "Neutrality is defined by equal hydronium and hydroxide concentrations. $K_w$ rises with temperature, so both increase equally and pH of neutral water falls (about 6.14 at 100 °C).",
+    "distractor_notes": {
+      "A": "Introduced an irrelevant cause and denied the data.",
+      "B": "Overstated an instrument limitation.",
+      "C": "Reversed acid/base classification."
+    },
+    "tags": [
+      "neutral",
+      "temperature"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The pH is indeed 6.14 (true), but the inference of acidity is wrong.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The measurement is correct, which makes the conclusion seem justified.",
+      "how_to_avoid": "Compare the two ion concentrations rather than comparing pH with 7."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Self-ionization_of_water",
+        "https://en.wikipedia.org/wiki/PH",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acids_and_Bases_in_Aqueous_Solutions"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.2-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.2",
+    "topic_title": "pH and pOH of Strong Acids and Bases",
+    "learning_objective": "Calculate pH and pOH based on concentrations of all species in a solution of a strong acid or a strong base. (8.2.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the pH of a 0.010 M $\\mathrm{Ca(OH)_2}$ solution at 25 °C (assume complete dissociation)?",
+    "options": {
+      "A": "12.00",
+      "B": "12.30",
+      "C": "1.70",
+      "D": "12.48"
+    },
+    "correct": "B",
+    "explanation": "$[\\mathrm{OH^-}] = 0.020$ M; pOH = 1.70; pH = 12.30.",
+    "distractor_notes": {
+      "A": "Forgot the factor of two hydroxides per formula unit.",
+      "C": "Reported pOH.",
+      "D": "Counted three hydroxides."
+    },
+    "tags": [
+      "group II"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Group II hydroxides release two OH$^-$; the answer 12.00 comes from using the formula-unit concentration.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The question looks like a one-hydroxide strong-base problem.",
+      "how_to_avoid": "Write the dissociation equation and count ions before taking the log."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH",
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Acid_and_Base_Strength",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.2-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.2",
+    "topic_title": "pH and pOH of Strong Acids and Bases",
+    "learning_objective": "Calculate pH and pOH based on concentrations of all species in a solution of a strong acid or a strong base. (8.2.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the pH of $1.0\\times10^{-8}$ M NaOH at 25 °C (include water's autoionization)?",
+    "options": {
+      "A": "6.00",
+      "B": "8.00",
+      "C": "7.00",
+      "D": "7.02"
+    },
+    "correct": "D",
+    "explanation": "$[\\mathrm{OH^-}] = x$ with $x^2 - (c)x\\ldots$: $[\\mathrm{OH^-}] = (c + \\sqrt{c^2+4K_w})/2 = 1.05\\times10^{-7}$ M, pOH 6.98, pH 7.02; the solution must be slightly basic.",
+    "distractor_notes": {
+      "A": "Computed pOH = 8.00, then 14 − 8.00 = 6.00, an acidic pH for a base.",
+      "B": "Took the exponent (8) as the pH.",
+      "C": "Concluded that tiny additions leave pH at exactly 7."
+    },
+    "tags": [
+      "Kw",
+      "dilute"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Naively computing pOH = 8.00 gives pH 6.00 for a base — impossible — yet the correct value is only slightly above 7.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Dilute strong base formulas are applied beyond their range.",
+      "how_to_avoid": "If the computed pH is on the wrong side of 7, include water's autoionization."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH",
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Acid_and_Base_Strength",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.2-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.2",
+    "topic_title": "pH and pOH of Strong Acids and Bases",
+    "learning_objective": "Calculate pH and pOH based on concentrations of all species in a solution of a strong acid or a strong base. (8.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about 0.10 M HCl and 0.10 M HF at 25 °C is correct?",
+    "options": {
+      "A": "HCl has the lower pH because it ionizes essentially completely",
+      "B": "They have the same pH because both are hydrohalic acids at the same molarity",
+      "C": "HF has the lower pH because fluorine is more electronegative than chlorine",
+      "D": "HF has the lower pH because its bond is stronger"
+    },
+    "correct": "A",
+    "explanation": "HCl ionizes completely (pH 1.00). HF is weak ($K_a = 6.8\\times10^{-4}$), so $[\\mathrm{H_3O^+}] \\approx 0.0080$ M (pH ≈ 2.1).",
+    "distractor_notes": {
+      "B": "Equated acid type with strength.",
+      "C": "Used electronegativity of the halogen to argue HF is stronger, but HF is weak.",
+      "D": "Misapplied bond strength: the strong H–F bond makes HF weaker."
+    },
+    "tags": [
+      "strong acid",
+      "weak acid"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "HF is the weakest hydrohalic acid despite fluorine's high electronegativity.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Electronegativity is overgeneralized as 'more electronegative means stronger acid'.",
+      "how_to_avoid": "Remember acid strength depends on ease of ionization, not only on electronegativity; HF is the exception."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH",
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Acid_and_Base_Strength",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.2-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.2",
+    "topic_title": "pH and pOH of Strong Acids and Bases",
+    "learning_objective": "Calculate pH and pOH based on concentrations of all species in a solution of a strong acid or a strong base. (8.2.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of these is NOT a strong acid?",
+    "options": {
+      "A": "$\\mathrm{HClO_4}$",
+      "B": "$\\mathrm{HI}$",
+      "C": "$\\mathrm{HF}$",
+      "D": "$\\mathrm{HNO_3}$"
+    },
+    "correct": "C",
+    "explanation": "HF is a weak acid; HI, HNO$_3$, and HClO$_4$ are strong acids (complete ionization).",
+    "distractor_notes": {
+      "A": "HClO$_4$ is a strong acid.",
+      "B": "HI is a strong acid.",
+      "D": "HNO$_3$ is a strong acid."
+    },
+    "tags": [
+      "strong acid"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem; HF is the lone hydrohalic weak acid.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students assume all H–halogen acids are strong.",
+      "how_to_avoid": "Memorize the strong-acid list and note HF is not on it."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH",
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Acid_and_Base_Strength"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.2-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.2",
+    "topic_title": "pH and pOH of Strong Acids and Bases",
+    "learning_objective": "Calculate pH and pOH based on concentrations of all species in a solution of a strong acid or a strong base. (8.2.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student dilutes 25.0 mL of 0.10 M HCl to 250. mL. Which pH should she report? Express pH to two decimal places.",
+    "options": {
+      "A": "1.00",
+      "B": "3.00",
+      "C": "12.00",
+      "D": "2.00"
+    },
+    "correct": "D",
+    "explanation": "$M_2 = (0.10)(25.0)/250. = 0.010$ M; pH = 2.00.",
+    "distractor_notes": {
+      "A": "Did not account for dilution.",
+      "B": "Added the number of tens in the dilution factor as pH units.",
+      "C": "Reported 14 minus the correct pH."
+    },
+    "tags": [
+      "dilution"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Only the initial concentration is remembered; the final volume is easily skipped.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students compute pH of the stock solution.",
+      "how_to_avoid": "Always compute concentration after dilution before the log."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH",
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Acid_and_Base_Strength",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.2-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.2",
+    "topic_title": "pH and pOH of Strong Acids and Bases",
+    "learning_objective": "Calculate pH and pOH based on concentrations of all species in a solution of a strong acid or a strong base. (8.2.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student states, 'The pH of 1.0 M NaOH is 14, so a 2.0 M NaOH solution must have a pH of 28.' Which response best identifies the flaw?",
+    "options": {
+      "A": "The pH of 2.0 M NaOH is 7.00 because the base neutralizes water",
+      "B": "pH 14.00 corresponds to 1.0 M OH$^-$; at 2.0 M the pOH is −0.30, giving pH = 14.30",
+      "C": "pH is linear in concentration, so doubling concentration doubles pH, as the student says",
+      "D": "A solution of NaOH cannot be more concentrated than 1.0 M"
+    },
+    "correct": "B",
+    "explanation": "pOH $= -\\log(2.0) = -0.30$; pH $= 14.00 - (-0.30) = 14.30$.",
+    "distractor_notes": {
+      "A": "Invented neutralization.",
+      "C": "Treated pH as a linear scale.",
+      "D": "False absolute claim about solubility."
+    },
+    "tags": [
+      "pH scale",
+      "strong base"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "A tempting linear scale error; the correct pH is slightly above 14.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students assume pH is capped at 14 or proportional to concentration.",
+      "how_to_avoid": "Use pH = 14 − pOH with pOH = −log[OH⁻]; negative pOH is allowed."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH",
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Acid_and_Base_Strength",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.3-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.3",
+    "topic_title": "Weak Acid and Base Equilibria",
+    "learning_objective": "Explain the relationship among pH, pOH, and concentrations of all species in a solution of a monoprotic weak acid or weak base. (8.3.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the pH of 1.0 M acetic acid ($K_a = 1.8\\times10^{-5}$)?",
+    "options": {
+      "A": "2.37",
+      "B": "11.63",
+      "C": "0.00",
+      "D": "4.74"
+    },
+    "correct": "A",
+    "explanation": "$[\\mathrm{H_3O^+}] = \\sqrt{(1.8\\times10^{-5})(1.0)} = 4.23e-03$ M; pH = 2.37.",
+    "distractor_notes": {
+      "B": "Reported 14 minus the pH.",
+      "C": "Assumed complete ionization ($[\\mathrm{H_3O^+}] = 1.0$ M).",
+      "D": "Reported $pK_a$ as the pH."
+    },
+    "tags": [
+      "weak acid"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Weak acid concentration is mistaken for hydronium concentration.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The formula pH = −log c is memorized and applied to every acid.",
+      "how_to_avoid": "Decide strong vs weak first; use $K_a$ for weak acids."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://en.wikipedia.org/wiki/Base_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Weak_Acids_and_Bases",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.3-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.3",
+    "topic_title": "Weak Acid and Base Equilibria",
+    "learning_objective": "Explain the relationship among pH, pOH, and concentrations of all species in a solution of a monoprotic weak acid or weak base. (8.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "As a 0.10 M solution of acetic acid is diluted with water, which statement is correct?",
+    "options": {
+      "A": "Both $[\\mathrm{H_3O^+}]$ and the percent ionization increase",
+      "B": "$[\\mathrm{H_3O^+}]$ decreases but the percent ionization increases",
+      "C": "$[\\mathrm{H_3O^+}]$ increases but the percent ionization decreases",
+      "D": "Both $[\\mathrm{H_3O^+}]$ and the percent ionization decrease"
+    },
+    "correct": "B",
+    "explanation": "Dilution shifts the weak-acid equilibrium toward ionization (Le Châtelier: more particles), so the fraction ionized rises even though the total $[\\mathrm{H_3O^+}]$ falls.",
+    "distractor_notes": {
+      "A": "Assumed dilution adds ionization to concentration.",
+      "C": "Reversed both effects.",
+      "D": "Assumed percent ionization follows concentration."
+    },
+    "tags": [
+      "percent ionization",
+      "dilution"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Two quantities move in opposite directions on dilution.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students assume all measures decrease on dilution.",
+      "how_to_avoid": "Compute both $[\\mathrm{H_3O^+}]$ and percent ionization for two concentrations."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://en.wikipedia.org/wiki/Base_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Weak_Acids_and_Bases",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.3-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.3",
+    "topic_title": "Weak Acid and Base Equilibria",
+    "learning_objective": "Explain the relationship among pH, pOH, and concentrations of all species in a solution of a monoprotic weak acid or weak base. (8.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "easy",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement correctly compares acid strength?",
+    "options": {
+      "A": "A larger $pK_a$ means a stronger acid",
+      "B": "Acid strength depends only on the initial concentration",
+      "C": "A larger $K_a$ (smaller $pK_a$) means a stronger acid",
+      "D": "A larger $K_a$ means a weaker acid"
+    },
+    "correct": "C",
+    "explanation": "$pK_a = -\\log K_a$; stronger acids have larger $K_a$ and therefore smaller $pK_a$.",
+    "distractor_notes": {
+      "A": "Reversed the pKa relationship.",
+      "B": "Confused strength with concentration.",
+      "D": "Reversed the Ka relationship."
+    },
+    "tags": [
+      "pKa"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "The logarithm reverses the order: bigger pKa is weaker.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The word 'larger' is attached to the wrong quantity.",
+      "how_to_avoid": "Rewrite each as $K_a$ before comparing."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://en.wikipedia.org/wiki/Base_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Weak_Acids_and_Bases"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.3-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.3",
+    "topic_title": "Weak Acid and Base Equilibria",
+    "learning_objective": "Explain the relationship among pH, pOH, and concentrations of all species in a solution of a monoprotic weak acid or weak base. (8.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which solution has the lower pH at 25 °C: 0.0010 M HCl or 1.0 M acetic acid ($K_a = 1.8\\times10^{-5}$)?",
+    "options": {
+      "A": "They have equal pH because the weaker acid is simply more concentrated",
+      "B": "0.0010 M HCl (pH = 3.00), because HCl is a strong acid",
+      "C": "They have the same pH because both are acids",
+      "D": "1.0 M acetic acid (pH ≈ 2.37), because it provides more H$_3$O$^+$"
+    },
+    "correct": "D",
+    "explanation": "HCl: pH = 3.00. Acetic acid: $[\\mathrm{H_3O^+}] = 4.2e-03$ M → pH 2.37. A concentrated weak acid can be more acidic than a dilute strong acid.",
+    "distractor_notes": {
+      "A": "Assumed concentration exactly compensates for strength.",
+      "B": "Equated strength with a lower pH regardless of concentration.",
+      "C": "Ignored concentration and strength."
+    },
+    "tags": [
+      "weak vs strong"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "'Weak' is conflated with 'dilute'.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Strength (extent of ionization) and concentration are confused.",
+      "how_to_avoid": "Compute $[\\mathrm{H_3O^+}]$ for each solution."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://en.wikipedia.org/wiki/Base_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Weak_Acids_and_Bases",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.3-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.3",
+    "topic_title": "Weak Acid and Base Equilibria",
+    "learning_objective": "Explain the relationship among pH, pOH, and concentrations of all species in a solution of a monoprotic weak acid or weak base. (8.3.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the conjugate base of a weak acid is correct?",
+    "options": {
+      "A": "It is a strong base because it formed from a weak acid",
+      "B": "It is a strong acid in water",
+      "C": "It is a neutral species that does not react with water",
+      "D": "It is a weak base that reacts slightly with water"
+    },
+    "correct": "D",
+    "explanation": "Conjugate bases of weak acids have $K_b = K_w/K_a$, typically $10^{-4}$ to $10^{-10}$, so they are weak bases that make solutions slightly basic.",
+    "distractor_notes": {
+      "A": "Assumed a weak acid must have a strong conjugate base; conjugate bases of weak acids are only weak bases.",
+      "B": "Confused the conjugate base with the strongest acid.",
+      "C": "Treated the conjugate base of a weak acid like Cl⁻."
+    },
+    "tags": [
+      "conjugate",
+      "weak base"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students remember 'conjugate bases of strong acids are neutral' and overextend it.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Overgeneralization from the strong-acid case.",
+      "how_to_avoid": "Apply $K_b = K_w/K_a$ for any conjugate base of a weak acid."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://en.wikipedia.org/wiki/Base_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Weak_Acids_and_Bases"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.3-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.3",
+    "topic_title": "Weak Acid and Base Equilibria",
+    "learning_objective": "Explain the relationship among pH, pOH, and concentrations of all species in a solution of a monoprotic weak acid or weak base. (8.3.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the pH of a 0.10 M weak base with $K_b = 1.0\\times10^{-6}$ at 25 °C? (Percent ionization is small.)",
+    "options": {
+      "A": "13.00",
+      "B": "10.50",
+      "C": "11.00",
+      "D": "3.50"
+    },
+    "correct": "B",
+    "explanation": "$[\\mathrm{OH^-}] = \\sqrt{(1.0\\times10^{-6})(0.10)} = 3.2\\times10^{-4}$ M; pOH = 3.50; pH = 10.50.",
+    "distractor_notes": {
+      "A": "Treated the weak base as strong.",
+      "C": "Rounded the pOH to 3.00 before converting.",
+      "D": "Reported pOH as pH."
+    },
+    "tags": [
+      "weak base",
+      "pOH"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "pOH (3.50) is the tempting answer.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The first number computed from $K_b$ is pOH.",
+      "how_to_avoid": "Check what the question asks; convert pOH to pH with 14 − pOH."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://en.wikipedia.org/wiki/Base_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Ionization_Constants/Weak_Acids_and_Bases",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.4-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.4",
+    "topic_title": "Acid-Base Reactions and Buffers",
+    "learning_objective": "Explain the relationship among the concentrations of major species in a mixture of weak and strong acids and bases. (8.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Equal volumes of 0.10 M CH$_3$COOH and 0.10 M NaOH are mixed at 25 °C. Which statement is correct?",
+    "options": {
+      "A": "The solution is a buffer because both acid and conjugate base are present",
+      "B": "The solution is acidic because acetic acid remains",
+      "C": "The solution is basic because acetate hydrolyzes",
+      "D": "The solution is neutral because acid and base are present in equal moles"
+    },
+    "correct": "C",
+    "explanation": "All HA is converted to A$^-$; $\\mathrm{A^-} + \\mathrm{H_2O} \\rightleftharpoons \\mathrm{HA} + \\mathrm{OH^-}$ produces a slightly basic solution (pH ≈ 8.7).",
+    "distractor_notes": {
+      "A": "No significant acid remains, so there is no buffer.",
+      "B": "The acid is fully consumed; only its conjugate base remains.",
+      "D": "Equated equal-moles neutralization with pH 7."
+    },
+    "tags": [
+      "equivalence"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Neutralization at the equivalence point is assumed to give pH 7 for every acid-base pair.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Strong acid/strong base experience generalizes to all cases.",
+      "how_to_avoid": "Identify the major species at the equivalence point and decide whether they hydrolyze."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Reactions",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.4-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.4",
+    "topic_title": "Acid-Base Reactions and Buffers",
+    "learning_objective": "Explain the relationship among the concentrations of major species in a mixture of weak and strong acids and bases. (8.4.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "20.0 mL of 0.200 M HCl is mixed with 30.0 mL of 0.100 M NaOH. What is the pH?",
+    "options": {
+      "A": "1.30",
+      "B": "0.70",
+      "C": "7.00",
+      "D": "1.70"
+    },
+    "correct": "D",
+    "explanation": "mmol H$_3$O$^+$ = 4.00; mmol OH$^-$ = 3.00; excess 1.00 mmol in 50.0 mL = 0.0200 M; pH = 1.70.",
+    "distractor_notes": {
+      "A": "Divided by the volume of the acid alone rather than total volume.",
+      "B": "Ignored the reaction.",
+      "C": "Assumed the volumes balance."
+    },
+    "tags": [
+      "excess",
+      "moles"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Concentrations differ so equal volumes are not equal moles; the total volume must be used.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Equal-looking numbers (0.200 × 20.0 vs 0.100 × 30.0) invite a 'neutral' guess.",
+      "how_to_avoid": "Always convert to moles before comparing and divide by total volume."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Reactions",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.4-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.4",
+    "topic_title": "Acid-Base Reactions and Buffers",
+    "learning_objective": "Explain the relationship among the concentrations of major species in a mixture of weak and strong acids and bases. (8.4.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which mixture does NOT form a buffer?",
+    "options": {
+      "A": "50 mL of 0.20 M CH$_3$COONa + 50 mL of 0.10 M HCl",
+      "B": "50 mL of 0.10 M NH$_3$ + 100 mL of 0.10 M HCl",
+      "C": "50 mL of 0.10 M NH$_3$ + 25 mL of 0.10 M HCl",
+      "D": "50 mL of 0.10 M CH$_3$COOH + 25 mL of 0.10 M NaOH"
+    },
+    "correct": "B",
+    "explanation": "First mixture: 5.0 mmol NH$_3$ + 10.0 mmol H$_3$O$^+$ → 5.0 mmol NH$_4^+$ + 5.0 mmol excess strong acid: no remaining base, so no buffer.",
+    "distractor_notes": {
+      "A": "Leaves CH$_3$COO$^-$ and CH$_3$COOH, a buffer.",
+      "C": "Leaves NH$_3$ and NH$_4^+$ in a 1:1 ratio, a buffer.",
+      "D": "Leaves CH$_3$COOH and CH$_3$COO$^-$, a buffer."
+    },
+    "tags": [
+      "buffer",
+      "NOT"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem; the 'weak base + strong acid' look-alike has excess strong acid.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students see a weak base plus HCl and assume buffer by pattern.",
+      "how_to_avoid": "Compute moles after reaction; buffer requires both members of a weak pair."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Reactions",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.4-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.4",
+    "topic_title": "Acid-Base Reactions and Buffers",
+    "learning_objective": "Explain the relationship among the concentrations of major species in a mixture of weak and strong acids and bases. (8.4.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "50.0 mL of 0.100 M acetic acid ($pK_a = 4.74$) is mixed with 40.0 mL of 0.100 M NaOH. Which pH is correct?",
+    "options": {
+      "A": "5.34",
+      "B": "12.65",
+      "C": "4.14",
+      "D": "4.74"
+    },
+    "correct": "A",
+    "explanation": "After reaction: HA = 1.0 mmol, A$^-$ = 4.0 mmol; pH = $4.74 + \\log(4.0/1.0) = 5.34$.",
+    "distractor_notes": {
+      "B": "Treated the mixture as excess strong base.",
+      "C": "Inverted the ratio of conjugate base to acid.",
+      "D": "Assumed pH = pK$_a$ without checking for equal moles."
+    },
+    "tags": [
+      "buffer"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Which species is in excess near the end of the neutralization is easily reversed.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The student mentally assigns 'more acid' because acid volume is larger.",
+      "how_to_avoid": "Subtract moles of NaOH from HA and ask which ratio goes in the log."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Reactions",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.4-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.4",
+    "topic_title": "Acid-Base Reactions and Buffers",
+    "learning_objective": "Explain the relationship among the concentrations of major species in a mixture of weak and strong acids and bases. (8.4.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student adds 0.0050 mol of NaOH to 100. mL of 0.10 M HCl and says, 'Because a base was added to an acid, the final pH must be 7.' Which response is best?",
+    "options": {
+      "A": "Incorrect: 0.0100 mol H$_3$O$^+$ and 0.0050 mol OH$^-$ react, leaving 0.0050 mol H$_3$O$^+$ and a pH below 7",
+      "B": "Correct: strong acids and strong bases always yield pH 7",
+      "C": "Incorrect: the solution should be basic because base was added last",
+      "D": "Correct: any base added to any acid neutralizes it to pH 7"
+    },
+    "correct": "A",
+    "explanation": "Excess $\\mathrm{H_3O^+}$ = 0.0050 mol in ~0.100 L = 0.050 M; pH = 1.30.",
+    "distractor_notes": {
+      "B": "Ignored the limiting reagent.",
+      "C": "Confused order of addition with excess.",
+      "D": "Stated an invalid absolute rule."
+    },
+    "tags": [
+      "excess",
+      "argument"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Always' neutralizes to pH 7 — only true with equal moles.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The word 'neutralization' suggests pH 7.",
+      "how_to_avoid": "Compare moles; the excess reagent sets pH."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Reactions",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.4-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.4",
+    "topic_title": "Acid-Base Reactions and Buffers",
+    "learning_objective": "Explain the relationship among the concentrations of major species in a mixture of weak and strong acids and bases. (8.4.A)",
+    "skill": "Models and Representations",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which net ionic equation is correct for the reaction of the weak acid HF with aqueous KOH?",
+    "options": {
+      "A": "$\\mathrm{H_3O^+}(aq) + \\mathrm{OH^-}(aq) \\rightarrow 2\\,\\mathrm{H_2O}(l)$",
+      "B": "$\\mathrm{F^-}(aq) + \\mathrm{H_2O}(l) \\rightarrow \\mathrm{HF}(aq) + \\mathrm{OH^-}(aq)$",
+      "C": "$\\mathrm{HF}(aq) + \\mathrm{OH^-}(aq) \\rightarrow \\mathrm{F^-}(aq) + \\mathrm{H_2O}(l)$",
+      "D": "$\\mathrm{HF}(aq) + \\mathrm{K^+}(aq) \\rightarrow \\mathrm{KF}(s) + \\mathrm{H^+}(aq)$"
+    },
+    "correct": "C",
+    "explanation": "HF is weak, so it appears as molecules in the net ionic equation; K$^+$ is a spectator.",
+    "distractor_notes": {
+      "A": "Wrote the strong acid reaction; HF is mostly un-ionized.",
+      "B": "Wrote the reverse (hydrolysis) reaction.",
+      "D": "Invented a precipitation reaction."
+    },
+    "tags": [
+      "net ionic"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The 'universal' net ionic equation H$_3$O$^+$ + OH$^-$ is right only for strong acids.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Memorized net ionic equation misapplied.",
+      "how_to_avoid": "Check whether the acid is strong or weak before writing the equation."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://en.wikipedia.org/wiki/Conjugate_acid",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Reactions"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.5-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.5",
+    "topic_title": "Acid-Base Titrations",
+    "learning_objective": "Explain results from the titration of a mono- or polyprotic acid or base solution, in relation to the properties of the solution and its components. (8.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "25.0 mL of 0.100 M HCl and 25.0 mL of 0.100 M HNO$_2$ ($K_a = 4.5\\times10^{-4}$) are each titrated with 0.100 M NaOH. Which statement is correct?",
+    "options": {
+      "A": "Both need the same volume of NaOH, 25.0 mL, to reach equivalence",
+      "B": "HCl needs less NaOH because it has the lower pH",
+      "C": "HNO$_2$ needs more NaOH because it is a weaker acid",
+      "D": "HNO$_2$ needs less NaOH because it ionizes only partially"
+    },
+    "correct": "A",
+    "explanation": "Equivalence depends only on moles of acid (2.50 mmol each); the weak acid continues to ionize as H$_3$O$^+$ is consumed.",
+    "distractor_notes": {
+      "B": "Linked pH to the volume of titrant.",
+      "C": "Equated weakness with greater need for base.",
+      "D": "Mistook degree of ionization for amount of acid."
+    },
+    "tags": [
+      "equivalence",
+      "weak vs strong"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Strength is confused with quantity.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The weak acid has less H$_3$O$^+$ initially, so students expect it to use less base.",
+      "how_to_avoid": "Use $n = cV$; titration neutralizes all acidic protons available."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Titrations",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.5-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.5",
+    "topic_title": "Acid-Base Titrations",
+    "learning_objective": "Explain results from the titration of a mono- or polyprotic acid or base solution, in relation to the properties of the solution and its components. (8.5.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "table",
+      "content": "V NaOH (mL) | pH\n--- | ---\n0.0 | 2.88\n12.5 | 4.74\n24.0 | 6.12\n25.0 | 8.72\n26.0 | 11.29",
+      "citation": "Computed for 25.0 mL of 0.100 M HA (Ka = 1.8e-5) with 0.100 M NaOH.",
+      "asset_path": null
+    },
+    "question": "In the weak acid titration table (equivalence at 25.0 mL), a student circles the pH 7.0 region as the equivalence point. What is the best correction?",
+    "options": {
+      "A": "Equivalence cannot be located from tabulated data",
+      "B": "The student is right, since equivalence always occurs at pH 7",
+      "C": "Equivalence occurs at 25.0 mL, where the pH is 8.72, not 7",
+      "D": "Equivalence occurs at 12.5 mL, where pH equals $pK_a$"
+    },
+    "correct": "C",
+    "explanation": "Equivalence is where moles base = moles acid (25.0 mL); for HA titrated with strong base the solution there contains A$^-$ and is basic.",
+    "distractor_notes": {
+      "A": "Overstated limits of the data.",
+      "B": "Applied the strong-acid result to a weak acid.",
+      "D": "Confused half-equivalence and equivalence."
+    },
+    "tags": [
+      "equivalence"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The tempting reading is the pH-7 row.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Memorized 'equivalence = pH 7'.",
+      "how_to_avoid": "Identify equivalence using stoichiometry (mmol OH$^-$ = mmol HA), then read the pH."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Titrations",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.5-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.5",
+    "topic_title": "Acid-Base Titrations",
+    "learning_objective": "Explain results from the titration of a mono- or polyprotic acid or base solution, in relation to the properties of the solution and its components. (8.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "In the titration of a weak base B with HCl, a student reads pH = 9.26 at the half-equivalence point. For B, $K_b = 1.8\\times10^{-5}$. Which statement is correct?",
+    "options": {
+      "A": "pH = $pK_w - pK_a$ of B, so $pK_a = 4.74$ for B",
+      "B": "pH = 7 at the half-equivalence point for any weak base",
+      "C": "pH = $pK_b$ of B, so $pK_b = 9.26$",
+      "D": "pH = $pK_a$ of the conjugate acid BH$^+$, so $pK_b = 14.00 - 9.26 = 4.74$"
+    },
+    "correct": "D",
+    "explanation": "At half-equivalence $[\\mathrm{B}] = [\\mathrm{BH^+}]$, so pH $= pK_a(\\mathrm{BH^+}) = 9.26$ and pOH $= pK_b = 4.74$.",
+    "distractor_notes": {
+      "A": "Mixed up which species the pK refers to.",
+      "B": "Applied the strong-acid result.",
+      "C": "Equated pH with $pK_b$ instead of $pK_a$ of the conjugate acid."
+    },
+    "tags": [
+      "half-equivalence",
+      "weak base"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "The 'pH = pK' rule holds for the conjugate acid, so pK$_b$ needs 14 − pH.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students apply the weak-acid half-equivalence rule directly to weak bases.",
+      "how_to_avoid": "Write which pair is present, then convert between $pK_a$ and $pK_b$."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Titrations",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.5-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.5",
+    "topic_title": "Acid-Base Titrations",
+    "learning_objective": "Explain results from the titration of a mono- or polyprotic acid or base solution, in relation to the properties of the solution and its components. (8.5.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A 20.00 mL sample of H$_2$SO$_4$ (treat both protons as titratable) requires 30.00 mL of 0.1000 M NaOH to reach the second equivalence point. What is [H$_2$SO$_4$]?",
+    "options": {
+      "A": "0.03333 M",
+      "B": "0.07500 M",
+      "C": "0.1500 M",
+      "D": "0.3000 M"
+    },
+    "correct": "B",
+    "explanation": "$n(\\mathrm{OH^-}) = 3.000$ mmol; 2 mol OH$^-$ per mol H$_2$SO$_4$ → 1.500 mmol; $M = 1.500/20.00 = 0.0750$ M.",
+    "distractor_notes": {
+      "A": "Inverted the volume ratio.",
+      "C": "Ignored the 2:1 mole ratio of NaOH to H$_2$SO$_4$.",
+      "D": "Multiplied by two instead of dividing."
+    },
+    "tags": [
+      "polyprotic",
+      "stoichiometry"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "The mole ratio 2:1 is forgotten and the answer 0.1500 M looks natural.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Monoprotic examples dominate practice.",
+      "how_to_avoid": "Write the balanced neutralization equation first."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Titrations",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.5-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.5",
+    "topic_title": "Acid-Base Titrations",
+    "learning_objective": "Explain results from the titration of a mono- or polyprotic acid or base solution, in relation to the properties of the solution and its components. (8.5.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement is NOT correct about the titration of a weak acid with a strong base?",
+    "options": {
+      "A": "The solution at the equivalence point contains the conjugate base of the acid",
+      "B": "At the half-equivalence point, pH equals $pK_a$",
+      "C": "At the equivalence point, pH is always 7",
+      "D": "The equivalence point occurs when moles of base added equal initial moles of acid"
+    },
+    "correct": "C",
+    "explanation": "At equivalence the solution contains A$^-$, which hydrolyzes to give pH > 7; the other statements are correct.",
+    "distractor_notes": {
+      "A": "This is true.",
+      "B": "This is true.",
+      "D": "This is true."
+    },
+    "tags": [
+      "equivalence",
+      "NOT"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem; the false statement uses 'always 7'.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Strong acid–strong base facts are over-generalized.",
+      "how_to_avoid": "Check each statement against the species present at that point."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Titrations"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.5-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.5",
+    "topic_title": "Acid-Base Titrations",
+    "learning_objective": "Explain results from the titration of a mono- or polyprotic acid or base solution, in relation to the properties of the solution and its components. (8.5.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student titrates a weak acid with NaOH and uses methyl red (color change near pH 5) to detect the endpoint. Which prediction is best?",
+    "options": {
+      "A": "The titration cannot be completed, because methyl red does not respond to NaOH",
+      "B": "The endpoint will occur before the equivalence point, so the acid concentration will be underestimated",
+      "C": "There will be no error, because any indicator changes color at the equivalence point",
+      "D": "The endpoint will occur after the equivalence point, so the concentration will be overestimated"
+    },
+    "correct": "B",
+    "explanation": "Equivalence is near pH 8–9 for a weak acid. Methyl red changes near pH 5 (in the buffer region), so the color change appears early and too little titrant is recorded.",
+    "distractor_notes": {
+      "A": "Overstated the limitation.",
+      "C": "Ignored the mismatch of pK$_a$ and equivalence pH.",
+      "D": "Reversed the direction of the error."
+    },
+    "tags": [
+      "indicator",
+      "error analysis"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "An indicator does change color, but not at the right volume.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students believe the color change defines equivalence.",
+      "how_to_avoid": "Compare the indicator's transition range to the equivalence-point pH."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Titration",
+        "https://en.wikipedia.org/wiki/Equivalence_point",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_Base_Titrations"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.6-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.6",
+    "topic_title": "Molecular Structure of Acids and Bases",
+    "learning_objective": "Explain the relationship between the strength of an acid or base and the structure of the molecule or ion. (8.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which hydrohalic acid is the weakest in water?",
+    "options": {
+      "A": "HI",
+      "B": "HF",
+      "C": "HCl",
+      "D": "HBr"
+    },
+    "correct": "B",
+    "explanation": "HF has a strong, short H–F bond and only partly ionizes; HCl, HBr, and HI are strong acids.",
+    "distractor_notes": {
+      "A": "HI is the strongest.",
+      "C": "HCl is strong.",
+      "D": "HBr is very strong."
+    },
+    "tags": [
+      "binary acids"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Most electronegative halogen is expected to give the strongest acid.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Electronegativity is overapplied.",
+      "how_to_avoid": "Remember bond strength dominates down a group; HF is the exception."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://en.wikipedia.org/wiki/Inductive_effect",
+        "https://en.wikipedia.org/wiki/Carboxylic_acid"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.6-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.6",
+    "topic_title": "Molecular Structure of Acids and Bases",
+    "learning_objective": "Explain the relationship between the strength of an acid or base and the structure of the molecule or ion. (8.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about oxoacids with the formula $\\mathrm{HClO}_n$ is correct?",
+    "options": {
+      "A": "Acid strength is greatest for n = 1",
+      "B": "Acid strength is independent of n",
+      "C": "Acid strength decreases as n increases",
+      "D": "Acid strength increases as n increases"
+    },
+    "correct": "D",
+    "explanation": "More oxygens stabilize the conjugate base: $\\mathrm{HClO} < \\mathrm{HClO_2} < \\mathrm{HClO_3} < \\mathrm{HClO_4}$.",
+    "distractor_notes": {
+      "A": "Assumed the simplest oxoacid is strongest.",
+      "B": "Ignored the inductive effect of additional oxygens.",
+      "C": "Reversed the trend."
+    },
+    "tags": [
+      "oxoacids"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "More oxygens look like more 'holding' of H, so students predict the opposite trend.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Misapplied the idea that oxygen is electronegative and holds hydrogen.",
+      "how_to_avoid": "Judge acid strength by stability of the conjugate base."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://en.wikipedia.org/wiki/Inductive_effect",
+        "https://en.wikipedia.org/wiki/Carboxylic_acid"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.6-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.6",
+    "topic_title": "Molecular Structure of Acids and Bases",
+    "learning_objective": "Explain the relationship between the strength of an acid or base and the structure of the molecule or ion. (8.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following is NOT a factor that increases the acid strength of a carboxylic acid?",
+    "options": {
+      "A": "Attaching an electron-donating alkyl group to the carbon next to COOH",
+      "B": "Resonance stabilization of the carboxylate ion",
+      "C": "Attaching an electronegative halogen to the carbon next to COOH",
+      "D": "Placing additional electron-withdrawing groups closer to the COOH group"
+    },
+    "correct": "A",
+    "explanation": "Donating groups destabilize the carboxylate (propanoic acid, $pK_a$ 4.87, is weaker than acetic acid, 4.76); the other factors raise acidity.",
+    "distractor_notes": {
+      "B": "This increases acidity.",
+      "C": "This increases acidity through the inductive effect.",
+      "D": "This increases acidity."
+    },
+    "tags": [
+      "carboxylic",
+      "NOT"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem; the correct choice is the factor that decreases acidity.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students scan for 'increases' and skip the stem negation.",
+      "how_to_avoid": "Circle NOT in the stem and test each option."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://en.wikipedia.org/wiki/Inductive_effect",
+        "https://en.wikipedia.org/wiki/Carboxylic_acid"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.6-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.6",
+    "topic_title": "Molecular Structure of Acids and Bases",
+    "learning_objective": "Explain the relationship between the strength of an acid or base and the structure of the molecule or ion. (8.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement correctly compares the conjugate bases of HCl and CH$_3$COOH?",
+    "options": {
+      "A": "$\\mathrm{Cl^-}$ is a stronger base than $\\mathrm{CH_3COO^-}$ because HCl is the stronger acid",
+      "B": "Both are equally basic because each is the conjugate base of an acid",
+      "C": "$\\mathrm{Cl^-}$ is a much weaker base than $\\mathrm{CH_3COO^-}$",
+      "D": "Neither is a base, since both are anions"
+    },
+    "correct": "C",
+    "explanation": "Stronger acid → weaker conjugate base: $K_b(\\mathrm{CH_3COO^-}) = 5.6\\times10^{-10}$; $\\mathrm{Cl^-}$ has negligible $K_b$.",
+    "distractor_notes": {
+      "A": "Reversed the relationship between acid strength and conjugate base strength.",
+      "B": "Ignored differences in conjugate base strength.",
+      "D": "Anions can act as bases; CH$_3$COO$^-$ is a weak base."
+    },
+    "tags": [
+      "conjugate"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Strong acid is wrongly linked with strong conjugate base.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Word 'strong' is carried across the pair.",
+      "how_to_avoid": "State the inverse relationship $K_aK_b = K_w$ explicitly."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://en.wikipedia.org/wiki/Inductive_effect",
+        "https://en.wikipedia.org/wiki/Carboxylic_acid"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.6-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.6",
+    "topic_title": "Molecular Structure of Acids and Bases",
+    "learning_objective": "Explain the relationship between the strength of an acid or base and the structure of the molecule or ion. (8.6.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which hydrogen atom in acetic acid, $\\mathrm{CH_3COOH}$, is the most acidic?",
+    "options": {
+      "A": "The ones bonded to carbon, because the C–H bond is weaker than the O–H bond",
+      "B": "The ones bonded to carbon, because carbon forms four bonds",
+      "C": "All hydrogens are equally acidic because they are all bonded to the same molecule",
+      "D": "The one bonded to the oxygen atom"
+    },
+    "correct": "D",
+    "explanation": "O–H is polar and its conjugate base is resonance stabilized; ionizing a C–H bond would give an unstable carbanion.",
+    "distractor_notes": {
+      "A": "Used incorrect bond-strength comparison and ignored anion stability.",
+      "B": "Confused number of bonds with acidity.",
+      "C": "Ignored bond polarity and anion stability."
+    },
+    "tags": [
+      "carboxylic"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Formula CH$_3$COOH shows hydrogens on carbon first.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students count hydrogens by formula position.",
+      "how_to_avoid": "Draw the Lewis structure to see which H is on oxygen."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://en.wikipedia.org/wiki/Inductive_effect",
+        "https://en.wikipedia.org/wiki/Carboxylic_acid"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.6-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.6",
+    "topic_title": "Molecular Structure of Acids and Bases",
+    "learning_objective": "Explain the relationship between the strength of an acid or base and the structure of the molecule or ion. (8.6.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student claims: 'Chloroacetic acid (pK$_a$ 2.86) is stronger than acetic acid (pK$_a$ 4.76) because chlorine is a larger atom.' Which response best evaluates the claim?",
+    "options": {
+      "A": "Both the conclusion and the reason are correct",
+      "B": "The conclusion is right but the reason is wrong: chlorine's electronegativity (not its size) stabilizes the carboxylate by induction",
+      "C": "The conclusion is right and the reason is that Cl donates electron density to the carboxylate",
+      "D": "The conclusion is wrong, because acetic acid has the larger pK$_a$"
+    },
+    "correct": "B",
+    "explanation": "The data support the conclusion; the cause is the electron-withdrawing inductive effect of Cl, not its size.",
+    "distractor_notes": {
+      "A": "Accepted size as the cause.",
+      "C": "Cl withdraws electron density.",
+      "D": "Misread pK$_a$: larger pK$_a$ means weaker acid, so the conclusion is right."
+    },
+    "tags": [
+      "carboxylic",
+      "argument"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "A correct conclusion paired with a wrong justification.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students stop after confirming the conclusion.",
+      "how_to_avoid": "Evaluate the claim and the reasoning separately."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Acid_strength",
+        "https://en.wikipedia.org/wiki/Inductive_effect",
+        "https://en.wikipedia.org/wiki/Carboxylic_acid"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.7-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.7",
+    "topic_title": "pH and pKa",
+    "learning_objective": "Explain the relationship between the predominant form of a weak acid or base in solution at a given pH and the pKa of the conjugate acid or the pKb of the conjugate base. (8.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A weak acid has $pK_a = 6.0$. At pH = 3.0, which form predominates?",
+    "options": {
+      "A": "Equal amounts of HA and A$^-$",
+      "B": "A$^-$",
+      "C": "Neither, since the solution is too acidic for the acid to exist",
+      "D": "HA"
+    },
+    "correct": "D",
+    "explanation": "pH < pK$_a$, so HA predominates by a ratio of $10^{3}$.",
+    "distractor_notes": {
+      "A": "Applied the pH = pK$_a$ relationship at the wrong pH.",
+      "B": "Assumed a more acidic solution has more of the conjugate base.",
+      "C": "Absolute claim about existence of the acid form."
+    },
+    "tags": [
+      "predominant form"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Lower pH means more acid form, not base form.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students think 'more acidic solution' means 'more A$^-$'.",
+      "how_to_avoid": "State the rule: pH < pK$_a$ → HA; pH > pK$_a$ → A$^-$."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH_indicator",
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_and_Base_Indicators/PH_Indicators"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.7-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.7",
+    "topic_title": "pH and pKa",
+    "learning_objective": "Explain the relationship between the predominant form of a weak acid or base in solution at a given pH and the pKa of the conjugate acid or the pKb of the conjugate base. (8.7.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "For a weak acid with $pK_a = 4.00$ at pH = 6.00, what is $[\\mathrm{A^-}]/[\\mathrm{HA}]$?",
+    "options": {
+      "A": "1.50",
+      "B": "0.0100",
+      "C": "100",
+      "D": "2.00"
+    },
+    "correct": "C",
+    "explanation": "$[\\mathrm{A^-}]/[\\mathrm{HA}] = 10^{(6.00-4.00)} = 100$.",
+    "distractor_notes": {
+      "A": "Divided the pH by the pK$_a$.",
+      "B": "Inverted the ratio.",
+      "D": "Used the pH difference as the ratio rather than taking the antilog."
+    },
+    "tags": [
+      "ratio"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "The log difference (2) is mistaken for the ratio.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The Henderson-Hasselbalch log is forgotten.",
+      "how_to_avoid": "Convert the log difference back to a ratio with $10^x$."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH_indicator",
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_and_Base_Indicators/PH_Indicators",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.7-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.7",
+    "topic_title": "pH and pKa",
+    "learning_objective": "Explain the relationship between the predominant form of a weak acid or base in solution at a given pH and the pKa of the conjugate acid or the pKb of the conjugate base. (8.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Ammonia ($\\mathrm{NH_3}$) is a base. In a solution at pH 7.0, which form is present at greater concentration?",
+    "options": {
+      "A": "$\\mathrm{NH_4^+}$",
+      "B": "$\\mathrm{NH_3}$",
+      "C": "$\\mathrm{NH_2^-}$",
+      "D": "They are equal at pH 7.0"
+    },
+    "correct": "A",
+    "explanation": "The pK$_a$ of NH$_4^+$ is 9.25; at pH 7.0 < 9.25 the acid form NH$_4^+$ predominates (about 180:1).",
+    "distractor_notes": {
+      "B": "Chose the base form because NH$_3$ is called a base.",
+      "C": "This form needs extremely basic conditions.",
+      "D": "Applied the neutral-pH relationship in place of pK$_a$ = 9.25."
+    },
+    "tags": [
+      "amine",
+      "predominant form"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "The name 'base' is taken to mean the base form predominates in a neutral solution.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students equate pH 7 with the midpoint for all acid-base pairs.",
+      "how_to_avoid": "Compare the pH with the pK$_a$ of the conjugate acid."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH_indicator",
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_and_Base_Indicators/PH_Indicators"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.7-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.7",
+    "topic_title": "pH and pKa",
+    "learning_objective": "Explain the relationship between the predominant form of a weak acid or base in solution at a given pH and the pKa of the conjugate acid or the pKb of the conjugate base. (8.7.A)",
+    "skill": "Question and Method",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student titrates a weak base with HCl and chooses phenolphthalein ($pK_a \\approx 9.3$) because 'all titrations end at pH 7.' Which statement is correct?",
+    "options": {
+      "A": "The indicator will change color exactly at the equivalence point",
+      "B": "The indicator changes color well above the equivalence-point pH, causing an error",
+      "C": "The indicator is suitable, since any indicator works if the titration reaches pH 7",
+      "D": "The titration cannot be performed with a weak base"
+    },
+    "correct": "B",
+    "explanation": "The equivalence-point pH (< 7) for a weak base titrated with a strong acid is far from 9.3, so phenolphthalein would turn colorless (basic to acid transition) too early.",
+    "distractor_notes": {
+      "A": "It changes color in a basic range, not in the acidic equivalence-point range.",
+      "C": "Applied a false universal.",
+      "D": "Overgeneralization."
+    },
+    "tags": [
+      "indicator"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'All titrations end at pH 7' is false for weak acids/bases.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Strong–strong titrations dominate early learning.",
+      "how_to_avoid": "Select the indicator by the equivalence-point pH."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH_indicator",
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_and_Base_Indicators/PH_Indicators"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.7-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.7",
+    "topic_title": "pH and pKa",
+    "learning_objective": "Explain the relationship between the predominant form of a weak acid or base in solution at a given pH and the pKa of the conjugate acid or the pKb of the conjugate base. (8.7.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about a solution whose pH equals the $pK_a$ of an acid is correct?",
+    "options": {
+      "A": "The acid is 0% ionized",
+      "B": "The acid and its conjugate base are present in equal concentrations",
+      "C": "The solution is neutral, with pH 7.0",
+      "D": "The acid is 100% ionized"
+    },
+    "correct": "B",
+    "explanation": "If pH = pK$_a$, $[\\mathrm{A^-}]/[\\mathrm{HA}] = 1$, so the solution is 50% ionized (not necessarily pH 7).",
+    "distractor_notes": {
+      "A": "Zero ionization occurs only far below pK$_a$.",
+      "C": "Confused pH = pK$_a$ with neutrality.",
+      "D": "Complete ionization occurs only far above pK$_a$."
+    },
+    "tags": [
+      "pKa"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Students remember the equal-concentration point but attach the wrong pH.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "The special pH 7 of water is over-applied.",
+      "how_to_avoid": "Remember that pK$_a$ is a property of each acid."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH_indicator",
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_and_Base_Indicators/PH_Indicators"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.7-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.7",
+    "topic_title": "pH and pKa",
+    "learning_objective": "Explain the relationship between the predominant form of a weak acid or base in solution at a given pH and the pKa of the conjugate acid or the pKb of the conjugate base. (8.7.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "pH | Percent of acid in the form A$^-$\n--- | ---\n2.0 | 1.0%\n3.0 | 9.1%\n4.0 | 50%\n5.0 | 91%\n6.0 | 99%",
+      "citation": "Original idealized data for a monoprotic acid with $pK_a = 4.0$.",
+      "asset_path": null
+    },
+    "question": "Using the table in the stimulus, which statement about the acid with $pK_a = 4.0$ is correct?",
+    "options": {
+      "A": "At pH 6.0, the ratio $[\\mathrm{A^-}]/[\\mathrm{HA}]$ is 2",
+      "B": "At pH 6.0, about 99% of the acid is un-ionized",
+      "C": "At pH 6.0, the acid is 50% ionized, because the table shows 50% for the middle row",
+      "D": "At pH 6.0, about 99% of the acid is ionized, so the ratio $[\\mathrm{A^-}]/[\\mathrm{HA}]$ is 100"
+    },
+    "correct": "D",
+    "explanation": "The table lists the percent as A$^-$; 99% A$^-$ means $[\\mathrm{A^-}]/[\\mathrm{HA}] = 99/1 \\approx 100$.",
+    "distractor_notes": {
+      "A": "Used the pH difference instead of the antilog.",
+      "B": "Reversed the meaning of the percent column.",
+      "C": "Used the wrong row of the table."
+    },
+    "tags": [
+      "data"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The table column is 'percent as A$^-$'; reading it as percent un-ionized flips the answer.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Column headings are skimmed.",
+      "how_to_avoid": "Read the column heading before using values."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/PH_indicator",
+        "https://en.wikipedia.org/wiki/Acid_dissociation_constant",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Acid_and_Base_Indicators/PH_Indicators"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.8-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.8",
+    "topic_title": "Properties of Buffers",
+    "learning_objective": "Explain the relationship between the ability of a buffer to stabilize pH and the reactions that occur when an acid or a base is added to a buffered solution. (8.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the capacity of a buffer is correct?",
+    "options": {
+      "A": "Once the conjugate base is completely consumed by added strong acid, the pH changes sharply",
+      "B": "A buffer's pH never changes, whatever is added",
+      "C": "A buffer can neutralize an unlimited amount of added acid",
+      "D": "Adding more water increases the capacity of a buffer"
+    },
+    "correct": "A",
+    "explanation": "The buffer's neutralizing species are limited by moles; after A$^-$ is used up, added acid is no longer neutralized.",
+    "distractor_notes": {
+      "B": "Overstated.",
+      "C": "Buffers have finite capacity.",
+      "D": "Dilution decreases capacity."
+    },
+    "tags": [
+      "capacity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Unlimited' or 'never' claims about buffers.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Buffers are introduced as 'resisting' change, which sounds absolute.",
+      "how_to_avoid": "Remember capacity depends on moles of the buffer components."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/How_Does_A_Buffer_Maintain_Ph",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.8-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.8",
+    "topic_title": "Properties of Buffers",
+    "learning_objective": "Explain the relationship between the ability of a buffer to stabilize pH and the reactions that occur when an acid or a base is added to a buffered solution. (8.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A buffer is made from HNO$_2$ ($pK_a = 3.35$) and NaNO$_2$. Which statement about its pH is correct?",
+    "options": {
+      "A": "The pH is above 7 because NaNO$_2$ is a salt",
+      "B": "The pH is equal to 14 − 3.35 because of the conjugate base",
+      "C": "The pH is close to 3.35 when the two components are present in comparable amounts",
+      "D": "The pH is exactly 7.0 because a buffer is neutral"
+    },
+    "correct": "C",
+    "explanation": "pH = pK$_a$ + log([A$^-$]/[HA]), so with comparable amounts the pH ≈ pK$_a$.",
+    "distractor_notes": {
+      "A": "The salt is only one component of the pair.",
+      "B": "This is the pK$_b$ of the conjugate base, not the pH.",
+      "D": "Buffers have pH values near their pK$_a$, not necessarily 7."
+    },
+    "tags": [
+      "buffer",
+      "pH"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "'Buffer' is conflated with 'neutral'.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Everyday word 'balanced' suggests pH 7.",
+      "how_to_avoid": "Use the Henderson-Hasselbalch relationship to locate the pH."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/How_Does_A_Buffer_Maintain_Ph",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.8-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.8",
+    "topic_title": "Properties of Buffers",
+    "learning_objective": "Explain the relationship between the ability of a buffer to stabilize pH and the reactions that occur when an acid or a base is added to a buffered solution. (8.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which species in an $\\mathrm{HF}/\\mathrm{F^-}$ buffer decreases in amount when a small amount of NaOH is added?",
+    "options": {
+      "A": "$\\mathrm{Na^+}$",
+      "B": "$\\mathrm{HF}$",
+      "C": "Neither; the buffer protects both species from change",
+      "D": "$\\mathrm{F^-}$"
+    },
+    "correct": "B",
+    "explanation": "$\\mathrm{HF} + \\mathrm{OH^-} \\rightarrow \\mathrm{F^-} + \\mathrm{H_2O}$ consumes HF.",
+    "distractor_notes": {
+      "A": "Sodium ion is a spectator and its amount rises.",
+      "C": "Neither is preserved: the reaction converts HF to F$^-$.",
+      "D": "This increases when base is added."
+    },
+    "tags": [
+      "buffer"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Which buffer component is consumed by base is easily reversed.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students think the base component 'fights' added base.",
+      "how_to_avoid": "Match like with unlike: added base reacts with the acid component."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/How_Does_A_Buffer_Maintain_Ph",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.8-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.8",
+    "topic_title": "Properties of Buffers",
+    "learning_objective": "Explain the relationship between the ability of a buffer to stabilize pH and the reactions that occur when an acid or a base is added to a buffered solution. (8.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following solutions is NOT a buffer?",
+    "options": {
+      "A": "0.10 M NH$_3$ + 0.10 M NH$_4$Cl",
+      "B": "0.10 M HF + 0.10 M NaF",
+      "C": "0.10 M HCOOH + 0.10 M HCOONa",
+      "D": "0.10 M HCl + 0.10 M NaCl"
+    },
+    "correct": "D",
+    "explanation": "HCl/Cl$^-$ lacks a weak conjugate pair; the other three solutions contain a weak acid or base with its conjugate.",
+    "distractor_notes": {
+      "A": "Weak base and its conjugate acid.",
+      "B": "Weak acid and its conjugate base.",
+      "C": "Weak acid and its conjugate base."
+    },
+    "tags": [
+      "buffer",
+      "NOT"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem; one of four 'acid + salt' mixtures is invalid.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "The visual pattern 'acid + salt' repeats in every option.",
+      "how_to_avoid": "Check that the acid or base is weak."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/How_Does_A_Buffer_Maintain_Ph",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.8-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.8",
+    "topic_title": "Properties of Buffers",
+    "learning_objective": "Explain the relationship between the ability of a buffer to stabilize pH and the reactions that occur when an acid or a base is added to a buffered solution. (8.8.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Compared with the original buffer, a 1:1 diluted buffer (equal volume of water added) has...",
+    "options": {
+      "A": "approximately the same pH and the same capacity",
+      "B": "a pH that moves toward 7.0 and a higher capacity",
+      "C": "a pH one unit higher and the same capacity",
+      "D": "approximately the same pH but a lower capacity"
+    },
+    "correct": "D",
+    "explanation": "The ratio is unchanged so pH is nearly the same, but the amounts of A$^-$ and HA per unit volume are halved, lowering the buffer capacity.",
+    "distractor_notes": {
+      "A": "The moles of the buffer components per liter fall, lowering capacity.",
+      "B": "Capacity cannot increase on dilution.",
+      "C": "Dilution does not change the pH by a fixed amount."
+    },
+    "tags": [
+      "dilution",
+      "capacity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "pH is unchanged (true) but capacity is also unchanged (false).",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students stop after reasoning about pH.",
+      "how_to_avoid": "Consider both pH and capacity when volume changes."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/How_Does_A_Buffer_Maintain_Ph",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.8-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.8",
+    "topic_title": "Properties of Buffers",
+    "learning_objective": "Explain the relationship between the ability of a buffer to stabilize pH and the reactions that occur when an acid or a base is added to a buffered solution. (8.8.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Household sample | pH before | pH after addition\n--- | --- | ---\nSample A | 6.40 | 6.38\nSample B | 5.20 | 1.90\nSample C | 7.80 | 12.30",
+      "citation": "Original data for a lab-style buffering test.",
+      "asset_path": null
+    },
+    "question": "Using the table of pH values in the stimulus, which solution changed its pH by the greatest amount after the addition?",
+    "options": {
+      "A": "Sample A",
+      "B": "They changed by equal amounts",
+      "C": "Sample C",
+      "D": "Sample B"
+    },
+    "correct": "C",
+    "explanation": "Differences: A = 0.02, B = 3.30, C = 4.50. Sample C changed most.",
+    "distractor_notes": {
+      "A": "Sample A shows the smallest change.",
+      "B": "The changes are 0.02, 3.3, and 4.5.",
+      "D": "Sample B changed by 3.3 units, less than C's 4.5."
+    },
+    "tags": [
+      "data"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The lowest after-pH (Sample B, 1.90) draws attention, but C changed more.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students compare final pH values rather than changes.",
+      "how_to_avoid": "Subtract before and after for each row."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/How_Does_A_Buffer_Maintain_Ph",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.9-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.9",
+    "topic_title": "Henderson-Hasselbalch Equation",
+    "learning_objective": "Identify the pH of a buffer solution based on the identity and concentrations of the conjugate acid-base pair used to create the buffer. (8.9.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What is the pH of a buffer containing 0.25 M HA ($pK_a = 5.00$) and 0.50 M A$^-$?",
+    "options": {
+      "A": "5.00",
+      "B": "7.00",
+      "C": "4.70",
+      "D": "5.30"
+    },
+    "correct": "D",
+    "explanation": "$pH = 5.00 + \\log(0.50/0.25) = 5.30$ (more base than acid raises the pH above pK$_a$).",
+    "distractor_notes": {
+      "A": "Assumed equal concentrations.",
+      "B": "Used the ratio itself rather than its log.",
+      "C": "Inverted the ratio ([HA]/[A$^-$])."
+    },
+    "tags": [
+      "Henderson-Hasselbalch"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Ratio inverted: more base should give pH above pK$_a$.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students recall 'acid over base' from the Ka expression.",
+      "how_to_avoid": "Check the direction: more A$^-$ → higher pH."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Henderson-Hasselbalch_Approximation",
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.9-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.9",
+    "topic_title": "Henderson-Hasselbalch Equation",
+    "learning_objective": "Identify the pH of a buffer solution based on the identity and concentrations of the conjugate acid-base pair used to create the buffer. (8.9.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "50.0 mL of 0.20 M acetic acid ($pK_a = 4.74$) is mixed with 25.0 mL of 0.20 M NaOH. Which pH is correct?",
+    "options": {
+      "A": "4.74",
+      "B": "4.44",
+      "C": "7.00",
+      "D": "12.82"
+    },
+    "correct": "A",
+    "explanation": "n(HA)$_0$ = 10.0 mmol; n(OH$^-$) = 5.0 mmol → HA 5.0 mmol, A$^-$ 5.0 mmol; pH = pK$_a$ = 4.74.",
+    "distractor_notes": {
+      "B": "Used the moles of NaOH relative to the initial acid moles (5.0 / 10.0), not the moles after reaction.",
+      "C": "Assumed neutralization to pH 7.",
+      "D": "Treated the mixture as excess strong base."
+    },
+    "tags": [
+      "reaction"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Using initial moles in the H-H equation looks reasonable but ignores the reaction.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students plug the mixed quantities directly into the equation.",
+      "how_to_avoid": "Do the stoichiometry first, then use the moles that remain."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Henderson-Hasselbalch_Approximation",
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.9-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.9",
+    "topic_title": "Henderson-Hasselbalch Equation",
+    "learning_objective": "Identify the pH of a buffer solution based on the identity and concentrations of the conjugate acid-base pair used to create the buffer. (8.9.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A buffer contains 0.10 M HA and 0.10 M A$^-$, where $K_a = 1.0\\times10^{-5}$. Which expression gives the pH?",
+    "options": {
+      "A": "$1.0\\times10^{-5} + \\log(0.10/0.10) = 1.0\\times10^{-5}$",
+      "B": "$-\\log(1.0\\times10^{-5}) + \\log(0.10/0.10) = 5.00$",
+      "C": "$-\\ln(1.0\\times10^{-5}) + \\ln(0.10/0.10) = 11.5$",
+      "D": "$\\log(1.0\\times10^{-5}) + \\log(0.10/0.10) = -5.00$"
+    },
+    "correct": "B",
+    "explanation": "$pK_a = -\\log K_a = 5.00$ and the log term is $\\log 1 = 0$; the equation uses base-10 logarithms.",
+    "distractor_notes": {
+      "A": "Used $K_a$ rather than $pK_a$ in the equation.",
+      "C": "Used natural logs in an equation that uses base-10 logs.",
+      "D": "Forgot the negative sign in the definition of pK$_a$."
+    },
+    "tags": [
+      "pKa",
+      "log"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "Ka vs pKa and log vs ln are common mistakes.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "The symbols look similar.",
+      "how_to_avoid": "Convert Ka to pKa first and use log base 10."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Henderson-Hasselbalch_Approximation",
+        "https://en.wikipedia.org/wiki/Buffer_solution"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.9-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.9",
+    "topic_title": "Henderson-Hasselbalch Equation",
+    "learning_objective": "Identify the pH of a buffer solution based on the identity and concentrations of the conjugate acid-base pair used to create the buffer. (8.9.A)",
+    "skill": "Mathematical Routines",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "An ammonia buffer has $[\\mathrm{NH_3}] = 0.30$ M and $[\\mathrm{NH_4^+}] = 0.10$ M ($K_b = 1.8\\times10^{-5}$). What is the pH?",
+    "options": {
+      "A": "4.27",
+      "B": "5.22",
+      "C": "9.73",
+      "D": "8.78"
+    },
+    "correct": "C",
+    "explanation": "pOH $= pK_b + \\log([\\mathrm{NH_4^+}]/[\\mathrm{NH_3}]) = 4.74 + \\log(0.10/0.30) = 4.27$; pH $= 9.73$.",
+    "distractor_notes": {
+      "A": "Reported the pOH.",
+      "B": "Used pK$_b$ + log(base/acid) directly as the pH.",
+      "D": "Used the inverted ratio in the pOH equation."
+    },
+    "tags": [
+      "weak base",
+      "pOH"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "units_sigfigs_sign",
+      "trap_description": "The weak-base form gives pOH, easily mistaken for pH.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students apply the acid form to bases without converting.",
+      "how_to_avoid": "Convert pOH to pH, or use pK$_a$ of the conjugate acid."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Henderson-Hasselbalch_Approximation",
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.9-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.9",
+    "topic_title": "Henderson-Hasselbalch Equation",
+    "learning_objective": "Identify the pH of a buffer solution based on the identity and concentrations of the conjugate acid-base pair used to create the buffer. (8.9.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about a buffer prepared with equal concentrations of HA and A$^-$ is correct?",
+    "options": {
+      "A": "Its pH equals 7.00, regardless of the identity of the acid",
+      "B": "Its pH equals the pK$_a$ of HA, regardless of the buffer's concentration",
+      "C": "Its pH equals the pK$_a$ only if the concentrations are above 1 M",
+      "D": "Its pH equals $pK_a$ plus the concentration of A$^-$"
+    },
+    "correct": "B",
+    "explanation": "With equal concentrations the log term is zero and pH = pK$_a$.",
+    "distractor_notes": {
+      "A": "Pure-water neutrality is not relevant.",
+      "C": "No concentration threshold exists.",
+      "D": "Concentration is not added to the pK$_a$."
+    },
+    "tags": [
+      "pKa"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "Equal concentrations are linked to pH 7.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Neutral = balanced.",
+      "how_to_avoid": "Insert equal ratios into the equation and see the log vanish."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Henderson-Hasselbalch_Approximation",
+        "https://en.wikipedia.org/wiki/Buffer_solution"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.9-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.9",
+    "topic_title": "Henderson-Hasselbalch Equation",
+    "learning_objective": "Identify the pH of a buffer solution based on the identity and concentrations of the conjugate acid-base pair used to create the buffer. (8.9.A)",
+    "skill": "Argumentation",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student claims that a buffer made from acetic acid ($pK_a = 4.74$) is useful for maintaining pH 9.0 if enough of each component is used. Which response is best?",
+    "options": {
+      "A": "Correct: any weak acid buffer works at any pH if the concentrations are high enough",
+      "B": "Correct: the acid component can be used to adjust the pH to 9.0 with NaOH",
+      "C": "Incorrect: acetic acid cannot form a buffer with any pH",
+      "D": "Incorrect: pH 9.0 is more than 4 units above the pK$_a$, so little acid form remains to neutralize added base"
+    },
+    "correct": "D",
+    "explanation": "At pH 9.0 the ratio [A$^-$]/[HA] = $10^{4.26} \\approx 18{,}000$; essentially no HA remains to react with added base.",
+    "distractor_notes": {
+      "A": "Absolute claim ignoring the ratio constraint.",
+      "B": "This would convert nearly all HA to A$^-$ and destroy buffering.",
+      "C": "Acetic acid is a good buffer near pH 4.74."
+    },
+    "tags": [
+      "buffer range",
+      "argument"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Enough of each component' makes the claim sound plausible.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students think capacity alone defines a buffer.",
+      "how_to_avoid": "Check that pH is within ±1 of the pK$_a$."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Henderson-Hasselbalch_Approximation",
+        "https://en.wikipedia.org/wiki/Buffer_solution",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.10-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.10",
+    "topic_title": "Buffer Capacity",
+    "learning_objective": "Explain the relationship between the buffer capacity of a solution and the relative concentrations of the conjugate acid and conjugate base components of the solution. (8.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Buffer P has pH 5.0 and buffer Q has pH 4.0. Which statement is correct?",
+    "options": {
+      "A": "P has the larger capacity because its pH is larger",
+      "B": "Nothing can be concluded about their capacities from the pH values alone",
+      "C": "Q has the larger capacity because its pH is closer to zero",
+      "D": "P and Q have equal capacity because both pH values are below 7"
+    },
+    "correct": "B",
+    "explanation": "Capacity depends on amounts of HA and A$^-$; pH reflects only their ratio and pK$_a$.",
+    "distractor_notes": {
+      "A": "Confused pH with capacity.",
+      "C": "Confused pH with capacity.",
+      "D": "Treated pH < 7 as a measure of buffering."
+    },
+    "tags": [
+      "capacity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "misconception",
+      "trap_description": "pH is mistaken for a measure of buffering strength.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Higher or lower 'numbers' seem to indicate more strength.",
+      "how_to_avoid": "Compare moles of HA and A$^-$."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_capacity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Preparing_Buffer_Solutions",
+        "https://en.wikipedia.org/wiki/Buffer_solution"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.10-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.10",
+    "topic_title": "Buffer Capacity",
+    "learning_objective": "Explain the relationship between the buffer capacity of a solution and the relative concentrations of the conjugate acid and conjugate base components of the solution. (8.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A buffer contains 0.50 M HA and 0.10 M A$^-$. Which statement about its capacity is correct?",
+    "options": {
+      "A": "It can neutralize more added base than added acid",
+      "B": "It can neutralize more added acid than added base",
+      "C": "It has no capacity because the ratio is 5:1",
+      "D": "It can neutralize equal amounts of acid and base"
+    },
+    "correct": "A",
+    "explanation": "Added base reacts with HA (large amount), and added acid reacts with A$^-$ (small amount).",
+    "distractor_notes": {
+      "B": "Reversed which component neutralizes which.",
+      "C": "A buffer works over roughly 0.1–10 ratios.",
+      "D": "Unequal amounts give unequal capacity."
+    },
+    "tags": [
+      "capacity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Which component neutralizes which is easily reversed.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students link 'acid-rich' with 'acid capacity'.",
+      "how_to_avoid": "Write the two neutralization equations."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_capacity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Preparing_Buffer_Solutions",
+        "https://en.wikipedia.org/wiki/Buffer_solution"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.10-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.10",
+    "topic_title": "Buffer Capacity",
+    "learning_objective": "Explain the relationship between the buffer capacity of a solution and the relative concentrations of the conjugate acid and conjugate base components of the solution. (8.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which action does NOT increase the buffer capacity of an HA/A$^-$ solution?",
+    "options": {
+      "A": "Using a larger volume of the same buffer",
+      "B": "Dissolving more HA and more A$^-$ in the same volume while keeping the ratio the same",
+      "C": "Adding pure water to double the volume",
+      "D": "Increasing both concentrations tenfold"
+    },
+    "correct": "C",
+    "explanation": "Dilution lowers the moles per liter of both components, reducing capacity; the other three increase the total amount.",
+    "distractor_notes": {
+      "A": "More moles of components, so more capacity.",
+      "B": "Increases capacity.",
+      "D": "Increases capacity."
+    },
+    "tags": [
+      "capacity",
+      "NOT"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT stem; two of the choices describe scaling up the same buffer.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Students overlook that a larger volume of the same buffer contains more moles.",
+      "how_to_avoid": "Count moles of components for each option."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_capacity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Preparing_Buffer_Solutions",
+        "https://en.wikipedia.org/wiki/Buffer_solution"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.10-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.10",
+    "topic_title": "Buffer Capacity",
+    "learning_objective": "Explain the relationship between the buffer capacity of a solution and the relative concentrations of the conjugate acid and conjugate base components of the solution. (8.10.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A buffer is diluted tenfold with water. Which pair of statements is correct?",
+    "options": {
+      "A": "The pH increases by one unit, and the capacity is reduced",
+      "B": "The pH is approximately unchanged, and the capacity is increased",
+      "C": "The pH is approximately unchanged, and the capacity is unchanged",
+      "D": "The pH is approximately unchanged, and the capacity is reduced"
+    },
+    "correct": "D",
+    "explanation": "The ratio of A$^-$ to HA is the same, giving the same pH, but the moles per liter are ten times smaller.",
+    "distractor_notes": {
+      "A": "The ratio is unchanged so the pH does not shift by a unit.",
+      "B": "Dilution cannot increase capacity.",
+      "C": "Dilution reduces capacity."
+    },
+    "tags": [
+      "dilution",
+      "capacity"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "The pH conclusion is right but capacity is overlooked.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students stop after verifying the pH.",
+      "how_to_avoid": "State both pH and capacity before choosing."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_capacity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Preparing_Buffer_Solutions",
+        "https://en.wikipedia.org/wiki/Buffer_solution"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.10-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.10",
+    "topic_title": "Buffer Capacity",
+    "learning_objective": "Explain the relationship between the buffer capacity of a solution and the relative concentrations of the conjugate acid and conjugate base components of the solution. (8.10.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "Buffer | HA (mmol) | A$^-$ (mmol)\n--- | --- | ---\n1 | 40.0 | 10.0\n2 | 25.0 | 25.0\n3 | 10.0 | 40.0",
+      "citation": "Original data for three buffers prepared from the same conjugate pair.",
+      "asset_path": null
+    },
+    "question": "In the table in the stimulus, which buffer resists the addition of strong acid best?",
+    "options": {
+      "A": "Buffer 1, because it contains the most HA",
+      "B": "All three, because each has 50.0 mmol total",
+      "C": "Buffer 3, because it contains the most A$^-$",
+      "D": "Buffer 2, because the amounts are equal"
+    },
+    "correct": "C",
+    "explanation": "Added acid is consumed by A$^-$: buffer 3 (40.0 mmol) > buffer 2 (25.0 mmol) > buffer 1 (10.0 mmol).",
+    "distractor_notes": {
+      "A": "HA neutralizes base, not acid.",
+      "B": "Total amount does not determine capacity toward acid.",
+      "D": "Equal amounts give balanced capacity, but buffer 3 has more A$^-$."
+    },
+    "tags": [
+      "capacity",
+      "data"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "The table's first row has the largest number (40.0) but in the HA column.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students scan for the largest number in the table.",
+      "how_to_avoid": "Read the column heading: A$^-$ neutralizes acid."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_capacity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Preparing_Buffer_Solutions",
+        "https://en.wikipedia.org/wiki/Buffer_solution"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.10-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.10",
+    "topic_title": "Buffer Capacity",
+    "learning_objective": "Explain the relationship between the buffer capacity of a solution and the relative concentrations of the conjugate acid and conjugate base components of the solution. (8.10.A)",
+    "skill": "Argumentation",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "A student says 'a buffer can never be overwhelmed by acid because it contains a base.' Which counterargument is best?",
+    "options": {
+      "A": "Buffers only react with acid when the pH is above 7",
+      "B": "A buffer contains no base, so it cannot react with acid",
+      "C": "The pH of a buffer cannot change because of its pK$_a$",
+      "D": "Once all of the conjugate base has reacted, additional acid lowers the pH sharply"
+    },
+    "correct": "D",
+    "explanation": "Each mole of A$^-$ can neutralize one mole of H$_3$O$^+$; when A$^-$ is exhausted, the buffer fails.",
+    "distractor_notes": {
+      "A": "Reactivity does not depend on being above 7.",
+      "B": "Buffers contain the conjugate base.",
+      "C": "pK$_a$ is constant but pH can change."
+    },
+    "tags": [
+      "capacity",
+      "argument"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Never' overstates buffer protection.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Buffers are described as 'resisting' change.",
+      "how_to_avoid": "Look for words like never/always and test the limiting case."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Buffer_capacity",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Preparing_Buffer_Solutions",
+        "https://en.wikipedia.org/wiki/Buffer_solution"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.11-trap-0001",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.11",
+    "topic_title": "pH and Solubility",
+    "learning_objective": "Identify the qualitative effect of changes in pH on the solubility of a salt. (8.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which of the following salts shows NO significant increase in solubility when acid is added?",
+    "options": {
+      "A": "CaCO$_3$",
+      "B": "CaF$_2$",
+      "C": "Mg(OH)$_2$",
+      "D": "AgBr"
+    },
+    "correct": "D",
+    "explanation": "Br$^-$ is the conjugate base of the strong acid HBr; it is not removed by H$_3$O$^+$.",
+    "distractor_notes": {
+      "A": "Dissolves in acid as carbonate is protonated.",
+      "B": "Dissolves more as fluoride is protonated to HF.",
+      "C": "Dissolves in acid as hydroxide is neutralized."
+    },
+    "tags": [
+      "solubility",
+      "NOT"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "not_except_least",
+      "trap_description": "NOT/NO stem; three of four salts are pH-sensitive.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students apply 'acid dissolves salts' to every option.",
+      "how_to_avoid": "Classify each anion as the conjugate base of a strong or weak acid."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Common-ion_effect",
+        "https://en.wikipedia.org/wiki/Solubility_equilibrium",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.11-trap-0002",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.11",
+    "topic_title": "pH and Solubility",
+    "learning_objective": "Identify the qualitative effect of changes in pH on the solubility of a salt. (8.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "What happens to the solubility of Mg(OH)$_2$ as the pH of a solution increases?",
+    "options": {
+      "A": "It increases only above pH 12",
+      "B": "It increases",
+      "C": "It decreases",
+      "D": "It stays constant"
+    },
+    "correct": "C",
+    "explanation": "More OH$^-$ (higher pH) pushes the equilibrium toward solid (common-ion effect).",
+    "distractor_notes": {
+      "A": "No such threshold.",
+      "B": "Reversed the trend (confused base with more dissolution).",
+      "D": "$K_{sp}$ is constant but the solubility changes."
+    },
+    "tags": [
+      "hydroxide"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "reversed_trend",
+      "trap_description": "Students link 'hydroxide' with 'dissolves more in base'.",
+      "tempting_wrong_option": "B",
+      "why_students_fall_for_it": "Hydroxides are called basic compounds, so base seems helpful.",
+      "how_to_avoid": "Apply Le Châtelier's principle to the OH$^-$ product."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Common-ion_effect",
+        "https://en.wikipedia.org/wiki/Solubility_equilibrium",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.11-trap-0003",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.11",
+    "topic_title": "pH and Solubility",
+    "learning_objective": "Identify the qualitative effect of changes in pH on the solubility of a salt. (8.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the effect of added HNO$_3$ on the solubility of salts is correct?",
+    "options": {
+      "A": "It increases the solubility of all halide salts equally",
+      "B": "It increases the solubility of salts with basic anions, but not of salts such as PbCl$_2$ or AgI",
+      "C": "It decreases the solubility of every ionic compound because H$_3$O$^+$ is a common ion",
+      "D": "It increases the solubility of every ionic compound"
+    },
+    "correct": "B",
+    "explanation": "Only anions that are conjugate bases of weak acids (F$^-$, CO$_3^{2-}$, PO$_4^{3-}$, OH$^-$, etc.) are affected.",
+    "distractor_notes": {
+      "A": "Heavier halides do not react with acid; only F$^-$ does.",
+      "C": "Wrong common-ion reasoning.",
+      "D": "Absolute claim."
+    },
+    "tags": [
+      "solubility"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "absolute_wording",
+      "trap_description": "'Every' ionic compound overstates the effect.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "Students recall examples (carbonates) and over-generalize.",
+      "how_to_avoid": "Test the anion for basicity before predicting."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Common-ion_effect",
+        "https://en.wikipedia.org/wiki/Solubility_equilibrium",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.11-trap-0004",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.11",
+    "topic_title": "pH and Solubility",
+    "learning_objective": "Identify the qualitative effect of changes in pH on the solubility of a salt. (8.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "CaF$_2$ is more soluble in 0.10 M HCl than in pure water, but less soluble in 0.10 M NaF than in pure water. What best explains the contrast?",
+    "options": {
+      "A": "HCl removes F$^-$ by forming HF, while NaF adds F$^-$ (a common ion)",
+      "B": "Both effects arise because Cl$^-$ and Na$^+$ interact with F$^-$",
+      "C": "HCl adds Ca$^{2+}$, and NaF removes Ca$^{2+}$",
+      "D": "HCl raises $K_{sp}$ and NaF lowers $K_{sp}$"
+    },
+    "correct": "A",
+    "explanation": "Both effects follow from Le Châtelier's principle applied to the F$^-$ concentration.",
+    "distractor_notes": {
+      "B": "The effects are due to H$_3$O$^+$ (protonation) and F$^-$ (common ion).",
+      "C": "Neither adds or removes Ca$^{2+}$.",
+      "D": "$K_{sp}$ is unaffected by either."
+    },
+    "tags": [
+      "common ion",
+      "solubility"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "partial_truth",
+      "trap_description": "Two correct observations paired with an incorrect mechanism.",
+      "tempting_wrong_option": "C",
+      "why_students_fall_for_it": "Students match each reagent with 'ions affect each other'.",
+      "how_to_avoid": "Identify which ion is added or removed in each case."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Common-ion_effect",
+        "https://en.wikipedia.org/wiki/Solubility_equilibrium",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.11-trap-0005",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.11",
+    "topic_title": "pH and Solubility",
+    "learning_objective": "Identify the qualitative effect of changes in pH on the solubility of a salt. (8.11.A)",
+    "skill": "Representing Data and Phenomena",
+    "difficulty": "hard",
+    "stimulus": {
+      "type": "table",
+      "content": "pH of buffered solution | Solubility of Mg(OH)$_2$ (mol/L)\n--- | ---\n9 | 5.6e-02\n10 | 5.6e-04\n11 | 5.6e-06\n12 | 5.6e-08",
+      "citation": "Computed from Ksp = 5.6e-12 for Mg(OH)2.",
+      "asset_path": null
+    },
+    "question": "Using the table in the stimulus, which statement about Mg(OH)$_2$ is correct?",
+    "options": {
+      "A": "Solubility is the same at pH 9 and 11 since both are basic",
+      "B": "Solubility at pH 9 is about 100 times that at pH 12",
+      "C": "Solubility at pH 9 is about 10,000 times that at pH 11",
+      "D": "Solubility at pH 11 is about 10,000 times that at pH 9"
+    },
+    "correct": "C",
+    "explanation": "s(pH 9) = 5.6e-02 M and s(pH 11) = 5.6e-06 M; ratio ≈ 10000.",
+    "distractor_notes": {
+      "A": "Both are basic but differ in OH$^-$ concentration.",
+      "B": "Compared the wrong rows.",
+      "D": "Reversed the direction."
+    },
+    "tags": [
+      "data"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "stimulus_misread",
+      "trap_description": "Rows and directions are easy to swap in the table.",
+      "tempting_wrong_option": "D",
+      "why_students_fall_for_it": "The fast reading 'bigger pH → bigger solubility'.",
+      "how_to_avoid": "Annotate the table with arrows before answering."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "python",
+      "confidence": 0.99,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Common-ion_effect",
+        "https://en.wikipedia.org/wiki/Solubility_equilibrium",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers",
+        "Computed with Python (apchem/scripts/unit08_t*.py (generated via unit08_gen.py))"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  },
+  {
+    "id": "apchem-u8-t8.11-trap-0006",
+    "subject": "apchem",
+    "unit": 8,
+    "unit_title": "Acids and Bases",
+    "topic": "8.11",
+    "topic_title": "pH and Solubility",
+    "learning_objective": "Identify the qualitative effect of changes in pH on the solubility of a salt. (8.11.A)",
+    "skill": "Model Analysis",
+    "difficulty": "medium",
+    "stimulus": {
+      "type": "none",
+      "content": "",
+      "citation": "",
+      "asset_path": null
+    },
+    "question": "Which statement about the dissolution of $\\mathrm{CaCO_3}$ in acid is correct?",
+    "options": {
+      "A": "The Ca$^{2+}$ ions are converted to CaH$_2^{2+}$, driving dissolution",
+      "B": "The CO$_3^{2-}$ ions are converted to HCO$_3^-$ and then H$_2$CO$_3$ (CO$_2$ + H$_2$O), driving dissolution",
+      "C": "The Ca$^{2+}$ forms a precipitate, driving dissolution",
+      "D": "The CaCO$_3$ solid reacts with water to release H$^+$, driving dissolution"
+    },
+    "correct": "B",
+    "explanation": "Protonation of carbonate removes a product of the dissolution equilibrium.",
+    "distractor_notes": {
+      "A": "Ca$^{2+}$ does not react with acid.",
+      "C": "Contradictory statement.",
+      "D": "Misstated the cause."
+    },
+    "tags": [
+      "carbonate"
+    ],
+    "section": "trap",
+    "trap": {
+      "trap_type": "near_miss_fact",
+      "trap_description": "Right idea about acid but wrong ion is blamed.",
+      "tempting_wrong_option": "A",
+      "why_students_fall_for_it": "Students think the metal ion, not the anion, is involved.",
+      "how_to_avoid": "Identify which ion of the salt is the weak base."
+    },
+    "origin": "generated",
+    "source": null,
+    "verification": {
+      "status": "verified",
+      "method": "cross_source",
+      "confidence": 0.95,
+      "citations": [
+        "https://en.wikipedia.org/wiki/Common-ion_effect",
+        "https://en.wikipedia.org/wiki/Solubility_equilibrium",
+        "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Buffers/Introduction_to_Buffers"
+      ]
+    },
+    "created_at": "2026-10-07T19:30:00Z"
+  }
+]
